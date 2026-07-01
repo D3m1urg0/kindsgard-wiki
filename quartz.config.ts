@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: null,
     },
     locale: "it-IT",
-    baseUrl: "tuoutente.github.io/kindsgard-wiki",
+    baseUrl: "D3m1urg0.github.io/kindsgard-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
