@@ -91,3 +91,13 @@ Possibili aree di sovrapposizione da verificare:
 - `Frederic` / `Friederich` → **Frederick** (applicato in tutti i nuovi file)
 - `U-Ma-Ni` → **Umani** (applicato in `cronistoria-versione-breve.md`, con barrato visibile per tracciabilità)
 - Grafia `Kindsgard` — sempre con questa forma
+
+## Convenzione di Naming — Repo vs Project
+
+| Contesto | Convenzione | Esempio |
+|----------|-------------|---------|
+| Repo GitHub (`content/`) | `<cartella>/<nome>.md` — cartelle reali | `fazioni/fiamme.md` |
+| Project Claude.ai | `<cartella>-<nome>.md` — flat, prefisso come sostituto della cartella | `fazioni-fiamme.md` |
+| File di root (entrambi) | `<nome>.md` senza prefisso | `_index.md`, `index.md` |
+
+La conversione è meccanica: sul repo il separatore è `/`, nel project è `-`. Il nome del file resta identico.

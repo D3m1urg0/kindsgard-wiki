@@ -118,3 +118,22 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 
 ### Stato attuale
 **Phase 4 completata.** 34 file totali in `wiki/fonti/`. Prossimo passo: Fase 5 — scrematura e identificazione ridondanze tra voci sintetiche (`personaggi/`, `sistemi/`, `cultura/`) e fonti verbatim, da concordare con Pit prima di qualsiasi eliminazione o fusione.
+
+## 2025-09-08 — Sviluppo lore Fiamme
+
+### File aggiornato
+- `fazioni-fiamme.md` — da stub a voce revisionata completa
+
+### Motivazione
+Sessione di lavoro con Pit ha chiarito il meccanismo d'origine delle Fiamme: Battesimi predestinati "orfani" perché l'Istinto è già incarnato in un Draghiere vivente (fenomeno aggravato dalla stabilità delle città di Re Draco), resurrezione parziale grazie all'ondata di Fierezza scatenata dalla crisi della specie Fenice su Vilegis (sacrificio di Vera Fenice da parte della Casata Radiant per potenziare lo Spettro del Bene). Collegato esplicitamente a `fonti-solitudine.md` (Draco/Wendy Wyrm come Vere Fiere, non ancora Re) e `fonti-deflecte-cantum.md` (le strofe su "quando spirò di Fenice genia" / "Fierezza infervora... eroi per poco bruciati a milioni"). Aggiunto motto: "Arsi ut ardeam" (variante corale "Arsimus ut ardeamus"). Documentata anche l'anomalia cosmologica per cui nessun Draghiere è consapevole dell'esistenza delle Fiamme.
+
+### Lacune aperte registrate nella voce
+- Rapporto esatto tra l'oblio delle Fiamme e il meccanismo che rende invisibili Wendy/Solomon ai Draghieri (`18___Misfit`) — probabilmente fenomeni distinti, da confermare.
+- Rapporto tra i "Bruciati" di `Inktober 2018 #Scorched` e le Fiamme come descritte oggi — stesso fenomeno narrato prima del chiarimento, o precursore storico distinto.
+
+
+### Correzione collegata
+- `fazioni-vere-fiere.md` — rimossa l'ipotesi obsoleta "le Fiamme potrebbero derivare da ex-Vere Fiere"; sostituita con rimando corretto al meccanismo d'origine chiarito in `fazioni-fiamme.md`.
+
+### Note per applicazione
+Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazioni-fiamme.md` e `fazioni-vere-fiere.md`) sia al repo GitHub (commit/PR consigliata data la portata della modifica).

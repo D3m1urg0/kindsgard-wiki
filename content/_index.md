@@ -42,7 +42,7 @@ Per ricaricare il contesto in una nuova sessione di lavoro, caricare sempre:
 ### Fazioni
 - [[Draghieri]] — eroi protettori degli Umani
 - [[Vere Fiere]] — predatori fedeli a Natura
-- [[Fiamme]] — terza fazione, stub
+- [[Fiamme]] — terza fazione, revenant nati da Battesimi del Fuoco falliti
 
 ### Personaggi
 - [[Dominic Draco]] — Primo Draghiere, poi Re Draco, Unico Guardiano

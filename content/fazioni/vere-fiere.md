@@ -53,8 +53,7 @@ In un'unica occasione documentata, Draghieri e Vere Fiere hanno collaborato: dur
 
 Quando [[Dominic Draco]] divenne **Re Draco, Unico Guardiano**, assorbendo i 13 vettori del Fondamento tramite l'arma Espediente, le Vere Fiere persero il proprio potere e tornarono semplici Umani. I [[Draghieri]] non le eliminarono: il loro Istinto non le riconosce come minaccia in forma umana.
 
-Alcuni di questi ex-Vere Fiere potrebbero essere il seme della fazione delle **[[Fiamme]]**. ⚪ *Documentazione incompleta.*
-
+Le [[Fiamme]] sono una fazione distinta, non derivata dalle ex-Vere Fiere: nascono da Battesimi del Fuoco predestinati ma interrotti, risolti solo grazie all'ondata di Fierezza scatenata dalla crisi della specie Fenice su Vilegis. Vedi [[Fiamme]] per il meccanismo completo.
 ---
 
 ## Vere Fiere Note
