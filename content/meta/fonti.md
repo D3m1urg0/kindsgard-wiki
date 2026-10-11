@@ -71,7 +71,7 @@ ultima_modifica: "2026-10-11"
 | File | Contenuto | Note |
 |------|-----------|------|
 | `content/fonti/list.md` | Due spunti narrativi non sviluppati | Valore minimo |
-| `Grande_faciolata_del_Kindsgard_di_Giugno.xlsx` | Contenuto non ancora verificato | Da controllare nella prossima sessione |
+
 
 ---
 
@@ -82,7 +82,7 @@ ultima_modifica: "2026-10-11"
 > Le decisioni qui registrate prevalgono sulle domande operative più vecchie. Le domande aperte devono essere aggiornate quando una decisione viene confermata.
 
 **C1 — Origine di Bisogno ed Espediente**
-- **Versione in-world (credenza umana):** Bisogno ed Espediente nacquero dalle preghiere disperate degli Umani. Fonte: `Cronistoria (versione breve)`, `D3-cronistoria-ooc`.
+- **Versione in-world (credenza umana):** Bisogno ed Espediente nacquero dalle preghiere disperate degli Umani. Fonte disponibile: `Cronistoria (versione breve)`. Il riferimento a D3 nel registro storico non è verificato.
 - **Verità cosmologica:** Bisogno ed Espediente sono manifestazioni primordiali della legge naturale del Giardino, preesistenti agli Umani e indifferenti a loro. Fonte: `La natura di Natura` (Vera Viverna/Wendy Wyrm).
 - **Decisione canonica:** Entrambe le versioni sono canoniche ai rispettivi livelli. La contraddizione è intenzionale e rappresenta la differenza tra conoscenza in-world e verità cosmologica.
 
@@ -94,7 +94,7 @@ ultima_modifica: "2026-10-11"
 - **Decisione canonica:** Syrus Salamander è il **V Draghiere della Salamandra**, predecessore di Sebastian Salamander (VI). La sequenza numerica è corretta e non contraddittoria.
 
 **C4 — Frederic/Friedrich Fenice — RISOLTA**
-- Le grafie "Frederic" (`D3`) e "Friederich" (`Una Missiva`) si riferiscono allo stesso personaggio.
+- Le grafie "Frederic" (riferimento storico D3, non verificato) e "Friederich" (`Una Missiva`) potrebbero riferirsi allo stesso personaggio; verificare sulle fonti effettivamente disponibili prima di trattare la corrispondenza come confermata.
 - **Grafia canonica confermata:** Frederick Fenice. Le varianti presenti nelle fonti sono storiche e non vanno propagate nelle nuove voci sintetiche.
 - **Meccanica canonica confermata:** Frederick Fenice resuscita sempre nel proprio corpo, non si reincarna in un nuovo corpo.
 - Decisione registrata nel changelog del 2025-06-13.
@@ -111,12 +111,11 @@ ultima_modifica: "2026-10-11"
 - La versione in `Inktober 2018 #Drain` è narrativa/ambientale, non normativa.
 - **Decisione:** Nessuna contraddizione. Tracciabilità registrata.
 
-**D3 — Cronistoria duplicata**
-- `D3-cronistoria-ooc.md` e `Cronistoria_del_Kindsgard__versione_breve_.docx` coprono gli stessi eventi.
-- **Decisione:** `D3` è la fonte OOC canonica e completa. La versione breve è una fonte in-world (narrativa divulgativa per i personaggi).
+**Riferimenti D3/D4 — identificativi non riconciliati**
 
-**D4 — Guida al personaggio**
-- `D4-guida-draghiere.md` è il documento canonico nella versione "singolo documento stratificato".
+Nel registro storico compaiono le etichette D3 — Cronistoria OOC e D4 — Guida al personaggio/Draghieri, con percorsi attesi `content/fonti/d3-cronistoria-ooc.md` e `content/fonti/d4-guida-draghiere.md`. Questi file non sono presenti nel tree attuale e l'utente non li riconosce come documenti noti. Al momento non sappiamo se D3/D4 fossero nomi di lavoro, allegati di una sessione precedente, fonti esterne o riferimenti errati.
+
+**Stato:** riferimenti storici non verificati, non fonti disponibili. Le precedenti affermazioni che attribuivano loro canonicità non sono una prova sufficiente e non vanno usate per risolvere contraddizioni. Le informazioni eventualmente attribuite a D3/D4 vanno verificate contro fonti effettivamente reperibili prima di essere considerate confermate.
 
 ---
 
