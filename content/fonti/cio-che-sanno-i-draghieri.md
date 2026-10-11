@@ -3,7 +3,7 @@ titolo: "La 'Mezza' Verità — Ciò che i Draghieri Conoscono"
 categoria: "fonti"
 tag: [draghieri, in-world, cosmologia, bisogno, espediente, fierezza, verità-parziale]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "testo-in-world"
 autore: "anonimo (prospettiva collettiva Draghieri)"
 voci-wiki-collegate: ["Draghieri", "Cosmologia", "Fierezza e Maestà", "Dominic Draco", "Anello di Fuoco", "Il Battesimo del Fuoco", "Vilegis / Lunaria"]
