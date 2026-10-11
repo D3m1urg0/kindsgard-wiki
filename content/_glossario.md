@@ -4,6 +4,7 @@ categoria: "meta"
 tag: [glossario, termini, definizioni]
 status: "in aggiornamento"
 ultima_modifica: "2025-06-13"
+aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardiani","Echi","Kindsgard","Fiera","Mare Esterno","Mare Interno","Fondamento","Istinto","Giardino","Nexus","Oltregiardino","Rovina","Spettro","Draghiere","Vera Fiera","Covata","Vilegis / Lunaria","Vilegis/Lunaria","Specie Fenice","Colture","Icaria"]
 ---
 
 # Glossario
@@ -48,6 +49,8 @@ ultima_modifica: "2025-06-13"
 
 **Guardiano** — Individuo (Draghiere, Vera Fiera o Fiera effettiva) che inconsapevolmente incarnava uno dei 13 vettori del Fondamento di Lunaria. Alcuni Draghieri portano questo titolo nell'Elenco. → vedi [[Cosmologia]], [[Dominic Draco]]
 
+**Icaria** — Fiera nuova menzionata in *Una Missiva dall'Anello*, proveniente dal profondo del Giardino e descritta come abbastanza grande da rivaleggiare con i Draghi. La natura precisa e gli ulteriori dettagli restano da documentare. → vedi [[Una Missiva dall'Anello]], [[Domande Aperte e Lacune]]
+
 **Istinto** — Il carattere specifico che Fierezza/Maestà imprime nel portatore attraverso il Battesimo, determinato dalla Fiera sconfitta. Immutabile e prevedibile. → vedi [[Fierezza e Maestà]]
 
 **Kindsgard** — Il nome del mondo. Significa anche "Giardino delle Specie". → vedi [[Cosmologia]], [[Geografia del Kindsgard]]
@@ -69,6 +72,8 @@ ultima_modifica: "2025-06-13"
 **Rovina** — Il cataclisma cosmico che colpì il Kindsgard e impazzì Natura. Lo stesso evento che devastò altri mondi del multiverso.
 
 **Spettro** — Termine del sistema di Vilegis/Lunaria per i 13 principi fondanti del multiverso. Analogo ma distinto dall'Espediente del Kindsgard. → vedi [[Cosmologia]]
+
+**Specie Fenice** — Specie di Fiera distinta da Frederick Fenice, il Draghiere detto Unica Fenice. In *Solitudine* compare come l'ultima della propria specie, sacrificata alla bocca della Maestà. → vedi [[Frederick Fenice]], [[Maestà]]
 
 **Unico Guardiano** — Titolo di [[Dominic Draco]] dopo l'assorbimento dei 13 vettori del Fondamento. → vedi [[Dominic Draco]]
 

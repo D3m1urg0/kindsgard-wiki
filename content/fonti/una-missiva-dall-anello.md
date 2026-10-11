@@ -42,7 +42,7 @@ Noi resisteremo.
 *Wade Wyrm, 33° viverna dei Draghieri del Kindsgard*
 *103° anno all'ombra dell'anello*
 
-→ *Voci wiki: [[Anello di Fuoco]], [[Frederick Fenice]], [[Le Ere del Kindsgard — Anno dell'Orso]], [[Cronologia]]*
+→ *Voci wiki: [[Anello di Fuoco]], [[Frederick Fenice]], [[storia/ere#il-primo-anno-dellorso|Le Ere del Kindsgard — Anno dell'Orso]], [[Cronologia]]*
 
 ---
 

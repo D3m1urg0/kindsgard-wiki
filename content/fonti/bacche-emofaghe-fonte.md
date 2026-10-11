@@ -4,6 +4,7 @@ categoria: "fonti"
 tag: [bacca-emofaga, fitofiera, scheda-tecnica, fonte-primaria]
 status: "canonico"
 ultima_modifica: "2025-06-13"
+aliases: ["Bacche Emofaghe"]
 tipo: "scheda-tecnica"
 voci-wiki-collegate: ["Bacca Emofaga", "Fiere — Voci Stub", "L'Esodo"]
 ---

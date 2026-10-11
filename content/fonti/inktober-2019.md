@@ -4,6 +4,7 @@ categoria: "fonti"
 tag: [inktober, racconti, antologia, in-world, era-del-dominio]
 status: "canonico"
 ultima_modifica: "2025-06-13"
+aliases: ["Inktober 2019"]
 tipo: "racconto"
 autore: "Stefania Ricco"
 voci-wiki-collegate: ["Le Ere del Kindsgard", "Draghieri", "Caitlin Chimera", "Bran Behemoth", "Brood", "Altri Personaggi", "Città-Alveare", "Geografia del Kindsgard", "Fiere — Voci Stub"]

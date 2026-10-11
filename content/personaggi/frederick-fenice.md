@@ -49,4 +49,4 @@ La grafia canonica è **Frederick Fenice**. Le varianti "Frederic" e "Friederich
 
 ## Relazioni
 - Compagni documentati: [[Wade Wyrm]], [[Dominic Draco]]
-- Vedi anche: [[Specie Fenice]], [[Le Ere del Kindsgard — Primo Anno della Fenice]]
+- Vedi anche: [[Specie Fenice]], [[storia/ere#il-primo-anno-della-fenice|Le Ere del Kindsgard — Primo Anno della Fenice]]
