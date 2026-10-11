@@ -100,9 +100,6 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             const titleWithoutArticle = data.title.replace(/^(?:il|lo|la|i|gli|le|l['’])\s+/i, "")
             if (titleWithoutArticle !== data.title) inferredAliases.push(titleWithoutArticle)
 
-            const shortTitle = data.title.split(/\s+[—–]\s+/)[0].replace(/\s*\([^)]*\)\s*$/, "").trim()
-            if (shortTitle && shortTitle !== data.title) inferredAliases.push(shortTitle)
-
             const uniqueAliases = [...new Set([...aliases, ...inferredAliases].filter(Boolean))]
             if (uniqueAliases.length > 0) {
               data.aliases = uniqueAliases // explicit and inferred frontmatter aliases
