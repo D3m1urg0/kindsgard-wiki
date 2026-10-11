@@ -80,8 +80,8 @@ La meccanica universale è confermata, ma le fonti disponibili non definiscono s
 ### L6 — Completamento delle schede Fiere
 La pagina `[[Fiere — Voci Stub]]` esiste già. Soffione Uncinato e Bacca Emofaga hanno schede tecniche complete; per diverse altre Fiere sono disponibili solo riferimenti narrativi o voci preliminari. Fiere da verificare e completare, senza duplicare le schede esistenti:
 - Zaratan (`Inktober 2018 #Cruel`)
-- Leopterix (Draghiere Lhars, `Inktober 2019`)
-- Everastes (Draghiere Ember, `Inktober 2019`)
+- Leopterix (ora presente come voce preliminare; manca una scheda tecnica completa)
+- Everastes (ora presente come voce preliminare; manca una scheda tecnica completa)
 - Covata (insetti/sciame, `Prevedibilità`)
 - Atrax (ragni, `Inktober 2019 #Pattern`)
 - Chiroptera (pipistrelli, `Prevedibilità`, `Inktober 2018 #Angular`)
