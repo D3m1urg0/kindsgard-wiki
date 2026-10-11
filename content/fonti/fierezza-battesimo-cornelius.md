@@ -3,7 +3,7 @@ titolo: "Fierezza — Il Battesimo di Cornelius"
 categoria: "fonti"
 tag: [cornelius-cockatrix, battesimo-del-fuoco, in-world, racconto, draghieri]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "racconto"
 autore: "Pietro Caruso"
 voci-wiki-collegate: ["Il Battesimo del Fuoco", "Fierezza e Maestà", "Altri Personaggi", "Draghieri"]
