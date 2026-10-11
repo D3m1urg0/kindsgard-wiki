@@ -54,19 +54,9 @@ I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, En
 - Riferimenti esterni: [Cos’è Vilegis](https://battleforvilegis.com/cose-vilegis/) e [Gregoria](https://battleforvilegis.com/gregoria/).
 - → **HITL:** confermare se Equilibrio può essere registrato come tredicesimo Spettro nella versione storica pertinente, oppure se va mantenuto solo come riferimento esterno non canonico.
 
-### L3 — Copertura e verifica della geografia
-La voce `[[Geografia]]` esiste già, ma la copertura sistematica e le relazioni spaziali non risultano ancora complete. Verificare i riferimenti testuali e aggiornare la voce senza inventare posizioni non documentate. Luoghi da controllare:
-- Mare Esterno, Mare Interno
-- Maestà (vulcano centrale)
-- Anello di Fuoco (perimetro degli Artigli)
-- Artigli noti: delle Brughiere, delle Sabbie, del Magma, delle Nevi, Sepolto delle Catene Montuose Orientali (Città-Alveare), dei Picchi, del Fuoco, del Lago Semipermanente, del Lago Alto, delle Scogliere
-- Pianure del Vento (nordest della Maestà)
-- Valle dei Fulmini, Valle dei Tuoni
-- Catene Montuose Orientali
-- Bordo / Spiagge del Mare Esterno
-- Colture (serre agricole, a Sud)
-- Città del Re (menzione in Inktober 2018)
-- → **Attività residua:** verificare che ogni luogo elencato sia registrato, distinguere dati espliciti da inferenze e annotare le relazioni ancora incerte. La creazione della voce non è più un’attività aperta.
+### L3 — Verifica finale della copertura geografica
+La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualmente presenti, compresi gli Artigli documentati, la Città del Re, le Colture, le aree costiere e le principali zone geografiche. Non è disponibile una mappa sistematica e alcune relazioni spaziali restano inferite. La copertura non può essere dichiarata definitiva finché non si riconciliano le fonti D3 e D4, i cui percorsi sono assenti dal repository.
+- → **Attività residua:** confrontare la voce con le copie originali di D3/D4 se recuperate; mantenere esplicita la distinzione tra posizioni attestate e inferenze. Non ricreare la voce da zero.
 
 ### L4 — Dettagli meccanici del Battesimo del Fuoco
 La meccanica universale è confermata, ma le fonti disponibili non definiscono sistematicamente:
@@ -78,10 +68,10 @@ La meccanica universale è confermata, ma le fonti disponibili non definiscono s
 
 
 ### L6 — Completamento delle schede Fiere
-La pagina `[[Fiere — Voci Stub]]` esiste già. Soffione Uncinato e Bacca Emofaga hanno schede tecniche complete; per diverse altre Fiere sono disponibili solo riferimenti narrativi o voci preliminari. Fiere da verificare e completare, senza duplicare le schede esistenti:
+La pagina `[[Fiere — Voci Stub]]` esiste già e raccoglie le Fiere attualmente identificabili. Soffione Uncinato e Bacca Emofaga hanno schede tecniche complete; le altre voci restano preliminari. Il lavoro residuo è completare le schede tecniche a partire da fonti sufficienti, non creare nuovi stub:
 - Zaratan (`Inktober 2018 #Cruel`)
-- Leopterix (Draghiere Lhars, `Inktober 2019`)
-- Everastes (Draghiere Ember, `Inktober 2019`)
+- Leopterix (ora presente come voce preliminare; manca una scheda tecnica completa)
+- Everastes (ora presente come voce preliminare; manca una scheda tecnica completa)
 - Covata (insetti/sciame, `Prevedibilità`)
 - Atrax (ragni, `Inktober 2019 #Pattern`)
 - Chiroptera (pipistrelli, `Prevedibilità`, `Inktober 2018 #Angular`)
