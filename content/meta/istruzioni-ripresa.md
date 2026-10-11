@@ -1,93 +1,74 @@
 ---
-titolo: "Istruzioni di Ripresa — Conversione Fonti in Wiki"
+titolo: "Istruzioni di Ripresa — Stato e Protocollo Editoriale"
 categoria: "meta"
-tag: [meta, ripresa, sessione, istruzioni]
-status: "canonico"
-ultima_modifica: "2025-06-13"
+tag: [meta, ripresa, sessione, istruzioni, audit]
+status: "in aggiornamento"
+ultima_modifica: "2026-10-11"
 ---
 
 # Istruzioni di Ripresa
 
-> *Da caricare all'inizio della prossima sessione insieme a `meta/fonti.md` e `meta/domande-aperte.md`.*
+> Documento operativo per riprendere il lavoro sulla wiki senza riaprire decisioni già prese, duplicare attività concluse o alterare il canone senza evidenze.
 
----
+## Stato verificato
 
-## Stato del Progetto
+- La wiki è organizzata in Markdown sotto `content/` e pubblicata con Quartz 4.
+- Le fonti convertite sono collocate in `content/fonti/`; i vecchi riferimenti a `wiki/fonti/` sono obsoleti.
+- La conversione iniziale delle fonti è dichiarata completata nel changelog del 2025-06-13. Non assumere però che ogni fonte sia stata verificata semanticamente o che ogni riferimento del catalogo sia stato riconciliato con un file attuale.
+- Sono presenti voci sintetiche, fonti narrative verbatim, indici e registri meta. Le voci sintetiche devono riassumere e collegare le fonti, non sostituirle.
+- Il repository usa Quartz e GitHub Actions. Prima di modificare configurazione o struttura, verificare il comportamento con un build.
 
-✅ **Phase 4 completata.** Tutti i documenti sorgente `.docx`/`.md` sono stati convertiti in file `.md` canonici nella cartella `wiki/fonti/`, con frontmatter wiki e link interni inseriti. La cartella `fonti/` contiene ora **34 file** (i 4 già completati nella sessione precedente + i 30 prodotti in questa sessione).
+## Ordine di autorità editoriale
 
-L'obiettivo finale del progetto — contenere **solo file `.md`** — è raggiunto lato conversione. Resta da fare la **Fase 5: curazione e scrematura**, per identificare ridondanze tra le voci sintetiche della wiki principale (es. `personaggi/`, `sistemi/`) e le fonti verbatim ora disponibili in `fonti/`.
+1. **Decisioni canoniche esplicite** registrate in `[[Fonti e Decisioni Canoniche]]` e nel changelog.
+2. **Fonti OOC normative**, quando il catalogo le identifica come tali.
+3. **Fonti narrative in-world**, che possono esprimere conoscenze parziali, credenze o punti di vista non oggettivi.
+4. **Voci sintetiche della wiki**, che devono essere coerenti con le fonti e dichiarare le incertezze.
+5. **Ipotesi dell'agente**, che non sono mai canone e vanno etichettate come proposte.
 
----
+Una contraddizione tra fonti non è automaticamente un errore: può essere intenzionale, risolta ma non propagata, irrisolta oppure dovuta a una fonte incompleta. L'agente deve classificare il caso e fornire prove, non decidere autonomamente.
 
-## File Completati in `wiki/fonti/` (elenco completo)
+## Decisioni già confermate
 
-| File | Documento originale | Gruppo |
-|------|---------------------|--------|
-| `d3-cronistoria-ooc.md` | `D3-cronistoria-ooc.md` | — |
-| `d4-guida-draghiere.md` | `D4-guida-draghiere.md` | — |
-| `annali-artiglio-di-fuoco-intro.md` | `Annali_dell_Artiglio_di_Fuoco_-_Intro.docx` | — |
-| `draghieri-vere-fiere.md` | `Draghieri___Vere_Fiere_del_Kindsgard.docx` | — |
-| `elenco-draghieri.md` | `Elenco_Draghieri_Conosciuti.docx` | 2 |
-| `fierezza-il-dio-che-e-in-noi.md` | `Fierezza__il_Dio_che_è_in_noi.docx` | 2 |
-| `cio-che-sanno-i-draghieri.md` | `Copia_di_I_Draghieri_del_kindsgard...docx` | 2 |
-| `cronistoria-versione-breve.md` | `Cronistoria_del_Kindsgard__versione_breve_.docx` | 2 |
-| `draghieri-spiegazione.md` | `Draghieri_del_Kindsgard__spiegazione_.docx` | 2 |
-| `fierezza-battesimo-cornelius.md` | `Fierezza.docx` | 3 |
-| `riflessioni.md` | `Riflessioni.docx` | 3 |
-| `pezzo-del-rituale-chimera.md` | `Pezzo_del_rituale_-_Chimera.docx` | 3 |
-| `lamento-di-wade.md` | `Lamento_di_Wade__primo_anno_del_drago_.docx` | 3 |
-| `una-missiva-dall-anello.md` | `Una_Missiva_dall_Anello_.docx` | 3 |
-| `l-esodo.md` | `L_esodo.docx` | 3 |
-| `l-ultima-notte-all-ombra-dell-anello.md` | `L_ultima_notte_all_ombra_dell_Anello.docx` | 3 |
-| `onda-bianca.md` | `Onda_bianca.docx` | 3 |
-| `l-animale-uomo.md` | `L_Animale_Uomo.docx` | 3 |
-| `deflecte-cantum.md` | `Deflecte_Cantum__il_ritorno_dei_Draghieri_.docx` | 3 |
-| `canzoni-degli-umani.md` | `Canzoni_degli_Umani.docx` | 3 |
-| `la-natura-di-natura.md` | `La_natura_di_Natura.docx` | 4 |
-| `solitudine.md` | `Solitudine.docx` | 4 |
-| `misfit.md` | `18___Misfit.docx` | 4 |
-| `risveglio-del-drago.md` | `Risveglio_del_Drago.docx` | 4 |
-| `prevedibilita-covata.md` | `Prevedibilità__covata_.docx` | 4 |
-| `il-trattato-wendy-wyrm.md` | `Il_Trattato__Wendy_Wyrm_.docx` | 4 |
-| `soffioni-uncinati-fonte.md` | `Soffioni_Uncinati.docx` | 5 |
-| `bacche-emofaghe-fonte.md` | `Bacche_Emofaghe.docx` | 5 |
-| `mostri.md` | `Mostri.docx` | 5 |
-| `list.md` | `_List.docx` | 5 |
-| `inktober-2018.md` | `Inktober_2018.md` | 6 |
-| `inktober-2019.md` | `Inktober_2019.md` | 6 |
-| `inktober-2024.md` | `Inktober_2024.md` | 6 |
+- Grafia canonica: **Frederick Fenice**.
+- La sequenza di Dominic Draco è stata confermata in dieci fasi.
+- Successione: Bartholomew Brood (XVI) → Brienne Brood (XVII).
+- La Fenice esiste sia come Specie di Fiera sia come riferimento nel titolo/personaggio di Frederick Fenice.
+- Fierezza e Maestà sono due orientamenti dello stesso principio di potere, secondo lo schema registrato nelle fonti meta.
+- Le Vere Fiere non si numerano progressivamente.
+- Vilegis/Lunaria resta fuori scope, salvo le intersezioni documentate con il Kindsgard.
+- I Bruciati sono il seme narrativo della fazione delle Fiamme.
+- La creazione iniziale degli stub delle Fiere è già stata eseguita; il lavoro residuo è verificarli e completarli senza duplicazioni.
 
----
+Consultare `[[Domande Aperte e Lacune]]` per ciò che resta da verificare. Se un registro contraddice queste decisioni, correggere il registro e annotare la modifica nel changelog, senza riscrivere fonti originali verbatim.
 
-## Note sulla Conversione Inktober (Gruppo 6)
+## Procedura di lavoro
 
-A differenza degli altri gruppi, i tre file Inktober sono stati gestiti con un approccio diverso per la loro lunghezza (664, 1030, 191 righe): invece di inserire link `[[...]]` inline dopo ogni singolo racconto, è stato aggiunto un **blocco indice** in testa al documento con un riepilogo racconto-per-racconto e i link alle voci wiki principali toccate. Il corpo narrativo resta verbatim, immutato.
+1. Leggere `[[Convenzioni]]`, `[[Fonti e Decisioni Canoniche]]`, `[[Domande Aperte e Lacune]]` e le sezioni pertinenti del changelog.
+2. Prima di proporre una nuova voce, cercare titoli, alias, wikilink e fonti esistenti: evitare duplicati.
+3. Per ogni rilievo, registrare file e posizione, evidenza testuale, tipo di problema, gravità, confidenza e intervento proposto.
+4. Correggere direttamente gli errori documentali non ambigui e le discrepanze con decisioni già approvate. Per modifiche sostanziali al canone, fusioni/eliminazioni di fonti, o scelte editoriali non determinate dalle fonti, fermarsi e chiedere conferma umana.
+5. Dopo le modifiche, eseguire i controlli disponibili: frontmatter, collegamenti interni secondo le regole reali di Quartz, riferimenti alle fonti, duplicazioni e build.
+6. Aggiornare il changelog con data, file, motivazione e natura della modifica.
 
-Durante la conversione di `inktober-2019.md` è stato rilevato e corretto un errore nell'indice iniziale (riferimento a un racconto #18 inesistente — la numerazione originale salta da #17 a #19).
+## Regole di sicurezza editoriale
 
----
+- Non inventare fatti per riempire lacune.
+- Non trasformare automaticamente una credenza in-world in verità oggettiva.
+- Non eliminare o fondere fonti verbatim per ridurre ridondanze senza approvazione esplicita.
+- Non trattare una voce `revisionato` come canonica solo per il suo stato editoriale.
+- Mantenere visibili le incertezze che non possono essere risolte con le fonti disponibili.
+- Le domande umane devono essere circoscritte a decisioni realmente non deducibili, non a lavori di manutenzione che l'agente può eseguire.
 
-## Prossimi Passi — Fase 5: Curazione e Scrematura
+## Lavoro prioritario residuo
 
-Come discusso con Pit, il prossimo passo è una **revisione di ridondanza** tra:
-- Le voci sintetiche già esistenti in `personaggi/`, `sistemi/`, `mondo/`, `cultura/`, `fazioni/`
-- Le fonti verbatim ora disponibili in `fonti/`
+1. Riconciliare il catalogo delle fonti con i file presenti in `content/fonti/`.
+2. Verificare i collegamenti interni e gli alias con un build di Quartz.
+3. Completare la copertura geografica senza inferire posizioni non documentate.
+4. Verificare le voci stub delle Fiere e completarle solo sulla base delle fonti.
+5. Confrontare voci sintetiche e fonti verbatim, senza eliminazioni o fusioni automatiche.
+6. Verificare il duplicato tra `content/index.md` e `content/_index.md` sul comportamento effettivo di Quartz prima di rimuovere uno dei due.
 
-Possibili aree di sovrapposizione da verificare:
-- `personaggi/wendy-wyrm.md` vs `fonti/la-natura-di-natura.md`, `fonti/solitudine.md`, `fonti/misfit.md`, `fonti/il-trattato-wendy-wyrm.md` — molto contenuto duplicato in forma riassunta vs verbatim
-- `personaggi/dominic-draco.md` vs `fonti/solitudine.md`, `fonti/risveglio-del-drago.md`, `fonti/misfit.md`
-- `cultura/tradizioni.md` vs `fonti/canzoni-degli-umani.md`, `fonti/deflecte-cantum.md`, `fonti/lamento-di-wade.md`, `fonti/pezzo-del-rituale-chimera.md`
-- `cultura/religioni.md` vs `fonti/fierezza-il-dio-che-e-in-noi.md`, `fonti/la-natura-di-natura.md`
-- `sistemi/il-battesimo-del-fuoco.md` vs `fonti/fierezza-battesimo-cornelius.md`
-- `meta/fonti.md` — la tabella "Fonti del Progetto" elenca ancora i file come `.docx`; va aggiornata per puntare ai nuovi file `.md` in `fonti/`
+## Decisioni editoriali ancora da chiedere
 
-⚪ **Non procedere con eliminazioni o fusioni senza conferma esplicita di Pit**, secondo la regola "preferisci chiedere a dedurre".
-
----
-
-## Correzioni Canoniche Applicate
-
-- `Frederic` / `Friederich` → **Frederick** (applicato in tutti i nuovi file)
-- `U-Ma-Ni` → **Umani** (applicato in `cronistoria-versione-breve.md`, con barrato visibile per tracciabilità)
-- Grafia `Kindsgard` — sempre con questa forma
+I titoli definitivi delle due fonti originariamente intitolate “Fierezza” restano da confermare nel registro delle domande aperte. Non rinominare né eliminare i documenti originali in assenza di questa decisione.

@@ -8,18 +8,21 @@ ultima_modifica: "2025-06-13"
 
 # Domande Aperte e Lacune
 
-> *Registro di tutte le questioni non ancora risolte. Aggiornare ad ogni sessione. Le questioni risolte vanno spostate in `fonti.md` sotto "Decisioni di Canonizzazione".*
+> *Registro operativo delle questioni ancora aperte. Le decisioni confermate sono riportate in `[[Fonti e Decisioni Canoniche]]` e nello storico del changelog; non riaprire una decisione senza nuove evidenze.*
 
 ---
 
-## ⚠️ Questioni Critiche (bloccanti per la wiki)
+## ✅ Decisioni già chiuse — non riaprire senza nuove evidenze
 
-### C4 — Grafia canonica di "Frederic Fenice"
-- `D3-cronistoria-ooc` usa: **Frederic**
-- `Una Missiva dall'Anello` usa: **Friederich**
-- → **Quale grafia è canonica?**
+Le decisioni seguenti sono riportate nel changelog del 2025-06-13 e non devono restare fra le domande aperte:
 
----
+- **C4 — Grafia:** Frederick Fenice è la grafia canonica; “Frederic” e “Friederich” sono varianti presenti nelle fonti.
+- **A2 — Dominic Draco:** sequenza confermata in dieci fasi secondo il changelog. Per il dettaglio fa fede la voce `[[Dominic Draco]]` e la documentazione canonica.
+- **A3 — Covata:** successione Bartholomew Brood (XVI) → Brienne Brood (XVII) confermata.
+- **A4 — Fenice:** il Battesimo del Fuoco è una meccanica universale; la Fenice esiste anche come Specie di Fiera, distinta dal Draghiere Frederick Fenice.
+- **L5 — Vilegis/Lunaria:** setting esterno, fuori scope, salvo intersezioni documentate.
+- **L6 — Stub delle Fiere:** la creazione iniziale degli stub è stata eseguita; resta il completamento e la verifica delle voci esistenti.
+- **L10 — Bruciati:** sono il seme narrativo della fazione delle Fiamme; restano da approfondire eventuali dettagli non confermati.
 
 ## 🟡 Ambiguità da Risolvere
 
@@ -29,29 +32,9 @@ Gli Inktober 2018, 2019 e 2024 non hanno datazione interna esplicita rispetto al
 - **Inktober 2024:** Ambientazione incerta, possibilmente successiva o parallela.
 - → **Vuoi mappare ogni racconto sulla timeline, o lasciarli come materiale "fluttuante"?**
 
-### A2 — Sequenza di Dominic Draco
-La sequenza narrativa desunta dai documenti sembra essere:
-1. Primo Draghiere → fonda l'Anello di Fuoco
-2. Parte verso la Maestà con i più antichi
-3. Maestà li trasforma in Vere Fiere
-4. Ritorna come Vera Fiera, guida l'attacco all'Anello (Anno del Draco)
-5. Viene sconfitto o si converte → diventa Re
-6. Regna sull'Artiglio come Unico Guardiano
-- → **Questa sequenza è corretta? Ci sono passaggi mancanti o errati?**
-
-### A3 — Successione Brood
-- Bartholomew Brood, XVI Covata: Guardiano, muore per mano di Draco (`Prevedibilità`, `Inktober 2019 #Build`)
-- Brienne Brood, XVII Covata: gli succede, prende il comando della Città-Alveare
-- → **Confermata la sequenza?**
-
-### A4 — Frederic Fenice vs Specie Fenice
-- Frederic Fenice è il Draghiere "Unica Fenice" (titolo che implica unicità).
-- La Fenice come Specie/Fiera appare in `Solitudine` come bestia distinta, l'ultima della sua specie, sacrificata alla bocca della Maestà.
-- → **La distinzione tra Frederic Fenice (Draghiere) e la Fenice come Specie è intenzionale e canonica?**
-
 ---
 
-## ⚪ Lacune (contenuto mancante)
+## ⚪ Lacune e verifiche residue (contenuto mancante o incompleto)
 
 ### L1 — Cosmologia profonda: Mondi Ancora, Fondamento, Creatori
 Nessun documento definisce compiutamente:
@@ -66,8 +49,8 @@ I 12 Spettri noti di Vilegis/Lunaria: Bene, Male, Guerra, Materia, Energia, Legg
 - → **Qual è il tredicesimo Spettro?**
 - Fonte potenziale: `battleforvilegis.com` (non accessibile). Richiedere copia dei contenuti rilevanti.
 
-### L3 — Geografia sistematica del Kindsgard
-Luoghi menzionati nei documenti ma mai descritti sistematicamente:
+### L3 — Copertura e verifica della geografia
+La voce `[[Geografia]]` esiste già, ma la copertura sistematica e le relazioni spaziali non risultano ancora complete. Verificare i riferimenti testuali e aggiornare la voce senza inventare posizioni non documentate. Luoghi da controllare:
 - Mare Esterno, Mare Interno
 - Maestà (vulcano centrale)
 - Anello di Fuoco (perimetro degli Artigli)
@@ -78,7 +61,7 @@ Luoghi menzionati nei documenti ma mai descritti sistematicamente:
 - Bordo / Spiagge del Mare Esterno
 - Colture (serre agricole, a Sud)
 - Città del Re (menzione in Inktober 2018)
-- → **Proposta: costruire voce geografia basata esclusivamente sui riferimenti testuali, segnalando relazioni incerte. Procedere?**
+- → **Attività residua:** verificare che ogni luogo elencato sia registrato, distinguere dati espliciti da inferenze e annotare le relazioni ancora incerte. La creazione della voce non è più un’attività aperta.
 
 ### L4 — Meccanica del Battesimo del Fuoco
 Non chiarito sistematicamente:
@@ -88,12 +71,11 @@ Non chiarito sistematicamente:
 - Se il Battesimo può fallire (vedi "Bruciati" in Inktober 2018 #Scorched 19-2)
 - → **Lacuna da lasciare aperta o hai materiale non caricato?**
 
-### L5 — Vilegis/Lunaria come setting
-`D3` e `D4` fanno riferimento esteso a Vilegis come Oltregiardino, con eventi che impattano direttamente il Kindsgard. Nessun documento descrive Vilegis in sé.
-- → **Trattato come setting esterno, fuori scope della wiki Kindsgard, salvo le intersezioni documentate. Confermi?**
+### L5 — Vilegis/Lunaria: documentazione fuori scope
+**Decisione già confermata:** Vilegis/Lunaria è trattato come setting esterno, fuori dallo scope della wiki Kindsgard, salvo le intersezioni documentate nelle fonti. Non è necessaria una nuova conferma. Eventuali nuove informazioni vanno registrate solo se incidono sul Kindsgard.
 
-### L6 — Schede Fiere incomplete
-Solo Soffioni Uncinati e Bacche Emofaghe hanno schede tecniche complete. Fiere menzionate nei racconti senza scheda:
+### L6 — Completamento delle schede Fiere
+La pagina `[[Fiere — Voci Stub]]` esiste già. Soffione Uncinato e Bacca Emofaga hanno schede tecniche complete; per diverse altre Fiere sono disponibili solo riferimenti narrativi o voci preliminari. Fiere da verificare e completare, senza duplicare le schede esistenti:
 - Zaratan (`Inktober 2018 #Cruel`)
 - Leopterix (Draghiere Lhars, `Inktober 2019`)
 - Everastes (Draghiere Ember, `Inktober 2019`)
@@ -109,7 +91,7 @@ Solo Soffioni Uncinati e Bacche Emofaghe hanno schede tecniche complete. Fiere m
 - Behemoth (più apparizioni)
 - Sfinge (più apparizioni)
 - Drago (più apparizioni, inclusa la bestia in `Inktober 2019 #Dragon`)
-- → **Creare voci stub basate sui riferimenti narrativi, segnalate come incomplete?**
+- → **Attività residua:** verificare le voci già presenti, collegare le fonti e completare le schede solo quando esistono informazioni sufficienti. Non creare nuovamente gli stub già esistenti e non inventare dettagli.
 
 ### L7 — "Icaria"
 Menzionata in `Una Missiva dall'Anello` come bestia nuova proveniente dal profondo del Giardino, così grande da rivaleggiare con i Draghi. Il nome "Icaria" è attribuito a Draghieri che hanno visitato Vilegis.
@@ -123,13 +105,14 @@ Appare in `18___Misfit` e `Inktober 2018 #Precious` come Vera Sfinge. In #Precio
 Non leggibile in questa sessione.
 - → **Cosa contiene questo file?**
 
-### L10 — I "Bruciati"
-`Inktober 2018 #Scorched (19-2)` introduce il concetto dei "Bruciati": Umani che hanno tentato il Battesimo del Fuoco e sono sopravvissuti ma non si sono trasformati, rimanendo menomati. Hanno una comunità dedicata con pratiche specifiche (vesti bianche, silenzio, lazzaretto).
-- → **I Bruciati sono un elemento canonico dell'ambientazione o un racconto isolato?**
+### L10 — Dettagli ancora da verificare sui Bruciati
+**Decisione già registrata nel changelog:** i Bruciati sono il seme narrativo della fazione delle Fiamme. Rimane da verificare quanto dei dettagli del racconto (`Inktober 2018 #Scorched`, 19-2) sia stato sviluppato e confermato oltre la fonte narrativa. Non riaprire la loro esistenza come elemento dell’ambientazione senza nuove evidenze.
 
 ---
 
-## 📋 Decisioni di Stile da Confermare
+## 📋 Decisioni editoriali da confermare
 
-- Titolo canonico per `Fierezza.docx` nella wiki: *"Il Battesimo di Cornelius"*? Da confermare.
-- Titolo canonico per `Fierezza__il_Dio_che_è_in_noi.docx` nella wiki: *"Fierezza: il Dio che è in noi"*? Da confermare.
+- Titolo canonico per `fierezza-battesimo-cornelius.md`: *"Il Battesimo di Cornelius"*? Da confermare.
+- Titolo canonico per `fierezza-il-dio-che-e-in-noi.md`: *"Fierezza: il Dio che è in noi"*? Da confermare.
+
+Queste sono scelte editoriali di titolo, non decisioni sul canone narrativo. Le fonti non vanno rinominate o eliminate finché la scelta non è confermata.

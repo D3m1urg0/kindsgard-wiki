@@ -118,3 +118,16 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 
 ### Stato attuale
 **Phase 4 completata.** 34 file totali in `wiki/fonti/`. Prossimo passo: Fase 5 — scrematura e identificazione ridondanze tra voci sintetiche (`personaggi/`, `sistemi/`, `cultura/`) e fonti verbatim, da concordare con Pit prima di qualsiasi eliminazione o fusione.
+
+
+## 2026-10-11 — Riconciliazione dei registri editoriali
+
+- Allineate le domande aperte alle decisioni canoniche già registrate: Frederick Fenice, sequenza di Dominic Draco, successione Brood e distinzione tra personaggio/specie Fenice.
+- Chiarito che la voce geografica e gli stub delle Fiere esistono già; il lavoro residuo è di copertura, verifica e completamento, non di creazione iniziale.
+- Registrate come già confermate le decisioni relative a Vilegis/Lunaria e al ruolo dei Bruciati come seme narrativo delle Fiamme, mantenendo aperta la verifica dei dettagli non confermati.
+- Corretto il riferimento obsoleto a `wiki/fonti/` nelle istruzioni operative, sostituendolo con la struttura attuale `content/fonti/`.
+- Chiarite le semantiche legacy del campo `status` e indicata una futura separazione tra stato editoriale e canonicità, senza migrazione massiva.
+- Nessuna fonte narrativa verbatim è stata eliminata, fusa o riscritta.
+
+- Riconciliati i percorsi del catalogo fonti con la tree GitHub: quattro riferimenti non trovati sono stati marcati come da riconciliare, senza dichiarare le fonti perdute.
+- Aggiunto `.github/workflows/validate.yml` per eseguire una build Quartz su pull request verso `main` e su richiesta manuale.
