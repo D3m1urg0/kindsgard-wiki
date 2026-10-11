@@ -4,6 +4,7 @@ categoria: "fonti"
 tag: [inktober, racconti, antologia, in-world, era-del-dominio]
 status: "canonico"
 ultima_modifica: "2025-06-13"
+aliases: ["Inktober 2018"]
 tipo: "racconto"
 autore: "Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12)"
 voci-wiki-collegate: ["Le Ere del Kindsgard", "Draghieri", "Caitlin Chimera", "Wade Wyrm", "Samu'el Sphynx", "Solomon", "Luther Leviathan", "Brood", "Salamander", "Fiere — Voci Stub", "Bruciati", "Fiamme"]
