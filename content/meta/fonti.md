@@ -3,7 +3,7 @@ titolo: "Fonti e Decisioni Canoniche"
 categoria: "meta"
 tag: [meta, fonti, canonizzazione, sessioni]
 status: "in aggiornamento"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 ---
 
 # Fonti e Decisioni Canoniche
@@ -143,19 +143,25 @@ Entrambi attingono allo stesso Istinto archetipico della Fiera, ma con orientame
 Le Vere Fiere non mantengono un conteggio progressivo dei propri membri (a differenza dei Draghieri) per orgoglio e individualismo: ogni Vera Fiera si considera sé stessa, non un anello in una catena.
 
 ### Lo Spettro (termine di Vilegis)
-Non è sinonimo di Espediente. È un termine del sistema di Vilegis/Lunaria: i 13 principi fondanti del multiverso. L'Espediente della Fiera funziona *analogamente* agli Spettri ma è un sistema distinto e locale al Kindsgard. I 12 Spettri noti: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà. Il tredicesimo è ⚪ lacuna aperta.
+Non è sinonimo di Espediente. È un termine del sistema di Vilegis/Lunaria: i 13 principi fondanti del multiverso. L'Espediente della Fiera funziona *analogamente* agli Spettri ma è un sistema distinto e locale al Kindsgard. I 12 Spettri noti: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà. Il tredicesimo resta non confermato per la versione storica richiamata dalla wiki. Il sito ufficiale attuale associa Gregoria all’Equilibrio, ma questo è solo un candidato esterno: non importarlo nel canone Kindsgard senza conferma.
 
 ### La Vera Viverna
 La firma "Vera Viverna" in `La natura di Natura` è il titolo/ruolo dell'autrice: **Wendy Wyrm**, individuo separato da Wade Wyrm (33^ Viverna/Draghiere). Wendy è la controparte Vera Fiera di Wade.
 
 ---
 
-## Fonti Esterne Non Accessibili
+## Riferimenti esterni consultati — contesto, non canone Kindsgard
 
-| Fonte | Contenuto atteso | Status |
-|-------|-----------------|--------|
-| `battleforvilegis.com` | Lore di Vilegis/Lunaria, possibilmente il tredicesimo Spettro | Non accessibile via URL. Richiedere copia dei contenuti rilevanti. |
+Il sito ufficiale di Battle for Vilegis è attualmente accessibile. I contenuti seguenti riguardano la versione attuale di Vilegis/Lunaria e **non vanno trasferiti automaticamente** nel canone del Kindsgard: la cronologia e le versioni potrebbero differire.
 
+| Fonte | Informazione utile | Uso consentito |
+|-------|--------------------|----------------|
+| [Cos’è Vilegis](https://battleforvilegis.com/cose-vilegis/) | Descrive tredici Spettri come energie del Fondamento. | Contesto esterno; non determina da sola il tredicesimo Spettro della versione storica. |
+| [Gregoria](https://battleforvilegis.com/gregoria/) | Associa lo Spettro di Gregoria all’Equilibrio. | Candidato plausibile per L2, da confermare prima di adottarlo. |
+| [Il Pantheon](https://battleforvilegis.com/il-pantheon/) | Tratta Creatori, Fondamento e Spettri. | Riferimento esterno per orientare L1; non sostituisce le fonti Kindsgard mancanti. |
+| [The Keep: Radiant](https://battleforvilegis.com/the-keep-radiant/) | Menziona la creazione di un Mondo Ancora. | Contesto esterno per L1; non chiarisce automaticamente il riferimento ad Anarion nelle fonti Kindsgard. |
+
+Consultati il 2026-10-11. Registrare l’URL e la data di consultazione perché le pagine di un setting vivo possono cambiare.
 
 ## Riconciliazione del catalogo — 2026-10-11
 

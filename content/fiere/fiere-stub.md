@@ -59,7 +59,7 @@ Fiera aracniforme. Gli adulti sono grandi due volte la testa di un Umano. Tesson
 ### Chiroptera
 Grande pipistrello, alto circa due volte e mezzo un Umano, ali escluse. Vola nei cunicoli delle caverne. Può sfondare muri se colpisce in picchiata. I giovani sono in lattanza nelle caverne più oscure. Punto debole: il fuoco e la luce intensa. Istinto: echolocalizzazione — sente ogni movimento nelle zone buie (`Prevedibilità`, `Inktober 2018 #Angular`).
 
-### Locchia
+### Loccia
 Fiera acquatica dei ghiacciai. Vive nelle acque fredde, infesta le sorgenti dei fiumi del nord. Denti abbondanti. Il metallo carico elettricamente (grazie ai parafulmini installati vicino alle dighe) le tiene lontane (`Inktober 2018 #Flowing`).
 
 ### Alicanto

@@ -151,3 +151,17 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Aggiunto `scripts/check-wikilinks.mjs` al workflow di validazione: segnala collegamenti non risolti e collisioni di slug/alias.
 - I collegamenti che puntano a sezioni usano ora gli slug canonici del file, così le ancore non dipendono da redirect alias.
 - La risoluzione degli alias avviene prima della registrazione dei link in uscita, preservando i riferimenti canonici per backlink e grafo.
+
+
+## 2026-10-11 — Allineamento delle date editoriali
+
+- Aggiornato `ultima_modifica` nelle pagine Markdown modificate durante la manutenzione, in modo che il metadato non continui a dichiarare una revisione del 2025.
+- Rimosso L5 dal registro delle questioni aperte: l'esclusione di Vilegis/Lunaria dallo scope è già una decisione confermata e resta documentata nelle decisioni chiuse.
+
+
+- Aggiornato il registro delle lacune: Solomon non viene numerato secondo la regola canonica delle Vere Fiere; Icaria resta limitata a ciò che dice la fonte disponibile.
+- Verificati i riferimenti ufficiali attuali di Battle for Vilegis: Equilibrio è un candidato plausibile per il tredicesimo Spettro nella versione esterna attuale, ma non è stato trasferito nel canone Kindsgard.
+
+
+- Corretto “Locchia” in “Loccia” nella voce delle Fiere: “Loccia” è la grafia coerente con l’elenco dei Draghieri, la scheda di Laerius Loch e Inktober 2019.
+- Registrata come domanda HITL la variante Angeline Aconitum/Aconytum, senza imporre una grafia canonica in assenza di decisione esplicita.

@@ -3,7 +3,7 @@ titolo: "Geografia del Kindsgard"
 categoria: "mondo"
 tag: [geografia, luoghi, artigli, anello, maestà, mare]
 status: "bozza"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 aliases: ["Spiagge del Mare Esterno","Valle dei Fulmini","Valle dei Tuoni","Fiume Bianco"]
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Inktober_2018", "Inktober_2019"]
 ---
