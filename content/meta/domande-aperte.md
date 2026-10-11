@@ -3,7 +3,7 @@ titolo: "Domande Aperte e Lacune"
 categoria: "meta"
 tag: [meta, lacune, ambiguità, domande]
 status: "in aggiornamento"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 ---
 
 # Domande Aperte e Lacune
@@ -71,8 +71,6 @@ Non chiarito sistematicamente:
 - Se il Battesimo può fallire (vedi "Bruciati" in Inktober 2018 #Scorched 19-2)
 - → **Lacuna da lasciare aperta o hai materiale non caricato?**
 
-### L5 — Vilegis/Lunaria: documentazione fuori scope
-**Decisione già confermata:** Vilegis/Lunaria è trattato come setting esterno, fuori dallo scope della wiki Kindsgard, salvo le intersezioni documentate nelle fonti. Non è necessaria una nuova conferma. Eventuali nuove informazioni vanno registrate solo se incidono sul Kindsgard.
 
 ### L6 — Completamento delle schede Fiere
 La pagina `[[Fiere — Voci Stub]]` esiste già. Soffione Uncinato e Bacca Emofaga hanno schede tecniche complete; per diverse altre Fiere sono disponibili solo riferimenti narrativi o voci preliminari. Fiere da verificare e completare, senza duplicare le schede esistenti:
