@@ -11,7 +11,7 @@ voci-wiki-collegate: ["Le Ere del Kindsgard", "Cronologia", "Cosmologia", "Dragh
 
 # Cronistoria del Kindsgard (versione breve)
 
-> *Versione divulgativa in-world della storia del Kindsgard. Per la versione OOC completa vedi [[L'Ambientazione dei Draghieri del Kindsgard — Cronistoria OOC|D3-cronistoria-ooc]]. Nota: il termine "U-Ma-Ni" presente in questo documento è un refuso canonicamente eliminato — il nome corretto è semplicemente Umani.*
+> *Versione divulgativa in-world della storia del Kindsgard. Per la versione OOC completa vedi [[Fonti e Decisioni Canoniche|D3-cronistoria-ooc — fonte non reperita]]. Nota: il termine "U-Ma-Ni" presente in questo documento è un refuso canonicamente eliminato — il nome corretto è semplicemente Umani.*
 
 ---
 
