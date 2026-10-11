@@ -44,9 +44,9 @@ Gli Inktober 2018, 2019 e 2024 non hanno datazione interna esplicita rispetto al
 ### L1 — Cosmologia profonda: Mondi Ancora, Fondamento, Creatori
 Nessun documento definisce compiutamente:
 - **Mondi Ancora**: cosa sono, come vengono riconosciuti, perché il Kindsgard è il "primo Mondo Ancora riconosciuto dalla caduta di Anarion"
-- **Il Fondamento**: menzionato in `D3` in relazione al Battesimo di Dominic ("come altrove accadeva con l'energia del Fondamento") e in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir")
+- **Il Fondamento**: menzionato nella Cronistoria OOC (fonte identificata dall’utente, testo originale non disponibile qui) in relazione al Battesimo di Dominic ("come altrove accadeva con l'energia del Fondamento") e in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir")
 - **I Creatori**: menzionati nel titolo del progetto ma non documentati
-- **Anarion**: menzionato in `D4` come evento di riferimento ("dalla caduta di Anarion") ma non descritto
+- **Anarion**: menzionato in “You Want to Be a Dragoner” (fonte identificata dall’utente come guida ai Draghieri, testo originale non disponibile qui) come evento di riferimento ("dalla caduta di Anarion"), ma non descritto
 - → **Materiale non ancora documentato. Archiviato come lacuna aperta.**
 
 ### L2 — Il tredicesimo Spettro — candidato esterno da verificare
@@ -55,8 +55,8 @@ I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, En
 - → **HITL:** confermare se Equilibrio può essere registrato come tredicesimo Spettro nella versione storica pertinente, oppure se va mantenuto solo come riferimento esterno non canonico.
 
 ### L3 — Verifica finale della copertura geografica
-La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualmente presenti, compresi gli Artigli documentati, la Città del Re, le Colture, le aree costiere e le principali zone geografiche. Non è disponibile una mappa sistematica e alcune relazioni spaziali restano inferite. La copertura geografica non può essere dichiarata definitiva: il registro storico menziona D3 e D4, ma questi identificativi non sono stati ricondotti a documenti effettivamente disponibili e l'utente non li riconosce.
-- → **Attività residua:** mantenere esplicita la distinzione tra posizioni attestate e inferenze. D3/D4 non sono una richiesta di recupero rivolta all'utente: sono riferimenti storici da chiarire solo se emergeranno altri indizi.
+La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualmente presenti, compresi gli Artigli documentati, la Città del Re, le Colture, le aree costiere e le principali zone geografiche. Non è disponibile una mappa sistematica e alcune relazioni spaziali restano inferite. La copertura geografica non può essere dichiarata definitiva: l’utente ha identificato D3 come la Cronistoria OOC che confronta le Ere del Giardino e del Kindsgard e D4 come “You Want to Be a Dragoner”, ma i testi originali non sono presenti nel repository consultato né sono stati ritrovati nella Library collegata.
+- → **Attività residua:** mantenere esplicita la distinzione tra posizioni attestate e inferenze; aggiornare la verifica geografica quando i testi originali saranno nuovamente disponibili. Non chiedere all’utente di chiarire l’identità dei documenti, già chiarita.
 
 ### L4 — Dettagli meccanici del Battesimo del Fuoco
 La meccanica universale è confermata, ma le fonti disponibili non definiscono sistematicamente:
