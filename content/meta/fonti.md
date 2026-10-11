@@ -8,13 +8,13 @@ ultima_modifica: "2026-10-11"
 
 # Fonti e Decisioni Canoniche
 
-> *Registro delle fonti originali del progetto e di tutte le decisioni di canonizzazione prese nelle sessioni di lavoro. Da ricaricare all'inizio di ogni nuova sessione.*
+> *Registro delle fonti originali del progetto e delle decisioni di canonizzazione prese nelle sessioni di lavoro. L'identità di una fonte e la disponibilità del suo testo integrale sono registrate separatamente.*
 
 ---
 
 ## Fonti del Progetto
 
-### Documenti OOC Canonizzati
+### Documenti OOC di riferimento
 
 | File | Contenuto | Status |
 |------|-----------|--------|
