@@ -86,7 +86,7 @@ Il Draghiere della Viverna tornò al Kindsgard, sul Giardino era già l'inferno.
 
 ## Note
 
-Racconto chiave per il Primo Secolo del Draco: documenta in tempo reale la duplicazione dell'essenza di Wade in una Nemesi (la Vera Viverna che agisce su Vilegis) mentre Wade-Draghiere è ancora vivo e attivo sul Kindsgard — fenomeno descritto in [[L'Ambientazione dei Draghieri del Kindsgard — Cronistoria OOC|D3]] come "duplicazione nelle proprie Nemesi" per i Draghieri presenti su Vilegis durante l'inizio dell'Anno del Draco.
+Racconto chiave per il Primo Secolo del Draco: documenta in tempo reale la duplicazione dell'essenza di Wade in una Nemesi (la Vera Viverna che agisce su Vilegis) mentre Wade-Draghiere è ancora vivo e attivo sul Kindsgard — fenomeno descritto in [[Fonti e Decisioni Canoniche|D3 — fonte non reperita]] come "duplicazione nelle proprie Nemesi" per i Draghieri presenti su Vilegis durante l'inizio dell'Anno del Draco.
 
 Il racconto descrive anche **Dominic Draco senza elmo per la prima volta nella storia** — momento di rivelazione totale della sua trasformazione in Vera Fiera, il "sorriso di liberazione".
 
