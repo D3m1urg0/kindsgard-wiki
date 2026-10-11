@@ -14,7 +14,7 @@ ultima_modifica: "2026-10-11"
 
 ## ✅ Decisioni già chiuse — non riaprire senza nuove evidenze
 
-Le decisioni seguenti sono riportate nel changelog del 2025-06-13 e non devono restare fra le domande aperte:
+Le decisioni seguenti sono state confermate nei registri canonici e nel changelog; non devono restare fra le domande aperte:
 
 - **C4 — Grafia:** Frederick Fenice è la grafia canonica; “Frederic” e “Friederich” sono varianti presenti nelle fonti.
 - **A2 — Dominic Draco:** sequenza confermata in dieci fasi secondo il changelog. Per il dettaglio fa fede la voce `[[Dominic Draco]]` e la documentazione canonica.
