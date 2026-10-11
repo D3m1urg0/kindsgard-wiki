@@ -128,3 +128,6 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Corretto il riferimento obsoleto a `wiki/fonti/` nelle istruzioni operative, sostituendolo con la struttura attuale `content/fonti/`.
 - Chiarite le semantiche legacy del campo `status` e indicata una futura separazione tra stato editoriale e canonicità, senza migrazione massiva.
 - Nessuna fonte narrativa verbatim è stata eliminata, fusa o riscritta.
+
+- Riconciliati i percorsi del catalogo fonti con la tree GitHub: quattro riferimenti non trovati sono stati marcati come da riconciliare, senza dichiarare le fonti perdute.
+- Aggiunto `.github/workflows/validate.yml` per eseguire una build Quartz su pull request verso `main` e su richiesta manuale.
