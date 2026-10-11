@@ -3,7 +3,7 @@ titolo: "L'Ultima Notte all'Ombra dell'Anello"
 categoria: "fonti"
 tag: [wade-wyrm, poema, racconto, in-world, crisi-dell-orso, anello-di-fuoco, samuel-sphynx]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "racconto"
 autore: "Wade Wyrm, 33° Viverna"
 data-in-world: "Territori dell'Artiglio delle Sabbie, 25/10/1104 — La notte della chiamata"
