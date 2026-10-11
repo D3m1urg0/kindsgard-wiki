@@ -157,3 +157,7 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 
 - Aggiornato `ultima_modifica` nelle pagine Markdown modificate durante la manutenzione, in modo che il metadato non continui a dichiarare una revisione del 2025.
 - Rimosso L5 dal registro delle questioni aperte: l'esclusione di Vilegis/Lunaria dallo scope è già una decisione confermata e resta documentata nelle decisioni chiuse.
+
+
+- Aggiornato il registro delle lacune: Solomon non viene numerato secondo la regola canonica delle Vere Fiere; Icaria resta limitata a ciò che dice la fonte disponibile.
+- Verificati i riferimenti ufficiali attuali di Battle for Vilegis: Equilibrio è un candidato plausibile per il tredicesimo Spettro nella versione esterna attuale, ma non è stato trasferito nel canone Kindsgard.
