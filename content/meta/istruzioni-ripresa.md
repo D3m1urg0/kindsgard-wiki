@@ -67,7 +67,7 @@ Consultare `[[Domande Aperte e Lacune]]` per ciò che resta da verificare. Se un
 3. Completare la copertura geografica senza inferire posizioni non documentate.
 4. Verificare le voci stub delle Fiere e completarle solo sulla base delle fonti.
 5. Confrontare voci sintetiche e fonti verbatim, senza eliminazioni o fusioni automatiche.
-6. Verificare il duplicato tra `content/index.md` e `content/_index.md` sul comportamento effettivo di Quartz prima di rimuovere uno dei due.
+6. Riconciliare i due riferimenti sorgente ancora senza file nel repository (`Annali dell’Artiglio di Fuoco` e `Draghieri/Vere Fiere`) senza confonderli con D3/D4, la cui identità è stata chiarita ma i cui originali non sono reperibili nella tree corrente.
 
 ## Decisioni editoriali ancora da chiedere
 
