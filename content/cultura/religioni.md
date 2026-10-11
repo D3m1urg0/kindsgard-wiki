@@ -78,4 +78,4 @@ La verità cosmologica non è accessibile a nessuna di queste prospettive dall'i
 
 ## Relazioni
 - Collegato a: [[Cosmologia]], [[Fierezza e Maestà]], [[Draghieri]], [[Vere Fiere]]
-- Vedi anche: [[Wade Wyrm]], [[Wendy Wyrm]], [[Axsar Aigokeros → Altri Personaggi]]
+- Vedi anche: [[Wade Wyrm]], [[Wendy Wyrm]], [[Altri Personaggi|Axsar Aigokeros → Altri Personaggi]]
