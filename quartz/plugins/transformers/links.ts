@@ -1,5 +1,7 @@
 import { QuartzTransformerPlugin } from "../types"
+import { aliasToCanonicalSlug } from "./frontmatter"
 import {
+  FilePath,
   FullSlug,
   RelativeURL,
   SimpleSlug,
@@ -7,6 +9,7 @@ import {
   stripSlashes,
   simplifySlug,
   splitAnchor,
+  slugifyFilePath,
   transformLink,
 } from "../../util/path"
 import path from "path"
@@ -103,6 +106,12 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   isAbsoluteUrl(dest, { httpOnly: false }) || dest.startsWith("#")
                 )
                 if (isInternal) {
+                  // Resolve wiki-title aliases to the canonical file slug before link crawling.
+                  // This keeps navigation, backlinks, and the graph attached to the real page.
+                  const [destPath, destAnchor] = splitAnchor(dest)
+                  const canonicalAlias = aliasToCanonicalSlug.get(slugifyFilePath(destPath as FilePath))
+                  if (canonicalAlias) dest = canonicalAlias + destAnchor
+
                   dest = node.properties.href = transformLink(
                     file.data.slug!,
                     dest,
