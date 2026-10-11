@@ -131,3 +131,10 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 
 - Riconciliati i percorsi del catalogo fonti con la tree GitHub: quattro riferimenti non trovati sono stati marcati come da riconciliare, senza dichiarare le fonti perdute.
 - Aggiunto `.github/workflows/validate.yml` per eseguire una build Quartz su pull request verso `main` e su richiesta manuale.
+
+
+## 2026-10-11 — Eliminazione della collisione tra gli indici radice
+
+- Rimossa `content/_index.md`, byte-per-byte identico a `content/index.md`.
+- Il codice Quartz di questa repository normalizza `_index.md` a slug `index`; il generatore della pagina di contenuto salta i soli slug che terminano in `/index`, mentre `index` e `_index` normalizzati possono quindi concorrere alla scrittura di `public/index.html`.
+- Conservato `content/index.md`, che Quartz identifica esplicitamente come homepage radice. Nessun contenuto è stato perso perché i due file erano identici.
