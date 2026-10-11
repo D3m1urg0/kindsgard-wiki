@@ -18,8 +18,8 @@ ultima_modifica: "2026-10-11"
 
 | File | Contenuto | Status |
 |------|-----------|--------|
-| `content/fonti/d3-cronistoria-ooc.md` | Cronistoria completa OOC con corrispondenze Vilegis/Lunaria. Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante. | ⚠️ Percorso da riconciliare |
-| `content/fonti/d4-guida-draghiere.md` | Guida al personaggio per Battle for Vilegis. Formato: singolo documento stratificato (Option A). Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante. | ⚠️ Percorso da riconciliare |
+| Fonte identificata dall’utente come “Cronistoria OOC” | Cronistoria che parte dalle Ere e confronta le Ere del Giardino con le Ere del Kindsgard. Il documento originale non è presente nel tree GitHub attuale né è stato ritrovato nella Library collegata con la ricerca effettuata. | ⚠️ Fonte identificata, file sorgente da recuperare/riconciliare |
+| “You Want to Be a Dragoner” | Guida ai Draghieri indicata dall’utente come documento corrispondente al riferimento storico D4. Il documento originale non è presente nel tree GitHub attuale né è stato ritrovato nella Library collegata con la ricerca effettuata. | ⚠️ Fonte identificata, file sorgente da recuperare/riconciliare |
 | `content/fonti/elenco-draghieri.md` | Lista nominativa dei Draghieri | **Canonico** |
 | `content/fonti/fierezza-il-dio-che-e-in-noi.md` | Saggio di Wade Wyrm sulla spiritualità | Incompleto; usare con cautela |
 | `content/fonti/cio-che-sanno-i-draghieri.md` | Verità parziale (livello personaggio) | Prospettiva in-world, non cosmologica |
@@ -82,7 +82,7 @@ ultima_modifica: "2026-10-11"
 > Le decisioni qui registrate prevalgono sulle domande operative più vecchie. Le domande aperte devono essere aggiornate quando una decisione viene confermata.
 
 **C1 — Origine di Bisogno ed Espediente**
-- **Versione in-world (credenza umana):** Bisogno ed Espediente nacquero dalle preghiere disperate degli Umani. Fonte disponibile: `Cronistoria (versione breve)`. Il riferimento a D3 nel registro storico non è verificato.
+- **Versione in-world (credenza umana):** Bisogno ed Espediente nacquero dalle preghiere disperate degli Umani. Fonte disponibile: `Cronistoria (versione breve)`. Il riferimento alla Cronistoria OOC è identificato dall’utente, ma il testo sorgente non è ancora disponibile nel repository consultato.
 - **Verità cosmologica:** Bisogno ed Espediente sono manifestazioni primordiali della legge naturale del Giardino, preesistenti agli Umani e indifferenti a loro. Fonte: `La natura di Natura` (Vera Viverna/Wendy Wyrm).
 - **Decisione canonica:** Entrambe le versioni sono canoniche ai rispettivi livelli. La contraddizione è intenzionale e rappresenta la differenza tra conoscenza in-world e verità cosmologica.
 
@@ -94,7 +94,7 @@ ultima_modifica: "2026-10-11"
 - **Decisione canonica:** Syrus Salamander è il **V Draghiere della Salamandra**, predecessore di Sebastian Salamander (VI). La sequenza numerica è corretta e non contraddittoria.
 
 **C4 — Frederic/Friedrich Fenice — RISOLTA**
-- Le grafie "Frederic" (riferimento storico D3, non verificato) e "Friederich" (`Una Missiva`) potrebbero riferirsi allo stesso personaggio; verificare sulle fonti effettivamente disponibili prima di trattare la corrispondenza come confermata.
+- Le grafie "Frederic" (attribuita nella documentazione storica alla Cronistoria OOC, il cui testo sorgente non è ancora disponibile qui) e "Friederich" (`Una Missiva`) potrebbero riferirsi allo stesso personaggio; la grafia canonica Frederick Fenice è comunque già confermata.
 - **Grafia canonica confermata:** Frederick Fenice. Le varianti presenti nelle fonti sono storiche e non vanno propagate nelle nuove voci sintetiche.
 - **Meccanica canonica confermata:** Frederick Fenice resuscita sempre nel proprio corpo, non si reincarna in un nuovo corpo.
 - Decisione registrata nel changelog del 2025-06-13.
@@ -111,11 +111,14 @@ ultima_modifica: "2026-10-11"
 - La versione in `Inktober 2018 #Drain` è narrativa/ambientale, non normativa.
 - **Decisione:** Nessuna contraddizione. Tracciabilità registrata.
 
-**Riferimenti D3/D4 — identificativi non riconciliati**
+**Riferimenti storici D3/D4 — identità chiarita, file sorgenti non reperiti**
 
-Nel registro storico compaiono le etichette D3 — Cronistoria OOC e D4 — Guida al personaggio/Draghieri, con percorsi attesi `content/fonti/d3-cronistoria-ooc.md` e `content/fonti/d4-guida-draghiere.md`. Questi file non sono presenti nel tree attuale e l'utente non li riconosce come documenti noti. Al momento non sappiamo se D3/D4 fossero nomi di lavoro, allegati di una sessione precedente, fonti esterne o riferimenti errati.
+- **D3 — Cronistoria OOC:** l’utente chiarisce che è la cronistoria che parte dalle Ere e mette a confronto le Ere del Giardino con le Ere del Kindsgard.
+- **D4 — “You Want to Be a Dragoner”:** l’utente identifica così la guida ai Draghieri.
 
-**Stato:** riferimenti storici non verificati, non fonti disponibili. Le precedenti affermazioni che attribuivano loro canonicità non sono una prova sufficiente e non vanno usate per risolvere contraddizioni. Le informazioni eventualmente attribuite a D3/D4 vanno verificate contro fonti effettivamente reperibili prima di essere considerate confermate.
+Le due fonti non sono presenti nel tree GitHub attuale con i vecchi percorsi `content/fonti/d3-cronistoria-ooc.md` e `content/fonti/d4-guida-draghiere.md`; una ricerca nella Library collegata non ha restituito i documenti. L’identità dei documenti è quindi chiarita, ma il testo integrale non è disponibile per una verifica diretta in questa sessione.
+
+**Regola operativa:** non chiamarli più documenti sconosciuti né dedurre che non esistano. Tenere distinta l’identificazione fornita dall’utente dalla disponibilità effettiva dei file. Le affermazioni attribuite a questi documenti possono essere confrontate con le fonti già presenti solo come verifica parziale, non come sostituto del testo originale.
 
 ---
 
@@ -164,10 +167,10 @@ Consultati il 2026-10-11. Registrare l’URL e la data di consultazione perché 
 
 ## Riconciliazione del catalogo — 2026-10-11
 
-Il controllo della tree GitHub ha rilevato 29 file sotto `content/fonti/`. Quattro percorsi ancora elencati nel catalogo non esistono con quel nome nel tree corrente:
-- `content/fonti/d3-cronistoria-ooc.md`
-- `content/fonti/d4-guida-draghiere.md`
-- `content/fonti/annali-artiglio-di-fuoco-intro.md`
-- `content/fonti/draghieri-vere-fiere.md`
+Il controllo della tree GitHub ha rilevato 29 file sotto `content/fonti/`. Quattro percorsi del catalogo non esistono con quel nome nel tree corrente:
+- `content/fonti/d3-cronistoria-ooc.md` — identità della fonte chiarita dall’utente come Cronistoria OOC sulle Ere; file sorgente non reperito.
+- `content/fonti/d4-guida-draghiere.md` — identità della fonte chiarita dall’utente come “You Want to Be a Dragoner”; file sorgente non reperito.
+- `content/fonti/annali-artiglio-di-fuoco-intro.md` — identità/percorso ancora da riconciliare.
+- `content/fonti/draghieri-vere-fiere.md` — identità/percorso ancora da riconciliare.
 
-Sono marcati come percorsi da riconciliare, non come fonti certamente perdute: potrebbero essere state incorporate, rinominate o mantenute al di fuori del repository. Non rimuovere le registrazioni finché non è stata identificata la destinazione o confermata l'assenza della fonte. I percorsi esistenti nel repository sono indicati rispetto alla root GitHub come `content/fonti/...`.
+Non dichiarare perdute le fonti D3/D4: i loro nomi/contenuti generali sono stati identificati, ma i file originali non sono presenti nel repository consultato e non sono emersi dalla ricerca nella Library collegata. I percorsi esistenti nel repository sono indicati rispetto alla root GitHub come `content/fonti/...`.
