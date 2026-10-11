@@ -3,7 +3,7 @@ titolo: "Fierezza e Maestà"
 categoria: "sistemi"
 tag: [fierezza, maestà, istinto, espediente, battesimo, draghieri, vere-fiere]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 aliases: ["Fierezza"]
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi"]
 ---
