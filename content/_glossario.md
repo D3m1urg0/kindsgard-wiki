@@ -4,7 +4,7 @@ categoria: "meta"
 tag: [glossario, termini, definizioni]
 status: "in aggiornamento"
 ultima_modifica: "2025-06-13"
-aliases: ["Natura", "Bisogno", "Espediente", "Umani", "Artigli", "Bruciati", "Guardiani", "Echi", "Kindsgard", "Fiera", "Mare Esterno", "Mare Interno", "Fondamento", "Istinto", "Giardino", "Nexus", "Oltregiardino", "Rovina", "Spettro", "Draghiere", "Vera Fiera", "Covata", "Vilegis / Lunaria"]
+aliases: ["Natura", "Bisogno", "Espediente", "Umani", "Artigli", "Bruciati", "Guardiani", "Echi", "Kindsgard", "Fiera", "Mare Esterno", "Mare Interno", "Fondamento", "Istinto", "Giardino", "Nexus", "Oltregiardino", "Rovina", "Spettro", "Draghiere", "Vera Fiera", "Covata", "Vilegis / Lunaria", "Vilegis/Lunaria", "Specie Fenice"]
 ---
 
 # Glossario
