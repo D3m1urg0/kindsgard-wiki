@@ -7,8 +7,6 @@ import { FilePath, FullSlug, getFileExtension, slugifyFilePath, slugTag } from "
 import { QuartzPluginData } from "../vfile"
 import { i18n } from "../../i18n"
 
-export const aliasToCanonicalSlug = new Map<string, FullSlug>()
-
 export interface Options {
   delimiters: string | [string, string]
   language: "yaml" | "toml"
@@ -41,6 +39,27 @@ function coerceToArray(input: string | string[]): string[] | undefined {
     .filter((tag: unknown) => typeof tag === "string" || typeof tag === "number")
     .map((tag: string | number) => tag.toString())
 }
+
+export function inferWikiAliases(data: Record<string, any>, stem: string): string[] {
+  const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"])) ?? []
+  const inferred: string[] = []
+  if (data.titolo != null) inferred.push(data.titolo.toString())
+
+  const humanStem = stem
+    .replace(/^_+/, "")
+    .split(/[-_]+/)
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ")
+  if (humanStem) inferred.push(humanStem)
+
+  const title = String(data.title ?? data.titolo ?? stem)
+  const titleWithoutArticle = title.replace(/^(?:il|lo|la|i|gli|le|l['’])\s+/i, "")
+  if (titleWithoutArticle !== title) inferred.push(titleWithoutArticle)
+
+  return [...new Set([...aliases, ...inferred].filter(Boolean))]
+}
+
 
 function getAliasSlugs(aliases: string[]): FullSlug[] {
   const res: FullSlug[] = []
@@ -87,29 +106,10 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
             // Generate redirects for the canonical title and common title variants so Obsidian-style
             // links like [[Dominic Draco]] resolve even when the underlying filename is lowercase.
-            const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"])) ?? []
-            const inferredAliases: string[] = []
-            if (data.titolo != null) inferredAliases.push(data.titolo.toString())
-
-            const stem = (file.stem ?? "").replace(/^_+/, "")
-            const stemAlias = stem
-              .split(/[-_]+/)
-              .filter(Boolean)
-              .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
-              .join(" ")
-            if (stemAlias) inferredAliases.push(stemAlias)
-
-            const titleWithoutArticle = data.title.replace(/^(?:il|lo|la|i|gli|le|l['’])\s+/i, "")
-            if (titleWithoutArticle !== data.title) inferredAliases.push(titleWithoutArticle)
-
-            const uniqueAliases = [...new Set([...aliases, ...inferredAliases].filter(Boolean))]
-            aliasToCanonicalSlug.set(file.data.slug!, file.data.slug!)
+            const uniqueAliases = inferWikiAliases(data, file.stem ?? "")
             if (uniqueAliases.length > 0) {
               data.aliases = uniqueAliases // explicit and inferred frontmatter aliases
               file.data.aliases = getAliasSlugs(uniqueAliases)
-              for (const aliasSlug of file.data.aliases) {
-                aliasToCanonicalSlug.set(aliasSlug, file.data.slug!)
-              }
               allSlugs.push(...file.data.aliases)
             }
 
