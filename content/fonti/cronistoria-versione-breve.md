@@ -3,7 +3,7 @@ titolo: "Cronistoria del Kindsgard (versione breve)"
 categoria: "fonti"
 tag: [cronistoria, in-world, storia, ere, draghieri, natura]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "testo-in-world"
 autore: "anonimo (fonte divulgativa)"
 voci-wiki-collegate: ["Le Ere del Kindsgard", "Cronologia", "Cosmologia", "Draghieri", "Vere Fiere", "Dominic Draco", "Anello di Fuoco", "Fierezza e Maestà"]
