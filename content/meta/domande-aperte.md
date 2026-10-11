@@ -27,7 +27,7 @@ Le decisioni seguenti sono state confermate nei registri canonici e nel changelo
 
 ## 🟡 Ambiguità da Risolvere
 
-### A2 — Grafia di Angeline Aconitum/Aconytum
+### A5 — Grafia di Angeline Aconitum/Aconytum
 La voce narrativa `[[Altri Personaggi]]` usa **Angeline Aconitum**, mentre `Elenco Draghieri` riporta **Angeline Aconytum**. La grafia canonica non è determinabile con certezza dalle fonti attuali.
 - → **HITL:** quale grafia va adottata come canonica? Fino alla conferma, mantenere la variante originale nella citazione della fonte e non correggerla retroattivamente.
 
