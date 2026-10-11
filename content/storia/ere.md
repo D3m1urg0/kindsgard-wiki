@@ -4,6 +4,7 @@ categoria: "storia"
 tag: [storia, ere, cronologia, armonia, conflitto, rivalsa, dominio]
 status: "revisionato"
 ultima_modifica: "2025-06-13"
+aliases: ["Era di Armonia"]
 fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "D4-guida-draghiere"]
 ---
 
