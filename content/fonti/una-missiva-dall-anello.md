@@ -3,7 +3,7 @@ titolo: "Una Missiva dall'Anello"
 categoria: "fonti"
 tag: [wade-wyrm, lettera, in-world, anno-dell-orso, anello-di-fuoco, icaria, frederick-fenice]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "testo-in-world"
 autore: "Wade Wyrm, 33° Viverna"
 data-in-world: "103° anno all'ombra dell'anello"
