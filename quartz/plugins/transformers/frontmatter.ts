@@ -71,8 +71,11 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               },
             })
 
-            if (data.title != null && data.title.toString() !== "") {
-              data.title = data.title.toString()
+            // The Kindsgard wiki's editorial schema uses "titolo"; Quartz expects "title".
+            // Prefer an explicit Quartz title, then the wiki's canonical title, then the filename.
+            const canonicalTitle = coalesceAliases(data, ["title", "titolo"])
+            if (canonicalTitle != null && canonicalTitle.toString() !== "") {
+              data.title = canonicalTitle.toString()
             } else {
               data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
             }
@@ -80,10 +83,30 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]))
             if (tags) data.tags = [...new Set(tags.map((tag: string) => slugTag(tag)))]
 
-            const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"]))
-            if (aliases) {
-              data.aliases = aliases // frontmatter
-              file.data.aliases = getAliasSlugs(aliases)
+            // Generate redirects for the canonical title and common title variants so Obsidian-style
+            // links like [[Dominic Draco]] resolve even when the underlying filename is lowercase.
+            const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"])) ?? []
+            const inferredAliases: string[] = []
+            if (data.titolo != null) inferredAliases.push(data.titolo.toString())
+
+            const stem = (file.stem ?? "").replace(/^_+/, "")
+            const stemAlias = stem
+              .split(/[-_]+/)
+              .filter(Boolean)
+              .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+              .join(" ")
+            if (stemAlias) inferredAliases.push(stemAlias)
+
+            const titleWithoutArticle = data.title.replace(/^(?:il|lo|la|i|gli|le|l['’])\s+/i, "")
+            if (titleWithoutArticle !== data.title) inferredAliases.push(titleWithoutArticle)
+
+            const shortTitle = data.title.split(/\s+[—–]\s+/)[0].replace(/\s*\([^)]*\)\s*$/, "").trim()
+            if (shortTitle && shortTitle !== data.title) inferredAliases.push(shortTitle)
+
+            const uniqueAliases = [...new Set([...aliases, ...inferredAliases].filter(Boolean))]
+            if (uniqueAliases.length > 0) {
+              data.aliases = uniqueAliases // explicit and inferred frontmatter aliases
+              file.data.aliases = getAliasSlugs(uniqueAliases)
               allSlugs.push(...file.data.aliases)
             }
 
