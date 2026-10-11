@@ -146,3 +146,8 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Generati redirect alias dai titoli canonici e dai nomi file leggibili, inclusi i casi con articolo iniziale e titoli descrittivi.
 - Aggiunti alias espliciti per alcuni termini del glossario e collegamenti a sezioni/concetti già documentati, senza inventare nuove voci narrative.
 - Aggiunta la voce glossario per la Specie Fenice, distinta dal personaggio Frederick Fenice e basata sulle fonti già registrate.
+
+
+- Aggiunto `scripts/check-wikilinks.mjs` al workflow di validazione: segnala collegamenti non risolti e collisioni di slug/alias.
+- I collegamenti che puntano a sezioni usano ora gli slug canonici del file, così le ancore non dipendono da redirect alias.
+- La risoluzione degli alias avviene prima della registrazione dei link in uscita, preservando i riferimenti canonici per backlink e grafo.
