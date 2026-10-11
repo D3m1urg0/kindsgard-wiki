@@ -47,7 +47,7 @@ Se vuoi giustizia, avrai Bisogno di molto più potere.
 Non esistono stratagemmi.
 Non stratagemmi, Espediente.
 
-→ *Voci wiki: [[Fierezza e Maestà]], [[Cosmologia — Bisogno ed Espediente]]*
+→ *Voci wiki: [[Fierezza e Maestà]], [[Cosmologia#bisogno|Cosmologia — Bisogno ed Espediente]]*
 
 ---
 
