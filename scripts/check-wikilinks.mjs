@@ -73,7 +73,7 @@ const collisions = [...slugOwners.entries()]
 
 const fence = String.fromCharCode(96).repeat(3)
 for (const file of fileRecords) {
-  const body = file.source.split(fence).filter((_, index) => index % 2 === 0).join("")
+  const body = file.source.split(fence).filter((_, index) => index % 2 === 0).join("").replace(new RegExp(fence[0] + "[^" + fence[0] + "]*" + fence[0], "g"), "")
   const re = /!?\[\[([^\]]+)\]\]/g
   let match
   while ((match = re.exec(body))) {
@@ -89,7 +89,8 @@ for (const file of fileRecords) {
   }
 }
 
-console.log("Checked " + files.length + " Markdown files; " + unresolved.length + " unresolved wikilink targets; " + collisions.length + " alias/slug collisions.")
-for (const item of unresolved.slice(0, 250)) console.log("UNRESOLVED " + item.file + " -> [[" + item.target + "]]")
+const uniqueUnresolved = [...new Map(unresolved.map((item) => [item.file + "\\0" + item.target, item])).values()]
+console.log("Checked " + files.length + " Markdown files; " + uniqueUnresolved.length + " unresolved wikilink targets; " + collisions.length + " alias/slug collisions.")
+for (const item of uniqueUnresolved.slice(0, 250)) console.log("UNRESOLVED " + item.file + " -> [[" + item.target + "]]")
 for (const item of collisions.slice(0, 100)) console.log("COLLISION " + item.slug + " -> " + item.owners.join(", "))
-if (unresolved.length || collisions.length) process.exitCode = 1
+if (uniqueUnresolved.length || collisions.length) process.exitCode = 1
