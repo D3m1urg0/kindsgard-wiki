@@ -1,5 +1,5 @@
 import { QuartzTransformerPlugin } from "../types"
-import { aliasToCanonicalSlug } from "./frontmatter"
+import { inferWikiAliases } from "./frontmatter"
 import {
   FilePath,
   FullSlug,
@@ -13,9 +13,36 @@ import {
   transformLink,
 } from "../../util/path"
 import path from "path"
+import fs from "node:fs/promises"
+import matter from "gray-matter"
 import { visit } from "unist-util-visit"
 import isAbsoluteUrl from "is-absolute-url"
 import { Root } from "hast"
+
+
+
+async function buildAliasMap(ctx: BuildCtx): Promise<Map<string, FullSlug>> {
+  const aliasMap = new Map<string, FullSlug>()
+  const contentRoot = path.resolve(ctx.argv.directory)
+  for (const filePath of ctx.allFiles.filter((fp) => fp.endsWith(".md"))) {
+    let absolutePath = path.isAbsolute(filePath) ? filePath : path.resolve(filePath)
+    let source: string
+    try {
+      source = await fs.readFile(absolutePath, "utf8")
+    } catch {
+      absolutePath = path.resolve(contentRoot, filePath)
+      source = await fs.readFile(absolutePath, "utf8")
+    }
+    const relativePath = path.relative(contentRoot, absolutePath).split(path.sep).join("/")
+    const canonicalSlug = slugifyFilePath(relativePath as FilePath)
+    aliasMap.set(canonicalSlug, canonicalSlug)
+    const data = matter(source).data
+    for (const alias of inferWikiAliases(data, path.basename(relativePath, ".md"))) {
+      aliasMap.set(slugifyFilePath(alias as FilePath), canonicalSlug)
+    }
+  }
+  return aliasMap
+}
 
 interface Options {
   /** How to resolve Markdown paths */
@@ -40,9 +67,11 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
   return {
     name: "LinkProcessing",
     htmlPlugins(ctx) {
+      let aliasMapPromise: Promise<Map<string, FullSlug>> | undefined
       return [
         () => {
-          return (tree: Root, file) => {
+          return async (tree: Root, file) => {
+            const aliasMap = await (aliasMapPromise ??= buildAliasMap(ctx))
             const curSlug = simplifySlug(file.data.slug!)
             const outgoing: Set<SimpleSlug> = new Set()
 
@@ -109,7 +138,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   // Resolve wiki-title aliases to the canonical file slug before link crawling.
                   // This keeps navigation, backlinks, and the graph attached to the real page.
                   const [destPath, destAnchor] = splitAnchor(dest)
-                  const canonicalAlias = aliasToCanonicalSlug.get(slugifyFilePath(destPath as FilePath))
+                  const canonicalAlias = aliasMap.get(slugifyFilePath(destPath as FilePath))
                   if (canonicalAlias) dest = canonicalAlias + destAnchor
 
                   dest = node.properties.href = transformLink(
