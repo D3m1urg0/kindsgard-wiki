@@ -3,7 +3,7 @@ titolo: "Inktober 2024 — Racconti del Kindsgard 3"
 categoria: "fonti"
 tag: [inktober, racconti, antologia, in-world, ambientazione-da-mappare]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 aliases: ["Inktober 2024"]
 tipo: "racconto"
 autore: "Stefania Ricco"
