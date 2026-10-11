@@ -172,3 +172,5 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Aggiunte voci preliminari per Leopterix ed Everastes usando solo caratteristiche attestate nelle fonti presenti.
 - Distinte le caratteristiche delle Fiere da quelle dei rispettivi Draghieri.
 - Aggiornata L6 per distinguere voci preliminari presenti e schede tecniche ancora incomplete.
+
+- Precisate L3 e L6: la geografia e gli stub delle Fiere esistono già; restano il confronto con fonti mancanti e il completamento delle schede tecniche, senza duplicare contenuti.
