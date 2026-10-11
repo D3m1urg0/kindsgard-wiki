@@ -3,7 +3,7 @@ titolo: "Fiere — Voci Stub"
 categoria: "fiere"
 tag: [fiere, stub, bestiario]
 status: "bozza"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 aliases: ["Fiere"]
 fonti: ["Inktober_2018", "Inktober_2019", "Prevedibilità__covata_", "Mostri", "Elenco_Draghieri_Conosciuti", "D4-guida-draghiere"]
 ---
