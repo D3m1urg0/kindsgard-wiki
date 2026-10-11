@@ -138,3 +138,11 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Rimossa `content/_index.md`, byte-per-byte identico a `content/index.md`.
 - Il codice Quartz di questa repository normalizza `_index.md` a slug `index`; il generatore della pagina di contenuto salta i soli slug che terminano in `/index`, mentre `index` e `_index` normalizzati possono quindi concorrere alla scrittura di `public/index.html`.
 - Conservato `content/index.md`, che Quartz identifica esplicitamente come homepage radice. Nessun contenuto è stato perso perché i due file erano identici.
+
+
+## 2026-10-11 — Compatibilità tra frontmatter wiki e Quartz
+
+- Il plugin frontmatter ora usa `titolo` come fallback per il campo Quartz `title`, così le intestazioni canoniche della wiki vengono mostrate correttamente.
+- Generati redirect alias dai titoli canonici e dai nomi file leggibili, inclusi i casi con articolo iniziale e titoli descrittivi.
+- Aggiunti alias espliciti per alcuni termini del glossario e collegamenti a sezioni/concetti già documentati, senza inventare nuove voci narrative.
+- Aggiunta la voce glossario per la Specie Fenice, distinta dal personaggio Frederick Fenice e basata sulle fonti già registrate.
