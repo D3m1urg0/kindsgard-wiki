@@ -2,7 +2,7 @@
 titolo: "Fonti e Decisioni Canoniche"
 categoria: "meta"
 tag: [meta, fonti, canonizzazione, sessioni]
-status: "aggiornato"
+status: "in aggiornamento"
 ultima_modifica: "2025-06-13"
 ---
 
@@ -79,6 +79,8 @@ ultima_modifica: "2025-06-13"
 
 ### 🔴 Contraddizioni Risolte
 
+> Le decisioni qui registrate prevalgono sulle domande operative più vecchie. Le domande aperte devono essere aggiornate quando una decisione viene confermata.
+
 **C1 — Origine di Bisogno ed Espediente**
 - **Versione in-world (credenza umana):** Bisogno ed Espediente nacquero dalle preghiere disperate degli Umani. Fonte: `Cronistoria (versione breve)`, `D3-cronistoria-ooc`.
 - **Verità cosmologica:** Bisogno ed Espediente sono manifestazioni primordiali della legge naturale del Giardino, preesistenti agli Umani e indifferenti a loro. Fonte: `La natura di Natura` (Vera Viverna/Wendy Wyrm).
@@ -91,10 +93,11 @@ ultima_modifica: "2025-06-13"
 **C3 — Syrus Salamander**
 - **Decisione canonica:** Syrus Salamander è il **V Draghiere della Salamandra**, predecessore di Sebastian Salamander (VI). La sequenza numerica è corretta e non contraddittoria.
 
-**C4 — Frederic/Friedrich Fenice**
+**C4 — Frederic/Friedrich Fenice — RISOLTA**
 - Le grafie "Frederic" (`D3`) e "Friederich" (`Una Missiva`) si riferiscono allo stesso personaggio.
-- **Grafia canonica:** da confermare con Pit. ⚠️ *Ancora aperta.*
-- **Meccanica canonica confermata:** Frederic Fenice resuscita sempre nel proprio corpo, non si reincarna in un nuovo corpo.
+- **Grafia canonica confermata:** Frederick Fenice. Le varianti presenti nelle fonti sono storiche e non vanno propagate nelle nuove voci sintetiche.
+- **Meccanica canonica confermata:** Frederick Fenice resuscita sempre nel proprio corpo, non si reincarna in un nuovo corpo.
+- Decisione registrata nel changelog del 2025-06-13.
 
 ### 🟠 Duplicazioni Risolte
 
