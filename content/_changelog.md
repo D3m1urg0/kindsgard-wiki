@@ -179,8 +179,8 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 ## 2026-10-11 — Riconciliazione dei riferimenti alle fonti
 
 - Rimossa dal registro delle lacune la Grande Fagiolata: è un archivio presenze di un evento, non una fonte del setting.
-- Chiariti D3 e D4 come identificativi ereditati da un registro precedente, non riconducibili a documenti disponibili né riconosciuti dall'utente. Le precedenti attribuzioni di canonicità sono marcate come non verificate.
-- Evitato di chiedere all'utente di recuperare documenti di cui non conosce l'esistenza; le inferenze attribuite a D3/D4 restano da verificare solo se emergono fonti concrete.
+- In una prima verifica, D3 e D4 erano stati classificati come riferimenti non riconciliati perché i percorsi attesi non erano presenti nel repository.
+- Il successivo chiarimento dell'utente ha identificato D3 come la Cronistoria OOC sulle Ere del Giardino e del Kindsgard e D4 come “You Want to Be a Dragoner”; vedere la voce successiva per lo stato aggiornato.
 
 
 ## 2026-10-11 — Chiarimento delle identità D3/D4 e aggiornamento del protocollo
