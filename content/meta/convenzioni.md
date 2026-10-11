@@ -28,23 +28,27 @@ ultima_modifica: "2025-06-13"
 
 ## Frontmatter Obbligatorio
 
-Ogni file deve aprirsi con:
+Le voci enciclopediche devono usare i campi pertinenti al tipo di documento. `fonti` è obbligatorio per le voci sintetiche basate su fonti; per gli indici e i registri meta può essere omesso. Ogni file deve aprirsi con questo modello, adattato al caso:
 
 ```yaml
 ---
 titolo: "Nome Entità"
 categoria: "[mondo|storia|fazioni|personaggi|sistemi|cultura|fiere|meta]"
 tag: [tag1, tag2]
-status: "[bozza|revisionato|canonico]"
+status: "[bozza|revisionato|canonico|in aggiornamento]"
 ultima_modifica: "YYYY-MM-DD"
 fonti: ["nome_fonte_1", "nome_fonte_2"]
 ---
 ```
 
-**Status:**
-- `bozza` — informazioni parziali o non confermate
-- `revisionato` — informazioni complete e verificate ma non ancora approvate formalmente
-- `canonico` — approvato come fonte definitiva
+**Status (campo legacy):**
+- `bozza` — voce incompleta o contenente ipotesi da verificare
+- `revisionato` — voce controllata editorialmente; non implica che ogni interpretazione sia stata formalmente canonizzata
+- `canonico` — voce approvata come riferimento autorevole
+- `in aggiornamento` — voce o registro che richiede manutenzione; non indica da solo se il contenuto sia canonico
+- `aggiornato` — valore storico già presente in alcuni file; durante la bonifica va normalizzato, dopo averne verificato il significato nel contesto
+
+**Nota importante:** il corpus storico usa `status` per mescolare maturità editoriale e autorevolezza narrativa. Non cambiare in massa i valori senza revisione: in una futura migrazione introdurre due campi distinti, ad esempio `stato_editoriale` e `canonicita`, e mantenere una tabella di mapping approvata. Fino ad allora, interpretare `status` secondo le definizioni sopra e non dedurre una decisione canonica dal solo fatto che una pagina sia revisionata.
 
 ---
 
