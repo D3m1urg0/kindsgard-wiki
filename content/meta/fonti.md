@@ -30,7 +30,7 @@ ultima_modifica: "2025-06-13"
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `content/fonti/annali-artiglio-di-fuoco-intro.md` | Introduzione storica firmata da Syrus Salamander V | Fonte primaria per l'Era degli Eroi |
+| `content/fonti/annali-artiglio-di-fuoco-intro.md` | Introduzione storica firmata da Syrus Salamander V. Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante. | ⚠️ Percorso da riconciliare |
 | `content/fonti/draghieri-vere-fiere.md` | Descrizione OOC dualismo Draghieri/Vere Fiere. Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante | |
 | `content/fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
 | `content/fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
