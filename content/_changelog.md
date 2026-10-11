@@ -151,3 +151,9 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Aggiunto `scripts/check-wikilinks.mjs` al workflow di validazione: segnala collegamenti non risolti e collisioni di slug/alias.
 - I collegamenti che puntano a sezioni usano ora gli slug canonici del file, così le ancore non dipendono da redirect alias.
 - La risoluzione degli alias avviene prima della registrazione dei link in uscita, preservando i riferimenti canonici per backlink e grafo.
+
+
+## 2026-10-11 — Allineamento delle date editoriali
+
+- Aggiornato `ultima_modifica` nelle pagine Markdown modificate durante la manutenzione, in modo che il metadato non continui a dichiarare una revisione del 2025.
+- Rimosso L5 dal registro delle questioni aperte: l'esclusione di Vilegis/Lunaria dallo scope è già una decisione confermata e resta documentata nelle decisioni chiuse.
