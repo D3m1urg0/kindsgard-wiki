@@ -3,7 +3,7 @@ titolo: "Mostri (lista di brainstorming)"
 categoria: "fonti"
 tag: [mostri, brainstorming, lista, fiere-potenziali]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 aliases: ["Mostri"]
 tipo: "lista"
 voci-wiki-collegate: ["Fiere — Voci Stub"]
