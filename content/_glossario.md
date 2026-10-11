@@ -4,7 +4,7 @@ categoria: "meta"
 tag: [glossario, termini, definizioni]
 status: "in aggiornamento"
 ultima_modifica: "2025-06-13"
-aliases: ["Natura", "Bisogno", "Espediente", "Umani", "Artigli", "Bruciati", "Guardiani", "Echi", "Kindsgard", "Fiera", "Mare Esterno", "Mare Interno", "Fondamento", "Istinto", "Giardino", "Nexus", "Oltregiardino", "Rovina", "Spettro", "Draghiere", "Vera Fiera", "Covata", "Vilegis / Lunaria", "Vilegis/Lunaria", "Specie Fenice"]
+aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardiani","Echi","Kindsgard","Fiera","Mare Esterno","Mare Interno","Fondamento","Istinto","Giardino","Nexus","Oltregiardino","Rovina","Spettro","Draghiere","Vera Fiera","Covata","Vilegis / Lunaria","Vilegis/Lunaria","Specie Fenice","Colture","Icaria"]
 ---
 
 # Glossario
@@ -48,6 +48,8 @@ aliases: ["Natura", "Bisogno", "Espediente", "Umani", "Artigli", "Bruciati", "Gu
 **Giardino** — Nome informale per il territorio del Kindsgard ancora sotto il controllo di Natura, all'interno dell'[[Anello di Fuoco]].
 
 **Guardiano** — Individuo (Draghiere, Vera Fiera o Fiera effettiva) che inconsapevolmente incarnava uno dei 13 vettori del Fondamento di Lunaria. Alcuni Draghieri portano questo titolo nell'Elenco. → vedi [[Cosmologia]], [[Dominic Draco]]
+
+**Icaria** — Fiera nuova menzionata in *Una Missiva dall'Anello*, proveniente dal profondo del Giardino e descritta come abbastanza grande da rivaleggiare con i Draghi. La natura precisa e gli ulteriori dettagli restano da documentare. → vedi [[Una Missiva dall'Anello]], [[Domande Aperte e Lacune]]
 
 **Istinto** — Il carattere specifico che Fierezza/Maestà imprime nel portatore attraverso il Battesimo, determinato dalla Fiera sconfitta. Immutabile e prevedibile. → vedi [[Fierezza e Maestà]]
 
