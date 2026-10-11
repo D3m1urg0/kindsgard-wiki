@@ -181,3 +181,11 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Rimossa dal registro delle lacune la Grande Fagiolata: è un archivio presenze di un evento, non una fonte del setting.
 - Chiariti D3 e D4 come identificativi ereditati da un registro precedente, non riconducibili a documenti disponibili né riconosciuti dall'utente. Le precedenti attribuzioni di canonicità sono marcate come non verificate.
 - Evitato di chiedere all'utente di recuperare documenti di cui non conosce l'esistenza; le inferenze attribuite a D3/D4 restano da verificare solo se emergono fonti concrete.
+
+
+## 2026-10-11 — Chiarimento delle identità D3/D4 e aggiornamento del protocollo
+
+- Registrato il chiarimento dell’utente: D3 è la Cronistoria OOC che parte dalle Ere e confronta le Ere del Giardino con le Ere del Kindsgard; D4 è la guida ai Draghieri “You Want to Be a Dragoner”.
+- Corretto il registro: le identità delle fonti non sono più descritte come sconosciute. I testi integrali non sono stati trovati nel tree GitHub né nella ricerca della Library collegata, quindi le verifiche puntuali restano parziali.
+- Aggiornata L1 e L3 per attribuire i riferimenti ad Anarion, Fondamento e alla verifica geografica ai documenti identificati, mantenendo esplicita la mancata disponibilità dei testi originali.
+- Rimosso dalle istruzioni di ripresa il controllo ormai superato sul duplicato `index.md`/`_index.md`, già risolto, sostituendolo con la riconciliazione degli altri due percorsi sorgente ancora irrisolti.
