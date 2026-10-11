@@ -11,7 +11,7 @@ voci-wiki-collegate: ["Draghieri", "Cosmologia", "Fierezza e Maestà", "Dominic 
 
 # La "Mezza" Verità — Ciò che i Draghieri Conoscono
 
-> *Documento OOC che descrive la versione dei fatti conosciuta dai Draghieri — una verità parziale, non la realtà cosmologica. Per la verità cosmologica completa vedi [[Cosmologia]] e [[L'Ambientazione dei Draghieri del Kindsgard — Cronistoria OOC|D3-cronistoria-ooc]].*
+> *Documento OOC che descrive la versione dei fatti conosciuta dai Draghieri — una verità parziale, non la realtà cosmologica. Per la verità cosmologica completa vedi [[Cosmologia]] e [[Fonti e Decisioni Canoniche|D3-cronistoria-ooc — fonte non reperita]].*
 
 ---
 
