@@ -4,6 +4,7 @@ categoria: "meta"
 tag: [glossario, termini, definizioni]
 status: "in aggiornamento"
 ultima_modifica: "2025-06-13"
+aliases: ["Natura", "Bisogno", "Espediente", "Umani", "Artigli", "Bruciati", "Guardiani", "Echi", "Kindsgard", "Fiera", "Mare Esterno", "Mare Interno", "Fondamento", "Istinto", "Giardino", "Nexus", "Oltregiardino", "Rovina", "Spettro", "Draghiere", "Vera Fiera", "Covata", "Vilegis / Lunaria"]
 ---
 
 # Glossario
@@ -69,6 +70,8 @@ ultima_modifica: "2025-06-13"
 **Rovina** — Il cataclisma cosmico che colpì il Kindsgard e impazzì Natura. Lo stesso evento che devastò altri mondi del multiverso.
 
 **Spettro** — Termine del sistema di Vilegis/Lunaria per i 13 principi fondanti del multiverso. Analogo ma distinto dall'Espediente del Kindsgard. → vedi [[Cosmologia]]
+
+**Specie Fenice** — Specie di Fiera distinta da Frederick Fenice, il Draghiere detto Unica Fenice. In *Solitudine* compare come l'ultima della propria specie, sacrificata alla bocca della Maestà. → vedi [[Frederick Fenice]], [[Maestà]]
 
 **Unico Guardiano** — Titolo di [[Dominic Draco]] dopo l'assorbimento dei 13 vettori del Fondamento. → vedi [[Dominic Draco]]
 
