@@ -51,7 +51,7 @@ La sua forma attuale, lo spettro della Viverna, conosceva quel momento: stava pe
 
 Impossibile, l'umano Wade, sull'oltregiardino Vilegis, era ancora vivo.
 
-→ *Voci wiki: [[Wade Wyrm]], [[Vilegis / Lunaria]], [[Cronologia — Primo Secolo del Draco]]*
+→ *Voci wiki: [[Wade Wyrm]], [[Vilegis / Lunaria]], [[Cronologia#il-primo-secolo-del-draco|Cronologia — Primo Secolo del Draco]]*
 
 ---
 
