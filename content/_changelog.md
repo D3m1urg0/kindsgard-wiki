@@ -165,3 +165,10 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 
 - Corretto “Locchia” in “Loccia” nella voce delle Fiere: “Loccia” è la grafia coerente con l’elenco dei Draghieri, la scheda di Laerius Loch e Inktober 2019.
 - Registrata come domanda HITL la variante Angeline Aconitum/Aconytum, senza imporre una grafia canonica in assenza di decisione esplicita.
+
+
+## 2026-10-11 — Voci preliminari delle Fiere
+
+- Aggiunte voci preliminari per Leopterix ed Everastes usando solo caratteristiche attestate nelle fonti presenti.
+- Distinte le caratteristiche delle Fiere da quelle dei rispettivi Draghieri.
+- Aggiornata L6 per distinguere voci preliminari presenti e schede tecniche ancora incomplete.
