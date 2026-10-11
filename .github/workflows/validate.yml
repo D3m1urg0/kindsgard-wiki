@@ -27,4 +27,4 @@ jobs:
       - name: Check wikilinks
         run: node scripts/check-wikilinks.mjs
       - name: Build Quartz
-        run: npx quartz build
+        run: node quartz/bootstrap-cli.mjs build
