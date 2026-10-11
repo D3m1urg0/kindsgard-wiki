@@ -3,7 +3,7 @@ titolo: "Frederick Fenice"
 categoria: "personaggi"
 tag: [frederick-fenice, draghieri, fenice, guardiano, personaggio]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 fonti: ["D3-cronistoria-ooc", "Una_Missiva_dall_Anello", "Risveglio_del_Drago", "Solitudine"]
 ---
 
