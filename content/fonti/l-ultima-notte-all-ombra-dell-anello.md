@@ -45,7 +45,7 @@ per ultimo al fronte d'eterno contrasto.
 Precoce chiamata gli giunge in aiuto
 gli Artigli son vuoti, l'Anello è caduto.
 
-→ *Voci wiki: [[Anello di Fuoco]], [[Cronologia#anno-dellorso|Cronologia — Primo Anno dell'Orso]], [[Wade Wyrm]], [[Samu'el Sphynx]]*
+→ *Voci wiki: [[Anello di Fuoco]], [[storia/cronologia#anno-dellorso|Cronologia — Primo Anno dell'Orso]], [[Wade Wyrm]], [[Samu'el Sphynx]]*
 
 ---
 
