@@ -3,7 +3,7 @@ titolo: "Risveglio del Drago"
 categoria: "fonti"
 tag: [wade-wyrm, dominic-draco, frederick-fenice, vilegis, racconto, in-world, anno-del-draco]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "racconto"
 autore: "Stefania Ricco"
 voci-wiki-collegate: ["Wade Wyrm", "Dominic Draco", "Frederick Fenice", "Vilegis / Lunaria", "Vere Fiere", "Cronologia"]
