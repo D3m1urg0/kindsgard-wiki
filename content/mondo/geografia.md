@@ -22,7 +22,7 @@ Il Kindsgard è un mondo-corpo: la sua divinità ([[Natura]]/[[Maestà]]) ne è 
 - Attorno alla Maestà si estende il **Giardino** — territorio selvaggio, incontrollato, popolato dalle [[Fiere]]
 - A distanza dalla Maestà si trova l'**[[Anello di Fuoco]]** — il perimetro difensivo dei [[Draghieri]]
 - Oltre l'Anello si estendono i **territori Umani** — liberati e messi in sicurezza nei secoli
-- Ai margini estremi del mondo si trovano le **[[Spiagge del Mare Esterno]]** — le terre più lontane dalla Maestà, dove la forza di Natura è più debole
+- Ai margini estremi del mondo si trovano le **[[Geografia del Kindsgard#spiagge-del-mare-esterno-il-bordo|Spiagge del Mare Esterno]]** — le terre più lontane dalla Maestà, dove la forza di Natura è più debole
 
 ---
 
