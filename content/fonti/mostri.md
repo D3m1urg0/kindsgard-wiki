@@ -4,6 +4,7 @@ categoria: "fonti"
 tag: [mostri, brainstorming, lista, fiere-potenziali]
 status: "canonico"
 ultima_modifica: "2025-06-13"
+aliases: ["Mostri"]
 tipo: "lista"
 voci-wiki-collegate: ["Fiere — Voci Stub"]
 ---
