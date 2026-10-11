@@ -174,3 +174,10 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Aggiornata L6 per distinguere voci preliminari presenti e schede tecniche ancora incomplete.
 
 - Precisate L3 e L6: la geografia e gli stub delle Fiere esistono già; restano il confronto con fonti mancanti e il completamento delle schede tecniche, senza duplicare contenuti.
+
+
+## 2026-10-11 — Riconciliazione dei riferimenti alle fonti
+
+- Rimossa dal registro delle lacune la Grande Fagiolata: è un archivio presenze di un evento, non una fonte del setting.
+- Chiariti D3 e D4 come identificativi ereditati da un registro precedente, non riconducibili a documenti disponibili né riconosciuti dall'utente. Le precedenti attribuzioni di canonicità sono marcate come non verificate.
+- Evitato di chiedere all'utente di recuperare documenti di cui non conosce l'esistenza; le inferenze attribuite a D3/D4 restano da verificare solo se emergono fonti concrete.
