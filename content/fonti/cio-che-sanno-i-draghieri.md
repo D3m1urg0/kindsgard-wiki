@@ -53,6 +53,6 @@ Ora una nuova prospettiva è giunta alla nostra conoscenza. Altri Giardini esist
 
 Questo documento presenta la **versione parziale e in-world** della storia del Kindsgard, come la conoscono i Draghieri stessi. Alcune differenze rispetto alla verità cosmologica:
 
-- La versione Draghieri attribuisce la nascita di Bisogno ed Espediente alle preghiere umane; la verità cosmologica (da [[La natura di Natura — testo|La natura di Natura]] e [[L'Ambientazione dei Draghieri del Kindsgard — Cronistoria OOC|D3]]) dice che Bisogno ed Espediente sono principi preesistenti al Giardino.
+- La versione Draghieri attribuisce la nascita di Bisogno ed Espediente alle preghiere umane; la verità cosmologica (da [[La natura di Natura — testo|La natura di Natura]] e [[Fonti e Decisioni Canoniche|D3 — fonte non reperita]]) dice che Bisogno ed Espediente sono principi preesistenti al Giardino.
 - La versione Draghieri descrive Fierezza come "un secondo Dio donato al genere umano da Dominic"; la verità cosmologica dice che è lo stesso principio di Maestà, incarnato in direzione opposta.
 - Il documento descrive Vilegis come "un luogo simile al nostro Anello di Fuoco" — prospettiva in-world limitata.
