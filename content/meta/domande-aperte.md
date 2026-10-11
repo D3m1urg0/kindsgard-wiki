@@ -55,8 +55,8 @@ I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, En
 - → **HITL:** confermare se Equilibrio può essere registrato come tredicesimo Spettro nella versione storica pertinente, oppure se va mantenuto solo come riferimento esterno non canonico.
 
 ### L3 — Verifica finale della copertura geografica
-La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualmente presenti, compresi gli Artigli documentati, la Città del Re, le Colture, le aree costiere e le principali zone geografiche. Non è disponibile una mappa sistematica e alcune relazioni spaziali restano inferite. La copertura non può essere dichiarata definitiva finché non si riconciliano le fonti D3 e D4, i cui percorsi sono assenti dal repository.
-- → **Attività residua:** confrontare la voce con le copie originali di D3/D4 se recuperate; mantenere esplicita la distinzione tra posizioni attestate e inferenze. Non ricreare la voce da zero.
+La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualmente presenti, compresi gli Artigli documentati, la Città del Re, le Colture, le aree costiere e le principali zone geografiche. Non è disponibile una mappa sistematica e alcune relazioni spaziali restano inferite. La copertura geografica non può essere dichiarata definitiva: il registro storico menziona D3 e D4, ma questi identificativi non sono stati ricondotti a documenti effettivamente disponibili e l'utente non li riconosce.
+- → **Attività residua:** mantenere esplicita la distinzione tra posizioni attestate e inferenze. D3/D4 non sono una richiesta di recupero rivolta all'utente: sono riferimenti storici da chiarire solo se emergeranno altri indizi.
 
 ### L4 — Dettagli meccanici del Battesimo del Fuoco
 La meccanica universale è confermata, ma le fonti disponibili non definiscono sistematicamente:
@@ -91,9 +91,6 @@ L’unica menzione trovata nel repository è `Una Missiva dall’Anello`: una be
 - → **Lacuna documentale:** non aggiungere identità, specie o capacità finché non emerge un’altra fonte.
 
 
-### L9 — Il contenuto di `Grande_faciolata_del_Kindsgard_di_Giugno.xlsx`
-Non leggibile in questa sessione.
-- → **Cosa contiene questo file?**
 
 ### L10 — Dettagli ancora da verificare sui Bruciati
 **Decisione già registrata nel changelog:** i Bruciati sono il seme narrativo della fazione delle Fiamme. Rimane da verificare quanto dei dettagli del racconto (`Inktober 2018 #Scorched`, 19-2) sia stato sviluppato e confermato oltre la fonte narrativa. Non riaprire la loro esistenza come elemento dell’ambientazione senza nuove evidenze.
