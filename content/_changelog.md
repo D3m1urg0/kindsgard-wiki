@@ -3,7 +3,7 @@ titolo: "Changelog"
 categoria: "meta"
 tag: [meta, changelog, modifiche]
 status: "in aggiornamento"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 ---
 
 # Changelog
