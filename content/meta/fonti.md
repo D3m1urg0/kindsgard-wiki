@@ -18,59 +18,59 @@ ultima_modifica: "2025-06-13"
 
 | File | Contenuto | Status |
 |------|-----------|--------|
-| `fonti/d3-cronistoria-ooc.md` | Cronistoria completa OOC con corrispondenze Vilegis/Lunaria. Le sezioni "Nota sullo Sdoppiamento" e "Allineamento degli Echi" sono state rimosse come obsolete. Il resto è canonico. | **Canonico** |
-| `fonti/d4-guida-draghiere.md` | Guida al personaggio per Battle for Vilegis. Formato: singolo documento stratificato (Option A). | **Canonico** |
-| `fonti/elenco-draghieri.md` | Lista nominativa dei Draghieri | **Canonico** |
-| `fonti/fierezza-il-dio-che-e-in-noi.md` | Saggio di Wade Wyrm sulla spiritualità | Incompleto; usare con cautela |
-| `fonti/cio-che-sanno-i-draghieri.md` | Verità parziale (livello personaggio) | Prospettiva in-world, non cosmologica |
-| `fonti/cronistoria-versione-breve.md` | Cronistoria in-world (versione divulgativa) | **Canonico** |
-| `fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa | **Canonico** |
+| `content/fonti/d3-cronistoria-ooc.md` | Cronistoria completa OOC con corrispondenze Vilegis/Lunaria. Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante. | ⚠️ Percorso da riconciliare |
+| `content/fonti/d4-guida-draghiere.md` | Guida al personaggio per Battle for Vilegis. Formato: singolo documento stratificato (Option A). Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante. | ⚠️ Percorso da riconciliare |
+| `content/fonti/elenco-draghieri.md` | Lista nominativa dei Draghieri | **Canonico** |
+| `content/fonti/fierezza-il-dio-che-e-in-noi.md` | Saggio di Wade Wyrm sulla spiritualità | Incompleto; usare con cautela |
+| `content/fonti/cio-che-sanno-i-draghieri.md` | Verità parziale (livello personaggio) | Prospettiva in-world, non cosmologica |
+| `content/fonti/cronistoria-versione-breve.md` | Cronistoria in-world (versione divulgativa) | **Canonico** |
+| `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa | **Canonico** |
 
 ### Narrativa In-World
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `fonti/annali-artiglio-di-fuoco-intro.md` | Introduzione storica firmata da Syrus Salamander V | Fonte primaria per l'Era degli Eroi |
-| `fonti/draghieri-vere-fiere.md` | Descrizione OOC dualismo Draghieri/Vere Fiere | |
-| `fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
-| `fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
-| `fonti/la-natura-di-natura.md` | Saggio della Vera Viverna (Wendy Wyrm) | Prospettiva Maestà/Natura; verità cosmologica più accurata |
-| `fonti/misfit.md` | Racconto: Wendy e Solomon (Vera Sfinge) sugli spalti | |
-| `fonti/solitudine.md` | Racconto: Draco e la Vera Viverna alla Maestà | |
-| `fonti/pezzo-del-rituale-chimera.md` | Rituale di Caitlin Chimera | |
-| `fonti/riflessioni.md` | Note di Caitlin Chimera su Vilegis | |
-| `fonti/fierezza-battesimo-cornelius.md` | Racconto: Battesimo del Fuoco di Cornelius Cockatrix | |
-| `fonti/l-ultima-notte-all-ombra-dell-anello.md` | Poema/racconto: Wade, ultima resistenza all'Anello | |
-| `fonti/prevedibilita-covata.md` | Racconto: Bartholomew Brood e la battaglia alla Città-Alveare | |
-| `fonti/onda-bianca.md` | Racconto: i Draghieri e l'onda di oblio | |
-| `fonti/canzoni-degli-umani.md` | Canti in-world: Canto dei Draghieri, Giù nel bosco, Ninna nanna | |
-| `fonti/deflecte-cantum.md` | Canzone: il ritorno dei Draghieri post-Anno del Drago | Note di Pietro Caruso presenti: alcune strofe segnate come errate |
-| `fonti/l-animale-uomo.md` | Canzone dal punto di vista delle Vere Fiere | |
-| `fonti/lamento-di-wade.md` | Poema: Wade durante l'Anno del Drago | |
-| `fonti/risveglio-del-drago.md` | Racconto: Wade a Vilegis durante l'Anno del Draco | |
-| `fonti/il-trattato-wendy-wyrm.md` | Racconto: Wendy Wyrm e gli scribi dell'Artiglio della Sfinge | |
+| `content/fonti/annali-artiglio-di-fuoco-intro.md` | Introduzione storica firmata da Syrus Salamander V | Fonte primaria per l'Era degli Eroi |
+| `content/fonti/draghieri-vere-fiere.md` | Descrizione OOC dualismo Draghieri/Vere Fiere. Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante | |
+| `content/fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
+| `content/fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
+| `content/fonti/la-natura-di-natura.md` | Saggio della Vera Viverna (Wendy Wyrm) | Prospettiva Maestà/Natura; verità cosmologica più accurata |
+| `content/fonti/misfit.md` | Racconto: Wendy e Solomon (Vera Sfinge) sugli spalti | |
+| `content/fonti/solitudine.md` | Racconto: Draco e la Vera Viverna alla Maestà | |
+| `content/fonti/pezzo-del-rituale-chimera.md` | Rituale di Caitlin Chimera | |
+| `content/fonti/riflessioni.md` | Note di Caitlin Chimera su Vilegis | |
+| `content/fonti/fierezza-battesimo-cornelius.md` | Racconto: Battesimo del Fuoco di Cornelius Cockatrix | |
+| `content/fonti/l-ultima-notte-all-ombra-dell-anello.md` | Poema/racconto: Wade, ultima resistenza all'Anello | |
+| `content/fonti/prevedibilita-covata.md` | Racconto: Bartholomew Brood e la battaglia alla Città-Alveare | |
+| `content/fonti/onda-bianca.md` | Racconto: i Draghieri e l'onda di oblio | |
+| `content/fonti/canzoni-degli-umani.md` | Canti in-world: Canto dei Draghieri, Giù nel bosco, Ninna nanna | |
+| `content/fonti/deflecte-cantum.md` | Canzone: il ritorno dei Draghieri post-Anno del Drago | Note di Pietro Caruso presenti: alcune strofe segnate come errate |
+| `content/fonti/l-animale-uomo.md` | Canzone dal punto di vista delle Vere Fiere | |
+| `content/fonti/lamento-di-wade.md` | Poema: Wade durante l'Anno del Drago | |
+| `content/fonti/risveglio-del-drago.md` | Racconto: Wade a Vilegis durante l'Anno del Draco | |
+| `content/fonti/il-trattato-wendy-wyrm.md` | Racconto: Wendy Wyrm e gli scribi dell'Artiglio della Sfinge | |
 
 ### Raccolte Narrative (Inktober)
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `fonti/inktober-2018.md` | 22 racconti brevi, con indice riassuntivo. Autori: Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12) | Ambientazione: post-Anno del Draco, Era del Dominio |
-| `fonti/inktober-2019.md` | 25 racconti brevi (numerazione salta da #17 a #19), con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: presunta Era del Dominio/post-Vere Fiere |
-| `fonti/inktober-2024.md` | 9 racconti brevi, con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: periodo successivo, da mappare |
+| `content/fonti/inktober-2018.md` | 22 racconti brevi, con indice riassuntivo. Autori: Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12) | Ambientazione: post-Anno del Draco, Era del Dominio |
+| `content/fonti/inktober-2019.md` | 25 racconti brevi (numerazione salta da #17 a #19), con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: presunta Era del Dominio/post-Vere Fiere |
+| `content/fonti/inktober-2024.md` | 9 racconti brevi, con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: periodo successivo, da mappare |
 
 ### Schede Tecniche
 
 | File | Contenuto | Status |
 |------|-----------|--------|
-| `fonti/soffioni-uncinati-fonte.md` | Scheda completa: Achenium Hamatus | Canonico |
-| `fonti/bacche-emofaghe-fonte.md` | Scheda completa: Emophillis Helix | Canonico (versione in Inktober 2018 #Drain è narrativa, non normativa) |
-| `fonti/mostri.md` | Lista di nomi di Fiere potenziali (brainstorming) | Solo lista, nessuna descrizione. Valore: brainstorming |
+| `content/fonti/soffioni-uncinati-fonte.md` | Scheda completa: Achenium Hamatus | Canonico |
+| `content/fonti/bacche-emofaghe-fonte.md` | Scheda completa: Emophillis Helix | Canonico (versione in Inktober 2018 #Drain è narrativa, non normativa) |
+| `content/fonti/mostri.md` | Lista di nomi di Fiere potenziali (brainstorming) | Solo lista, nessuna descrizione. Valore: brainstorming |
 
 ### Altro
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `fonti/list.md` | Due spunti narrativi non sviluppati | Valore minimo |
+| `content/fonti/list.md` | Due spunti narrativi non sviluppati | Valore minimo |
 | `Grande_faciolata_del_Kindsgard_di_Giugno.xlsx` | Contenuto non ancora verificato | Da controllare nella prossima sessione |
 
 ---
@@ -155,3 +155,14 @@ La firma "Vera Viverna" in `La natura di Natura` è il titolo/ruolo dell'autrice
 | Fonte | Contenuto atteso | Status |
 |-------|-----------------|--------|
 | `battleforvilegis.com` | Lore di Vilegis/Lunaria, possibilmente il tredicesimo Spettro | Non accessibile via URL. Richiedere copia dei contenuti rilevanti. |
+
+
+## Riconciliazione del catalogo — 2026-10-11
+
+Il controllo della tree GitHub ha rilevato 29 file sotto `content/fonti/`. Quattro percorsi ancora elencati nel catalogo non esistono con quel nome nel tree corrente:
+- `content/fonti/d3-cronistoria-ooc.md`
+- `content/fonti/d4-guida-draghiere.md`
+- `content/fonti/annali-artiglio-di-fuoco-intro.md`
+- `content/fonti/draghieri-vere-fiere.md`
+
+Sono marcati come percorsi da riconciliare, non come fonti certamente perdute: potrebbero essere state incorporate, rinominate o mantenute al di fuori del repository. Non rimuovere le registrazioni finché non è stata identificata la destinazione o confermata l'assenza della fonte. I percorsi esistenti nel repository sono indicati rispetto alla root GitHub come `content/fonti/...`.
