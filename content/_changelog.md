@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Allineati README e frontmatter di `Tradizioni`: il README ora descrive il tree effettivo (`index.md` senza il duplicato `_index.md`) e riporta i 29 file sorgente Markdown attualmente presenti. Resta registrata come discrepanza storica la cifra 34 riportata nel changelog del 2025: non prova, da sola, che manchino cinque fonti.
+
 - Precisato il perimetro del conteggio L6: le 26 voci sono i profili classificati nei quattro gruppi; Kyrin e Sliss restano menzioni narrative aggiuntive, mentre i 12 nomi di `Mostri` sono brainstorming e non attestazioni canoniche.
 - Corretto l'introduttivo di `Fiere — Voci Stub`, che attribuiva genericamente tutte le informazioni ai racconti nonostante la pagina utilizzi anche liste OOC e materiale di brainstorming; elencati tutti i 12 nomi della fonte `Mostri` in una sezione esplicitamente non canonica.
 
