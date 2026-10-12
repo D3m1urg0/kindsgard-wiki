@@ -81,7 +81,7 @@ Fiera insettiforme/alveare. Si muove in sciami con unità specializzate: operai 
 ## Fitofiere
 
 ### Sicomoro Perenne
-Grande albero mobile — una Fitofiera Sensibile che si sposta in gruppo. Il suo passaggio provoca piccole frane e fa esondare ruscelli trattenuti dalle radici. Il fuoco è un nemico da cui la specie fugge; nel racconto, però, gli esemplari esterni al combattimento si stringono invece di disperdersi, rendendo più pericolosa la caccia al loro interno. La storia non quantifica l'estensione delle radici (`Inktober 2019 #Mindless`).
+Grande albero mobile — una Fitofiera che si sposta in gruppo. Il suo passaggio provoca piccole frane e fa esondare ruscelli trattenuti dalle radici. Il fuoco è un nemico da cui la specie fugge; nel racconto, però, gli esemplari esterni al combattimento si stringono invece di disperdersi, rendendo più pericolosa la caccia al loro interno. La storia non quantifica l'estensione delle radici (`Inktober 2019 #Mindless`).
 
 ### Tripode
 Fitofiera dei terreni umidi. Germoglia rapidamente nei terreni ex-paludosi. Pericolosa in grandi quantità. Richiede bonifica periodica con il fuoco (`Inktober 2018 #Flowing`).
@@ -93,7 +93,7 @@ Fitofiera carnivora del settore Ovest delle [[Colture]]. I liquidi digestivi esp
 Fitofiera radicata coltivata nel settore Nord delle [[Colture]]. `Inktober 2019 #Overgrown` avverte che chi la estrae dal terreno muore; la bonifica descritta prevede di cospargere d'acido il terreno circostante per renderla inerme e poi ucciderla.
 
 ### Chayote Strangolatore
-Fitofiera con tentacoli. Sensibile. Il fuoco può bruciarla ma i tentacoli in fiamme diventano ancora più pericolosi. Coltivata nel settore Est delle [[Colture]] come punto d'accesso alla bonifica (`Inktober 2019 #Overgrown`).
+Fitofiera con tentacoli. Il fuoco può bruciarla ma i tentacoli in fiamme diventano ancora più pericolosi. Coltivata nel settore Est delle [[Colture]] come punto d'accesso alla bonifica (`Inktober 2019 #Overgrown`).
 
 ### Amaranthus Cruentus
 Fitofiera coltivata nel settore Sud delle [[Colture]] e la più importante per il sostentamento degli Umani. Le spore sono pericolose per un ciclo di un mese; gli Annali dell’Artiglio delle Sabbie riferiscono che i sistemi di lavaggio possono rimuovere la maggior parte della polvere in due settimane, quando il clima lo permette (`Inktober 2024 #Exotic`). La combustione diretta è esclusa perché il fumo danneggerebbe le vie respiratorie (`Inktober 2019 #Overgrown`). Per raccogliere i semi, si lascia maturare la pianta, poi il sistema di irrigazione diffonde una sostanza che brucia le radici; i semi vengono raccolti dopo l’essiccazione. La fonte avverte che ogni interazione sopra il livello del terreno e con la fioritura è mortale (`Inktober 2019 #Overgrown`).
