@@ -8,6 +8,13 @@ ultima_modifica: "2026-10-11"
 
 # Changelog
 
+## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
+
+- Avviata la riconciliazione del catalogo con il tree GitHub aggiornato dopo PR #10.
+- Corretto lo status editoriale di `content/fonti/list.md` e `content/fonti/mostri.md`: sono spunti narrativi/brainstorming senza valore normativo, quindi non devono risultare `canonico`. Il contenuto verbatim è stato conservato.
+- Restano da verificare la tracciabilità delle fonti dichiarate nei frontmatter, le discrepanze tra catalogo e percorsi effettivi, le affermazioni geografiche e le schede Fiere preliminari.
+- Nessuna informazione mancante è stata colmata per inferenza; le questioni di canone non deducibili dalle fonti saranno elencate separatamente.
+
 > *Log di tutte le modifiche alla wiki con data e motivazione.*
 
 ---
