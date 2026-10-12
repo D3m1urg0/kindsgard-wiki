@@ -17,7 +17,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Artigli** — Le torri che compongono l'Anello di Fuoco. Presidi militari e rifugi per gli Umani. Ogni Artiglio ha un Draghiere di stanza responsabile. → vedi [[Geografia del Kindsgard]]
 
-**Battesimo del Fuoco** — L'evento che trasforma un Umano in Draghiere o Vera Fiera. Un Umano affronta e uccide una Fiera, ottenendone l'Istinto e l'Espediente attraverso l'infusione di Fierezza o Maestà. → vedi [[Fierezza e Maestà]]
+**Battesimo del Fuoco** — Il processo che trasforma un Umano in Draghiere o Vera Fiera. Nel caso ordinario, l'Umano affronta e uccide una Fiera, ricevendone l'Istinto e l'Espediente attraverso l'infusione di Fierezza o Maestà; le fonti documentano anche casi eccezionali legati alla connessione con Vilegis/Lunaria. → vedi [[Il Battesimo del Fuoco]]
 
 **Bisogno** — Prima forza ordinante del Kindsgard. L'inevitabile e il necessario: la condizione che motiva ogni azione. → vedi [[Cosmologia]]
 
