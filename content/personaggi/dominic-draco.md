@@ -42,7 +42,7 @@ Fu il primo a raggiungere la Maestà ripetutamente. Fu il primo a sperimentare l
 
 ## La Fondazione dell'Anello
 
-Quando gli Echi di [[Vilegis/Lunaria]] — lo scontro tra Libertà e Dominio — raggiunsero il Kindsgard, i vincoli nell'Istinto di Dominic si allentarono per un istante. In quell'istante vide la verità che nessun altro Draghiere era capace di vedere: senza i cicli, qualsiasi punto estremo avrebbe potuto significare la fine del Kindsgard.
+Quando gli Echi di [[Vilegis/Lunaria]] — lo scontro tra Libertà e Dominio — raggiunsero il Kindsgard, i vincoli nell'Istinto di Dominic si allentarono per un istante. In quell'istante vide la verità che nessun altro Draghiere era capace di vedere: gli eventi esterni, e in particolare la morte del Guardiano-Re di Vilegis/Lunaria legato a uno Spettro, aprivano un rischio che il ciclo tradizionale non poteva più contenere. Senza un'alternanza stabile, qualsiasi punto estremo avrebbe potuto significare la fine del Kindsgard.
 
 Scelse di condannare sé stesso e i suoi compagni a una guerra eterna. Fondò l'**[[Anello di Fuoco]]**: un perimetro di torri ([[Artigli]]) che separava per sempre il Giardino dai territori Umani, interrompendo i cicli.
 
@@ -73,7 +73,7 @@ Con l'assorbimento del tredicesimo vettore, Dominic diventò **Re Draco, Unico G
 Come Re Draco:
 - Le Vere Fiere persero il potere e tornarono Umani semplici
 - I Draghieri non le eliminarono (il loro Istinto non le riconosce come minaccia in forma umana)
-- Draco fondò le **città** per mettere al sicuro gli Umani
+- Draco fondò le **città** per mettere al sicuro gli Umani. Questa scelta violava la legge del Giardino secondo cui tutto deve combattere e apriva un nuovo problema cosmologico; il potere ormai concentrato in Draco gli impediva di coglierne pienamente le conseguenze.
 - Dismise gran parte degli Artigli, ormai superflui con un regno stabile
 - Regna sul Giardino con l'aiuto dei Draghieri
 
