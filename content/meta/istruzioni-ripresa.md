@@ -93,9 +93,28 @@ I titoli definitivi delle due fonti originariamente intitolate “Fierezza” re
 ## Checkpoint normalizzazione repository — 2026-10-12
 
 - **PR #18 integrata:** merge confermato da GitHub, SHA `3f7dc9eaf79099127178e89610aeba0aefdddd64`. Build e deploy su quel commit: `success`. La punta `main` successiva verificata è `94e71a325bf17c06990013a0aa8e1c5ef04cade3`; la build di merge/deploy della PR è distinta dai controlli sul commit successivo.
-- **Inventario branch:** 19 branch remoti inclusi `main`; 18 branch di lavoro residui confrontati con `main`. Tutti e 18 risultano divergenti rispetto alla punta corrente, con commit e contenuti in larga parte storici; il numero di commit “ahead” non equivale a modifiche sicuramente mancanti, perché le stesse correzioni possono essere state riapplicate in commit diversi.
+- **Inventario branch:** 19 branch remoti totali, inclusi `main`; 18 branch non-main. `audit/inventario-completo-fiere` è il branch sorgente della PR #18 già integrata; gli altri 17 sono branch storici divergenti confrontati con `main`. Il numero di commit “ahead” non equivale a modifiche sicuramente mancanti, perché le stesse correzioni possono essere state riapplicate in commit diversi.
 - **Controlli puntuali di identità file:** `content/fonti/list.md` e `content/fonti/mostri.md` su `audit/source-inventory-cleanup` sono byte-identici ai file in `main`; `.github/workflows/deploy.yml` su `maintenance/enforce-wikilink-audit` è byte-identico a `main`. Questi file non richiedono un merge.
 - **Branch con rischio di regressione:** `maintenance/fix-root-index-collision` è obsoleto rispetto alla struttura attuale; non va integrato in blocco. `maintenance/editorial-register-reconciliation`, `maintenance/metadata-review-dates`, `maintenance/reconcile-source-identities` e `maintenance/clarify-unidentified-source-labels` contengono versioni precedenti dei registri meta e vanno trattati come materiale di confronto, non come merge-ready. `maintenance/resolve-wikilinks-by-title` è molto divergente e contiene modifiche al resolver, allo script di audit e ai contenuti: non fare merge indiscriminato senza un confronto completo con la soluzione già presente in `main`.
 - **Classificazione provvisoria:** branch da non mergiare in blocco; componenti esattamente duplicati individuati sopra; contenuti residui da valutare selettivamente prima di ogni eventuale cherry-pick o PR di recupero.
 - **Limite operativo:** gli strumenti GitHub disponibili consentono confronti, lettura/scrittura file, creazione/aggiornamento di branch e merge PR, ma non espongono un'azione di eliminazione dei branch remoti. Nessun branch è stato cancellato o spostato forzatamente: preservata la storia.
 - **Verifica selettiva completata sui temi prioritari:** il testo corrente del Battesimo già distingue il caso Wade dalla regola ordinaria; la Cosmologia già contiene la distinzione tra Fierezza/Maestà e i tredici vettori; il resolver e `scripts/check-wikilinks.mjs` di `maintenance/resolve-wikilinks-by-title` sono byte-identici a `main`; il workflow di validazione esiste già in `main` e include sia controllo wikilink sia build. Le differenze testuali nei branch sono versioni precedenti, non vanno fuse in blocco. Resta da fare un confronto puntuale di eventuali dettagli residuali prima di considerare ogni branch eliminabile.
+
+
+### Registro branch esaminati
+
+**Branch integrato**
+- `audit/inventario-completo-fiere` — head della PR #18, integrata; nessun ulteriore merge necessario.
+
+**Branch storici confrontati, non da mergiare integralmente**
+- Audit: `audit/battesimo-eccezioni-e-coerenza`, `audit/coerenza-battesimo-pagine-potere`, `audit/complete-inktober-frontmatter`, `audit/consolidated-source-and-pages`, `audit/cosmology-levels-and-vilegis-connection`, `audit/source-inventory-and-baptism-consistency`, `audit/source-inventory-cleanup`, `audit/traceability-and-maesta-exception`.
+- Manutenzione: `maintenance/clarify-unidentified-source-labels`, `maintenance/complete-fiery-stubs`, `maintenance/editorial-register-reconciliation`, `maintenance/enforce-wikilink-audit`, `maintenance/fix-root-index-collision`, `maintenance/fix-stale-source-audit-notes`, `maintenance/metadata-review-dates`, `maintenance/reconcile-source-identities`, `maintenance/resolve-wikilinks-by-title`.
+
+**Duplicati/superati verificati**
+- `audit/source-inventory-cleanup`: `content/fonti/list.md` e `content/fonti/mostri.md` hanno lo stesso blob in `main`.
+- `maintenance/enforce-wikilink-audit`: `.github/workflows/deploy.yml` ha lo stesso blob in `main`.
+- `maintenance/resolve-wikilinks-by-title`: `quartz/plugins/transformers/links.ts` e `scripts/check-wikilinks.mjs` hanno lo stesso blob in `main`; anche il workflow `validate.yml` attuale contiene già il controllo wikilink e la build.
+- `maintenance/fix-root-index-collision`: il file `content/_index.md` non è presente né in `main` né nel branch esaminato; non recuperare il file dal branch.
+- I branch rimanenti contengono revisioni precedenti di pagine, changelog o registri. I confronti hanno confermato che il contenuto attuale include già i temi principali di eccezioni del Battesimo, cosmologia/Fondamento e catalogo fonti; eventuali differenze residue richiedono confronto semantico, non merge automatico.
+
+**Pulizia remota:** nessuna cancellazione o riscrittura forzata dei ref eseguita. L'azione GitHub di eliminazione branch non è esposta dagli strumenti disponibili in questa sessione. I branch restano intatti per evitare perdita di storia.
