@@ -127,3 +127,7 @@ La voce `[[Fiamme]]` nasce dai Bruciati descritti in `Inktober 2018 #Scorched`, 
 ### L14 — “Infiammati” in `Inktober 2018 #Flowing`
 Nel resoconto di Brienne Brood sul lavoro al Fiume Bianco si menziona un gruppo di **Infiammati**, che avrebbe lavorato il doppio degli altri Umani. La fonte non li identifica come Bruciati e non stabilisce un legame con la fazione delle Fiamme. La somiglianza dei termini non basta per assimilarli.
 - → **Chiarimento documentale/canonico:** “Infiammati” è un gruppo distinto, una denominazione alternativa dei Bruciati o un termine con altro significato? Fino alla conferma, mantenere i termini separati.
+
+### L15 — Seymour Sandwurm e “ex Shai'Hulud”
+`Elenco Draghieri` elenca **Seymour Sandwurm** con la nota “ex Shai'Hulud”, senza spiegare il rapporto tra i due nomi. Non è possibile stabilire se Shai'Hulud sia un nome precedente del personaggio, una denominazione della Fiera/specie o un riferimento di altro tipo.
+- → **Chiarimento documentale:** che cosa indica “ex Shai'Hulud” nella fonte originale? Fino alla conferma, conservare la formulazione della fonte senza espanderla nella biografia o nella tassonomia.
