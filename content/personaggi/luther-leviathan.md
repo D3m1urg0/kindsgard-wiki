@@ -47,7 +47,7 @@ Il metodo di caccia di Luther è documentato in `Inktober 2018 #Whale`: si immer
 
 ## Stile di Comando
 
-Luther non spiega, non giustifica, non consola. Assegna compiti con frasi minime e si aspetta che vengano eseguiti. La sua autorità è assoluta a bordo della Maelstrom, non perché la imponga ma perché il suo Istinto è infallibile nell'ambiente marino. Gli Umani del suo equipaggio lo seguono per questo, non per affetto.
+Luther non spiega, non giustifica, non consola. Assegna compiti con frasi minime e si aspetta che vengano eseguiti. A bordo della Maelstrom esercita un'autorità molto forte, sostenuta dall'efficacia mostrata nelle cacce marine. Le fonti disponibili non dimostrano però che il suo Istinto sia letteralmente infallibile: la formulazione va letta come caratterizzazione, non come regola oggettiva.
 
 La scena della designazione di Maicol a Capitano è rivelatrice: Luther non chiede, non verifica l'idoneità, non offre conforto. Porge la fascia e pronuncia gli ordini. L'Istinto del Leviatano ha già deciso.
 
