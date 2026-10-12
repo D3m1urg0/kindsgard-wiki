@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Resi più aderenti alle fonti i profili Manticora e Leviatano: rimosse morfologia e varianti cromatiche della Manticora non sostenute dalla canzone, separando la Fiera dalle Vere Fiere con lo stesso nome; circoscritti gli effetti del Canto del Leviatano agli eventi effettivamente narrati in `#Whale`, senza generalizzare distruzione di navi o uccisione di altre specie marine.
+
 - Resi prudenti anche i profili di Kyrin e Sliss: `L'Esodo` attesta che un fuoco attira l'attenzione di un Kyrin, non abitudini notturne; `Onda Bianca` mostra un sospetto dei personaggi sullo Sliss mangiato, non una proprietà certa di causare allucinazioni collettive.
 
 - Corrette due sovrainterpretazioni nelle schede Drago e Behemoth: rimosso il raggio di calore di centinaia di metri non quantificato dalla fonte; chiarito che `#Dragon` mostra neve sciolta in vapore e scudo fuso. Sostituita la falsa “valanga” evocata dal Corno con l'evento attestato — il crollo di una montagna — e rimossi pelle impenetrabile/lentezza del Behemoth non dimostrate dalle fonti narrative attualmente disponibili.
