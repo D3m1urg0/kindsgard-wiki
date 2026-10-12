@@ -128,7 +128,14 @@ La voce `[[Fiamme]]` nasce dai Bruciati descritti in `Inktober 2018 #Scorched`, 
 Nel resoconto di Brienne Brood sul lavoro al Fiume Bianco si menziona un gruppo di **Infiammati**, che avrebbe lavorato il doppio degli altri Umani. La fonte non li identifica come Bruciati e non stabilisce un legame con la fazione delle Fiamme. La somiglianza dei termini non basta per assimilarli.
 - → **Chiarimento documentale/canonico:** “Infiammati” è un gruppo distinto, una denominazione alternativa dei Bruciati o un termine con altro significato? Fino alla conferma, mantenere i termini separati.
 
+### L15 — Seymour Sandwurm e “ex Shai'Hulud”
 `Elenco Draghieri` elenca **Seymour Sandwurm** con la nota “ex Shai'Hulud”, senza spiegare il rapporto tra i due nomi. Non è possibile stabilire se Shai'Hulud sia un nome precedente del personaggio, una denominazione della Fiera/specie o un riferimento di altro tipo.
 - → **Chiarimento documentale:** che cosa indica “ex Shai'Hulud” nella fonte originale? Fino alla conferma, conservare la formulazione della fonte senza espanderla nella biografia o nella tassonomia.
-`Elenco Draghieri` elenca **Seymour Sandwurm** con la nota “ex Shai'Hulud”, senza spiegare il rapporto tra i due nomi. Non è possibile stabilire se Shai'Hulud sia un nome precedente del personaggio, una denominazione della Fiera/specie o un riferimento di altro tipo.
-- → **Chiarimento documentale:** che cosa indica “ex Shai'Hulud” nella fonte originale? Fino alla conferma, conservare la formulazione della fonte senza espanderla nella biografia o nella tassonomia.
+
+### L16 — Sorte delle Vere Fiere dopo l'ascesa di Re Draco
+La cronologia generale afferma che, dopo l'assorbimento dei tredici vettori da parte di Re Draco, le Vere Fiere perdono il potere e tornano Umani. Tuttavia `18___Misfit`, collocato nell'Era del Dominio, presenta Wendy Wyrm e Solomon come Vere Fiere; `Inktober 2018 #Precious` mostra Solomon in forma umanoide, senza chiarire se abbia ancora il potere o sia già tornato Umano. La documentazione disponibile non consente di stabilire se si tratti di eccezioni, di una diversa sequenza temporale o di un'ambiguità narrativa.
+- → **Chiarimento canonico/documentale:** la perdita del potere riguarda tutte le Vere Fiere senza eccezioni, oppure alcuni individui mantengono identità o potere? Prima di risolvere, confrontare la cronologia esatta di `18___Misfit`, `#Precious` e l'ascesa di Re Draco.
+
+### L17 — Identità dei tredici Guardiani
+La cosmologia e la cronologia attestano tredici individui/Guardiani legati ai vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. Le fonti attuali identificano esplicitamente solo una parte del gruppo: Bartholomew Brood, Samu'el Sphynx, Syrus Salamander, Mara Megalapterix e G. Gryffin. La voce di Frederick Fenice porta il tag `guardiano`, ma non spiega se appartenga a questo gruppo e l'Elenco Draghieri non lo marca come tale.
+- → **Chiarimento documentale/canonico:** esiste una lista completa dei tredici Guardiani? Frederick Fenice era uno di loro o il tag è residuo/di altro significato? Non completare l'elenco per inferenza dai personaggi noti.
