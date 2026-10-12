@@ -28,7 +28,7 @@ In `Inktober 2018 #Bottle`, Sebastian trova nel laboratorio i resti di Syrus. La
 
 ### Fine
 
-Syrus morì nel laboratorio dell'Artiglio del Fuoco, nelle circostanze descritte sopra. Fu Sebastian a prendere il suo posto.
+Syrus morì prima degli eventi di `Inktober 2018 #Bottle`; Sebastian ne trova i resti nel laboratorio dell'Artiglio del Fuoco. La fonte non stabilisce che Syrus sia morto lì né chiarisce la causa della morte. Sebastian prese il suo posto.
 
 ---
 
