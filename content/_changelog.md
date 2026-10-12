@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Aggiornato il checkpoint persistente con lo stato della PR #18, l'esito CI, l'inventario delle fonti, le discrepanze geografiche e cosmologiche corrette, il perimetro di verifica e le decisioni residue.
+
 - Rinominata la sezione `Guardiani e personaggi collegati`: l'elenco contiene anche personaggi legati ai Guardiani ma non classificati esplicitamente come tali, quindi il titolo precedente era troppo ampio.
 
 - Corretto un precedente declassamento della descrizione della Maestà: il confronto successivo con la guida OOC canonica `Draghieri del Kindsgard (spiegazione)` ha confermato esplicitamente “il più grande vulcano del mondo” e “grande quanto il mondo”. Ripristinata la formula canonica in Maestà e homepage, aggiunto il riferimento frontmatter a questa fonte e mantenuta distinta la questione della visibilità misurabile da ogni punto.
