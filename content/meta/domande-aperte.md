@@ -64,12 +64,14 @@ La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualm
 - → **Attività residua:** mantenere esplicita la distinzione tra posizioni attestate e inferenze; aggiornare la verifica geografica quando i testi originali saranno nuovamente disponibili. Non chiedere all’utente di chiarire l’identità dei documenti, già chiarita.
 
 ### L4 — Dettagli meccanici del Battesimo del Fuoco
-La meccanica universale è confermata, ma le fonti disponibili non definiscono sistematicamente:
-- Se ogni Fiera può generare un solo Draghiere/Vera Fiera attivo alla volta
-- Se il numero progressivo (es. "33^ Viverna") è globale o per-specie (le fonti fanno pensare a una numerazione per specie, ma non basta a chiudere la questione)
-- Cosa determina la predestinazione di un Umano al Battesimo
-- Se il Battesimo può fallire e quali conseguenze abbia (vedi "Bruciati" in Inktober 2018 #Scorched 19-2)
-- → **Lacuna documentale:** mantenere distinti i punti confermati dalle regole universali e i dettagli non specificati. Recuperare eventuali fonti originali prima di formulare nuove regole.
+La meccanica universale e alcuni dettagli sono stati chiariti dall'utente e non vanno più trattati come domande aperte:
+- Il numero progressivo dei Draghieri è **per specie**, non globale (es. 33ª Viverna).
+- Se un Istinto non si risveglia, può essere già incarnato altrove: in un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie.
+- L'orientamento del risveglio dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato ai Draghieri o alle Vere Fiere.
+- I personaggi giocanti che arrivano tramite la Chiamata sono un caso particolare e possono presentare entrambe le varianti.
+- Il Battesimo può fallire; gli Umani che sopravvivono senza trasformarsi diventano Bruciati, ma i dettagli oltre il seme narrativo delle Fiamme restano incompleti.
+
+La documentazione residua da recuperare riguarda soprattutto la formulazione esatta in D3/D4 e i dettagli dei Bruciati. Non chiedere all'utente di ripetere i punti sopra già chiariti.
 
 
 ### L6 — Completamento delle schede Fiere
