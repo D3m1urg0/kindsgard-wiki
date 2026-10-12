@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Precisate anche le voci Loccia ed Everastes: la fonte `Inktober 2018 #Flowing` documenta le “Lochs” tenute lontane da una rete caricata dai fulmini, ma non descrive dentatura o habitat glaciale; `Inktober 2019 #Snow` caratterizza Ember come adatta al gelo senza definire habitat o immunità della Fiera Everastes.
+
 - Corrette tre sovrainterpretazioni nelle voci Fiere dopo confronto diretto con le fonti: rimossi da Chiroptera fuoco/luce come debolezze, echolocalizzazione e giovani in lattanza non attestati; rimossa l'estensione chilometrica delle radici del Sicomoro Perenne; precisato che il testo sul Fabalo Spinato non specifica che cosa cresca dopo 72 ore.
 
 - Raffinata la scheda di Amaranthus Cruentus dopo confronto diretto con `Inktober 2019 #Overgrown` e `Inktober 2024 #Exotic`: distinti lavaggio delle spore, pericolo del fumo e trattamento delle radici per raccogliere i semi, evitando di suggerire che il lavaggio renda la pianta genericamente commestibile.
