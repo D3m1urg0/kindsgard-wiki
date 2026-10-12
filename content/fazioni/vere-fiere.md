@@ -19,7 +19,7 @@ Le Vere Fiere sono la nemesi dei [[Draghieri]]: individui infusi dello stesso pr
 
 Nel processo ordinario, un [[Battesimo del Fuoco]] può orientarsi verso **Maestà** invece che Fierezza, imprimendo il mandato di predare, regnare e onorare la legge del Giardino. Non tutte le Vere Fiere, però, derivano da un Umano che ha appena ucciso una Fiera: il ciclo storico del Kindsgard prevede anche che i Draghieri, quando raggiungono la vetta della [[Maestà]], vengano trasformati in Vere Fiere. Le due vie non vanno fuse in un'unica sequenza obbligatoria.
 
-Le Vere Fiere non sanno di condividere la stessa fonte di potere dei Draghieri, né di servire lo stesso scopo cosmologico. Credono di essere i figli prediletti di Natura, i suoi paladini, e considerano gli Umani un'aberrazione indegna di sopravvivere.
+Le Vere Fiere, in generale, non sanno di condividere la stessa fonte di potere dei Draghieri né di servire lo stesso scopo cosmologico. Credono di essere i figli prediletti di Natura, i suoi paladini, e considerano gli Umani un'aberrazione indegna di sopravvivere. **Dominic Draco è l'eccezione documentata**: anche durante la fase da Vera Fiera comprende il problema cosmologico e sceglie di proteggere il Giardino attraverso l'Anello.
 
 ---
 
