@@ -16,15 +16,15 @@ fonti: ["Annali_dell_Artiglio_di_Fuoco", "L_esodo", "Inktober_2018", "Inktober_2
 
 ### Panoramica
 
-Syrus Salamander è il **V Draghiere della Salamandra** del Kindsgard. È il predecessore di [[#Sebastian Salamander, VI Salamandra|Sebastian]] e uno dei Draghieri più longevi documentati nelle fonti — la sua firma appare negli **Annali dell'Artiglio di Fuoco**, il documento storico più antico disponibile nel progetto, che lo colloca nell'**Era degli Eroi**, il periodo immediatamente successivo alla fondazione dell'[[Anello di Fuoco]].
+Syrus Salamander è il **V Draghiere della Salamandra** del Kindsgard. È il predecessore di [[#Sebastian Salamander, VI Salamandra|Sebastian]] e uno dei Draghieri più longevi documentati nelle fonti. Una citazione attribuita agli **Annali dell'Artiglio di Fuoco** compare in `Inktober 2019` ed è firmata da Syrus; il testo integrale degli Annali non è presente come file autonomo nel repository. La citazione lo colloca nell'**Era degli Eroi**, il periodo immediatamente successivo alla fondazione dell'[[Anello di Fuoco]].
 
-Syrus portava il titolo di **Guardiano** — era uno dei 13 individui che inconsapevolmente incarnavano un vettore del Fondamento di Lunaria.
+Syrus portava il titolo di **Guardiano** — era uno dei tredici individui che, dopo la connessione del Kindsgard con Vilegis/Lunaria, incarnavano inconsapevolmente un vettore manifestatosi nel Kindsgard in relazione al Fondamento. Questo gruppo successivo non coincide con i sette vettori originari del Kindsgard.
 
 ### Ruolo
 
-Syrus è la voce storica per eccellenza del Kindsgard. Come autore degli Annali, ha documentato l'Era degli Eroi con precisione e consapevolezza cosmologica superiore alla media dei Draghieri. La sua prospettiva è quella di chi ha vissuto abbastanza a lungo da vedere i cicli ripetersi.
+Syrus è presentato come voce storica del Kindsgard attraverso una citazione attribuita agli Annali dell'Artiglio di Fuoco. Il frammento disponibile lo colloca nell'Era degli Eroi, ma il testo integrale degli Annali non è presente nel repository: non è quindi possibile valutare la completezza della sua documentazione né attribuirgli, sulla sola base del frammento, una consapevolezza cosmologica superiore alla media dei Draghieri.
 
-In `Inktober 2018 #Bottle`, Sebastian trova il laboratorio di Syrus con i suoi resti ancora presenti sul tavolo — segno di una morte improvvisa o di un Battesimo fallito nel laboratorio stesso. Gli appunti di Syrus (in bella grafia elegante, inchiostro rosso scuro che ha quasi bruciato le pagine) sono mescolati con quelli di una collaboratrice identificata come **Gertrude** (inchiostro verde), su cui condusse studi medici degli usi di alcune parti di Fiera.
+In `Inktober 2018 #Bottle`, Sebastian trova nel laboratorio i resti di Syrus. La causa e il luogo esatto della morte non sono descritti in modo conclusivo. Poiché Syrus portava il titolo di Guardiano, rientra nel gruppo dei tredici Guardiani uccisi da Dominic durante l'ascesa a Re Draco; il ritrovamento dei resti nel laboratorio non dimostra che sia morto lì né che si sia trattato di un Battesimo fallito. Gli appunti di Syrus (in bella grafia elegante, inchiostro rosso scuro che ha quasi bruciato le pagine) sono mescolati con quelli di una collaboratrice identificata come **Gertrude** (inchiostro verde), su cui condusse studi medici degli usi di alcune parti di Fiera.
 
 ### Fine
 
