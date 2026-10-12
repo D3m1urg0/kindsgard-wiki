@@ -10,6 +10,9 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Precisato il perimetro del conteggio L6: le 26 voci sono i profili classificati nei quattro gruppi; Kyrin e Sliss restano menzioni narrative aggiuntive, mentre i 12 nomi di `Mostri` sono brainstorming e non attestazioni canoniche.
+- Corretto l'introduttivo di `Fiere — Voci Stub`, che attribuiva genericamente tutte le informazioni ai racconti nonostante la pagina utilizzi anche liste OOC e materiale di brainstorming; elencati tutti i 12 nomi della fonte `Mostri` in una sezione esplicitamente non canonica.
+
 - Avviata la riconciliazione del catalogo con il tree GitHub aggiornato dopo PR #10.
 - Reso esaustivo il registro L6 delle Fiere: la lista ora copre tutte le 26 voci preliminari presenti nel bestiario, raggruppate per categoria, e distingue la presenza di una voce dalla disponibilità di fonti sufficienti per una scheda tecnica.
 - Estesa la verifica dei frontmatter alle raccolte Inktober: aggiunte le fonti 2018/2019 alle tradizioni, 2018 alle Vere Fiere, 2018/2019 alle Ere e tutte e tre le raccolte alla cronologia, in coerenza con i riferimenti espliciti nel testo.
