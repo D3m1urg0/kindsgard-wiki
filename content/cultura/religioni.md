@@ -3,7 +3,7 @@ titolo: "Religioni e Spiritualità"
 categoria: "cultura"
 tag: [religioni, spiritualità, bisogno, fierezza, natura, umani]
 status: "revisionato"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-12"
 fonti: ["Fierezza__il_Dio_che_è_in_noi", "La_natura_di_Natura", "Cronistoria_versione_breve", "D3-cronistoria-ooc", "Inktober_2019"]
 ---
 
