@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Corretto il rendering Markdown dei versi con hard line breaks (due spazi finali, senza modificare parole, punteggiatura o ordine) in `Canzoni degli Umani`, `Deflecte Cantum`, `L'Animale Uomo`, `Lamento di Wade`, il componimento finale di `L'Ultima Notte all'Ombra dell'Anello` e i tre versi citati in `Una Missiva dall'Anello`.
+
 - Registrata come lacuna L18 la menzione non datata di “Salamandra” in `L'Esodo`: la frase non permette di identificare Syrus, Sebastian o la Fiera/fazione in senso più ampio.
 
 - Riallineata la struttura del bestiario al conteggio L6: Tentacolo Scarlatto è ora nella sezione delle tre Fiere minori classificate; Tentacolo Purpureo resta tra le menzioni aggiuntive non conteggiate.
