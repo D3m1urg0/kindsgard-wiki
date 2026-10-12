@@ -37,7 +37,7 @@ Fiera marina che si muove nelle profondità del Mare Interno. In `Inktober 2018 
 La canzone degli Umani descrive il sorriso della Manticora come un richiamo che induce a seguirla e come intriso di veleno (`Canzoni degli Umani`, “Giù nel Bosco”). La fonte non specifica morfologia, varianti cromatiche né modalità precise di trasmissione del veleno. Le figure di Vere Fiere associate al nome Manticora non vanno usate per dedurre la fisiologia della Fiera.
 
 ### Sfinge
-Fiera che pone enigmi. La sua trappola è la curiosità: chi risponde a una domanda della Sfinge rischia di diventarne il pasto. *"Non fidarti della Sfinge, lascia star curiosità: quando il dubbio ormai ti affligge sei il suo pasto e lei lo sa."* (`Canzoni degli Umani`). Istinto: conoscenza come strumento di caccia.
+Fiera rappresentata nella canzone degli Umani come una creatura che usa enigmi e curiosità per attirare la preda: *"Non fidarti della Sfinge, lascia star curiosità: quando il dubbio ormai ti affligge sei il suo pasto e lei lo sa."* (`Canzoni degli Umani`, “Giù nel Bosco”). Si tratta della rappresentazione in-world della canzone, non di una scheda tecnica completa.
 
 ### Chimera
 Fiera a tre teste (capra, leone, serpente), ali di drago, coda di serpente, fuoco. Quando è in branco dopo la caccia, non usa il fuoco — lo considera inutile e pericoloso per il branco. Punto debole: non si aspetta il fuoco da una fonte umana (`Inktober 2018 #Poisonous`).
@@ -46,7 +46,7 @@ Fiera a tre teste (capra, leone, serpente), ali di drago, coda di serpente, fuoc
 Fiera alata, descritta nella filastrocca degli Umani come una minaccia dalla coda letale (`Canzoni degli Umani`, “Giù nel Bosco”). Le fonti descrivono veleno e sangue pietrificante nell'Espediente del Draghiere Wade Wyrm (`Inktober 2018`, `Inktober 2019 #Sling`), ma non separano in modo completo questi tratti dalla fisiologia della Fiera stessa: non trasferirli automaticamente alla scheda della specie.
 
 ### Grifone
-Fiera con corpo di leone e ali/testa di aquila. Piume cangianti del colore dei tronchi — si mimetizza nella foresta. Tre esemplari in `Inktober 2019 #Sling`: attaccano un gruppo di Umani e Cornelius Cockatrix li abbatte con dardi della propria arma. I Grifoni colpiti si pietrificano e si frantumano; il testo collega l'effetto al dardo e al sangue pietrificante del Draghiere della Cockatrice, non a uno sguardo del Grifone. La fonte non attribuisce ai Grifoni una capacità di pietrificazione.
+Fiera con corpo felino, ali e becco affilato. In `Inktober 2019 #Sling`, le piume dei Grifoni sono descritte come cangianti e dello stesso colore dei tronchi, favorendo la mimetizzazione nella foresta. Tre esemplari in `Inktober 2019 #Sling`: attaccano un gruppo di Umani e Cornelius Cockatrix li abbatte con dardi della propria arma. I Grifoni colpiti si pietrificano e si frantumano; il testo collega l'effetto al dardo e al sangue pietrificante del Draghiere della Cockatrice, non a uno sguardo del Grifone. La fonte non attribuisce ai Grifoni una capacità di pietrificazione.
 
 ### Cockatrice
 Grande volatile con testa, bargigli neri, rostro affilato. Gli occhi della Cockatrice pietrificano (`Fierezza.docx`). Il Draghiere della Cockatrice acquisisce questa capacità: il suo sangue pietrifica. I quadrelli della sua balestra portano una sostanza pietrificante. Altezza: circa doppia rispetto a un Umano. Fiera vorace e aggressiva.
@@ -90,7 +90,7 @@ Fitofiera dei terreni umidi. Germoglia rapidamente nei terreni ex-paludosi. Peri
 Fitofiera carnivora del settore Ovest delle [[Colture]]. I liquidi digestivi esplodono e schizzano se incendiati — richiede l'innesco di fuoco al centro e una rapida fuga (`Inktober 2019 #Overgrown`).
 
 ### Mandragora
-Fitofiera radicata. Se estratta dal terreno uccide. Il trattamento richiede di versare acido su tutto il terreno circostante per renderla inerme, poi ucciderla radicata. Coltivata nel settore Nord delle [[Colture]] (`Inktober 2019 #Overgrown`).
+Fitofiera radicata coltivata nel settore Nord delle [[Colture]]. `Inktober 2019 #Overgrown` avverte che chi la estrae dal terreno muore; la bonifica descritta prevede di cospargere d'acido il terreno circostante per renderla inerme e poi ucciderla.
 
 ### Chayote Strangolatore
 Fitofiera con tentacoli. Sensibile. Il fuoco può bruciarla ma i tentacoli in fiamme diventano ancora più pericolosi. Coltivata nel settore Est delle [[Colture]] come punto d'accesso alla bonifica (`Inktober 2019 #Overgrown`).
