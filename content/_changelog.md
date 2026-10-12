@@ -21,6 +21,7 @@ ultima_modifica: "2026-10-11"
 - Riconciliato il riferimento agli `Annali dell'Artiglio delle Sabbie` in `Inktober 2024 #Exotic`, distinto dagli `Annali dell'Artiglio di Fuoco` citati in `Inktober 2019`; aggiunta la lacuna L12 senza presumere che i due titoli indichino lo stesso documento.
 - Audit geografico mirato: “Valle dei Tuoni” compare soltanto come alias legacy, senza riscontro indipendente nelle fonti presenti. La geografia ora segnala esplicitamente l'incertezza invece di presentare i due nomi come equivalenti certi.
 - Riclassificata con cautela l'intestazione della voce `Fiamme`: le fonti attestano il legame narrativo con i Bruciati e la presenza della fazione su Vilegis, ma non documentano una fazione organizzata delle Fiamme nel Kindsgard. Aggiunta la domanda L13 senza risolverla per inferenza.
+- Precisata la provenienza degli `Annali dell'Artiglio di Fuoco`: è presente una citazione attribuita a Syrus in `Inktober 2019`, ma non è dimostrato che coincida con il file legacy atteso né che il documento integrale sia stato conservato.
 - Nessuna informazione mancante è stata colmata per inferenza; le questioni di canone non deducibili dalle fonti saranno elencate separatamente.
 
 > *Log di tutte le modifiche alla wiki con data e motivazione.*
