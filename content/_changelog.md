@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Completato un controllo delle date editoriali sulle voci sintetiche toccate dalla PR consolidata #15: aggiornati i frontmatter ancora fermi al 2025 o al 2026-10-11 (Religioni, Fiamme, Altri Personaggi, Bran Behemoth, Brood, Luther Leviathan, Salamander, Samu'el Sphynx, Solomon e Wendy Wyrm). Nessun testo narrativo è stato modificato in questo passaggio.
+
 - Ridimensionate nella voce Maestà due affermazioni non misurate dalle fonti disponibili: rimosso il primato assoluto di “più grande vulcano del mondo” e la visibilità garantita da ogni punto; sostituite con la descrizione letteraria di `Inktober 2019 #Ring`. Segnalato come inferenza, non dato certo, il collegamento tra il ghiacciaio descritto in `#Bait` e il vulcano Maestà.
 
 - Allineata anche la nota finale L3 in Geografia alla nuova evidenza: “Valle dei Tuoni” non è più descritto come alias legacy, poiché il nome è attestato in `Inktober 2019 #Snow`.
