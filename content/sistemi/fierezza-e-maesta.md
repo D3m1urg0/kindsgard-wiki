@@ -52,7 +52,9 @@ Il Battesimo del Fuoco è l'evento che trasforma un Umano in Draghiere o Vera Fi
 4. In quell'istante Fierezza/Maestà si infonde in lui, trasferendogli l'Istinto e l'Espediente della Fiera sconfitta
 5. L'Umano prende il nome della Fiera come cognome e un numero progressivo nella sequenza di quella specie
 
-L'orientamento dell'infusione — verso Fierezza (Draghiere) o verso Maestà (Vera Fiera) — determina quale mandato il portatore riceverà. I due orientamenti sono opposti ma attingono allo stesso principio cosmologico.
+L'orientamento dell'infusione — verso Fierezza (Draghiere) o verso Maestà (Vera Fiera) — dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato rispettivamente ai Draghieri o alle Vere Fiere. I due orientamenti sono opposti ma attingono allo stesso principio cosmologico. Questo collegamento appartiene alla fase successiva all'interconnessione dei mondi, non alla cosmologia originaria del Kindsgard.
+
+Un Istinto che non si risveglia non è necessariamente assente: può essere già incarnato altrove. In un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie. I personaggi giocanti che arrivano tramite la Chiamata costituiscono un caso particolare e possono presentare entrambe le varianti.
 
 Il Battesimo può fallire: gli Umani che affrontano una Fiera e sopravvivono senza completare la trasformazione diventano i **[[Bruciati]]**, menomati permanenti che non ottengono poteri ma perdono qualcosa di irrecuperabile. I Bruciati sono il seme della fazione delle **[[Fiamme]]**. ⚪ *Documentazione incompleta.*
 
@@ -74,7 +76,7 @@ Le Vere Fiere non mantengono un conteggio progressivo dei propri membri: ogni Ve
 
 ## Il Ciclo
 
-Per eoni, Fierezza e Maestà si sono alternate nel dominio del Kindsgard secondo un ciclo:
+Per eoni, Fierezza e Maestà si sono alternate nel dominio del Kindsgard secondo un ciclo. Normalmente, quando i Draghieri si avvicinano alla Maestà, il ciclo cambia orientamento e i nuovi risvegli sono soltanto Vere Fiere; non significa però che in ogni evento o periodo storico esistano esclusivamente Vere Fiere:
 
 - Quando gli Umani erano prossimi all'estinzione, Fierezza sorgeva nel cuore degli Eroi → i Draghieri avanzavano, strappando terre al Giardino
 - Quando i Draghieri raggiungevano la vetta della [[Maestà]], la stessa forza si rivoltava in loro → diventavano Vere Fiere, regnavano sul Kindsgard divorando e abusando
