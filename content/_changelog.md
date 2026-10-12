@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Raffinate altre tre schede: Sfinge ora distingue la rappresentazione nella canzone in-world da una scheda tecnica oggettiva; Grifone non importa la testa d'aquila dalla tradizione mitologica esterna, mantenendo solo corpo felino, ali e becco attestati; Mandragora chiarisce che l'estrazione è letale per chi la rimuove, non che la pianta uccida soltanto perché estratta.
+
 - Corretto il profilo Atrax: la fonte che quantifica gli esemplari grandi circa due teste li identifica come piccoli, non adulti; il veleno è attestato ma non ne viene specificato l'effetto. Aggiunto il riferimento diretto a `Inktober 2018 #Guarded` e mantenuta la vulnerabilità delle tele al fuoco, confermata anche da `Inktober 2019 #Pattern`.
 
 - Resi più aderenti alle fonti i profili Manticora e Leviatano: rimosse morfologia e varianti cromatiche della Manticora non sostenute dalla canzone, separando la Fiera dalle Vere Fiere con lo stesso nome; circoscritti gli effetti del Canto del Leviatano agli eventi effettivamente narrati in `#Whale`, senza generalizzare distruzione di navi o uccisione di altre specie marine.
