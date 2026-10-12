@@ -46,7 +46,7 @@ Draghiere del Sicomoro Perenne — una Fitofiera. Opera nelle zone boschive. Por
 Draghiere dell'Aconito. Opera nelle zone boschive insieme a Sef Sycamore. Perde il braccio sinistro durante la bonifica della Foresta ambulante — continua a combattere. Porta torce su bastoni lunghi per dare fuoco alle Fiere vegetali (`Inktober 2019 #Mindless`, `Inktober 2019 #Ash`).
 
 ### Axsar Aigokeros, II Egocero
-Draghiere dell'Egocero. Gestisce un tempio-rifugio sulle scogliere dove accoglie gli Umani durante le alluvioni stagionali. Predica la rinuncia al desiderio come forma di sopravvivenza: *"Desiderare è il primo errore."* Porta uno scudo intarsiato. Il suo Istinto è orientato alla guida spirituale e alla protezione psicologica degli Umani (`Inktober 2019 #Ornament`).
+Draghiere dell'Egocero. Gestisce un tempio-rifugio sulle scogliere dove accoglie gli Umani durante le alluvioni stagionali. Predica la rinuncia al desiderio come forma di sopravvivenza: *"Desiderare è il primo errore."* Porta uno scudo intarsiato. Il racconto lo presenta in un ruolo di guida spirituale e protezione degli Umani; la formulazione è una sintesi del suo comportamento in `Inktober 2019 #Ornament`, non una definizione tecnica esplicita dell'Istinto.
 
 ### Ashur Alicanthus, VII Alicanto
 Draghiere dell'Alicanto. Appare in `Inktober 2019 #Build` tra i Draghieri schierati verso la Città-Alveare. Le fonti citate non descrivono capacità specifiche o un habitat proprio di Ashur; non attribuirgli l'emissione di luce dalle piume sulla sola base del nome della Fiera.
