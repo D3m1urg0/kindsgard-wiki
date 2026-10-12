@@ -105,7 +105,7 @@ Pianta con proprietà tossiche progressive. Può essere trattata per renderla in
 
 **Leopterix** — Fiera associata a Lhars Leopterix. Il Draghiere porta un mantello fatto di pelle e piume della propria Fiera, ma le fonti attuali non descrivono direttamente la morfologia della specie. La precedente etichetta “ibrida rettile-volatile” non è confermata da una descrizione esplicita; dimensioni, habitat preciso, capacità offensive e vulnerabilità restano ignoti (*Elenco Draghieri*, *Inktober 2019 #Freeze, #Snow, #Dragon*).
 
-**Everastes** — Fiera montana di grandi dimensioni, coperta di pelliccia candida e capace di mimetizzarsi nella neve; è descritta come immune al freddo. Ember Everastes porta un martello da guerra di pietra grezza, ma l’arma appartiene al Draghiere e non va trattata come proprietà della specie (*Inktober 2019 #Snow, #Dragon*).
+**Everastes** — Fiera montana associata a Ember Everastes. `Inktober 2019 #Snow` descrive il Draghiere con pellicce candide e come “fatta per stare in mezzo al gelo”, ma non stabilisce in modo esplicito che la Fiera sia immune al freddo. Ember porta un martello da guerra di pietra grezza, ma l’arma appartiene al Draghiere e non va trattata come proprietà della specie (*Inktober 2019 #Snow, #Dragon*).
 
 
 **Kyrin** — Fiera dell'altopiano, notturna o crepuscolare. Attirata dai fuochi. Menzionata in `L'esodo`.
