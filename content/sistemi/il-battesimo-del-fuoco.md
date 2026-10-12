@@ -3,7 +3,7 @@ titolo: "Il Battesimo del Fuoco"
 categoria: "sistemi"
 tag: [battesimo, fierezza, maestà, draghieri, vere-fiere, meccanica]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Fierezza", "Cronistoria_versione_breve", "Inktober_2018"]
 ---
 
@@ -40,7 +40,7 @@ Con l'infusione, l'Umano riceve:
 - L'**Espediente** della Fiera: le capacità fisiche e soprannaturali specifiche
 - **Longevità**: il corpo smette di invecchiare e non è più soggetto a malattie comuni
 - **Forza e resistenza sovrumane**: base comune a tutti i portatori
-- Il **nome della Fiera** come cognome e un **numero progressivo** nella sequenza di quella specie
+- Il **nome della Fiera** come cognome; il numero progressivo per specie si applica ai Draghieri, non alle Vere Fiere
 
 La trasformazione sovrascrive quasi interamente la personalità originaria dell'Umano. Ciò che rimane è determinato dall'Istinto della Fiera sconfitta.
 
@@ -80,9 +80,9 @@ I Bruciati sono il seme narrativo della fazione delle [[Fiamme]]. ⚪ *Documenta
 
 Le seguenti sotto-domande sulla meccanica del Battesimo non sono ancora chiarite nelle fonti disponibili:
 
-- Se ogni Fiera viva può generare un solo Draghiere/Vera Fiera attivo alla volta, o se più individui possono portare lo stesso Espediente contemporaneamente
-- Cosa determina esattamente la **predestinazione** di un Umano al Battesimo — perché alcuni Umani reagiscono con il Battesimo mentre altri, in condizioni simili, muoiono o diventano Bruciati
-- Se l'orientamento Fierezza/Maestà dell'infusione è determinato dall'Umano, dalla Fiera, o da fattori cosmologici esterni
+- Un Istinto che non si risveglia può essere già incarnato altrove: in un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie.
+- L'orientamento Fierezza/Maestà dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato ai Draghieri o alle Vere Fiere. I personaggi giocanti che arrivano tramite la Chiamata costituiscono un caso particolare e possono presentare entrambe le varianti.
+- Restano da chiarire i fattori che determinano perché un Umano specifico affronti il Battesimo, muoia o sopravviva come Bruciato; i dettagli ulteriori sui Bruciati sono sospesi in attesa di un approfondimento dell'utente.
 
 ⚪ *Vedi [[Domande Aperte e Lacune]] L4.*
 

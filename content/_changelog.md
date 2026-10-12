@@ -189,3 +189,19 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Corretto il registro: le identità delle fonti non sono più descritte come sconosciute. I testi integrali non sono stati trovati nel tree GitHub né nella ricerca della Library collegata, quindi le verifiche puntuali restano parziali.
 - Aggiornata L1 e L3 per attribuire i riferimenti ad Anarion, Fondamento e alla verifica geografica ai documenti identificati, mantenendo esplicita la mancata disponibilità dei testi originali.
 - Rimosso dalle istruzioni di ripresa il controllo ormai superato sul duplicato `index.md`/`_index.md`, già risolto, sostituendolo con la riconciliazione degli altri due percorsi sorgente ancora irrisolti.
+
+
+## 2026-10-12 — Distinzione dei livelli cosmologici
+
+- Chiarita in `Cosmologia` la distinzione fra i sette vettori originari del Kindsgard, i tredici Spettri di Vilegis/Lunaria e i tredici vettori/Guardiani manifestatisi nel Kindsgard in seguito alla connessione fra i mondi.
+- Precisato che non va presunta una corrispondenza uno-a-uno fra i sette vettori originari e i tredici Spettri.
+- Qualificate in `Cronologia` e `Le Ere del Kindsgard` le corrispondenze con Lunaria come parallelismi storici, non equivalenze totali fra i due setting.
+- Aggiornati glossario e registro delle lacune per riflettere i chiarimenti già forniti dall’utente, lasciando aperti solo i dettagli non verificabili senza i testi integrali D3/D4.
+- Nessuna informazione del setting esterno è stata importata come canone indipendente del Kindsgard.
+- Registrato il Kindsgard come Mondo Ancora collegato, mantenendo aperti i dettagli non definiti di Anarion e dei criteri di riconoscimento.
+- Esplicitata la relazione causale tra la morte del Guardiano-Re di Vilegis/Lunaria, la scelta di Dominic di interrompere i cicli e il rischio cosmologico.
+- Registrata la conseguenza della fondazione delle città: viola la legge del Giardino secondo cui tutto deve combattere.
+- Aggiornate le regole del Battesimo già chiarite: unicità dell'incarnazione per tipo di creatura/specie nel periodo, orientamento legato all'esito della battaglia su Vilegis e numerazione progressiva dei soli Draghieri.
+- Aggiunto il termine Mondo Ancora al glossario e distinto il dato confermato (Kindsgard collegato come Mondo Ancora) dai dettagli ancora da recuperare.
+- Ristretta la domanda cronologica A1 alla sola collocazione non determinata di Inktober 2024; mantenute le raccolte 2018/2019 al livello di Era del Dominio senza inventare date per i singoli racconti.
+- Precisato nel catalogo che `draghieri-spiegazione.md` tratta il dualismo Draghieri/Vere Fiere, ma non è possibile affermare senza l'originale che coincida con il riferimento storico `Draghieri/Vere Fiere del Kindsgard`.

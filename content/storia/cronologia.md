@@ -3,13 +3,15 @@ titolo: "Cronologia"
 categoria: "storia"
 tag: [cronologia, timeline, storia]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Risveglio_del_Drago"]
 ---
 
 # Cronologia
 
 > *Timeline master degli eventi del Kindsgard. Per la descrizione narrativa delle ere, vedi [[Le Ere del Kindsgard]]. Per le relazioni cosmologiche, vedi [[Cosmologia]].*
+
+> **Nota sulle corrispondenze con Lunaria:** le analogie fra le Ere del Kindsgard e quelle di Vilegis/Lunaria sono riportate dalle fonti come allineamenti storici e narrativi. Non implicano che i due mondi siano identici, che gli eventi si corrispondano sempre uno-a-uno o che gli elementi introdotti dalla connessione appartengano alla cosmologia originaria del Kindsgard.
 
 ---
 
@@ -41,7 +43,7 @@ Il tempo sul Kindsgard non è costante. Periodi di dilatazione temporale causati
 
 ## Fondazione dell'Anello
 
-**[Anno X del ciclo recente]** — Su [[Vilegis/Lunaria]], Libertà e Dominio si scontrano. Gli Echi raggiungono il Kindsgard. I vincoli nell'Istinto di Dominic si allentano per un istante.
+**[Anno X del ciclo recente]** — Su [[Vilegis/Lunaria]], Libertà e Dominio si scontrano; gli eventi esterni comprendono la morte del Guardiano-Re legato a uno Spettro. Gli Echi raggiungono il Kindsgard e i vincoli nell'Istinto di Dominic si allentano per un istante.
 
 **[Anno X]** — Dominic vede la verità: senza i cicli, il Kindsgard è condannato. Sceglie di interrompere i cicli e fonda l'**[[Anello di Fuoco]]**: un cerchio di torri ([[Artigli]]) che separa il Giardino dai territori Umani. L'avanzata si ferma.
 
@@ -83,7 +85,7 @@ Il tempo sul Kindsgard non è costante. Periodi di dilatazione temporale causati
 
 **[Anno 1 del Draco]** — Un incidente temporale rallenta il tempo sul Kindsgard: ogni anno di Lunaria corrisponde ora a **cento anni** del Kindsgard.
 
-**[Anno 1 del Draco]** — Ogni Draghiere caduto in quest'anno si risveglia come Vera Fiera nella sua nuova incarnazione. Anche i Draghieri su Vilegis vedono la loro essenza duplicata nelle proprie **Nemesi**.
+**[Anno 1 del Draco]** — Ogni Draghiere caduto in quest'anno si risveglia come Vera Fiera nella sua nuova incarnazione. Anche i Draghieri su Vilegis vedono la loro essenza duplicata nelle proprie **Nemesi**. Questo non significa che in tutto l'Anno del Draco esistano soltanto Vere Fiere: i Draghieri ancora attivi restano presenti, e il fenomeno della duplicazione riguarda in particolare quelli che si trovano su Vilegis.
 
 **[Primo Secolo del Draco — periodo]** — Ishvard, mutaforma di Vilegis, viene trasferito sul Kindsgard. L'umano Ishvard e la Fiera Karsh vengono separati. Doppio Battesimo del Fuoco: Ishvard diventa Draghiere della Manticora, Karsh diventa Vera Manticora. *Unicum narrativo, non ripetibile.*
 
@@ -95,9 +97,9 @@ Il tempo sul Kindsgard non è costante. Periodi di dilatazione temporale causati
 
 **[Periodo]** — Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** per forgiare l'arma **Espediente** e proteggere il Kindsgard dalla minaccia del Nexus.
 
-**[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard** — Draghieri, Vere Fiere o Fiere effettive che inconsapevolmente incarnavano i 13 vettori del Fondamento di Lunaria — assorbendone il titolo uno per uno.
+**[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard** — Draghieri, Vere Fiere o Fiere effettive che inconsapevolmente incarnavano i 13 vettori collegati al Fondamento di Lunaria — assorbendone il titolo uno per uno.
 
-**[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice di tutto il Fondamento, non più Draghiere né Vera Fiera. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli, regna sul Giardino con i Draghieri.
+**[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard, non più Draghiere né Vera Fiera. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli e regna sul Giardino con i Draghieri. La fondazione delle città infrange la legge del Giardino secondo cui tutto deve combattere: è un problema generato dalla scelta di Draco, che il potere ormai concentrato in lui gli impedisce di vedere pienamente.
 
 ---
 

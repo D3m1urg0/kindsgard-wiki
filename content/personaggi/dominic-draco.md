@@ -3,7 +3,7 @@ titolo: "Dominic Draco"
 categoria: "personaggi"
 tag: [dominic-draco, draghieri, vere-fiere, re-draco, unico-guardiano, protagonista]
 status: "revisionato"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-12"
 aliases: ["Re Draco", "Unico Guardiano", "Re Draco, Unico Guardiano"]
 fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artiglio_di_Fuoco", "Solitudine", "18___Misfit", "Risveglio_del_Drago", "Inktober_2019", "Deflecte_Cantum", "L_Animale_Uomo"]
 ---
@@ -42,7 +42,7 @@ Fu il primo a raggiungere la Maestà ripetutamente. Fu il primo a sperimentare l
 
 ## La Fondazione dell'Anello
 
-Quando gli Echi di [[Vilegis/Lunaria]] — lo scontro tra Libertà e Dominio — raggiunsero il Kindsgard, i vincoli nell'Istinto di Dominic si allentarono per un istante. In quell'istante vide la verità che nessun altro Draghiere era capace di vedere: senza i cicli, qualsiasi punto estremo avrebbe potuto significare la fine del Kindsgard.
+Quando gli Echi di [[Vilegis/Lunaria]] — lo scontro tra Libertà e Dominio — raggiunsero il Kindsgard, i vincoli nell'Istinto di Dominic si allentarono per un istante. In quell'istante vide la verità che nessun altro Draghiere era capace di vedere: gli eventi esterni, e in particolare la morte del Guardiano-Re di Vilegis/Lunaria legato a uno Spettro, aprivano un rischio che il ciclo tradizionale non poteva più contenere. Senza un'alternanza stabile, qualsiasi punto estremo avrebbe potuto significare la fine del Kindsgard.
 
 Scelse di condannare sé stesso e i suoi compagni a una guerra eterna. Fondò l'**[[Anello di Fuoco]]**: un perimetro di torri ([[Artigli]]) che separava per sempre il Giardino dai territori Umani, interrompendo i cicli.
 
@@ -62,7 +62,7 @@ Nel racconto `Solitudine`, la Vera Viverna lo descrive come capace di "pietà" �
 
 ## L'Ascesa a Re Draco
 
-Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi, Dominic la usò per uccidere i **13 Guardiani del Kindsgard** — individui (Draghieri, Vere Fiere o Fiere effettive) che inconsapevolmente incarnavano i 13 vettori del Fondamento di Lunaria — assorbendone il titolo uno per uno.
+Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi, Dominic la usò per uccidere i **13 Guardiani del Kindsgard** — individui (Draghieri, Vere Fiere o Fiere effettive) che, dopo la connessione con Vilegis/Lunaria, incarnavano inconsapevolmente i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento — assorbendone il titolo uno per uno.
 
 Con l'assorbimento del tredicesimo vettore, Dominic diventò **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice di tutto il Fondamento del Kindsgard — e quindi di [[Fierezza e Maestà]] insieme.
 
@@ -73,7 +73,7 @@ Con l'assorbimento del tredicesimo vettore, Dominic diventò **Re Draco, Unico G
 Come Re Draco:
 - Le Vere Fiere persero il potere e tornarono Umani semplici
 - I Draghieri non le eliminarono (il loro Istinto non le riconosce come minaccia in forma umana)
-- Draco fondò le **città** per mettere al sicuro gli Umani
+- Draco fondò le **città** per mettere al sicuro gli Umani. Questa scelta violava la legge del Giardino secondo cui tutto deve combattere e apriva un nuovo problema cosmologico; il potere ormai concentrato in Draco gli impediva di coglierne pienamente le conseguenze.
 - Dismise gran parte degli Artigli, ormai superflui con un regno stabile
 - Regna sul Giardino con l'aiuto dei Draghieri
 

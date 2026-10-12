@@ -3,7 +3,7 @@ titolo: "Domande Aperte e Lacune"
 categoria: "meta"
 tag: [meta, lacune, ambiguità, domande]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-12"
 ---
 
 # Domande Aperte e Lacune
@@ -32,22 +32,26 @@ La voce narrativa `[[Altri Personaggi]]` usa **Angeline Aconitum**, mentre `Elen
 - → **HITL:** quale grafia va adottata come canonica? Fino alla conferma, mantenere la variante originale nella citazione della fonte e non correggerla retroattivamente.
 
 ### A1 — Collocazione cronologica degli Inktober
-Gli Inktober 2018, 2019 e 2024 non hanno datazione interna esplicita rispetto alla timeline master. Alcune deduzioni contestuali:
-- **Inktober 2018 e 2019:** Draco è Re, l'Anello è (ri)integro, le Vere Fiere sembrano sconfitte o assenti. Suggerisce ambientazione post-Primo Secolo del Draco, nell'Era del Dominio.
-- **Inktober 2024:** Ambientazione incerta, possibilmente successiva o parallela.
-- → **Vuoi mappare ogni racconto sulla timeline, o lasciarli come materiale "fluttuante"?**
+La raccolta **Inktober 2018** è catalogata come post-Anno del Draco/Era del Dominio; **Inktober 2019** è anch'essa associata all'Era del Dominio e i racconti mostrano Re Draco e l'Anello ripristinato. È sufficiente mantenere questa collocazione a livello di raccolta: le singole storie non hanno tutte una data interna precisa e non vanno assegnate a un anno inventato.
+
+La collocazione di **Inktober 2024** rispetto alla timeline master resta indeterminata. Le storie forniscono indizi di contesto, ma non una datazione certa. Per ora va mantenuta come raccolta non collocata, senza chiedere una scelta editoriale che le fonti non possono risolvere.
 
 ---
 
 ## ⚪ Lacune e verifiche residue (contenuto mancante o incompleto)
 
 ### L1 — Cosmologia profonda: Mondi Ancora, Fondamento, Creatori
-Nessun documento definisce compiutamente:
-- **Mondi Ancora**: cosa sono, come vengono riconosciuti, perché il Kindsgard è il "primo Mondo Ancora riconosciuto dalla caduta di Anarion"
-- **Il Fondamento**: menzionato nella Cronistoria OOC (fonte identificata dall’utente, testo originale non disponibile qui) in relazione al Battesimo di Dominic ("come altrove accadeva con l'energia del Fondamento") e in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir")
-- **I Creatori**: menzionati nel titolo del progetto ma non documentati
-- **Anarion**: menzionato in “You Want to Be a Dragoner” (fonte identificata dall’utente come guida ai Draghieri, testo originale non disponibile qui) come evento di riferimento ("dalla caduta di Anarion"), ma non descritto
-- → **Materiale non ancora documentato. Archiviato come lacuna aperta.**
+Il quadro resta incompleto perché i testi integrali D3 e D4 non sono disponibili nel repository consultato. Sono però stati chiariti alcuni punti strutturali che non vanno più trattati come dubbi:
+- La cosmologia originaria del Kindsgard comprende sette vettori: Natura, Bisogno, Espediente, Umani, Fiere, Draghieri e Vere Fiere.
+- I tredici Spettri appartengono al sistema del Fondamento di Vilegis/Lunaria; non sono sinonimi dei sette vettori e non va presunta una corrispondenza uno-a-uno.
+- La manifestazione nel Kindsgard di tredici vettori/Guardiani collegati al Fondamento appartiene alla connessione successiva con Vilegis/Lunaria, non alla cosmologia originaria.
+
+Restano da documentare direttamente:
+- **Mondi Ancora**: è confermato che il Kindsgard è stato collegato come Mondo Ancora e che i Mondi Ancora riflettono la struttura del Fondamento. Restano da documentare la definizione precisa, i criteri di riconoscimento e il significato della frase "primo Mondo Ancora riconosciuto dalla caduta di Anarion".
+- **Il Fondamento**: il passaggio della Cronistoria OOC sul Battesimo di Dominic e il riferimento in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir").
+- **I Creatori**: menzionati nel titolo del progetto ma non descritti nelle fonti Kindsgard disponibili.
+- **Anarion**: menzionato in “You Want to Be a Dragoner” come evento di riferimento ("dalla caduta di Anarion"), ma non descritto.
+- → **Lacuna documentale residua:** non dedurre dettagli ulteriori finché D3/D4 o altre fonti primarie non siano disponibili.
 
 ### L2 — Il tredicesimo Spettro — candidato esterno da verificare
 I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà. Il sito ufficiale attuale di Battle for Vilegis dichiara che gli Spettri sono tredici; la pagina di Gregoria associa il suo principio all’**Equilibrio**. Questo rende Equilibrio un candidato plausibile, ma le pagine attuali possono appartenere a una versione del setting diversa da quella richiamata nelle fonti Kindsgard.
@@ -59,12 +63,14 @@ La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualm
 - → **Attività residua:** mantenere esplicita la distinzione tra posizioni attestate e inferenze; aggiornare la verifica geografica quando i testi originali saranno nuovamente disponibili. Non chiedere all’utente di chiarire l’identità dei documenti, già chiarita.
 
 ### L4 — Dettagli meccanici del Battesimo del Fuoco
-La meccanica universale è confermata, ma le fonti disponibili non definiscono sistematicamente:
-- Se ogni Fiera può generare un solo Draghiere/Vera Fiera attivo alla volta
-- Se il numero progressivo (es. "33^ Viverna") è globale o per-specie (le fonti fanno pensare a una numerazione per specie, ma non basta a chiudere la questione)
-- Cosa determina la predestinazione di un Umano al Battesimo
-- Se il Battesimo può fallire e quali conseguenze abbia (vedi "Bruciati" in Inktober 2018 #Scorched 19-2)
-- → **Lacuna documentale:** mantenere distinti i punti confermati dalle regole universali e i dettagli non specificati. Recuperare eventuali fonti originali prima di formulare nuove regole.
+La meccanica universale e alcuni dettagli sono stati chiariti dall'utente e non vanno più trattati come domande aperte:
+- Il numero progressivo dei Draghieri è **per specie**, non globale (es. 33ª Viverna).
+- Se un Istinto non si risveglia, può essere già incarnato altrove: in un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie.
+- L'orientamento del risveglio dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato ai Draghieri o alle Vere Fiere.
+- I personaggi giocanti che arrivano tramite la Chiamata sono un caso particolare e possono presentare entrambe le varianti.
+- Il Battesimo può fallire; gli Umani che sopravvivono senza trasformarsi diventano Bruciati, ma i dettagli oltre il seme narrativo delle Fiamme restano incompleti.
+
+La documentazione residua da recuperare riguarda soprattutto la formulazione esatta in D3/D4 e i dettagli dei Bruciati. Non chiedere all'utente di ripetere i punti sopra già chiariti.
 
 
 ### L6 — Completamento delle schede Fiere

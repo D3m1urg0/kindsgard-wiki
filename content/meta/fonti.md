@@ -3,7 +3,7 @@ titolo: "Fonti e Decisioni Canoniche"
 categoria: "meta"
 tag: [meta, fonti, canonizzazione, sessioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-12"
 ---
 
 # Fonti e Decisioni Canoniche
@@ -31,7 +31,7 @@ ultima_modifica: "2026-10-11"
 | File | Contenuto | Note |
 |------|-----------|------|
 | `content/fonti/annali-artiglio-di-fuoco-intro.md` | Introduzione storica firmata da Syrus Salamander V. Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante. | ⚠️ Percorso da riconciliare |
-| `content/fonti/draghieri-vere-fiere.md` | Descrizione OOC dualismo Draghieri/Vere Fiere. Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante | |
+| `content/fonti/draghieri-vere-fiere.md` | Riferimento a una descrizione OOC del dualismo Draghieri/Vere Fiere; il percorso non esiste nel tree attuale. `content/fonti/draghieri-spiegazione.md` è una fonte OOC presente che tratta i Draghieri e le Vere Fiere, ma senza il documento originale non è possibile confermare che sia la stessa fonte o una sua conversione. | ⚠️ Identità/percorso da riconciliare |
 | `content/fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
 | `content/fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
 | `content/fonti/la-natura-di-natura.md` | Saggio della Vera Viverna (Wendy Wyrm) | Prospettiva Maestà/Natura; verità cosmologica più accurata |

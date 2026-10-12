@@ -3,7 +3,7 @@ titolo: "Vere Fiere"
 categoria: "fazioni"
 tag: [vere-fiere, fazione, maestà, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "L_Animale_Uomo", "Solitudine", "18___Misfit"]
 ---
 
@@ -51,7 +51,7 @@ In un'unica occasione documentata, Draghieri e Vere Fiere hanno collaborato: dur
 
 ## Fine del Potere
 
-Quando [[Dominic Draco]] divenne **Re Draco, Unico Guardiano**, assorbendo i 13 vettori del Fondamento tramite l'arma Espediente, le Vere Fiere persero il proprio potere e tornarono semplici Umani. I [[Draghieri]] non le eliminarono: il loro Istinto non le riconosce come minaccia in forma umana.
+Quando [[Dominic Draco]] divenne **Re Draco, Unico Guardiano**, assorbendo i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento tramite l'arma Espediente, le Vere Fiere persero il proprio potere e tornarono semplici Umani. I [[Draghieri]] non le eliminarono: il loro Istinto non le riconosce come minaccia in forma umana.
 
 Alcuni di questi ex-Vere Fiere potrebbero essere il seme della fazione delle **[[Fiamme]]**. ⚪ *Documentazione incompleta.*
 
