@@ -11,6 +11,8 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_An
 
 > *Timeline master degli eventi del Kindsgard. Per la descrizione narrativa delle ere, vedi [[Le Ere del Kindsgard]]. Per le relazioni cosmologiche, vedi [[Cosmologia]].*
 
+> **Nota sulle corrispondenze con Lunaria:** le analogie fra le Ere del Kindsgard e quelle di Vilegis/Lunaria sono riportate dalle fonti come allineamenti storici e narrativi. Non implicano che i due mondi siano identici, che gli eventi si corrispondano sempre uno-a-uno o che gli elementi introdotti dalla connessione appartengano alla cosmologia originaria del Kindsgard.
+
 ---
 
 ## Note sulla Misurazione del Tempo
@@ -95,7 +97,7 @@ Il tempo sul Kindsgard non è costante. Periodi di dilatazione temporale causati
 
 **[Periodo]** — Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** per forgiare l'arma **Espediente** e proteggere il Kindsgard dalla minaccia del Nexus.
 
-**[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard** — Draghieri, Vere Fiere o Fiere effettive che inconsapevolmente incarnavano i 13 vettori del Fondamento di Lunaria — assorbendone il titolo uno per uno.
+**[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard** — Draghieri, Vere Fiere o Fiere effettive che inconsapevolmente incarnavano i 13 vettori collegati al Fondamento di Lunaria — assorbendone il titolo uno per uno.
 
 **[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice di tutto il Fondamento, non più Draghiere né Vera Fiera. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli, regna sul Giardino con i Draghieri.
 
