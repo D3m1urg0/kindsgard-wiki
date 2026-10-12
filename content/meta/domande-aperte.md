@@ -19,7 +19,7 @@ Le decisioni seguenti sono state confermate nei registri canonici e nel changelo
 - **C4 — Grafia:** Frederick Fenice è la grafia canonica; “Frederic” e “Friederich” sono varianti presenti nelle fonti.
 - **A2 — Dominic Draco:** sequenza confermata in dieci fasi secondo il changelog. Per il dettaglio fa fede la voce `[[Dominic Draco]]` e la documentazione canonica.
 - **A3 — Covata:** successione Bartholomew Brood (XVI) → Brienne Brood (XVII) confermata.
-- **A4 — Fenice:** il Battesimo del Fuoco è una meccanica universale; la Fenice esiste anche come Specie di Fiera, distinta dal Draghiere Frederick Fenice.
+- **A4 — Fenice e Battesimo:** la Fenice esiste come Specie di Fiera, distinta dal Draghiere Frederick Fenice. Il Battesimo ha uno schema ordinario confermato, ma non è privo di eccezioni: `Risveglio del Drago` documenta il caso di Wade senza una Viverna uccisa; il meccanismo resta aperto in L4.
 - **L5 — Vilegis/Lunaria:** setting esterno, fuori scope, salvo intersezioni documentate.
 - **L6 — Stub delle Fiere:** la creazione iniziale degli stub è stata eseguita; resta il completamento e la verifica delle voci esistenti.
 - **L8 — Solomon:** non si assegna un numero progressivo alle Vere Fiere; la sua presenza narrativa nell’Era del Dominio è attestata, ma lo stato esatto dopo l'ascesa di Re Draco resta da chiarire (vedi L16).
