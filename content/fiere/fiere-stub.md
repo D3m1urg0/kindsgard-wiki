@@ -40,7 +40,7 @@ La canzone degli Umani descrive il sorriso della Manticora come un richiamo che 
 Fiera rappresentata nella canzone degli Umani come una creatura che usa enigmi e curiosità per attirare la preda: *"Non fidarti della Sfinge, lascia star curiosità: quando il dubbio ormai ti affligge sei il suo pasto e lei lo sa."* (`Canzoni degli Umani`, “Giù nel Bosco”). Si tratta della rappresentazione in-world della canzone, non di una scheda tecnica completa.
 
 ### Chimera
-Fiera a tre teste (capra, leone, serpente), ali di drago, coda di serpente, fuoco. Quando è in branco dopo la caccia, non usa il fuoco — lo considera inutile e pericoloso per il branco. Punto debole: non si aspetta il fuoco da una fonte umana (`Inktober 2018 #Poisonous`).
+Fiera descritta nella canzone degli Umani con tre teste e tre bocche, scaglie, piume e criniera (`Canzoni degli Umani`, “Giù nel Bosco”). `Inktober 2018 #Poisonous` conferma le ali di drago e le sacche di gas molto infiammabile vicino allo stomaco; non specifica che le teste siano di capra, leone e serpente né che la coda sia serpentina. Quando è in branco, sazia e dopo la caccia, la Chimera non usa il fuoco perché lo considera inutile e pericoloso per il branco; quindi non si aspetta il fuoco diretto da un Umano.
 
 ### Viverna
 Fiera alata, descritta nella filastrocca degli Umani come una minaccia dalla coda letale (`Canzoni degli Umani`, “Giù nel Bosco”). Le fonti descrivono veleno e sangue pietrificante nell'Espediente del Draghiere Wade Wyrm (`Inktober 2018`, `Inktober 2019 #Sling`), ma non separano in modo completo questi tratti dalla fisiologia della Fiera stessa: non trasferirli automaticamente alla scheda della specie.
@@ -68,7 +68,7 @@ Fiera associata a Laerius Loch, XV Draghiere della Loccia (`Elenco Draghieri`). 
 Fiera alata. In `Inktober 2019 #Treasure`, un Umano entra in una caverna contenente un grande accumulo di oggetti metallici e incontra un Alicanto, riconoscendolo da una piuma lucente che riflette la luce del sole. Il racconto attesta la tana e il tesoro, ma non dice che la Fiera produca luce propria o accumuli intenzionalmente gli oggetti per attirare le prede; l'incontro è presentato come una minaccia mortale.
 
 ### Zaratan
-Fiera associata al Draghiere Zachary Zaratan, che in `Inktober 2018 #Cruel` porta uno scudo rotondo fatto di carapace. `Prevedibilità (covata)` attribuisce inoltre a uno Zaratan alcune gallerie scavate nella roccia della Città-Alveare. Le fonti disponibili non stabiliscono esplicitamente che si tratti di due varianti distinte, né confermano habitat marino, lentezza, quasi-impenetrabilità o sangue tossico: questi dettagli non vanno trattati come canonici senza una fonte aggiuntiva.
+Fiera menzionata in `Prevedibilità (covata)`: uno Zaratan di terra è associato a gallerie nel sottosuolo della Città-Alveare; la forma del carapace corrisponde al profilo di alcuni tunnel. In `Inktober 2018 #Cruel`, il Draghiere Zachary Zaratan porta uno scudo rotondo fatto di carapace, ma il testo non dice che provenga da uno Zaratan. Non sono documentati qui habitat marino, lentezza, quasi-impenetrabilità o sangue tossico; non dedurre varianti o fisiologia oltre i dati attestati.
 
 ### Falenottere
 Fiera insettiforme con pungiglione paralizzante. Attratta dalla luce — si addensa attorno a qualsiasi fonte luminosa. Il pungiglione paralizza la preda che rimane cosciente mentre la Fiera si nutre. Unica difesa: mantenere una luce abbastanza grande da tenerle impegnate lontano dalla preda (`Inktober 2018 #Drooling`).
@@ -105,7 +105,7 @@ Pianta la cui radice, essiccata e trattata, può risultare temporaneamente innoc
 
 ## Fiere Minori / Menzionate
 
-**Leopterix** — Fiera associata a Lhars Leopterix. Il Draghiere porta un mantello fatto di pelle e piume della propria Fiera, ma le fonti attuali non descrivono direttamente la morfologia della specie. La precedente etichetta “ibrida rettile-volatile” non è confermata da una descrizione esplicita; dimensioni, habitat preciso, capacità offensive e vulnerabilità restano ignoti (*Elenco Draghieri*, *Inktober 2019 #Freeze, #Snow, #Dragon*).
+**Leopterix** — Fiera associata a Lhars Leopterix. In `Inktober 2019 #Freeze`, Lhars indossa un mantello di piume e pelle ricavata da una creatura che il testo descrive come un misto di rettile e volatile e che il Draghiere caccia abitualmente. La pagina non nomina esplicitamente la specie in quel passaggio: collegare quella morfologia al Leopterix è plausibile per contesto, ma resta un'inferenza. Dimensioni, habitat preciso, capacità offensive e vulnerabilità non sono documentati.
 
 **Everastes** — Fiera associata a Ember Everastes, IV Draghiere dell'Everastes. `Inktober 2019 #Snow` descrive Ember come “fatta per stare in mezzo al gelo”, ma non stabilisce il tipo di habitat della Fiera né una sua immunità al freddo. Il simbolo montuoso sullo stemma e l'equipaggiamento del Draghiere non bastano a dedurre la morfologia o le capacità della specie (*Inktober 2019 #Snow, #Dragon*).
 
@@ -114,7 +114,9 @@ Pianta la cui radice, essiccata e trattata, può risultare temporaneamente innoc
 
 **Sliss** — Fiera usata come alimento. In `Onda Bianca`, dopo che il gruppo ha mangiato uno stufato, i personaggi sospettano che lo Sliss abbia fatto loro male; la fonte non stabilisce che la specie provochi necessariamente allucinazioni collettive.
 
-**Tentacolo Scarlatto** — Fitofiera con tentacoli rossi che afferrano le prede. Può essere usata come esca. Le foglie trattate (cotte finché l'acqua diventa rossa, poi lavate) diventano commestibili ma l'acqua di cottura è urticante (`Inktober 2018 #Poisonous`).
+**Tentacolo Scarlatto** — Fiera vermiforme e sanguinolenta, descritta mentre tenta di afferrare una Cockatrice; Wade Wyrm la usa come esca (`Inktober 2018 #Poisonous`). La fonte non la descrive come fitofiera e non menziona foglie commestibili.
+
+**Tentacolo Purpureo** — Menzionato separatamente in `Inktober 2019 #Tasty`: le sue larghe foglie vengono bollite finché l'acqua diventa rossa, poi sciacquate, essiccate e salate per essere consumate in seguito; l'acqua di cottura è urticante e viene usata per rendere infertile il terreno. La fonte non stabilisce che sia la stessa specie del Tentacolo Scarlatto; resta fuori dal conteggio delle 26 voci classificate finché l'identità non è chiarita.
 
 **Nomi da brainstorming, non attestazioni canoniche:** Ahuizotl, Akhult, Allghoi-khorhoi, Al-Mi'raj, Ammit, Anfesibena, KarKinos, Cipactli, Vellosa, Yali, Makara, Yale/Eale. Sono i dodici nomi presenti nella lista OOC `Mostri`; non hanno descrizioni nel corpus narrativo e non vanno conteggiati tra le 26 voci preliminari del bestiario.
 
