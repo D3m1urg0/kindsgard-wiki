@@ -32,10 +32,9 @@ La voce narrativa `[[Altri Personaggi]]` usa **Angeline Aconitum**, mentre `Elen
 - → **HITL:** quale grafia va adottata come canonica? Fino alla conferma, mantenere la variante originale nella citazione della fonte e non correggerla retroattivamente.
 
 ### A1 — Collocazione cronologica degli Inktober
-Gli Inktober 2018, 2019 e 2024 non hanno datazione interna esplicita rispetto alla timeline master. Alcune deduzioni contestuali:
-- **Inktober 2018 e 2019:** Draco è Re, l'Anello è (ri)integro, le Vere Fiere sembrano sconfitte o assenti. Suggerisce ambientazione post-Primo Secolo del Draco, nell'Era del Dominio.
-- **Inktober 2024:** Ambientazione incerta, possibilmente successiva o parallela.
-- → **Vuoi mappare ogni racconto sulla timeline, o lasciarli come materiale "fluttuante"?**
+La raccolta **Inktober 2018** è catalogata come post-Anno del Draco/Era del Dominio; **Inktober 2019** è anch'essa associata all'Era del Dominio e i racconti mostrano Re Draco e l'Anello ripristinato. È sufficiente mantenere questa collocazione a livello di raccolta: le singole storie non hanno tutte una data interna precisa e non vanno assegnate a un anno inventato.
+
+La collocazione di **Inktober 2024** rispetto alla timeline master resta indeterminata. Le storie forniscono indizi di contesto, ma non una datazione certa. Per ora va mantenuta come raccolta non collocata, senza chiedere una scelta editoriale che le fonti non possono risolvere.
 
 ---
 
