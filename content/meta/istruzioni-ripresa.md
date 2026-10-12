@@ -67,7 +67,8 @@ Consultare `[[Domande Aperte e Lacune]]` per ciò che resta da verificare. Se un
 3. Completare la copertura geografica senza inferire posizioni non documentate.
 4. Verificare le voci stub delle Fiere e completarle solo sulla base delle fonti.
 5. Confrontare voci sintetiche e fonti verbatim, senza eliminazioni o fusioni automatiche.
-6. Riconciliare i due riferimenti sorgente ancora senza file nel repository (`Annali dell’Artiglio di Fuoco` e `Draghieri/Vere Fiere`) senza confonderli con D3/D4, la cui identità è stata chiarita ma i cui originali non sono reperibili nella tree corrente.
+6. Riconciliare i riferimenti sorgente senza file autonomo o percorso attuale: `Annali dell’Artiglio di Fuoco`, `Annali dell'Artiglio delle Sabbie`, `Draghieri/Vere Fiere` e `Copia_di_I_Draghieri_del_kindsgard`. Non confonderli con D3/D4, la cui identità è stata chiarita ma i cui originali non sono reperibili nella tree corrente.
+7. Verificare le formulazioni assolute nelle voci sintetiche confrontandole con le fonti narrative eccezionali, senza appiattire casi speciali in regole generali (es. `Risveglio del Drago` e il Battesimo di Wade).
 
 ## Decisioni editoriali ancora da chiedere
 
