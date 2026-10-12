@@ -109,3 +109,8 @@ L’unica menzione trovata nel repository è `Una Missiva dall’Anello`: una be
 - Titolo canonico per `fierezza-il-dio-che-e-in-noi.md`: *"Fierezza: il Dio che è in noi"*? Da confermare.
 
 Queste sono scelte editoriali di titolo, non decisioni sul canone narrativo. Le fonti non vanno rinominate o eliminate finché la scelta non è confermata.
+
+### L11 — Riferimento sorgente non riconciliato: `Copia_di_I_Draghieri_del_kindsgard`
+
+Il frontmatter di `[[Cosmologia]]` cita `Copia_di_I_Draghieri_del_kindsgard`, ma nel tree corrente non esiste un file con questo nome e il riferimento non compare nel catalogo delle fonti. È disponibile `content/fonti/draghieri-spiegazione.md`, documento OOC sul tema, ma non è possibile dimostrare che coincida con il documento citato.
+- → **Chiarimento documentale:** se disponibile, recuperare il file originale o confermare a quale documento corrisponde il riferimento. Fino ad allora, non sostituire automaticamente la fonte nel frontmatter.
