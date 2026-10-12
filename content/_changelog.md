@@ -26,6 +26,7 @@ ultima_modifica: "2026-10-11"
 - Aggiunta la domanda L15 sul riferimento “ex Shai'Hulud” associato a Seymour Sandwurm in `Elenco Draghieri`, senza decidere se riguardi un nome precedente, la specie o altro.
 - Corretto un assoluto non compatibile con la fonte nella voce di Bran Behemoth: la descrizione lo definiva immune al calore, mentre `Inktober 2019 #Dragon` mostra che la fiammata lo ferisce e fonde lo scudo. Ora è descritta come resistenza eccezionale, non immunità.
 - Ridimensionata nella voce di Luther Leviathan l'affermazione che il suo Istinto sia infallibile in ambiente marino: le fonti mostrano efficacia e autorevolezza, non una regola oggettiva di infallibilità.
+- Distinte nella documentazione del sistema le due vie che possono portare a una Vera Fiera: l'orientamento del Battesimo umano verso Maestà e la trasformazione ciclica di un Draghiere che raggiunge la vetta della Maestà. La formulazione precedente rischiava di presentare un solo percorso come universale.
 - Nessuna informazione mancante è stata colmata per inferenza; le questioni di canone non deducibili dalle fonti saranno elencate separatamente.
 
 > *Log di tutte le modifiche alla wiki con data e motivazione.*
