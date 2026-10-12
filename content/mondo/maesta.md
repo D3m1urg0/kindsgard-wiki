@@ -4,7 +4,7 @@ categoria: "mondo"
 tag: [maestà, natura, vulcano, geografia, cosmologia]
 status: "revisionato"
 ultima_modifica: "2026-10-12"
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Solitudine", "Annali_dell_Artiglio_di_Fuoco", "Cronistoria_versione_breve", "Inktober_2019"]
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Solitudine", "Annali_dell_Artiglio_di_Fuoco", "Cronistoria_versione_breve", "Inktober_2019"]
 ---
 
 # Maestà
@@ -15,7 +15,7 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Solitudine", "Annali_dell_A
 
 ## Panoramica
 
-La Maestà è il vulcano posto al centro assoluto del Kindsgard e il **corpo fisico di [[Natura]]**: la divinità creatrice del Giardino vi si è rifugiata dopo la sua follia, e da essa la sua forza creatrice e distruttrice si propaga per tutto il Creato. Le fonti disponibili ne sottolineano le dimensioni eccezionali, ma non permettono di stabilire un primato geologico assoluto.
+La Maestà è il vulcano posto al centro assoluto del Kindsgard e il **corpo fisico di [[Natura]]**: la divinità creatrice del Giardino vi si è rifugiata dopo la sua follia, e da essa la sua forza creatrice e distruttrice si propaga per tutto il Creato. La guida OOC canonica `[[Draghieri del Kindsgard (spiegazione)]]` la definisce il più grande vulcano del mondo e la descrive come grande quanto il mondo; questa formulazione è attestata e va conservata.
 
 Uccidere Natura significherebbe raggiungere la caldera della Maestà e distruggerla — obiettivo finale dichiarato dei [[Draghieri]]. Il Draghiere ordinario non è in grado di comprendere le conseguenze apocalittiche di tale azione, perché l'Istinto antepone il mandato immediato di Fierezza a ogni altra considerazione. [[Dominic Draco]] è l'eccezione documentata: ha compreso che distruggere la Maestà equivarrebbe a distruggere il mondo stesso e ha fondato l'Anello per evitarlo.
 
@@ -23,7 +23,7 @@ Uccidere Natura significherebbe raggiungere la caldera della Maestà e distrugge
 
 ## Caratteristiche Fisiche
 
-In `Inktober 2019 #Ring`, la Maestà è descritta come una montagna che si staglia oltre le nubi acide, le colline, i burroni, il Mare Interno e i deserti. Il testo ne comunica la scala eccezionale, ma non quantifica la visibilità da ogni punto né la descrive letteralmente grande quanto il mondo.
+In `Inktober 2019 #Ring`, la Maestà è descritta come una montagna che si staglia oltre le nubi acide, le colline, i burroni, il Mare Interno e i deserti. La guida OOC canonica la descrive esplicitamente come grande quanto il mondo; non è fornita una misura numerica né una formula geometrica più precisa.
 
 Alla sua vetta si trova una caldera in costante attività. Le nubi di piogge acide che si addensano alla sommità sono una costante. L'aria è irrespirabile in prossimità della cima. Il magma è presente non solo nella caldera ma in estensioni che raggiungono le pendici — zone di lava e vapore acido.
 
@@ -57,7 +57,7 @@ Con la fondazione dell'[[Anello di Fuoco]], l'avanzata verso la Maestà fu inter
 
 ## Tracciabilità e limiti
 
-Questa è una sintesi wiki, non una fonte primaria. Alcune formulazioni più dettagliate sul gradiente della forza di Natura vicino alla Maestà e sugli Echi associati alle eruzioni dipendono da riferimenti D3/D4 presenti nel frontmatter, i cui testi integrali non sono disponibili nel repository consultato. Questi passaggi non sono stati verificati direttamente sugli originali; vedi [[Domande Aperte e Lacune]] L1. Non ampliare tali affermazioni per inferenza.
+Questa è una sintesi wiki, non una fonte primaria. La descrizione della Maestà come vulcano grande quanto il mondo è attestata nella guida OOC canonica `[[Draghieri del Kindsgard (spiegazione)]]`. Alcune formulazioni più dettagliate sul gradiente della forza di Natura vicino alla Maestà e sugli Echi associati alle eruzioni dipendono invece da riferimenti D3/D4 presenti nel frontmatter, i cui testi integrali non sono disponibili nel repository consultato. Questi ultimi passaggi non sono stati verificati direttamente sugli originali; vedi [[Domande Aperte e Lacune]] L1. Non ampliarli per inferenza.
 
 ---
 
