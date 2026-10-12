@@ -171,13 +171,15 @@ Il sito ufficiale di Battle for Vilegis è attualmente accessibile. I contenuti 
 
 Consultati il 2026-10-11. Registrare l’URL e la data di consultazione perché le pagine di un setting vivo possono cambiare.
 
-## Riconciliazione del catalogo — 2026-10-11
+## Riconciliazione del catalogo — 2026-10-12
 
 Il controllo della tree GitHub ha rilevato 29 file sotto `content/fonti/`. Quattro percorsi del catalogo non esistono con quel nome nel tree corrente:
 - `content/fonti/d3-cronistoria-ooc.md` — identità della fonte chiarita dall’utente come Cronistoria OOC sulle Ere; file sorgente non reperito.
 - `content/fonti/d4-guida-draghiere.md` — identità della fonte chiarita dall’utente come “You Want to Be a Dragoner”; file sorgente non reperito.
 - `content/fonti/annali-artiglio-di-fuoco-intro.md` — identità/percorso ancora da riconciliare.
 - `content/fonti/draghieri-vere-fiere.md` — identità/percorso ancora da riconciliare.
+
+Un ulteriore identificativo legacy presente nel frontmatter di `content/mondo/cosmologia.md` è `Copia_di_I_Draghieri_del_kindsgard`: non è un file nel tree e non è dimostrato che corrisponda a `content/fonti/draghieri-spiegazione.md`. Va tenuto distinto dai quattro percorsi sopra, che sono riferimenti espliciti nel catalogo.
 
 Non dichiarare perdute le fonti D3/D4: i loro nomi/contenuti generali sono stati identificati, ma i file originali non sono presenti nel repository consultato e non sono emersi dalla ricerca nella Library collegata. I percorsi esistenti nel repository sono indicati rispetto alla root GitHub come `content/fonti/...`.
 
