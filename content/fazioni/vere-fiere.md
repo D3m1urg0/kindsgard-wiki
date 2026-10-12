@@ -17,7 +17,7 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Drag
 
 Le Vere Fiere sono la nemesi dei [[Draghieri]]: individui infusi dello stesso principio cosmologico ([[Fierezza e Maestà|Fierezza/Maestà]]) ma con orientamento opposto. Dove i Draghieri servono la sopravvivenza degli [[Umani]], le Vere Fiere servono la legge di [[Natura]]: il predatore domina, il debole soccombe.
 
-Come i Draghieri, ogni Vera Fiera nasce da un [[Battesimo del Fuoco]] — un Umano che affronta e uccide una Fiera — ma l'infusione avviene attraverso **Maestà** invece che Fierezza, imprimendo un mandato opposto: il diritto di predare, regnare e onorare la legge del Giardino.
+Nel processo ordinario, un [[Battesimo del Fuoco]] può orientarsi verso **Maestà** invece che Fierezza, imprimendo il mandato di predare, regnare e onorare la legge del Giardino. Non tutte le Vere Fiere, però, derivano da un Umano che ha appena ucciso una Fiera: il ciclo storico del Kindsgard prevede anche che i Draghieri, quando raggiungono la vetta della [[Maestà]], vengano trasformati in Vere Fiere. Le due vie non vanno fuse in un'unica sequenza obbligatoria.
 
 Le Vere Fiere non sanno di condividere la stessa fonte di potere dei Draghieri, né di servire lo stesso scopo cosmologico. Credono di essere i figli prediletti di Natura, i suoi paladini, e considerano gli Umani un'aberrazione indegna di sopravvivere.
 
