@@ -118,3 +118,28 @@ I titoli definitivi delle due fonti originariamente intitolate “Fierezza” re
 - I branch rimanenti contengono revisioni precedenti di pagine, changelog o registri. I confronti hanno confermato che il contenuto attuale include già i temi principali di eccezioni del Battesimo, cosmologia/Fondamento e catalogo fonti; eventuali differenze residue richiedono confronto semantico, non merge automatico.
 
 **Pulizia remota:** nessuna cancellazione o riscrittura forzata dei ref eseguita. L'azione GitHub di eliminazione branch non è esposta dagli strumenti disponibili in questa sessione. I branch restano intatti per evitare perdita di storia.
+
+
+### Decisione branch-per-branch — 2026-10-12
+
+Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esito: **nessun merge integrale autorizzabile dai confronti effettuati**; i branch sono stati trattati come sorgenti da cui recuperare singole modifiche solo se dimostrate mancanti. Non è stato creato alcun merge o cherry-pick perché le differenze osservate sono versioni superate, già integrate, o peggiorative rispetto alla tracciabilità attuale.
+
+- `audit/battesimo-eccezioni-e-coerenza` — **non mergiare**: il Battesimo in `main` distingue correttamente il ciclo di trasformazione dei Draghieri, la regola ordinaria e l'eccezione di Wade; il branch è una formulazione precedente. La sua Geografia contiene identificazioni/alias più assertivi, già corretti in `main`.
+- `audit/coerenza-battesimo-pagine-potere` — **non mergiare**: le pagine Vere Fiere e Fierezza/Maestà nel branch omettono le distinzioni e le eccezioni documentate presenti in `main`, tra cui la trasformazione ciclica e l'eccezione Dominic.
+- `audit/complete-inktober-frontmatter` — **non mergiare**: `storia/ere.md` è byte-identico a `main`; le differenze restanti sono date editoriali vecchie o formulazioni superate (Fiamme e vettori/Guardiani).
+- `audit/consolidated-source-and-pages` — **non mergiare**: i registri e le schede Fiere sono versioni più vecchie. Le righe esclusive controllate contengono liste di lavoro già superate e dettagli di bestiario che `main` ha corretto o qualificato come non attestati.
+- `audit/cosmology-levels-and-vilegis-connection` — **non mergiare**: Cosmologia e cronologia sono antecedenti alle distinzioni correnti tra cosmologia originaria del Kindsgard e connessione successiva con Vilegis/Lunaria; non recuperare la versione del branch.
+- `audit/source-inventory-and-baptism-consistency` — **non mergiare**: duplicato storico del filone consolidato, con registri e pagine precedenti alla riconciliazione delle fonti e alla versione attuale del Battesimo.
+- `audit/source-inventory-cleanup` — **nessun merge**: `content/fonti/list.md` e `content/fonti/mostri.md` sono byte-identici a `main`; le differenze in Fiere e registri sono antecedenti alle correzioni attuali.
+- `audit/traceability-and-maesta-exception` — **non mergiare**: la pagina Maestà nel branch presenta come certe alcune inferenze (in particolare sul ghiacciaio) e omette il riferimento esplicito alla guida OOC presente in `main`.
+- `maintenance/clarify-unidentified-source-labels` — **non mergiare**: il registro delle fonti e le domande aperte sono precedenti; `main` separa meglio identità della fonte, disponibilità del testo integrale e lacune effettive.
+- `maintenance/complete-fiery-stubs` — **non mergiare**: gli stub nel branch contengono descrizioni più assertive di quanto consentito dalle fonti e il registro delle domande è più vecchio. `main` ha già la struttura aggiornata delle Fiere.
+- `maintenance/editorial-register-reconciliation` — **non mergiare**: `validate.yml` nel branch usa il vecchio comando `npx quartz build` e non include il controllo wikilink; `main` ha il comando corrente e il controllo. I registri editoriali sono versioni precedenti.
+- `maintenance/enforce-wikilink-audit` — **nessun merge**: `.github/workflows/deploy.yml` è byte-identico a `main`.
+- `maintenance/fix-root-index-collision` — **non mergiare**: `content/_index.md` non esiste né in `main` né nel branch; non c'è un file da recuperare.
+- `maintenance/fix-stale-source-audit-notes` — **non mergiare**: le note del branch sono già superate dal registro corrente, che documenta le verifiche successive e distingue i sorgenti identificati dai testi effettivamente reperiti.
+- `maintenance/metadata-review-dates` — **non mergiare**: contiene date editoriali arretrate e una versione del catalogo fonti precedente alla riconciliazione del 12 ottobre.
+- `maintenance/reconcile-source-identities` — **non mergiare**: il branch precede la classificazione corrente delle identità e dei testi sorgente mancanti; non ripristinare le vecchie etichette canoniche per D3/D4.
+- `maintenance/resolve-wikilinks-by-title` — **nessun merge**: `frontmatter.ts`, `links.ts` e `scripts/check-wikilinks.mjs` verificati byte-identici a `main`; le altre differenze sono contenuti e metadati più vecchi, mentre il workflow attuale include già il controllo.
+
+**Esito operativo:** zero merge aggiuntivi dai 17 branch storici sulla base delle prove attuali. Non equivale a dire che ogni commit storico sia stato ricostruito singolarmente: significa che il confronto dei file e delle differenze significative non ha individuato un cambiamento mancante che giustifichi un merge. La PR #18 resta l'unico branch di questo inventario già integrato. Non eliminare o riscrivere i branch remoti: l'azione di cancellazione non è esposta dagli strumenti disponibili.
