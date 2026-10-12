@@ -63,7 +63,7 @@ Draghiere della Merrow. Porta una lunga falce e appare in `Inktober 2019 #Build`
 ### Adryanne Achenius, XII Soffione Uncinato
 Draghiere del Soffione Uncinato. Porta un immenso scudo e un uncino alto quanto lei stessa. Manto viola. Si lamenta del vento. Esperta nelle piogge di Soffioni — conosce i tempi di semina e i sistemi per sopravvivere alle tempeste di acheni (`Inktober 2019 #Build, #Husky`).
 
-### Guardiani minori
+### Guardiani e personaggi collegati
 Dall'Elenco Draghieri: Mara Megalapterix (Guardiano), Mordred Megalapterix, G. Gryffin (Guardiano), Gwynidd Griffin, Grace Griffin. Quest'ultimi tre appaiono in `Inktober 2019 #Build` e `#Pattern` tra i Draghieri alla Città-Alveare. Grace e Mordred sono rispettivamente Grifone ed erede della Guardiana Megalapterix.
 
 ---
