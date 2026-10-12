@@ -63,21 +63,27 @@ Vedi [[Fierezza e Maestà]] per la trattazione completa del sistema di potere.
 
 ---
 
-## Il Fondamento
+## Il Fondamento e i livelli cosmologici
 
-Il Fondamento è il sistema cosmologico sottostante al multiverso, condiviso tra il Kindsgard e [[Vilegis/Lunaria]]. Nel Kindsgard si manifesta attraverso 13 vettori, ognuno dei quali era inconsapevolmente incarnato da un individuo — Draghiere, Vera Fiera o Fiera effettiva — detto **Guardiano**.
+Per descrivere correttamente la cosmologia occorre distinguere tre livelli: i principi propri del Kindsgard; il Fondamento e gli Spettri di Vilegis/Lunaria; la connessione successiva fra i due mondi. Sono collegati, ma non intercambiabili.
 
-Quando [[Dominic Draco]] uccise i 13 Guardiani con l'arma forgiata nel procedimento in sette processi, assorbì tutti i vettori del Fondamento, diventando l'unico contenitore dell'intero Fondamento del Kindsgard. Questo lo rese **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole.
+### I sette vettori del Kindsgard
 
-Il rapporto tra il Fondamento del Kindsgard e quello di Lunaria è la causa dell'interferenza tra i due mondi: eventi su Lunaria/Vilegis producono **Echi** che alterano gli equilibri del Giardino.
+Nella cosmologia originaria del Kindsgard sono stati definiti sette vettori: **Natura** (la divinità), **Bisogno**, **Espediente**, **Umani**, **Fiere**, **Draghieri** e **Vere Fiere** (Draghieri schierati con Natura). Questo schema appartiene al Kindsgard e non è una semplice selezione di sette fra i tredici Spettri di Vilegis.
 
----
+### Il Fondamento e gli Spettri di Vilegis/Lunaria
 
-## Gli Spettri (sistema di Vilegis)
+Il Fondamento è il sistema cosmologico descritto nel setting di [[Vilegis/Lunaria]]. Gli **Spettri** sono i tredici principi che lo compongono. Non sono sinonimi dell'Espediente del Kindsgard e non va presunta una corrispondenza uno-a-uno fra i tredici Spettri e i sette vettori originari del Kindsgard.
 
-Gli Spettri sono i 13 principi fondanti del multiverso secondo il sistema di [[Vilegis/Lunaria]]. Non sono sinonimi dell'Espediente del Kindsgard, ma funzionano analogamente: sono forze archetipiche che si incarnano in individui detti Guardiani.
+I dodici Spettri identificati nelle fonti attualmente disponibili sono: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio e Libertà. Il tredicesimo resta non confermato per la versione storica pertinente al collegamento con il Kindsgard; l'Equilibrio indicato dal sito attuale di Vilegis è soltanto un candidato esterno. ⚪ *Lacuna aperta — vedi [[Domande Aperte e Lacune]] L2.*
 
-I 12 Spettri noti sono: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà. Il tredicesimo è ancora non documentato. ⚪ *Lacuna aperta — vedi [[Domande Aperte e Lacune]] L2.*
+### La connessione successiva e i tredici Guardiani
+
+Dopo la cosmologia originaria del Kindsgard, la connessione con Vilegis/Lunaria ha comportato la manifestazione nel Kindsgard di **tredici vettori/Guardiani** collegati al Fondamento. Ogni vettore era inconsapevolmente incarnato da un individuo — Draghiere, Vera Fiera o Fiera effettiva — detto **Guardiano**. Questo evento successivo non va confuso né con i sette vettori originari del Kindsgard né con una semplice rinomina dei tredici Spettri.
+
+Quando [[Dominic Draco]] uccise i tredici Guardiani con l'arma **Espediente**, forgiata nel procedimento in sette processi, ne assorbì i vettori e divenne **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice del potere così raccolto nel Kindsgard.
+
+La connessione fra i mondi è anche alla base degli **Echi**: eventi su Lunaria/Vilegis possono alterare gli equilibri del Giardino. Il dettaglio storico di questa relazione va ricostruito tenendo distinti i fatti del Kindsgard dalle vicende del setting esterno.
 
 ---
 
