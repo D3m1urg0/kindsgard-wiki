@@ -115,3 +115,7 @@ Queste sono scelte editoriali di titolo, non decisioni sul canone narrativo. Le 
 
 Il frontmatter di `[[Cosmologia]]` cita `Copia_di_I_Draghieri_del_kindsgard`, ma nel tree corrente non esiste un file con questo nome e il riferimento non compare nel catalogo delle fonti. È disponibile `content/fonti/draghieri-spiegazione.md`, documento OOC sul tema, ma non è possibile dimostrare che coincida con il documento citato.
 - → **Chiarimento documentale:** se disponibile, recuperare il file originale o confermare a quale documento corrisponde il riferimento. Fino ad allora, non sostituire automaticamente la fonte nel frontmatter.
+
+### L12 — Annali dell'Artiglio delle Sabbie
+`Inktober 2024 #Exotic` introduce una citazione attribuita agli **Annali dell'Artiglio delle Sabbie**. Il repository contiene invece un riferimento agli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V; il relativo file autonomo non è presente con il percorso catalogato. Non ci sono elementi sufficienti per trattare i due titoli come lo stesso documento.
+- → **Chiarimento documentale:** gli Annali delle Sabbie sono un documento distinto, un estratto degli Annali del Fuoco o soltanto una fonte interna citata nel racconto? Fino alla conferma, mantenere i riferimenti separati e non inventare il testo mancante.
