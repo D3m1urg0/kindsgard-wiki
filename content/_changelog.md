@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Precisata la voce Falenottere: la fonte mostra che la luce le attira e le tiene raccolte intorno alla candela, ma non definisce una soglia di luminosità né una garanzia universale di sicurezza.
+
 - Aggiornato il checkpoint persistente dopo il controllo delle 36 pagine non sorgente e il confronto mirato delle fonti; registrati inventario dei 29 sorgenti, 32 identificatori di fonte, discrepanze geografiche, correzioni alle Fiere e prossimi passi.
 
 - Rimossi dalle schede Sicomoro Perenne e Chayote Strangolatore gli aggettivi tassonomici “Sensibile”/“Fitofiera Sensibile”: il termine non è definito nel glossario e non è supportato dalle fonti citate.
