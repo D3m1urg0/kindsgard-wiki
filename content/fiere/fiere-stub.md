@@ -65,7 +65,7 @@ Grande Fiera simile a un pipistrello, alta circa due volte e mezzo un Umano, ali
 Fiera associata a Laerius Loch, XV Draghiere della Loccia (`Elenco Draghieri`). In `Inktober 2018 #Flowing`, Brienne riferisce che una rete metallica caricata dai fulmini tiene lontane dalle dighe le creature chiamate nel racconto “Lochs” e le mantiene intorpidite. La fonte non descrive morfologia o dentatura e non stabilisce un habitat glaciale; il contesto è quello delle dighe e del Fiume Bianco.
 
 ### Alicanto
-Fiera volante che produce luce dorata dalle piume. Attira le prede con la sua bellezza luminosa. La sua tana è ricca di oggetti metallici lucidi accumulati come richiamo. Chi entra nella tana di un Alicanto difficilmente ne esce (`Inktober 2019 #Treasure`).
+Fiera alata. In `Inktober 2019 #Treasure`, un Umano entra in una caverna contenente un grande accumulo di oggetti metallici e incontra un Alicanto, riconoscendolo da una piuma lucente che riflette la luce del sole. Il racconto attesta la tana e il tesoro, ma non dice che la Fiera produca luce propria o accumuli intenzionalmente gli oggetti per attirare le prede; l'incontro è presentato come una minaccia mortale.
 
 ### Zaratan
 Fiera associata al Draghiere Zachary Zaratan, che in `Inktober 2018 #Cruel` porta uno scudo rotondo fatto di carapace. `Prevedibilità (covata)` attribuisce inoltre a uno Zaratan alcune gallerie scavate nella roccia della Città-Alveare. Le fonti disponibili non stabiliscono esplicitamente che si tratti di due varianti distinte, né confermano habitat marino, lentezza, quasi-impenetrabilità o sangue tossico: questi dettagli non vanno trattati come canonici senza una fonte aggiuntiva.
