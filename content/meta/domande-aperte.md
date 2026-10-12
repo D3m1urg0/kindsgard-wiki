@@ -75,23 +75,16 @@ La documentazione residua da recuperare riguarda anche la formulazione esatta in
 
 
 ### L6 — Completamento delle schede Fiere
-La pagina `[[Fiere — Voci Stub]]` esiste già e raccoglie le Fiere attualmente identificabili. Soffione Uncinato e Bacca Emofaga hanno schede tecniche complete; le altre voci restano preliminari. Il lavoro residuo è completare le schede tecniche a partire da fonti sufficienti, non creare nuovi stub:
-- Zaratan (`Inktober 2018 #Cruel`)
-- Leopterix (ora presente come voce preliminare; manca una scheda tecnica completa)
-- Everastes (ora presente come voce preliminare; manca una scheda tecnica completa)
-- Covata (insetti/sciame, `Prevedibilità`)
-- Atrax (ragni, `Inktober 2019 #Pattern`)
-- Chiroptera (pipistrelli, `Prevedibilità`, `Inktober 2018 #Angular`)
-- Loccia (acquatica, `Inktober 2019 #Snow`)
-- Alicanto (`Elenco Draghieri`, `Inktober 2019 #Treasure`)
-- Falenottere (`Inktober 2018 #Drooling`)
-- Tripode (`Inktober 2018 #Flowing`)
-- Sicomoro Perenne (`Inktober 2019 #Mindless`)
-- Manticora (più apparizioni)
-- Behemoth (più apparizioni)
-- Sfinge (più apparizioni)
-- Drago (più apparizioni, inclusa la bestia in `Inktober 2019 #Dragon`)
-- → **Attività residua:** verificare le voci già presenti, collegare le fonti e completare le schede solo quando esistono informazioni sufficienti. Non creare nuovamente gli stub già esistenti e non inventare dettagli.
+La pagina `[[Fiere — Voci Stub]]` esiste già e raccoglie tutte le Fiere attualmente identificate nel corpus. **Bacca Emofaga** e **Soffione Uncinato** hanno schede tecniche dedicate; le altre 26 voci elencate sotto restano profili preliminari, con livelli di copertura diversi. L'elenco è esaustivo rispetto alla pagina stub corrente: non implica che esistano fonti sufficienti per completare una scheda tecnica per ciascuna specie.
+
+- **Fiere maggiori (9):** Drago, Behemoth, Leviatano, Manticora, Sfinge, Chimera, Viverna, Grifone, Cockatrice.
+- **Fiere di media pericolosità (7):** Atrax, Chiroptera, Loccia, Alicanto, Zaratan, Falenottere, Covata.
+- **Fitofiere (7):** Sicomoro Perenne, Tripode, Dionea Mangiauomini, Mandragora, Chayote Strangolatore, Amaranthus Cruentus, Fabalo Spinato.
+- **Fiere minori o menzionate (3):** Leopterix, Everastes, Tentacolo Scarlatto.
+
+Le priorità documentali già individuate comprendono Zaratan (`Inktober 2018 #Cruel`), Atrax (`Inktober 2019 #Pattern`), Chiroptera (`Prevedibilità`, `Inktober 2018 #Angular`), Loccia (`Inktober 2019 #Snow`), Alicanto (`Elenco Draghieri`, `Inktober 2019 #Treasure`), Falenottere (`Inktober 2018 #Drooling`), Tripode (`Inktober 2018 #Flowing`), Sicomoro Perenne (`Inktober 2019 #Mindless`), oltre alle Fiere maggiori per cui esistono più apparizioni narrative. Le descrizioni già presenti vanno comunque mantenute entro ciò che le fonti sostengono: niente poteri, debolezze o fisiologia dedotti per analogia con il Draghiere omonimo.
+
+→ **Attività residua:** verificare le voci esistenti, collegare le fonti e ampliare le schede soltanto quando le informazioni sono sufficienti. Non creare nuovi stub e non inventare dettagli.
 
 ### L7 — "Icaria" — dettaglio oltre la fonte non reperito
 L’unica menzione trovata nel repository è `Una Missiva dall’Anello`: una belva enorme, proveniente dal profondo del Giardino, chiamata Icaria da Draghieri che avevano visitato Vilegis. La voce del glossario ora registra questi soli dati. Non è stata trovata un’altra fonte nel repository o nella Library collegata.
