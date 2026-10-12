@@ -88,13 +88,13 @@ Fitofiera dei terreni umidi. Germoglia rapidamente nei terreni ex-paludosi. Peri
 Fitofiera carnivora del settore Ovest delle [[Colture]]. I liquidi digestivi esplodono e schizzano se incendiati — richiede l'innesco di fuoco al centro e una rapida fuga (`Inktober 2019 #Overgrown`).
 
 ### Mandragora
-Fitofiera radicata. Se estratta dal terreno uccide. Il trattamento richiede di versare acido su tutto il terreno circostante per renderla inerme, poi ucciderla radicata. Coltivata nel settore Nord delle [[Colture]] (`Inktober 2018 #Overgrown`).
+Fitofiera radicata. Se estratta dal terreno uccide. Il trattamento richiede di versare acido su tutto il terreno circostante per renderla inerme, poi ucciderla radicata. Coltivata nel settore Nord delle [[Colture]] (`Inktober 2019 #Overgrown`).
 
 ### Chayote Strangolatore
-Fitofiera con tentacoli. Sensibile. Il fuoco può bruciarla ma i tentacoli in fiamme diventano ancora più pericolosi. Coltivata nel settore Est delle [[Colture]] come punto d'accesso alla bonifica (`Inktober 2018 #Overgrown`).
+Fitofiera con tentacoli. Sensibile. Il fuoco può bruciarla ma i tentacoli in fiamme diventano ancora più pericolosi. Coltivata nel settore Est delle [[Colture]] come punto d'accesso alla bonifica (`Inktober 2019 #Overgrown`).
 
 ### Amaranthus Cruentus
-Fitofiera coltivata nel settore Sud delle [[Colture]]. La più importante per il sostentamento degli Umani. Le spore sono pericolose per un ciclo di un mese, dopo lavaggio diventano commestibili. Il fumo della combustione è letale — non può essere bruciata direttamente. Richiede sistemi di irrigazione con sostanze specifiche per la raccolta sicura dei semi (`Inktober 2018 #Overgrown`, `Inktober 2024 #Exotic`).
+Fitofiera coltivata nel settore Sud delle [[Colture]]. La più importante per il sostentamento degli Umani. Le spore sono pericolose per un ciclo di un mese, dopo lavaggio diventano commestibili. Il fumo della combustione è letale — non può essere bruciata direttamente. Richiede sistemi di irrigazione con sostanze specifiche per la raccolta sicura dei semi (`Inktober 2019 #Overgrown`, `Inktober 2024 #Exotic`).
 
 ### Fabalo Spinato
 Pianta con proprietà tossiche progressive. Può essere trattata per renderla innocua, ma va consumata entro 72 ore o inizia a sviluppare qualcosa di pericoloso. Menzionata in `18___Misfit` — Solomon toglie una radice trattata di Fabalo a Wendy.
