@@ -22,7 +22,7 @@ Syrus portava il titolo di **Guardiano** — era uno dei tredici individui che, 
 
 ### Ruolo
 
-Syrus è la voce storica per eccellenza del Kindsgard. Come autore degli Annali, ha documentato l'Era degli Eroi con precisione e consapevolezza cosmologica superiore alla media dei Draghieri. La sua prospettiva è quella di chi ha vissuto abbastanza a lungo da vedere i cicli ripetersi.
+Syrus è presentato come voce storica del Kindsgard attraverso una citazione attribuita agli Annali dell'Artiglio di Fuoco. Il frammento disponibile lo colloca nell'Era degli Eroi, ma il testo integrale degli Annali non è presente nel repository: non è quindi possibile valutare la completezza della sua documentazione né attribuirgli, sulla sola base del frammento, una consapevolezza cosmologica superiore alla media dei Draghieri.
 
 In `Inktober 2018 #Bottle`, Sebastian trova il laboratorio di Syrus con i suoi resti ancora presenti sul tavolo — segno di una morte improvvisa o di un Battesimo fallito nel laboratorio stesso. Gli appunti di Syrus (in bella grafia elegante, inchiostro rosso scuro che ha quasi bruciato le pagine) sono mescolati con quelli di una collaboratrice identificata come **Gertrude** (inchiostro verde), su cui condusse studi medici degli usi di alcune parti di Fiera.
 
