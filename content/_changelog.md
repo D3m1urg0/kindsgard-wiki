@@ -22,6 +22,7 @@ ultima_modifica: "2026-10-11"
 - Audit geografico mirato: “Valle dei Tuoni” compare soltanto come alias legacy, senza riscontro indipendente nelle fonti presenti. La geografia ora segnala esplicitamente l'incertezza invece di presentare i due nomi come equivalenti certi.
 - Riclassificata con cautela l'intestazione della voce `Fiamme`: le fonti attestano il legame narrativo con i Bruciati e la presenza della fazione su Vilegis, ma non documentano una fazione organizzata delle Fiamme nel Kindsgard. Aggiunta la domanda L13 senza risolverla per inferenza.
 - Precisata la provenienza degli `Annali dell'Artiglio di Fuoco`: è presente una citazione attribuita a Syrus in `Inktober 2019`, ma non è dimostrato che coincida con il file legacy atteso né che il documento integrale sia stato conservato.
+- Aggiunta la domanda L14 sul termine “Infiammati” in `Inktober 2018 #Flowing`: non viene assimilato ai Bruciati né alla fazione delle Fiamme senza una fonte che lo confermi.
 - Nessuna informazione mancante è stata colmata per inferenza; le questioni di canone non deducibili dalle fonti saranno elencate separatamente.
 
 > *Log di tutte le modifiche alla wiki con data e motivazione.*
