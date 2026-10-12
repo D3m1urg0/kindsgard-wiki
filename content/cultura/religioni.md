@@ -40,7 +40,7 @@ Il canto degli Umani ("Canto dei Draghieri") narra la storia di Bisogno, Espedie
 
 ### I Sacerdoti di Bisogno
 
-Esistono figure religiose dedicate al culto di Bisogno — i **monaci** che abitano i rifugi-tempio gestiti da alcuni Draghieri (come quello di Axsar). Non sono figure potenti: praticano la rinuncia totale al desiderio come disciplina spirituale, e la loro vita media è probabilmente inferiore a quella degli Umani comuni. Vivono invecchiando — il che nel Kindsgard è già un privilegio straordinario.
+Esistono figure religiose dedicate al culto di Bisogno — i **monaci** che abitano i rifugi-tempio gestiti da alcuni Draghieri (come quello di Axsar). Non sono descritti come figure potenti: praticano la rinuncia al desiderio come disciplina spirituale. Le fonti mostrano che invecchiano, ma non permettono di confrontare la loro aspettativa di vita con quella degli altri Umani.
 
 ---
 
