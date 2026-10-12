@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Allineata anche la nota finale L3 in Geografia alla nuova evidenza: “Valle dei Tuoni” non è più descritto come alias legacy, poiché il nome è attestato in `Inktober 2019 #Snow`.
+
 - Corrette due discrepanze geografiche basate su fonti primarie: distinto l'“Artiglio di Città del Re” (Battesimi controllati) dall'Artiglio del Fuoco con il laboratorio della Salamandra; registrato che “Valle dei Tuoni” compare in `Inktober 2019 #Snow` mentre “Valle dei Fulmini” compare in `#Tread` e `#Bait`, senza presumere che siano lo stesso luogo.
 
 - Corretto il profilo dell'Alicanto: `Inktober 2019 #Treasure` attesta una piuma che riflette la luce solare e un tesoro nella tana, non l'emissione di luce propria né un intento esplicito di attirare prede con gli oggetti. Rimossi questi dettagli non dimostrati, potenzialmente importati dalla mitologia esterna.
