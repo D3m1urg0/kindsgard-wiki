@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Aggiornata la priorità documentale L6 per Loccia: il riscontro sul comportamento delle “Lochs” viene da `Inktober 2018 #Flowing`; `Inktober 2019 #Snow` attesta Laerius Loch come XV Draghiere della Loccia, ma non descrive la specie.
+
 - Riconciliati altri riferimenti alle Fiere: rimossi dalla Chimera i dettagli di testa/coda mutuati dalla mitologia esterna non attestati nel corpus; chiarito che lo scudo di Zachary Zaratan non è esplicitamente identificato come carapace della sua Fiera; qualificata l'inferenza morfologica del Leopterix. Separati Tentacolo Scarlatto (Fiera vermiforme usata come esca in `Inktober 2018 #Poisonous`) e Tentacolo Purpureo (foglie trattate in `Inktober 2019 #Tasty`), senza supporli sinonimi e senza alterare il conteggio delle 26 voci.
 
 - Completato un controllo delle date editoriali sulle voci sintetiche toccate dalla PR consolidata #15: aggiornati i frontmatter ancora fermi al 2025 o al 2026-10-11 (Religioni, Fiamme, Altri Personaggi, Bran Behemoth, Brood, Luther Leviathan, Salamander, Samu'el Sphynx, Solomon e Wendy Wyrm). Nessun testo narrativo è stato modificato in questo passaggio.
