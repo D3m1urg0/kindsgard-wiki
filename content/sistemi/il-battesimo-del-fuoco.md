@@ -17,7 +17,7 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Fierezza", "Cronistoria_ver
 
 Il Battesimo del Fuoco è l'evento che trasforma un Umano comune in un [[Draghieri|Draghiere]] o in una [[Vere Fiere|Vera Fiera]]. È il meccanismo fondamentale attraverso cui [[Fierezza e Maestà]] si infonde in un individuo, attribuendogli l'Istinto e l'Espediente di una Fiera specifica.
 
-La meccanica è universale e invariabile per tutte le specie di Fiere e per entrambe le fazioni. Non esistono eccezioni al processo di base.
+Il Battesimo segue uno schema generale condiviso dalle specie e dalle due fazioni, ma le fonti documentano anche eventi eccezionali che non seguono tutti i passaggi ordinari. È quindi utile distinguere la regola generale dai casi speciali, senza trasformare questi ultimi in una nuova regola universale.
 
 ---
 
@@ -25,11 +25,11 @@ La meccanica è universale e invariabile per tutte le specie di Fiere e per entr
 
 ### Condizioni
 
-Il Battesimo avviene quando un Umano si trova in una situazione di pericolo estremo di fronte a una [[Fiere|Fiera]]. Non è sufficiente il pericolo ordinario: deve essere una condizione di **massimo Bisogno**, in cui la sopravvivenza sembra impossibile e la morte certa.
+Nel processo ordinario, il Battesimo avviene quando un Umano si trova in una situazione di pericolo estremo di fronte a una [[Fiere|Fiera]]. Non è sufficiente il pericolo ordinario: deve essere una condizione di **massimo Bisogno**, in cui la sopravvivenza sembra impossibile e la morte appare certa.
 
 ### L'Atto
 
-Invece di fuggire o soccombere, l'Umano sceglie — consciamente o istintivamente — di affrontare la Fiera. La affronta e la uccide.
+Invece di fuggire o soccombere, l'Umano sceglie — consciamente o istintivamente — di affrontare la Fiera e la uccide. Questo è il percorso ordinario documentato, non una condizione da imporre retroattivamente a ogni caso eccezionale.
 
 Nel momento dell'uccisione, [[Fierezza e Maestà|Fierezza o Maestà]] si infonde nell'Umano. L'orientamento dell'infusione — verso Fierezza (Draghiere) o verso Maestà (Vera Fiera) — determina il mandato del portatore.
 
@@ -78,11 +78,11 @@ I Bruciati sono il seme narrativo della fazione delle [[Fiamme]]. ⚪ *Documenta
 
 ## Questioni Aperte
 
-Le seguenti sotto-domande sulla meccanica del Battesimo non sono ancora chiarite nelle fonti disponibili:
+I seguenti aspetti restano incompleti nelle fonti disponibili:
 
-- Un Istinto che non si risveglia può essere già incarnato altrove: in un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie.
-- L'orientamento Fierezza/Maestà dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato ai Draghieri o alle Vere Fiere. I personaggi giocanti che arrivano tramite la Chiamata costituiscono un caso particolare e possono presentare entrambe le varianti.
-- Restano da chiarire i fattori che determinano perché un Umano specifico affronti il Battesimo, muoia o sopravviva come Bruciato; i dettagli ulteriori sui Bruciati sono sospesi in attesa di un approfondimento dell'utente.
+- I fattori che determinano perché un Umano specifico affronti il Battesimo, muoia o sopravviva come Bruciato non sono documentati in modo sistematico.
+- I dettagli ulteriori sui Bruciati restano sospesi in attesa di un approfondimento dedicato.
+- Il racconto `Risveglio del Drago` descrive un evento eccezionale: Wade si reincarna come Vera Viverna senza aver ucciso una Viverna, mentre il suo sé umano è ancora vivo su Vilegis. Il testo lo presenta come un nuovo Battesimo e documenta una duplicazione dell'essenza, ma non spiega il meccanismo completo. Non generalizzare questo caso né cancellarlo per farlo rientrare nella regola ordinaria.
 
 ⚪ *Vedi [[Domande Aperte e Lacune]] L4.*
 
