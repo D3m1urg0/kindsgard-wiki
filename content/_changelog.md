@@ -24,7 +24,7 @@ ultima_modifica: "2026-10-12"
 
 - Precisata la discrepanza toponomastica con i riferimenti esatti: `Inktober 2019 #Bait` usa Valle dei Tuoni; `#Tread` e `L'ultima notte all'ombra dell'Anello` usano Valle dei Fulmini. Allineate Geografia, L3 e la voce di Bran senza presumere che i nomi siano sinonimi.
 
-- Allineate le pagine Bran, Dominic, Cronologia e homepage alla distinzione cosmologica: rimosse dal Behemoth la pelle impenetrabile/lentezza non documentate; sostituito “assorbire il titolo” con l'assorbimento dei vettori; chiarito che Dominic detiene il potere raccolto dai tredici vettori collegati al Fondamento, non che Kindsgard e Fondamento siano identici; rimossa la formula iperbolica “Maestà grande quanto il mondo”.
+- Allineate le pagine Bran, Dominic, Cronologia e homepage alla distinzione cosmologica: rimosse dal Behemoth la pelle impenetrabile/lentezza non documentate; sostituito “assorbire il titolo” con l'assorbimento dei vettori; chiarito che Dominic detiene il potere raccolto dai tredici vettori collegati al Fondamento, non che Kindsgard e Fondamento siano identici. In quel passaggio era stata rimossa anche la formula “Maestà grande quanto il mondo”, poi ripristinata dopo aver verificato la guida OOC canonica.
 
 - Raffinati i profili secondari di Lhars, Ember, Laerius e Mirjam: separati i dettagli dei personaggi dalle deduzioni sulla morfologia delle Fiere; rimosse da Laerius le capacità di immersione e le tattiche non descritte, da Ember la meccanica dell'Istinto non attestata, e da Mirjam la classificazione acquatica/paludosa della specie non supportata direttamente.
 
@@ -44,7 +44,7 @@ ultima_modifica: "2026-10-12"
 
 - Completato un controllo delle date editoriali sulle voci sintetiche toccate dalla PR consolidata #15: aggiornati i frontmatter ancora fermi al 2025 o al 2026-10-11 (Religioni, Fiamme, Altri Personaggi, Bran Behemoth, Brood, Luther Leviathan, Salamander, Samu'el Sphynx, Solomon e Wendy Wyrm). Nessun testo narrativo è stato modificato in questo passaggio.
 
-- Ridimensionate nella voce Maestà due affermazioni non misurate dalle fonti disponibili: rimosso il primato assoluto di “più grande vulcano del mondo” e la visibilità garantita da ogni punto; sostituite con la descrizione letteraria di `Inktober 2019 #Ring`. Segnalato come inferenza, non dato certo, il collegamento tra il ghiacciaio descritto in `#Bait` e il vulcano Maestà.
+- In una prima verifica era stata ridimensionata la descrizione della Maestà sulla base del solo racconto `Inktober 2019 #Ring`; il successivo confronto con la guida OOC canonica ha ripristinato il primato e la formula “grande quanto il mondo”. Resta qualificata come non esplicita l'identificazione del ghiacciaio descritto in `#Bait` con il vulcano Maestà.
 
 - Allineata anche la nota finale L3 in Geografia alla nuova evidenza: “Valle dei Tuoni” non è più descritto come alias legacy, poiché il nome è attestato in `Inktober 2019 #Snow`.
 
