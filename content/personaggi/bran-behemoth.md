@@ -15,7 +15,7 @@ fonti: ["Inktober_2019", "Inktober_2018", "Prevedibilità__covata_", "Onda_bianc
 
 ## Panoramica
 
-Bran Behemoth è il **V Draghiere del Behemoth** del Kindsgard. È uno dei Draghieri più fisicamente imponenti documentati nelle fonti — una massa d'acciaio e forza bruta che si muove con la lentezza inesorabile di una montagna. Opera principalmente nelle zone montuose del nord, nella **Valle dei Fulmini** e nelle **Catene Montuose Orientali**.
+Bran Behemoth è il **V Draghiere del Behemoth** del Kindsgard. È uno dei Draghieri più fisicamente imponenti documentati nelle fonti — una massa d'acciaio e forza bruta che si muove con la lentezza inesorabile di una montagna. Opera nelle zone montuose del nord e nelle **Catene Montuose Orientali**. Le fonti usano sia **Valle dei Tuoni** (`Inktober 2019 #Bait`) sia **Valle dei Fulmini** (`#Tread`, `L'ultima notte all'ombra dell'Anello`); non è stabilito se siano lo stesso luogo.
 
 ---
 
