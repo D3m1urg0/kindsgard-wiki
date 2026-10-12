@@ -119,3 +119,7 @@ Il frontmatter di `[[Cosmologia]]` cita `Copia_di_I_Draghieri_del_kindsgard`, ma
 ### L12 — Annali dell'Artiglio delle Sabbie
 `Inktober 2024 #Exotic` introduce una citazione attribuita agli **Annali dell'Artiglio delle Sabbie**. Il repository contiene invece un riferimento agli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V; il relativo file autonomo non è presente con il percorso catalogato. Non ci sono elementi sufficienti per trattare i due titoli come lo stesso documento.
 - → **Chiarimento documentale:** gli Annali delle Sabbie sono un documento distinto, un estratto degli Annali del Fuoco o soltanto una fonte interna citata nel racconto? Fino alla conferma, mantenere i riferimenti separati e non inventare il testo mancante.
+
+### L13 — Ambito della fazione delle Fiamme
+La voce `[[Fiamme]]` nasce dai Bruciati descritti in `Inktober 2018 #Scorched`, ma la documentazione disponibile presenta le Fiamme come fazione giocata su Vilegis/Lunaria e non descrive la loro organizzazione sul Kindsgard. Per evitare di promuovere un'inferenza a canone, la voce non le definisce più “terza fazione del Kindsgard”.
+- → **Chiarimento canonico:** le Fiamme sono una fazione di Vilegis collegata narrativamente ai Bruciati del Kindsgard, oppure esiste anche una fazione organizzata delle Fiamme nel Kindsgard? Fino alla conferma, mantenere esplicita la connessione senza estendere l'affiliazione geografica.
