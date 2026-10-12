@@ -63,14 +63,15 @@ La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualm
 - → **Attività residua:** mantenere esplicita la distinzione tra posizioni attestate e inferenze; aggiornare la verifica geografica quando i testi originali saranno nuovamente disponibili. Non chiedere all’utente di chiarire l’identità dei documenti, già chiarita.
 
 ### L4 — Dettagli meccanici del Battesimo del Fuoco
-La meccanica universale e alcuni dettagli sono stati chiariti dall'utente e non vanno più trattati come domande aperte:
-- Il numero progressivo dei Draghieri è **per specie**, non globale (es. 33ª Viverna).
+Lo schema ordinario e alcuni dettagli sono stati chiariti dall'utente e non vanno più trattati come domande aperte:
+- Il numero progressivo dei Draghieri è **per specie**, non globale (es. 33ª Viverna); le Vere Fiere non si numerano.
 - Se un Istinto non si risveglia, può essere già incarnato altrove: in un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie.
 - L'orientamento del risveglio dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato ai Draghieri o alle Vere Fiere.
 - I personaggi giocanti che arrivano tramite la Chiamata sono un caso particolare e possono presentare entrambe le varianti.
-- Il Battesimo può fallire; gli Umani che sopravvivono senza trasformarsi diventano Bruciati, ma i dettagli oltre il seme narrativo delle Fiamme restano incompleti.
 
-La documentazione residua da recuperare riguarda soprattutto la formulazione esatta in D3/D4 e i dettagli dei Bruciati. Non chiedere all'utente di ripetere i punti sopra già chiariti.
+Restano invece aperti i fattori che determinano l'esito individuale del Battesimo, i dettagli dei Bruciati e il meccanismo dell'evento eccezionale narrato in `Risveglio del Drago`: Wade si reincarna come Vera Viverna senza uccidere una Viverna e mentre il suo sé umano è ancora vivo su Vilegis. Il testo documenta l'evento, ma non ne spiega completamente la causa.
+
+La documentazione residua da recuperare riguarda anche la formulazione esatta in D3/D4, i cui file originali non sono disponibili nel repository consultato.
 
 
 ### L6 — Completamento delle schede Fiere
