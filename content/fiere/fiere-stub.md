@@ -59,7 +59,7 @@ Grande volatile con testa, bargigli neri, rostro affilato. Gli occhi della Cocka
 Fiera aracniforme. Gli adulti sono grandi due volte la testa di un Umano. Tessono tele complesse di fili bianchi traslucidi in pattern geometrici precisi. Le tele riempiono interi tunnel e caverne. Caccia intrappolando le prede nei fili. Può iniettare veleno/fiele paralizzante. I piccoli (delle dimensioni di una testa Umana) sono velenosi ma non ancora in grado di tessere. Punto debole: il fuoco brucia le tele (`Inktober 2019 #Pattern`).
 
 ### Chiroptera
-Grande pipistrello, alto circa due volte e mezzo un Umano, ali escluse. Vola nei cunicoli delle caverne. Può sfondare muri se colpisce in picchiata. I giovani sono in lattanza nelle caverne più oscure. Punto debole: il fuoco e la luce intensa. Istinto: echolocalizzazione — sente ogni movimento nelle zone buie (`Prevedibilità`, `Inktober 2018 #Angular`).
+Grande Fiera simile a un pipistrello, alta circa due volte e mezzo un Umano, ali escluse. In `Inktober 2018 #Angular` una Chiroptera viene trovata morta all'Artiglio con le ali rotte e una ferita penetrante al torace; il racconto non determina con certezza la causa della morte né l'origine del sangue nerastro. `Prevedibilità` descrive la cupola della Città-Alveare infestata da Chiroptera. Le fonti citate non attestano vulnerabilità specifiche al fuoco o alla luce, echolocalizzazione o caratteristiche dei giovani.
 
 ### Loccia
 Fiera acquatica dei ghiacciai. Vive nelle acque fredde, infesta le sorgenti dei fiumi del nord. Denti abbondanti. Il metallo carico elettricamente (grazie ai parafulmini installati vicino alle dighe) le tiene lontane (`Inktober 2018 #Flowing`).
@@ -81,7 +81,7 @@ Fiera insettiforme/alveare. Si muove in sciami con unità specializzate: operai 
 ## Fitofiere
 
 ### Sicomoro Perenne
-Grande albero mobile — una Fitofiera Sensibile che si sposta in branchi. Si muove lentamente ma inesorabilmente, lasciando frane e ruscelli esondati al suo passaggio. Sfugge al calore. Quando circondata da fuoco, invece di fuggire si stringe — attira la caccia all'interno del branco. Le sue radici si estendono per chilometri (`Inktober 2019 #Mindless`).
+Grande albero mobile — una Fitofiera Sensibile che si sposta in gruppo. Il suo passaggio provoca piccole frane e fa esondare ruscelli trattenuti dalle radici. Il fuoco è un nemico da cui la specie fugge; nel racconto, però, gli esemplari esterni al combattimento si stringono invece di disperdersi, rendendo più pericolosa la caccia al loro interno. La storia non quantifica l'estensione delle radici (`Inktober 2019 #Mindless`).
 
 ### Tripode
 Fitofiera dei terreni umidi. Germoglia rapidamente nei terreni ex-paludosi. Pericolosa in grandi quantità. Richiede bonifica periodica con il fuoco (`Inktober 2018 #Flowing`).
@@ -99,7 +99,7 @@ Fitofiera con tentacoli. Sensibile. Il fuoco può bruciarla ma i tentacoli in fi
 Fitofiera coltivata nel settore Sud delle [[Colture]] e la più importante per il sostentamento degli Umani. Le spore sono pericolose per un ciclo di un mese; gli Annali dell’Artiglio delle Sabbie riferiscono che i sistemi di lavaggio possono rimuovere la maggior parte della polvere in due settimane, quando il clima lo permette (`Inktober 2024 #Exotic`). La combustione diretta è esclusa perché il fumo danneggerebbe le vie respiratorie (`Inktober 2019 #Overgrown`). Per raccogliere i semi, si lascia maturare la pianta, poi il sistema di irrigazione diffonde una sostanza che brucia le radici; i semi vengono raccolti dopo l’essiccazione. La fonte avverte che ogni interazione sopra il livello del terreno e con la fioritura è mortale (`Inktober 2019 #Overgrown`).
 
 ### Fabalo Spinato
-Pianta con proprietà tossiche progressive. Può essere trattata per renderla innocua, ma va consumata entro 72 ore o inizia a sviluppare qualcosa di pericoloso. Menzionata in `18___Misfit` — Solomon toglie una radice trattata di Fabalo a Wendy.
+Pianta la cui radice, essiccata e trattata, può risultare temporaneamente innocua. In `18___Misfit`, Solomon toglie a Wendy una radice di Fabalo Spinato e le ricorda che deve consumarla entro 72 ore, prima che sul vegetale inizi a crescere qualcosa di pericoloso. La fonte non specifica la natura di questa crescita.
 
 ---
 
