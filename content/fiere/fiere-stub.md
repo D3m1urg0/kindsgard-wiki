@@ -71,7 +71,7 @@ Fiera alata. In `Inktober 2019 #Treasure`, un Umano entra in una caverna contene
 Fiera menzionata in `Prevedibilità (covata)`: uno Zaratan di terra è associato a gallerie nel sottosuolo della Città-Alveare; la forma del carapace corrisponde al profilo di alcuni tunnel. In `Inktober 2018 #Cruel`, il Draghiere Zachary Zaratan porta uno scudo rotondo fatto di carapace, ma il testo non dice che provenga da uno Zaratan. Non sono documentati qui habitat marino, lentezza, quasi-impenetrabilità o sangue tossico; non dedurre varianti o fisiologia oltre i dati attestati.
 
 ### Falenottere
-Fiera insettiforme con pungiglione paralizzante. Attratta dalla luce — si addensa attorno a qualsiasi fonte luminosa. Il pungiglione paralizza la preda che rimane cosciente mentre la Fiera si nutre. Unica difesa: mantenere una luce abbastanza grande da tenerle impegnate lontano dalla preda (`Inktober 2018 #Drooling`).
+Fiera insettiforme con pungiglione paralizzante. Attratta dalla luce, si addensa attorno alla fonte luminosa. Il pungiglione paralizza la preda, che rimane cosciente mentre la Fiera si nutre. In `Inktober 2018 #Drooling`, una candela tiene le Falenottere raccolte attorno alla fiamma per ore; il racconto non stabilisce una soglia di luminosità né garantisce che una fonte luminosa sia sempre una difesa sicura.
 
 ### Covata
 Fiera insettiforme/alveare. Si muove in sciami con unità specializzate: operai (scavano varchi), soldati (combattono), e una struttura gerarchica complessa. I bozzoli operai si schiudono a intervalli prevedibili — il Draghiere della Covata può anticipare i cicli. Punto debole: senza operai, le schiere soldato non possono aprire varchi e vengono respinte dalle difese (`Prevedibilità`).
