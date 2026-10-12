@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Corrette tre sovrainterpretazioni nelle voci Fiere dopo confronto diretto con le fonti: rimossi da Chiroptera fuoco/luce come debolezze, echolocalizzazione e giovani in lattanza non attestati; rimossa l'estensione chilometrica delle radici del Sicomoro Perenne; precisato che il testo sul Fabalo Spinato non specifica che cosa cresca dopo 72 ore.
+
 - Raffinata la scheda di Amaranthus Cruentus dopo confronto diretto con `Inktober 2019 #Overgrown` e `Inktober 2024 #Exotic`: distinti lavaggio delle spore, pericolo del fumo e trattamento delle radici per raccogliere i semi, evitando di suggerire che il lavaggio renda la pianta genericamente commestibile.
 
 - Aggiornate le istruzioni di ripresa con checkpoint persistente: branch, PR, file e fonti esaminati, modifiche proposte, stato della CI e ordine dei prossimi controlli.
