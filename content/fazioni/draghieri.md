@@ -47,7 +47,7 @@ Caratteristiche condivise da tutti i Draghieri, indipendentemente dalla Fiera:
 - **Istinto protettivo verso i deboli**: non sopprimibile, è parte della Fierezza
 - **Incapacità di ammettere errori**: se qualcosa va male, è colpa delle circostanze
 
-I Draghieri sono **completamente incapaci di concepire le conseguenze dell'uccisione di Natura**, poiché la loro mente cieca antepone sempre la Fierezza a qualsiasi ragionamento. Marciano verso una crociata deicida suicida senza vederla tale.
+Il Draghiere ordinario è strutturalmente incapace di concepire le conseguenze dell'uccisione di Natura: il suo Istinto antepone la Fierezza a ogni altro ragionamento e lo spinge verso una crociata deicida senza comprenderne il costo. **Dominic Draco è l'eccezione documentata**: l'Istinto del Drago gli permette di vedere oltre il mandato immediato e di compiere la scelta dell'Anello.
 
 ---
 
