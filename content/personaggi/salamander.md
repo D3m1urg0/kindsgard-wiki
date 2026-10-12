@@ -18,7 +18,7 @@ fonti: ["Annali_dell_Artiglio_di_Fuoco", "L_esodo", "Inktober_2018", "Inktober_2
 
 Syrus Salamander è il **V Draghiere della Salamandra** del Kindsgard. È il predecessore di [[#Sebastian Salamander, VI Salamandra|Sebastian]] e uno dei Draghieri più longevi documentati nelle fonti — la sua firma appare negli **Annali dell'Artiglio di Fuoco**, il documento storico più antico disponibile nel progetto, che lo colloca nell'**Era degli Eroi**, il periodo immediatamente successivo alla fondazione dell'[[Anello di Fuoco]].
 
-Syrus portava il titolo di **Guardiano** — era uno dei 13 individui che inconsapevolmente incarnavano un vettore del Fondamento di Lunaria.
+Syrus portava il titolo di **Guardiano** — era uno dei tredici individui che, dopo la connessione del Kindsgard con Vilegis/Lunaria, incarnavano inconsapevolmente un vettore manifestatosi nel Kindsgard in relazione al Fondamento. Questo gruppo successivo non coincide con i sette vettori originari del Kindsgard.
 
 ### Ruolo
 
