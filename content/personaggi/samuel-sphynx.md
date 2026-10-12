@@ -15,7 +15,7 @@ fonti: ["Inktober_2018", "L_ultima_notte_all_ombra_dell_Anello", "Onda_bianca", 
 
 ## Panoramica
 
-Samu'el Sphynx è il **III Draghiere della Sfinge** del Kindsgard, di stanza all'**Artiglio delle Sabbie**. Porta il titolo di **Guardiano** — era uno dei 13 individui che inconsapevolmente incarnavano un vettore del Fondamento di Lunaria.
+Samu'el Sphynx è il **III Draghiere della Sfinge** del Kindsgard, di stanza all'**Artiglio delle Sabbie**. Porta il titolo di **Guardiano** — era uno dei tredici individui che, dopo la connessione del Kindsgard con Vilegis/Lunaria, incarnavano inconsapevolmente un vettore manifestatosi nel Kindsgard in relazione al Fondamento. Questo gruppo successivo non coincide con i sette vettori originari del Kindsgard.
 
 ---
 
