@@ -31,6 +31,7 @@ ultima_modifica: "2026-10-12"
 | File | Contenuto | Note |
 |------|-----------|------|
 | `content/fonti/annali-artiglio-di-fuoco-intro.md` | Introduzione storica firmata da Syrus Salamander V. Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante. | ⚠️ Percorso da riconciliare |
+| `Annali dell'Artiglio delle Sabbie` (citazione in `content/fonti/inktober-2024.md`, #Exotic) | Testo citato come fonte interna alla narrazione; non esiste un file autonomo nel tree corrente. Non va confuso con gli `Annali dell'Artiglio di Fuoco`, citati in `Inktober 2019` e attribuiti a Syrus Salamander V. | ⚠️ Riferimento distinto, identità e testo sorgente da chiarire |
 | `content/fonti/draghieri-vere-fiere.md` | Riferimento a una descrizione OOC del dualismo Draghieri/Vere Fiere; il percorso non esiste nel tree attuale. `content/fonti/draghieri-spiegazione.md` è una fonte OOC presente che tratta i Draghieri e le Vere Fiere, ma senza il documento originale non è possibile confermare che sia la stessa fonte o una sua conversione. | ⚠️ Identità/percorso da riconciliare |
 | `content/fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
 | `content/fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
@@ -179,3 +180,5 @@ Il controllo della tree GitHub ha rilevato 29 file sotto `content/fonti/`. Quatt
 - `content/fonti/draghieri-vere-fiere.md` — identità/percorso ancora da riconciliare.
 
 Non dichiarare perdute le fonti D3/D4: i loro nomi/contenuti generali sono stati identificati, ma i file originali non sono presenti nel repository consultato e non sono emersi dalla ricerca nella Library collegata. I percorsi esistenti nel repository sono indicati rispetto alla root GitHub come `content/fonti/...`.
+
+Un ulteriore riferimento non autonomo è **Annali dell'Artiglio delle Sabbie**, citato in `Inktober 2024 #Exotic`. È distinto dagli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V. La wiki non dispone al momento di elementi per stabilire se il primo sia un documento indipendente, un estratto o un riferimento interno alla storia.
