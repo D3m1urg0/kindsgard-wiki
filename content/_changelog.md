@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Rinominata la sezione `Guardiani e personaggi collegati`: l'elenco contiene anche personaggi legati ai Guardiani ma non classificati esplicitamente come tali, quindi il titolo precedente era troppo ampio.
+
 - Corretto un precedente declassamento della descrizione della Maestà: il confronto successivo con la guida OOC canonica `Draghieri del Kindsgard (spiegazione)` ha confermato esplicitamente “il più grande vulcano del mondo” e “grande quanto il mondo”. Ripristinata la formula canonica in Maestà e homepage, aggiunto il riferimento frontmatter a questa fonte e mantenuta distinta la questione della visibilità misurabile da ogni punto.
 
 - Separata visivamente la sezione delle tre Fiere minori classificate dalle menzioni narrative aggiuntive (Kyrin, Sliss, Tentacolo Purpureo) e dai dodici nomi di brainstorming; allineata la terminologia di L6 al conteggio effettivo.
