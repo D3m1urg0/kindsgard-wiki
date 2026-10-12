@@ -4,7 +4,7 @@ categoria: "mondo"
 tag: [geografia, luoghi, artigli, anello, maestà, mare]
 status: "bozza"
 ultima_modifica: "2026-10-11"
-aliases: ["Spiagge del Mare Esterno","Valle dei Fulmini","Valle dei Tuoni","Fiume Bianco"]
+aliases: ["Spiagge del Mare Esterno","Valle dei Fulmini","Fiume Bianco"]
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
 ---
 
@@ -56,7 +56,7 @@ Le torri che compongono l'Anello di Fuoco. Strutture imponenti, costruite in pie
 |------|------|-----------------------|------|
 | Artiglio delle Brughiere | Ovest | [[Caitlin Chimera]] | Cade durante la crisi dell'Orso |
 | Artiglio delle Sabbie | Deserti | [[Samu'el Sphynx]] | Sede della biblioteca e dei progetti delle Serre |
-| Artiglio del Magma | Zona vulcanica | [[Syrus Salamander]] | Menzionato in `L'esodo` |
+| Artiglio del Magma | Zona vulcanica | Draghiere della Salamandra non identificabile con certezza | Wade cerca di condurvi i sopravvissuti in `L'esodo`; la data non permette di stabilire se si tratti di Syrus o Sebastian Salamander |
 | Artiglio delle Nevi | Nord | [[Ember Everastes]], [[Laerius Loch]] | Evacuato per un Drago (`Inktober 2019`) |
 | Artiglio Sepolto delle Catene Montuose Orientali | Est montagnoso | [[Bartholomew Brood]], poi [[Brienne Brood]] | La **Città-Alveare** |
 | Artiglio dei Picchi | Nord montagnoso | — | Menzionato in `Inktober 2019` |
@@ -111,9 +111,11 @@ Situate a **nordest della Maestà**, sono l'habitat dei [[Soffione Uncinato|Soff
 
 ---
 
-### Valle dei Fulmini / Valle dei Tuoni
+### Valle dei Fulmini
 
-Zone montuose nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di origine dell'armatura di Bran, forgiata con il ferro nero del luogo. Citata in `Inktober 2019 #Bait`.
+Zona montuosa nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di origine dell'armatura di Bran, forgiata con il ferro nero del luogo. È citata in `Inktober 2019 #Bait` e `L'ultima notte all'ombra dell'Anello`.
+
+**Nota sul nome:** “Valle dei Tuoni” compare soltanto come alias legacy nei metadati di questa pagina; non è stato trovato un riscontro indipendente nelle fonti attualmente presenti. Non è quindi possibile stabilire se sia una variante del nome o un luogo distinto. L'alias viene conservato provvisoriamente, senza usarlo come prova geografica.
 
 ---
 
@@ -131,7 +133,7 @@ Corso d'acqua controllato da una diga costruita dai Draghieri all'altezza del La
 
 ## Note
 
-⚪ *Lacuna aperta L3: nessuna mappa sistematica disponibile. Le relazioni spaziali tra Artigli e zone geografiche sono parzialmente inferibili dai testi ma non confermabili con precisione. Procedere con cautela nell'uso di questa voce come riferimento geografico assoluto.*
+⚪ *Lacuna aperta L3: nessuna mappa sistematica disponibile. Le relazioni spaziali tra Artigli e zone geografiche sono parzialmente inferibili dai testi ma non confermabili con precisione. Anche l'equivalenza tra “Valle dei Tuoni” (alias legacy) e “Valle dei Fulmini” non è confermata. Procedere con cautela nell'uso di questa voce come riferimento geografico assoluto.*
 
 ---
 
