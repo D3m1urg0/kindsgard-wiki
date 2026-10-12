@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Precisata la scheda di Axsar Aigokeros: la guida spirituale e la protezione degli Umani sono presentate come sintesi del comportamento nel racconto, non come definizione tecnica esplicita dell'Istinto.
+
 - Corretta la scheda tecnica wiki della Bacca Emofaga: le allucinazioni sono ora trattate come un singolo caso narrativo ipoteticamente collegato a un fusto alla base della nuca, non come una fase universale della progressione.
 
 - Aggiunta alla voce Maestà una nota di tracciabilità che distingue i dettagli fisici/cosmologici verificati dalle formulazioni che dipendono dai testi integrali D3/D4 non reperiti, con rinvio a L1.
