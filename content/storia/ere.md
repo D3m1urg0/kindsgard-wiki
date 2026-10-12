@@ -125,7 +125,7 @@ Il mutaforma Ishvard, incapace di liberarsi dalla creatura ferale che lo control
 ### La Forgiatura di Espediente e l'Ascesa di Re Draco
 Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** per proteggere il Kindsgard dalla minaccia del Nexus. Viene forgiata l'arma **Espediente**. Draco la usa per uccidere i **13 Guardiani del Kindsgard** — individui che, dopo la connessione con Vilegis/Lunaria, incarnavano inconsapevolmente i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento — diventando **Unico Guardiano, Re Draco**: entità autonoma, non più Draghiere né Vera Fiera, detentrice del potere così raccolto.
 
-Le Vere Fiere perdono il potere e tornano Umani semplici. I Draghieri non le eliminano perché il loro Istinto non le riconosce come minaccia. Draco fonda le città, dismette gran parte degli Artigli, regna sul Giardino con l'aiuto dei Draghieri.
+Le Vere Fiere perdono il potere e tornano Umani semplici. I Draghieri non le eliminano perché il loro Istinto non le riconosce come minaccia. Draco fonda le città, dismette gran parte degli Artigli, regna sul Giardino con l'aiuto dei Draghieri. Questa è la regola generale riportata dalla cronologia; la sorte di Wendy Wyrm e Solomon, presentati come Vere Fiere in `18___Misfit` nell'Era del Dominio, resta da riconciliare (vedi [[Domande Aperte e Lacune]] L16).
 
 ### L'Era del Dominio
 *(Parallelismo con Lunaria: Era del Dominio — post Guardiani)*
