@@ -17,7 +17,7 @@ fonti: ["18___Misfit", "Inktober_2018"]
 
 Solomon è identificato come **Vera Sfinge** del Kindsgard — la controparte [[Vere Fiere|Vera Fiera]] di [[Samu'el Sphynx]]. `18___Misfit`, collocato nell'Era del Dominio dopo l'ascesa di Re Draco, lo presenta ancora con questa identità; il testo non chiarisce se conservi il potere delle Vere Fiere, questione aperta in [[Domande Aperte e Lacune]] L16.
 
-Il suo numero nella sequenza delle Sfingi non è documentato. Le Vere Fiere non si numerano per orgoglio e individualismo. ⚠️ *Vedi [[Domande Aperte e Lacune]] L8.*
+Solomon non ha un numero progressivo: le Vere Fiere non si numerano per orgoglio e individualismo. La questione aperta riguarda il suo stato dopo l'ascesa di Re Draco, non una numerazione (vedi [[Domande Aperte e Lacune]] L16).
 
 ---
 
