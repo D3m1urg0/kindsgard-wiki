@@ -55,6 +55,12 @@ Con la fondazione dell'[[Anello di Fuoco]], l'avanzata verso la Maestà fu inter
 
 ---
 
+## Tracciabilità e limiti
+
+Questa è una sintesi wiki, non una fonte primaria. Alcune formulazioni più dettagliate sul gradiente della forza di Natura vicino alla Maestà e sugli Echi associati alle eruzioni dipendono da riferimenti D3/D4 presenti nel frontmatter, i cui testi integrali non sono disponibili nel repository consultato. Questi passaggi non sono stati verificati direttamente sugli originali; vedi [[Domande Aperte e Lacune]] L1. Non ampliare tali affermazioni per inferenza.
+
+---
+
 ## Relazioni
 - Collegato a: [[Natura]], [[Cosmologia]], [[Anello di Fuoco]], [[Draghieri]], [[Vere Fiere]]
 - Vedi anche: [[Geografia del Kindsgard]], [[Dominic Draco]], [[Frederick Fenice]]
