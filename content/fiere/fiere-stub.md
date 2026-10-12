@@ -103,12 +103,14 @@ Pianta la cui radice, essiccata e trattata, può risultare temporaneamente innoc
 
 ---
 
-## Fiere Minori / Menzionate
+## Fiere Minori (3 voci classificate)
 
 **Leopterix** — Fiera associata a Lhars Leopterix. In `Inktober 2019 #Freeze`, Lhars indossa un mantello di piume e pelle ricavata da una creatura che il testo descrive come un misto di rettile e volatile e che il Draghiere caccia abitualmente. La pagina non nomina esplicitamente la specie in quel passaggio: collegare quella morfologia al Leopterix è plausibile per contesto, ma resta un'inferenza. Dimensioni, habitat preciso, capacità offensive e vulnerabilità non sono documentati.
 
 **Everastes** — Fiera associata a Ember Everastes, IV Draghiere dell'Everastes. `Inktober 2019 #Snow` descrive Ember come “fatta per stare in mezzo al gelo”, ma non stabilisce il tipo di habitat della Fiera né una sua immunità al freddo. Il simbolo montuoso sullo stemma e l'equipaggiamento del Draghiere non bastano a dedurre la morfologia o le capacità della specie (*Inktober 2019 #Snow, #Dragon*).
 
+
+## Menzioni narrative aggiuntive (fuori dal conteggio delle 26)
 
 **Kyrin** — Fiera dell'altopiano. In `L'Esodo`, un fuoco acceso per disfarsi dei caduti sembra attirarne l'attenzione; la fonte non ne descrive abitudini notturne o crepuscolari.
 
@@ -118,7 +120,9 @@ Pianta la cui radice, essiccata e trattata, può risultare temporaneamente innoc
 
 **Tentacolo Purpureo** — Menzionato separatamente in `Inktober 2019 #Tasty`: le sue larghe foglie vengono bollite finché l'acqua diventa rossa, poi sciacquate, essiccate e salate per essere consumate in seguito; l'acqua di cottura è urticante e viene usata per rendere infertile il terreno. La fonte non stabilisce che sia la stessa specie del Tentacolo Scarlatto; resta fuori dal conteggio delle 26 voci classificate finché l'identità non è chiarita.
 
-**Nomi da brainstorming, non attestazioni canoniche:** Ahuizotl, Akhult, Allghoi-khorhoi, Al-Mi'raj, Ammit, Anfesibena, KarKinos, Cipactli, Vellosa, Yali, Makara, Yale/Eale. Sono i dodici nomi presenti nella lista OOC `Mostri`; non hanno descrizioni nel corpus narrativo e non vanno conteggiati tra le 26 voci preliminari del bestiario.
+## Nomi da brainstorming — non canonici
+
+Ahuizotl, Akhult, Allghoi-khorhoi, Al-Mi'raj, Ammit, Anfesibena, KarKinos, Cipactli, Vellosa, Yali, Makara, Yale/Eale. Sono i dodici nomi presenti nella lista OOC `Mostri`; non hanno descrizioni nel corpus narrativo e non vanno conteggiati tra le 26 voci preliminari del bestiario.
 
 ---
 
