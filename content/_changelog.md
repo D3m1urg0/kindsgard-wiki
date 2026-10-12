@@ -202,3 +202,6 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Esplicitata la relazione causale tra la morte del Guardiano-Re di Vilegis/Lunaria, la scelta di Dominic di interrompere i cicli e il rischio cosmologico.
 - Registrata la conseguenza della fondazione delle città: viola la legge del Giardino secondo cui tutto deve combattere.
 - Aggiornate le regole del Battesimo già chiarite: unicità dell'incarnazione per tipo di creatura/specie nel periodo, orientamento legato all'esito della battaglia su Vilegis e numerazione progressiva dei soli Draghieri.
+- Aggiunto il termine Mondo Ancora al glossario e distinto il dato confermato (Kindsgard collegato come Mondo Ancora) dai dettagli ancora da recuperare.
+- Ristretta la domanda cronologica A1 alla sola collocazione non determinata di Inktober 2024; mantenute le raccolte 2018/2019 al livello di Era del Dominio senza inventare date per i singoli racconti.
+- Precisato nel catalogo che `draghieri-spiegazione.md` tratta il dualismo Draghieri/Vere Fiere, ma non è possibile affermare senza l'originale che coincida con il riferimento storico `Draghieri/Vere Fiere del Kindsgard`.
