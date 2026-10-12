@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Corrette due sovrainterpretazioni nelle schede Drago e Behemoth: rimosso il raggio di calore di centinaia di metri non quantificato dalla fonte; chiarito che `#Dragon` mostra neve sciolta in vapore e scudo fuso. Sostituita la falsa “valanga” evocata dal Corno con l'evento attestato — il crollo di una montagna — e rimossi pelle impenetrabile/lentezza del Behemoth non dimostrate dalle fonti narrative attualmente disponibili.
+
 - Precisate anche le voci Loccia ed Everastes: la fonte `Inktober 2018 #Flowing` documenta le “Lochs” tenute lontane da una rete caricata dai fulmini, ma non descrive dentatura o habitat glaciale; `Inktober 2019 #Snow` caratterizza Ember come adatta al gelo senza definire habitat o immunità della Fiera Everastes.
 
 - Corrette tre sovrainterpretazioni nelle voci Fiere dopo confronto diretto con le fonti: rimossi da Chiroptera fuoco/luce come debolezze, echolocalizzazione e giovani in lattanza non attestati; rimossa l'estensione chilometrica delle radici del Sicomoro Perenne; precisato che il testo sul Fabalo Spinato non specifica che cosa cresca dopo 72 ore.
