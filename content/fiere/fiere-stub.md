@@ -110,13 +110,13 @@ Pianta la cui radice, essiccata e trattata, può risultare temporaneamente innoc
 **Everastes** — Fiera associata a Ember Everastes, IV Draghiere dell'Everastes. `Inktober 2019 #Snow` descrive Ember come “fatta per stare in mezzo al gelo”, ma non stabilisce il tipo di habitat della Fiera né una sua immunità al freddo. Il simbolo montuoso sullo stemma e l'equipaggiamento del Draghiere non bastano a dedurre la morfologia o le capacità della specie (*Inktober 2019 #Snow, #Dragon*).
 
 
+**Tentacolo Scarlatto** — Fiera vermiforme e sanguinolenta, descritta mentre tenta di afferrare una Cockatrice; Wade Wyrm la usa come esca (`Inktober 2018 #Poisonous`). La fonte non la descrive come fitofiera e non menziona foglie commestibili.
+
 ## Menzioni narrative aggiuntive (fuori dal conteggio delle 26)
 
 **Kyrin** — Fiera dell'altopiano. In `L'Esodo`, un fuoco acceso per disfarsi dei caduti sembra attirarne l'attenzione; la fonte non ne descrive abitudini notturne o crepuscolari.
 
 **Sliss** — Fiera usata come alimento. In `Onda Bianca`, dopo che il gruppo ha mangiato uno stufato, i personaggi sospettano che lo Sliss abbia fatto loro male; la fonte non stabilisce che la specie provochi necessariamente allucinazioni collettive.
-
-**Tentacolo Scarlatto** — Fiera vermiforme e sanguinolenta, descritta mentre tenta di afferrare una Cockatrice; Wade Wyrm la usa come esca (`Inktober 2018 #Poisonous`). La fonte non la descrive come fitofiera e non menziona foglie commestibili.
 
 **Tentacolo Purpureo** — Menzionato separatamente in `Inktober 2019 #Tasty`: le sue larghe foglie vengono bollite finché l'acqua diventa rossa, poi sciacquate, essiccate e salate per essere consumate in seguito; l'acqua di cottura è urticante e viene usata per rendere infertile il terreno. La fonte non stabilisce che sia la stessa specie del Tentacolo Scarlatto; resta fuori dal conteggio delle 26 voci classificate finché l'identità non è chiarita.
 
