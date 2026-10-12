@@ -3,7 +3,7 @@ titolo: "Salamander — Draghieri della Salamandra"
 categoria: "personaggi"
 tag: [syrus-salamander, sebastian-salamander, draghieri, salamandra, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-12"
 aliases: ["Syrus Salamander","Sebastian Salamander"]
 fonti: ["Annali_dell_Artiglio_di_Fuoco", "L_esodo", "Inktober_2018", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
@@ -28,7 +28,7 @@ In `Inktober 2018 #Bottle`, Sebastian trova nel laboratorio i resti di Syrus. La
 
 ### Fine
 
-Syrus morì nel laboratorio dell'Artiglio del Fuoco, nelle circostanze descritte sopra. Fu Sebastian a prendere il suo posto.
+Syrus morì prima degli eventi di `Inktober 2018 #Bottle`; Sebastian ne trova i resti nel laboratorio dell'Artiglio del Fuoco. La fonte non stabilisce che Syrus sia morto lì né chiarisce la causa della morte. Sebastian prese il suo posto.
 
 ---
 
@@ -56,7 +56,7 @@ Sebastian ha ereditato da Syrus un laboratorio pieno di bottiglie multicolori, b
 
 **`Inktober 2019 #Ash`** — Sebastian è tra i Draghieri che completano la bonifica della Foresta ambulante nelle Brughiere. Coordina con [[Caitlin Chimera]] il rapporto a Re Draco e la missione verso le Colture.
 
-**`L'esodo`** — [[Wade Wyrm]] sta cercando di portare i sopravvissuti all'Artiglio del Magma dove "Salamandra saprà prendersi cura di loro." Il riferimento potrebbe essere a Syrus o a Sebastian a seconda della collocazione cronologica.
+**`L'esodo`** — [[Wade Wyrm]] sta cercando di portare i sopravvissuti all'Artiglio del Magma dove "Salamandra saprà prendersi cura di loro." Il riferimento resta ambiguo tra Syrus, Sebastian o la Salamandra in senso più ampio; la fonte non consente di scegliere. Vedi [[Domande Aperte e Lacune]] L18.
 
 ---
 

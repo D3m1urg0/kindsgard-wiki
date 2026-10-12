@@ -10,7 +10,83 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Corretto il rendering Markdown dei versi con hard line breaks (due spazi finali, senza modificare parole, punteggiatura o ordine) in `Canzoni degli Umani`, `Deflecte Cantum`, `L'Animale Uomo`, `Lamento di Wade`, il componimento finale di `L'Ultima Notte all'Ombra dell'Anello` e i tre versi citati in `Una Missiva dall'Anello`.
+
+- Registrata come lacuna L18 la menzione non datata di “Salamandra” in `L'Esodo`: la frase non permette di identificare Syrus, Sebastian o la Fiera/fazione in senso più ampio.
+
+- Riallineata la struttura del bestiario al conteggio L6: Tentacolo Scarlatto è ora nella sezione delle tre Fiere minori classificate; Tentacolo Purpureo resta tra le menzioni aggiuntive non conteggiate.
+
+- Aggiornato il checkpoint persistente con lo stato della PR #18, l'esito CI, l'inventario delle fonti, le discrepanze geografiche e cosmologiche corrette, il perimetro di verifica e le decisioni residue.
+
+- Rinominata la sezione `Guardiani e personaggi collegati`: l'elenco contiene anche personaggi legati ai Guardiani ma non classificati esplicitamente come tali, quindi il titolo precedente era troppo ampio.
+
+- Corretto un precedente declassamento della descrizione della Maestà: il confronto successivo con la guida OOC canonica `Draghieri del Kindsgard (spiegazione)` ha confermato esplicitamente “il più grande vulcano del mondo” e “grande quanto il mondo”. Ripristinata la formula canonica in Maestà e homepage, aggiunto il riferimento frontmatter a questa fonte e mantenuta distinta la questione della visibilità misurabile da ogni punto.
+
+- Separata visivamente la sezione delle tre Fiere minori classificate dalle menzioni narrative aggiuntive (Kyrin, Sliss, Tentacolo Purpureo) e dai dodici nomi di brainstorming; allineata la terminologia di L6 al conteggio effettivo.
+
+- Precisata la scheda di Axsar Aigokeros: la guida spirituale e la protezione degli Umani sono presentate come sintesi del comportamento nel racconto, non come definizione tecnica esplicita dell'Istinto.
+
+- Corretta la scheda tecnica wiki della Bacca Emofaga: le allucinazioni sono ora trattate come un singolo caso narrativo ipoteticamente collegato a un fusto alla base della nuca, non come una fase universale della progressione.
+
+- Aggiunta alla voce Maestà una nota di tracciabilità che distingue i dettagli fisici/cosmologici verificati dalle formulazioni che dipendono dai testi integrali D3/D4 non reperiti, con rinvio a L1.
+
+- Risolta una contraddizione interna nella scheda Salamander: il ritrovamento dei resti di Syrus nel laboratorio non viene più trasformato in certezza sul luogo della morte; la sezione finale ora concorda con la nota di tracciabilità che lascia ignote causa e luogo esatti.
+
+- Precisata la discrepanza toponomastica con i riferimenti esatti: `Inktober 2019 #Bait` usa Valle dei Tuoni; `#Tread` e `L'ultima notte all'ombra dell'Anello` usano Valle dei Fulmini. Allineate Geografia, L3 e la voce di Bran senza presumere che i nomi siano sinonimi.
+
+- Allineate le pagine Bran, Dominic, Cronologia e homepage alla distinzione cosmologica: rimosse dal Behemoth la pelle impenetrabile/lentezza non documentate; sostituito “assorbire il titolo” con l'assorbimento dei vettori; chiarito che Dominic detiene il potere raccolto dai tredici vettori collegati al Fondamento, non che Kindsgard e Fondamento siano identici. In quel passaggio era stata rimossa anche la formula “Maestà grande quanto il mondo”, poi ripristinata dopo aver verificato la guida OOC canonica.
+
+- Raffinati i profili secondari di Lhars, Ember, Laerius e Mirjam: separati i dettagli dei personaggi dalle deduzioni sulla morfologia delle Fiere; rimosse da Laerius le capacità di immersione e le tattiche non descritte, da Ember la meccanica dell'Istinto non attestata, e da Mirjam la classificazione acquatica/paludosa della specie non supportata direttamente.
+
+- Aggiornato solo il metadato editoriale `ultima_modifica` di `Elenco Draghieri`, già modificato in una PR precedente per aggiungere una nota di tracciabilità; il testo originario dell'elenco non è stato riscritto.
+
+- Corrette due incongruenze nelle voci personaggio: rimosso da Ashur Alicanthus il potere di produrre luce dorata dalle piume, non attestato in `Inktober 2019 #Build`; corretto il titolo errato `Frederick — Guardiani minori` e registrata C5 per la numerazione di Sef Sycamore (XIII nell'elenco canonico, XIV in `#Mindless`, fonte lasciata invariata).
+
+- Precisata la voce Falenottere: la fonte mostra che la luce le attira e le tiene raccolte intorno alla candela, ma non definisce una soglia di luminosità né una garanzia universale di sicurezza.
+
+- Aggiornato il checkpoint persistente dopo il controllo delle 36 pagine non sorgente e il confronto mirato delle fonti; registrati inventario dei 29 sorgenti, 32 identificatori di fonte, discrepanze geografiche, correzioni alle Fiere e prossimi passi.
+
+- Rimossi dalle schede Sicomoro Perenne e Chayote Strangolatore gli aggettivi tassonomici “Sensibile”/“Fitofiera Sensibile”: il termine non è definito nel glossario e non è supportato dalle fonti citate.
+
+- Aggiornata la priorità documentale L6 per Loccia: il riscontro sul comportamento delle “Lochs” viene da `Inktober 2018 #Flowing`; `Inktober 2019 #Snow` attesta Laerius Loch come XV Draghiere della Loccia, ma non descrive la specie.
+
+- Riconciliati altri riferimenti alle Fiere: rimossi dalla Chimera i dettagli di testa/coda mutuati dalla mitologia esterna non attestati nel corpus; chiarito che lo scudo di Zachary Zaratan non è esplicitamente identificato come carapace della sua Fiera; qualificata l'inferenza morfologica del Leopterix. Separati Tentacolo Scarlatto (Fiera vermiforme usata come esca in `Inktober 2018 #Poisonous`) e Tentacolo Purpureo (foglie trattate in `Inktober 2019 #Tasty`), senza supporli sinonimi e senza alterare il conteggio delle 26 voci.
+
+- Completato un controllo delle date editoriali sulle voci sintetiche toccate dalla PR consolidata #15: aggiornati i frontmatter ancora fermi al 2025 o al 2026-10-11 (Religioni, Fiamme, Altri Personaggi, Bran Behemoth, Brood, Luther Leviathan, Salamander, Samu'el Sphynx, Solomon e Wendy Wyrm). Nessun testo narrativo è stato modificato in questo passaggio.
+
+- In una prima verifica era stata ridimensionata la descrizione della Maestà sulla base del solo racconto `Inktober 2019 #Ring`; il successivo confronto con la guida OOC canonica ha ripristinato il primato e la formula “grande quanto il mondo”. Resta qualificata come non esplicita l'identificazione del ghiacciaio descritto in `#Bait` con il vulcano Maestà.
+
+- Allineata anche la nota finale L3 in Geografia alla nuova evidenza: “Valle dei Tuoni” non è più descritto come alias legacy, poiché il nome è attestato in `Inktober 2019 #Snow`.
+
+- Corrette due discrepanze geografiche basate su fonti primarie: distinto l'“Artiglio di Città del Re” (Battesimi controllati) dall'Artiglio del Fuoco con il laboratorio della Salamandra; registrato che “Valle dei Tuoni” compare in `Inktober 2019 #Snow` mentre “Valle dei Fulmini” compare in `#Tread` e `#Bait`, senza presumere che siano lo stesso luogo.
+
+- Corretto il profilo dell'Alicanto: `Inktober 2019 #Treasure` attesta una piuma che riflette la luce solare e un tesoro nella tana, non l'emissione di luce propria né un intento esplicito di attirare prede con gli oggetti. Rimossi questi dettagli non dimostrati, potenzialmente importati dalla mitologia esterna.
+
+- Raffinate altre tre schede: Sfinge ora distingue la rappresentazione nella canzone in-world da una scheda tecnica oggettiva; Grifone non importa la testa d'aquila dalla tradizione mitologica esterna, mantenendo solo corpo felino, ali e becco attestati; Mandragora chiarisce che l'estrazione è letale per chi la rimuove, non che la pianta uccida soltanto perché estratta.
+
+- Corretto il profilo Atrax: la fonte che quantifica gli esemplari grandi circa due teste li identifica come piccoli, non adulti; il veleno è attestato ma non ne viene specificato l'effetto. Aggiunto il riferimento diretto a `Inktober 2018 #Guarded` e mantenuta la vulnerabilità delle tele al fuoco, confermata anche da `Inktober 2019 #Pattern`.
+
+- Resi più aderenti alle fonti i profili Manticora e Leviatano: rimosse morfologia e varianti cromatiche della Manticora non sostenute dalla canzone, separando la Fiera dalle Vere Fiere con lo stesso nome; circoscritti gli effetti del Canto del Leviatano agli eventi effettivamente narrati in `#Whale`, senza generalizzare distruzione di navi o uccisione di altre specie marine.
+
+- Resi prudenti anche i profili di Kyrin e Sliss: `L'Esodo` attesta che un fuoco attira l'attenzione di un Kyrin, non abitudini notturne; `Onda Bianca` mostra un sospetto dei personaggi sullo Sliss mangiato, non una proprietà certa di causare allucinazioni collettive.
+
+- Corrette due sovrainterpretazioni nelle schede Drago e Behemoth: rimosso il raggio di calore di centinaia di metri non quantificato dalla fonte; chiarito che `#Dragon` mostra neve sciolta in vapore e scudo fuso. Sostituita la falsa “valanga” evocata dal Corno con l'evento attestato — il crollo di una montagna — e rimossi pelle impenetrabile/lentezza del Behemoth non dimostrate dalle fonti narrative attualmente disponibili.
+
+- Precisate anche le voci Loccia ed Everastes: la fonte `Inktober 2018 #Flowing` documenta le “Lochs” tenute lontane da una rete caricata dai fulmini, ma non descrive dentatura o habitat glaciale; `Inktober 2019 #Snow` caratterizza Ember come adatta al gelo senza definire habitat o immunità della Fiera Everastes.
+
+- Corrette tre sovrainterpretazioni nelle voci Fiere dopo confronto diretto con le fonti: rimossi da Chiroptera fuoco/luce come debolezze, echolocalizzazione e giovani in lattanza non attestati; rimossa l'estensione chilometrica delle radici del Sicomoro Perenne; precisato che il testo sul Fabalo Spinato non specifica che cosa cresca dopo 72 ore.
+
+- Raffinata la scheda di Amaranthus Cruentus dopo confronto diretto con `Inktober 2019 #Overgrown` e `Inktober 2024 #Exotic`: distinti lavaggio delle spore, pericolo del fumo e trattamento delle radici per raccogliere i semi, evitando di suggerire che il lavaggio renda la pianta genericamente commestibile.
+
+- Aggiornate le istruzioni di ripresa con checkpoint persistente: branch, PR, file e fonti esaminati, modifiche proposte, stato della CI e ordine dei prossimi controlli.
+
+- Allineati README e frontmatter di `Tradizioni`: il README ora descrive il tree effettivo (`index.md` senza il duplicato `_index.md`) e riporta i 29 file sorgente Markdown attualmente presenti. Resta registrata come discrepanza storica la cifra 34 riportata nel changelog del 2025: non prova, da sola, che manchino cinque fonti.
+
+- Precisato il perimetro del conteggio L6: le 26 voci sono i profili classificati nei quattro gruppi; Kyrin e Sliss restano menzioni narrative aggiuntive, mentre i 12 nomi di `Mostri` sono brainstorming e non attestazioni canoniche.
+- Corretto l'introduttivo di `Fiere — Voci Stub`, che attribuiva genericamente tutte le informazioni ai racconti nonostante la pagina utilizzi anche liste OOC e materiale di brainstorming; elencati tutti i 12 nomi della fonte `Mostri` in una sezione esplicitamente non canonica.
+
 - Avviata la riconciliazione del catalogo con il tree GitHub aggiornato dopo PR #10.
+- Reso esaustivo il registro L6 delle Fiere: la lista ora copre tutte le 26 voci preliminari presenti nel bestiario, raggruppate per categoria, e distingue la presenza di una voce dalla disponibilità di fonti sufficienti per una scheda tecnica.
 - Estesa la verifica dei frontmatter alle raccolte Inktober: aggiunte le fonti 2018/2019 alle tradizioni, 2018 alle Vere Fiere, 2018/2019 alle Ere e tutte e tre le raccolte alla cronologia, in coerenza con i riferimenti espliciti nel testo.
 - Completata un'ulteriore verifica di tracciabilità: aggiunto `Inktober_2024` alle fonti della Città-Alveare, della famiglia Brood, delle tradizioni e del bestiario, dove i testi sintetici citano rispettivamente `#Binoculars`, `#Passport` e `#Exotic`.
 - Corretto in `Maestà` un assoluto incompatibile con la caratterizzazione di Dominic: l'incapacità di comprendere il costo cosmologico è ora attribuita ai Draghieri ordinari, con l'eccezione di Dominic esplicitata.

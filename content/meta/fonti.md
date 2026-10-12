@@ -24,7 +24,7 @@ ultima_modifica: "2026-10-12"
 | `content/fonti/fierezza-il-dio-che-e-in-noi.md` | Saggio di Wade Wyrm sulla spiritualità | Incompleto; usare con cautela |
 | `content/fonti/cio-che-sanno-i-draghieri.md` | Verità parziale (livello personaggio) | Prospettiva in-world, non cosmologica |
 | `content/fonti/cronistoria-versione-breve.md` | Cronistoria in-world (versione divulgativa) | **Canonico** |
-| `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa | **Canonico** |
+| `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa; ID frontmatter usato: `draghieri-spiegazione`, distinto dai riferimenti D3/D4 mancanti | **Canonico** |
 
 ### Narrativa In-World
 
@@ -104,6 +104,12 @@ Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cit
 - **Grafia canonica confermata:** Frederick Fenice. Le varianti presenti nelle fonti sono storiche e non vanno propagate nelle nuove voci sintetiche.
 - **Meccanica canonica confermata:** Frederick Fenice resuscita sempre nel proprio corpo, non si reincarna in un nuovo corpo.
 - Decisione registrata nel changelog del 2025-06-13.
+
+
+**C5 — Numero progressivo di Sef Sycamore — risoluzione editoriale**
+
+- `Elenco Draghieri` (fonte catalogata come canonica) riporta **Sef Sycamore, XIII Sicomoro Perenne**; `Inktober 2019 #Mindless` lo chiama **XIV Draghiere del Sicomoro**.
+- **Regola operativa:** le voci sintetiche adottano XIII, come nell'elenco canonico. La fonte narrativa resta invariata e la discrepanza viene segnalata; non si ipotizza un secondo personaggio né si corregge il testo originale senza nuova evidenza.
 
 ### 🟠 Duplicazioni Risolte
 

@@ -32,9 +32,9 @@ Questi sono i luoghi in cui Draco ha posto i confini e mai da quando esiste per 
 
 Proprio ieri **Frederick Fenice**, Unica Fenice dei Draghieri del Kindsgard, ha pronunciato una frase che mi ha subito ricordato il motto del vostro casato:
 
-*"Se questa situazione vi appare disperata ricordate*
-*che vi fu un tempo in cui il Giardino dominava tutte le terre*
-*e fu dal Bisogno che l'Espediente donò all'uomo i Draghieri"*
+*"Se questa situazione vi appare disperata ricordate*  
+*che vi fu un tempo in cui il Giardino dominava tutte le terre*  
+*e fu dal Bisogno che l'Espediente donò all'uomo i Draghieri"*  
 
 Noi resisteremo.
 *"Dalla cenere alla vittoria"*

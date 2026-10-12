@@ -3,7 +3,7 @@ titolo: "Bran Behemoth"
 categoria: "personaggi"
 tag: [bran-behemoth, draghieri, behemoth, personaggio]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["Inktober_2019", "Inktober_2018", "Prevedibilità__covata_", "Onda_bianca", "L_ultima_notte_all_ombra_dell_Anello"]
 ---
 
@@ -15,13 +15,13 @@ fonti: ["Inktober_2019", "Inktober_2018", "Prevedibilità__covata_", "Onda_bianc
 
 ## Panoramica
 
-Bran Behemoth è il **V Draghiere del Behemoth** del Kindsgard. È uno dei Draghieri più fisicamente imponenti documentati nelle fonti — una massa d'acciaio e forza bruta che si muove con la lentezza inesorabile di una montagna. Opera principalmente nelle zone montuose del nord, nella **Valle dei Fulmini** e nelle **Catene Montuose Orientali**.
+Bran Behemoth è il **V Draghiere del Behemoth** del Kindsgard. È uno dei Draghieri più fisicamente imponenti documentati nelle fonti — una massa d'acciaio e forza bruta che si muove con la lentezza inesorabile di una montagna. Opera nelle zone montuose del nord e nelle **Catene Montuose Orientali**. Le fonti usano sia **Valle dei Tuoni** (`Inktober 2019 #Bait`) sia **Valle dei Fulmini** (`#Tread`, `L'ultima notte all'ombra dell'Anello`); non è stabilito se siano lo stesso luogo.
 
 ---
 
 ## Identità e Istinto
 
-Il Behemoth è la Fiera più massiccia e resistente del Kindsgard: pelle impenetrabile, forza smisurata, lentezza deliberata. L'Istinto di Bran riflette questa natura: è inamovibile, metodico, quasi impossibile da sorprendere con la velocità. Non è fatto per la sottigliezza — è fatto per essere l'ultimo a cadere.
+Il Behemoth è una Fiera colossale associata ai Picchi; le fonti narrative ne mostrano i passi capaci di far tremare la terra e la discesa al fiume capace di cambiarne il corso, ma non confermano pelle impenetrabile o lentezza intrinseca. L'Istinto di Bran è descritto come inamovibile e metodico, quasi impossibile da sorprendere con la velocità. Non è fatto per la sottigliezza — è fatto per essere l'ultimo a cadere.
 
 La sua arma è **Schiacciastelle**: una mazza ferrata dalla testa grande quanto il suo stesso torace, con quattro lame possenti, forgiata da lui stesso con il ferro nero della Valle dei Fulmini. L'armatura è ugualmente sua fattura, brunita e temperata in due mondi diversi.
 

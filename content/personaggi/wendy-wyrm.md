@@ -3,7 +3,7 @@ titolo: "Wendy Wyrm"
 categoria: "personaggi"
 tag: [wendy-wyrm, vere-fiere, vera-viverna, personaggio]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["La_natura_di_Natura", "Solitudine", "18___Misfit", "Il_Trattato"]
 ---
 

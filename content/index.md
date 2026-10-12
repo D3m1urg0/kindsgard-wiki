@@ -3,7 +3,7 @@ titolo: "Wiki del Kindsgard"
 categoria: "meta"
 tag: [index, panoramica]
 status: "in aggiornamento"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 ---
 
 # Wiki del Kindsgard

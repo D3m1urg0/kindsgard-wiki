@@ -62,9 +62,9 @@ Nel racconto `Solitudine`, la Vera Viverna lo descrive come capace di "pietà" �
 
 ## L'Ascesa a Re Draco
 
-Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi, Dominic la usò per uccidere i **13 Guardiani del Kindsgard** — individui (Draghieri, Vere Fiere o Fiere effettive) che, dopo la connessione con Vilegis/Lunaria, incarnavano inconsapevolmente i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento — assorbendone il titolo uno per uno.
+Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi, Dominic la usò per uccidere i **13 Guardiani del Kindsgard** — individui (Draghieri, Vere Fiere o Fiere effettive) che, dopo la connessione con Vilegis/Lunaria, incarnavano inconsapevolmente i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento — assorbendone i vettori uno per uno.
 
-Con l'assorbimento del tredicesimo vettore, Dominic diventò **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice di tutto il Fondamento del Kindsgard — e quindi di [[Fierezza e Maestà]] insieme.
+Con l'assorbimento del tredicesimo vettore, Dominic diventò **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard e collegati al Fondamento — e quindi di [[Fierezza e Maestà]] insieme. Questo non equivale a identificare il Fondamento di Vilegis/Lunaria con la cosmologia originaria del Kindsgard.
 
 ---
 

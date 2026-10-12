@@ -3,7 +3,7 @@ titolo: "Elenco Draghieri Conosciuti"
 categoria: "fonti"
 tag: [draghieri, elenco, liste, canonico]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 tipo: "lista"
 voci-wiki-collegate: ["Draghieri", "Dominic Draco", "Wade Wyrm", "Caitlin Chimera", "Frederick Fenice", "Bran Behemoth", "Luther Leviathan", "Samu'el Sphynx", "Brood", "Salamander", "Altri Personaggi"]
 ---

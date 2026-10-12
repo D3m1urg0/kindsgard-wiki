@@ -3,7 +3,7 @@ titolo: "Solomon"
 categoria: "personaggi"
 tag: [solomon, vere-fiere, vera-sfinge, personaggio, stub]
 status: "bozza"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["18___Misfit", "Inktober_2018"]
 ---
 

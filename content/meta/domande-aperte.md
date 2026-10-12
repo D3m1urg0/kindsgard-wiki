@@ -59,7 +59,7 @@ I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, En
 - → **HITL:** confermare se Equilibrio può essere registrato come tredicesimo Spettro nella versione storica pertinente, oppure se va mantenuto solo come riferimento esterno non canonico.
 
 ### L3 — Verifica finale della copertura geografica
-La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualmente presenti, compresi gli Artigli documentati, la Città del Re, le Colture, le aree costiere e le principali zone geografiche. Non è disponibile una mappa sistematica e alcune relazioni spaziali restano inferite. “Valle dei Tuoni” compare come alias legacy di “Valle dei Fulmini”, ma non ha un riscontro indipendente nelle fonti presenti: non è certo che i due nomi indichino lo stesso luogo. La copertura geografica non può essere dichiarata definitiva: l’utente ha identificato D3 come la Cronistoria OOC che confronta le Ere del Giardino e del Kindsgard e D4 come “You Want to Be a Dragoner”, ma i testi originali non sono presenti nel repository consultato né sono stati ritrovati nella Library collegata.
+La voce `[[Geografia]]` registra i luoghi noti nelle fonti attualmente presenti, ma non esiste una mappa sistematica e alcune relazioni spaziali restano inferite. È stata verificata una discrepanza toponomastica: `Inktober 2019 #Bait` usa “Valle dei Tuoni”, mentre `#Tread` e `L'ultima notte all'ombra dell'Anello` usano “Valle dei Fulmini”; non è stabilito se siano lo stesso luogo. È stata inoltre corretta una conflazione nella tabella degli Artigli: `Inktober 2018 #Scorched` distingue l'Artiglio del Fuoco (con il laboratorio della Salamandra, fuori città) dall'“Artiglio di Città del Re”, citato per i Battesimi controllati; non c'è base per rinominare quest'ultimo “Artiglio di Fuoco”. `Inktober 2019 #Bait` descrive un ghiacciaio sul fianco di un vulcano attivo, senza nominare quel vulcano nel passaggio: identificarlo con la Maestà è plausibile, ma non provato esplicitamente. La copertura geografica non può essere dichiarata definitiva anche perché i testi originali D3 (Cronistoria OOC) e D4 (“You Want to Be a Dragoner”) non sono presenti nel repository consultato né sono stati ritrovati nella Library collegata.
 - → **Attività residua:** mantenere esplicita la distinzione tra posizioni attestate e inferenze; aggiornare la verifica geografica quando i testi originali saranno nuovamente disponibili. Non chiedere all’utente di chiarire l’identità dei documenti, già chiarita.
 
 ### L4 — Dettagli meccanici del Battesimo del Fuoco
@@ -75,23 +75,18 @@ La documentazione residua da recuperare riguarda anche la formulazione esatta in
 
 
 ### L6 — Completamento delle schede Fiere
-La pagina `[[Fiere — Voci Stub]]` esiste già e raccoglie le Fiere attualmente identificabili. Soffione Uncinato e Bacca Emofaga hanno schede tecniche complete; le altre voci restano preliminari. Il lavoro residuo è completare le schede tecniche a partire da fonti sufficienti, non creare nuovi stub:
-- Zaratan (`Inktober 2018 #Cruel`)
-- Leopterix (ora presente come voce preliminare; manca una scheda tecnica completa)
-- Everastes (ora presente come voce preliminare; manca una scheda tecnica completa)
-- Covata (insetti/sciame, `Prevedibilità`)
-- Atrax (ragni, `Inktober 2019 #Pattern`)
-- Chiroptera (pipistrelli, `Prevedibilità`, `Inktober 2018 #Angular`)
-- Loccia (acquatica, `Inktober 2019 #Snow`)
-- Alicanto (`Elenco Draghieri`, `Inktober 2019 #Treasure`)
-- Falenottere (`Inktober 2018 #Drooling`)
-- Tripode (`Inktober 2018 #Flowing`)
-- Sicomoro Perenne (`Inktober 2019 #Mindless`)
-- Manticora (più apparizioni)
-- Behemoth (più apparizioni)
-- Sfinge (più apparizioni)
-- Drago (più apparizioni, inclusa la bestia in `Inktober 2019 #Dragon`)
-- → **Attività residua:** verificare le voci già presenti, collegare le fonti e completare le schede solo quando esistono informazioni sufficienti. Non creare nuovamente gli stub già esistenti e non inventare dettagli.
+La pagina `[[Fiere — Voci Stub]]` esiste già e raccoglie tutte le Fiere attualmente identificate nel corpus. **Bacca Emofaga** e **Soffione Uncinato** hanno schede tecniche dedicate; le altre 26 voci elencate sotto restano profili preliminari, con livelli di copertura diversi. L'elenco è esaustivo rispetto alla pagina stub corrente: non implica che esistano fonti sufficienti per completare una scheda tecnica per ciascuna specie.
+
+- **Fiere maggiori (9):** Drago, Behemoth, Leviatano, Manticora, Sfinge, Chimera, Viverna, Grifone, Cockatrice.
+- **Fiere di media pericolosità (7):** Atrax, Chiroptera, Loccia, Alicanto, Zaratan, Falenottere, Covata.
+- **Fitofiere (7):** Sicomoro Perenne, Tripode, Dionea Mangiauomini, Mandragora, Chayote Strangolatore, Amaranthus Cruentus, Fabalo Spinato.
+- **Fiere minori classificate (3):** Leopterix, Everastes, Tentacolo Scarlatto.
+
+Le priorità documentali già individuate comprendono Zaratan (`Inktober 2018 #Cruel`), Atrax (`Inktober 2019 #Pattern`), Chiroptera (`Prevedibilità`, `Inktober 2018 #Angular`), Loccia (`Inktober 2018 #Flowing`, `Inktober 2019 #Snow`), Alicanto (`Elenco Draghieri`, `Inktober 2019 #Treasure`), Falenottere (`Inktober 2018 #Drooling`), Tripode (`Inktober 2018 #Flowing`), Sicomoro Perenne (`Inktober 2019 #Mindless`), oltre alle Fiere maggiori per cui esistono più apparizioni narrative. Le descrizioni già presenti vanno comunque mantenute entro ciò che le fonti sostengono: niente poteri, debolezze o fisiologia dedotti per analogia con il Draghiere omonimo.
+
+Il conteggio delle 26 voci riguarda esclusivamente i quattro gruppi sopra elencati (9 + 7 + 7 + 3). **Kyrin, Sliss e Tentacolo Purpureo** sono menzioni narrative aggiuntive, non incluse nel conteggio. In particolare, `Inktober 2018 #Poisonous` descrive un Tentacolo Scarlatto vermiforme, mentre `Inktober 2019 #Tasty` descrive foglie di Tentacolo Purpureo trattate per il consumo: non è documentata l'identità fra i due nomi. I dodici nomi della lista OOC `Mostri` sono brainstorming e non attestazioni di Fiere canoniche; restano separati dal conteggio e sono elencati integralmente nella pagina stub.
+
+→ **Attività residua:** verificare le voci esistenti, collegare le fonti e ampliare le schede soltanto quando le informazioni sono sufficienti. Non creare nuovi stub e non inventare dettagli.
 
 ### L7 — "Icaria" — dettaglio oltre la fonte non reperito
 L’unica menzione trovata nel repository è `Una Missiva dall’Anello`: una belva enorme, proveniente dal profondo del Giardino, chiamata Icaria da Draghieri che avevano visitato Vilegis. La voce del glossario ora registra questi soli dati. Non è stata trovata un’altra fonte nel repository o nella Library collegata.
@@ -139,3 +134,7 @@ La cronologia generale afferma che, dopo l'assorbimento dei tredici vettori da p
 ### L17 — Identità dei tredici Guardiani
 La cosmologia e la cronologia attestano tredici individui/Guardiani legati ai vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. Le fonti attuali identificano esplicitamente solo una parte del gruppo: Bartholomew Brood, Samu'el Sphynx, Syrus Salamander, Mara Megalapterix e G. Gryffin. La voce di Frederick Fenice porta il tag `guardiano`, ma non spiega se appartenga a questo gruppo e l'Elenco Draghieri non lo marca come tale.
 - → **Chiarimento documentale/canonico:** esiste una lista completa dei tredici Guardiani? Frederick Fenice era uno di loro o il tag è residuo/di altro significato? Non completare l'elenco per inferenza dai personaggi noti.
+
+### L18 — Riferimento alla Salamandra in `L'Esodo`
+In `L'Esodo`, Wade intende condurre i sopravvissuti all'Artiglio del Magma, dove “Salamandra saprà prendersi cura di loro”. La fonte non data con precisione il passaggio e non chiarisce se “Salamandra” indichi Syrus, Sebastian o la Fiera/fazione in senso più ampio. La scheda di Salamander non attribuisce la frase a uno dei due individui.
+- → **Attività residua:** mantenere l'ambiguità finché una collocazione cronologica dell'`Esodo` o un'altra fonte non la risolva; non scegliere un nome per inferenza.
