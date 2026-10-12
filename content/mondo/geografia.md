@@ -3,7 +3,7 @@ titolo: "Geografia del Kindsgard"
 categoria: "mondo"
 tag: [geografia, luoghi, artigli, anello, maestà, mare]
 status: "bozza"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-12"
 aliases: ["Spiagge del Mare Esterno","Valle dei Fulmini","Fiume Bianco"]
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
 ---
@@ -64,7 +64,7 @@ Le torri che compongono l'Anello di Fuoco. Strutture imponenti, costruite in pie
 | Artiglio del Lago Semipermanente | Nord | — | Prima diga del Fiume Bianco (`Inktober 2018 #Flowing`) |
 | Artiglio del Lago Alto | Nord | — | Colpito dal terremoto durante i lavori idrici |
 | Artiglio delle Scogliere | Costa del Mare Interno | [[Luther Leviathan]] | Porto della Maelstrom |
-| Artiglio di Fuoco (Città del Re) | — | [[Dominic Draco]] | Sede del regno di Re Draco |
+| Artiglio di Città del Re | Città del Re | [[Dominic Draco]] | Citato per i Battesimi controllati nell'Era del Dominio (`Inktober 2018 #Scorched`); da non confondere con l'Artiglio del Fuoco, sede del laboratorio della Salamandra |
 
 ---
 
@@ -115,7 +115,7 @@ Situate a **nordest della Maestà**, sono l'habitat dei [[Soffione Uncinato|Soff
 
 Zona montuosa nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di origine dell'armatura di Bran, forgiata con il ferro nero del luogo. È citata in `Inktober 2019 #Bait` e `L'ultima notte all'ombra dell'Anello`.
 
-**Nota sul nome:** “Valle dei Tuoni” compare soltanto come alias legacy nei metadati di questa pagina; non è stato trovato un riscontro indipendente nelle fonti attualmente presenti. Non è quindi possibile stabilire se sia una variante del nome o un luogo distinto. L'alias viene conservato provvisoriamente, senza usarlo come prova geografica.
+**Nota sui nomi:** `Inktober 2019 #Snow` colloca Bran sul costone più a Nord della sua “Valle dei Tuoni”; `#Tread` e `#Bait` usano invece “Valle dei Fulmini”. Le fonti attestano entrambi i nomi, ma non dichiarano esplicitamente se indichino lo stesso luogo o due luoghi distinti. Non trattare “Valle dei Tuoni” come semplice variante né unificare i due toponimi senza ulteriori prove.
 
 ---
 
