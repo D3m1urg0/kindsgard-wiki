@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Ridimensionate nella voce Maestà due affermazioni non misurate dalle fonti disponibili: rimosso il primato assoluto di “più grande vulcano del mondo” e la visibilità garantita da ogni punto; sostituite con la descrizione letteraria di `Inktober 2019 #Ring`. Segnalato come inferenza, non dato certo, il collegamento tra il ghiacciaio descritto in `#Bait` e il vulcano Maestà.
+
 - Allineata anche la nota finale L3 in Geografia alla nuova evidenza: “Valle dei Tuoni” non è più descritto come alias legacy, poiché il nome è attestato in `Inktober 2019 #Snow`.
 
 - Corrette due discrepanze geografiche basate su fonti primarie: distinto l'“Artiglio di Città del Re” (Battesimi controllati) dall'Artiglio del Fuoco con il laboratorio della Salamandra; registrato che “Valle dei Tuoni” compare in `Inktober 2019 #Snow` mentre “Valle dei Fulmini” compare in `#Tread` e `#Bait`, senza presumere che siano lo stesso luogo.
