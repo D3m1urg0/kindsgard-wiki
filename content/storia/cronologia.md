@@ -43,7 +43,7 @@ Il tempo sul Kindsgard non è costante. Periodi di dilatazione temporale causati
 
 ## Fondazione dell'Anello
 
-**[Anno X del ciclo recente]** — Su [[Vilegis/Lunaria]], Libertà e Dominio si scontrano. Gli Echi raggiungono il Kindsgard. I vincoli nell'Istinto di Dominic si allentano per un istante.
+**[Anno X del ciclo recente]** — Su [[Vilegis/Lunaria]], Libertà e Dominio si scontrano; gli eventi esterni comprendono la morte del Guardiano-Re legato a uno Spettro. Gli Echi raggiungono il Kindsgard e i vincoli nell'Istinto di Dominic si allentano per un istante.
 
 **[Anno X]** — Dominic vede la verità: senza i cicli, il Kindsgard è condannato. Sceglie di interrompere i cicli e fonda l'**[[Anello di Fuoco]]**: un cerchio di torri ([[Artigli]]) che separa il Giardino dai territori Umani. L'avanzata si ferma.
 
@@ -99,7 +99,7 @@ Il tempo sul Kindsgard non è costante. Periodi di dilatazione temporale causati
 
 **[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard** — Draghieri, Vere Fiere o Fiere effettive che inconsapevolmente incarnavano i 13 vettori collegati al Fondamento di Lunaria — assorbendone il titolo uno per uno.
 
-**[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice di tutto il Fondamento, non più Draghiere né Vera Fiera. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli, regna sul Giardino con i Draghieri.
+**[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard, non più Draghiere né Vera Fiera. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli e regna sul Giardino con i Draghieri. La fondazione delle città infrange la legge del Giardino secondo cui tutto deve combattere: è un problema generato dalla scelta di Draco, che il potere ormai concentrato in lui gli impedisce di vedere pienamente.
 
 ---
 
