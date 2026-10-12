@@ -19,6 +19,7 @@ ultima_modifica: "2026-10-11"
 - Corretto il Battesimo del Fuoco: le pagine di sistema descrivevano il processo come invariabile e privo di eccezioni, in contrasto con `Risveglio del Drago`, dove Wade si reincarna come Vera Viverna senza uccidere una Viverna e mentre il sé umano è ancora vivo su Vilegis. Il caso è ora registrato come eccezione documentata, con meccanismo non spiegato integralmente.
 - Allineate le voci di Bartholomew Brood, Samu'el Sphynx e Syrus Salamander alla distinzione tra i sette vettori originari del Kindsgard e i tredici vettori/Guardiani manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria.
 - Riconciliato il riferimento agli `Annali dell'Artiglio delle Sabbie` in `Inktober 2024 #Exotic`, distinto dagli `Annali dell'Artiglio di Fuoco` citati in `Inktober 2019`; aggiunta la lacuna L12 senza presumere che i due titoli indichino lo stesso documento.
+- Audit geografico mirato: “Valle dei Tuoni” compare soltanto come alias legacy, senza riscontro indipendente nelle fonti presenti. La geografia ora segnala esplicitamente l'incertezza invece di presentare i due nomi come equivalenti certi.
 - Nessuna informazione mancante è stata colmata per inferenza; le questioni di canone non deducibili dalle fonti saranno elencate separatamente.
 
 > *Log di tutte le modifiche alla wiki con data e motivazione.*
