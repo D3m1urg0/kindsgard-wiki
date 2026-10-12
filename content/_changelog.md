@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Risolta una contraddizione interna nella scheda Salamander: il ritrovamento dei resti di Syrus nel laboratorio non viene più trasformato in certezza sul luogo della morte; la sezione finale ora concorda con la nota di tracciabilità che lascia ignote causa e luogo esatti.
+
 - Precisata la discrepanza toponomastica con i riferimenti esatti: `Inktober 2019 #Bait` usa Valle dei Tuoni; `#Tread` e `L'ultima notte all'ombra dell'Anello` usano Valle dei Fulmini. Allineate Geografia, L3 e la voce di Bran senza presumere che i nomi siano sinonimi.
 
 - Allineate le pagine Bran, Dominic, Cronologia e homepage alla distinzione cosmologica: rimosse dal Behemoth la pelle impenetrabile/lentezza non documentate; sostituito “assorbire il titolo” con l'assorbimento dei vettori; chiarito che Dominic detiene il potere raccolto dai tredici vettori collegati al Fondamento, non che Kindsgard e Fondamento siano identici; rimossa la formula iperbolica “Maestà grande quanto il mondo”.
