@@ -11,6 +11,7 @@ ultima_modifica: "2026-10-11"
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
 - Avviata la riconciliazione del catalogo con il tree GitHub aggiornato dopo PR #10.
+- Estesa la correzione del Battesimo alle pagine `Fierezza e Maestà` e `Vere Fiere`, che mantenevano ancora la formula assoluta di un processo universale/invariabile o descrivevano il caso ordinario senza segnalare l'eccezione documentata di Wade.
 - Corretto il sistema del Battesimo del Fuoco: la pagina lo definiva universale e privo di eccezioni, in contrasto con `Risveglio del Drago` (Wade riceve un nuovo Battesimo senza uccidere una Viverna) e con il caso particolare della Chiamata già chiarito dall'utente. Il modello ordinario è ora distinto dai casi eccezionali; le regole già confermate sono state separate dalle questioni aperte.
 - Aggiunta `Inktober_2024` alle fonti della geografia, che cita il periodo di Razvan Roc nella Città-Alveare tramite `#Binoculars`.
 - Corretto lo status editoriale di `content/fonti/list.md` e `content/fonti/mostri.md`: sono spunti narrativi/brainstorming senza valore normativo, quindi non devono risultare `canonico`. Il contenuto verbatim è stato conservato.
