@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Corretto il profilo Atrax: la fonte che quantifica gli esemplari grandi circa due teste li identifica come piccoli, non adulti; il veleno è attestato ma non ne viene specificato l'effetto. Aggiunto il riferimento diretto a `Inktober 2018 #Guarded` e mantenuta la vulnerabilità delle tele al fuoco, confermata anche da `Inktober 2019 #Pattern`.
+
 - Resi più aderenti alle fonti i profili Manticora e Leviatano: rimosse morfologia e varianti cromatiche della Manticora non sostenute dalla canzone, separando la Fiera dalle Vere Fiere con lo stesso nome; circoscritti gli effetti del Canto del Leviatano agli eventi effettivamente narrati in `#Whale`, senza generalizzare distruzione di navi o uccisione di altre specie marine.
 
 - Resi prudenti anche i profili di Kyrin e Sliss: `L'Esodo` attesta che un fuoco attira l'attenzione di un Kyrin, non abitudini notturne; `Onda Bianca` mostra un sospetto dei personaggi sullo Sliss mangiato, non una proprietà certa di causare allucinazioni collettive.
