@@ -134,3 +134,7 @@ La cronologia generale afferma che, dopo l'assorbimento dei tredici vettori da p
 ### L17 — Identità dei tredici Guardiani
 La cosmologia e la cronologia attestano tredici individui/Guardiani legati ai vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. Le fonti attuali identificano esplicitamente solo una parte del gruppo: Bartholomew Brood, Samu'el Sphynx, Syrus Salamander, Mara Megalapterix e G. Gryffin. La voce di Frederick Fenice porta il tag `guardiano`, ma non spiega se appartenga a questo gruppo e l'Elenco Draghieri non lo marca come tale.
 - → **Chiarimento documentale/canonico:** esiste una lista completa dei tredici Guardiani? Frederick Fenice era uno di loro o il tag è residuo/di altro significato? Non completare l'elenco per inferenza dai personaggi noti.
+
+### L18 — Riferimento alla Salamandra in `L'Esodo`
+In `L'Esodo`, Wade intende condurre i sopravvissuti all'Artiglio del Magma, dove “Salamandra saprà prendersi cura di loro”. La fonte non data con precisione il passaggio e non chiarisce se “Salamandra” indichi Syrus, Sebastian o la Fiera/fazione in senso più ampio. La scheda di Salamander non attribuisce la frase a uno dei due individui.
+- → **Attività residua:** mantenere l'ambiguità finché una collocazione cronologica dell'`Esodo` o un'altra fonte non la risolva; non scegliere un nome per inferenza.
