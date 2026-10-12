@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Corrette due incongruenze nelle voci personaggio: rimosso da Ashur Alicanthus il potere di produrre luce dorata dalle piume, non attestato in `Inktober 2019 #Build`; corretto il titolo errato `Frederick — Guardiani minori` e registrata C5 per la numerazione di Sef Sycamore (XIII nell'elenco canonico, XIV in `#Mindless`, fonte lasciata invariata).
+
 - Precisata la voce Falenottere: la fonte mostra che la luce le attira e le tiene raccolte intorno alla candela, ma non definisce una soglia di luminosità né una garanzia universale di sicurezza.
 
 - Aggiornato il checkpoint persistente dopo il controllo delle 36 pagine non sorgente e il confronto mirato delle fonti; registrati inventario dei 29 sorgenti, 32 identificatori di fonte, discrepanze geografiche, correzioni alle Fiere e prossimi passi.
