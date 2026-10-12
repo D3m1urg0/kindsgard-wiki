@@ -3,7 +3,7 @@ titolo: "Bran Behemoth"
 categoria: "personaggi"
 tag: [bran-behemoth, draghieri, behemoth, personaggio]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["Inktober_2019", "Inktober_2018", "Prevedibilità__covata_", "Onda_bianca", "L_ultima_notte_all_ombra_dell_Anello"]
 ---
 
