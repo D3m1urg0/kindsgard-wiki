@@ -89,7 +89,7 @@ Serre agricole situate a **Sud**, l'unico sistema organizzato di produzione alim
 - **Settore Est**: Chayote Strangolatore
 - **Settore Sud**: Amaranthus Cruentus
 
-Cadute in abbandono durante la crisi. Riconquistate e ripopolate da [[Gertrude Gorgon]] con l'aiuto di altri Draghieri (`Inktober 2018 #Overgrown`, `#Bottle`).
+Cadute in abbandono durante la crisi. Riconquistate e ripopolate da [[Gertrude Gorgon]] con l'aiuto di altri Draghieri (`Inktober 2019 #Overgrown`, `#Bottle`).
 
 ---
 
@@ -107,7 +107,7 @@ Il grande specchio d'acqua interno al Giardino. Navigabile dopo che i Draghieri 
 
 ### Pianure del Vento
 
-Situate a **nordest della Maestà**, sono l'habitat dei [[Soffione Uncinato|Soffioni Uncinati]] (`Soffioni_Uncinati.docx`). I forti venti permettono ai loro acheni di cacciare e disperdersi.
+Situate a **nordest della Maestà**, sono l'habitat dei [[Soffione Uncinato|Soffioni Uncinati]] (`content/fonti/soffioni-uncinati-fonte.md`). I forti venti permettono ai loro acheni di cacciare e disperdersi.
 
 ---
 
