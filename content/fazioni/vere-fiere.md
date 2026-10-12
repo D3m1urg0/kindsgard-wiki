@@ -51,7 +51,7 @@ In un'unica occasione documentata, Draghieri e Vere Fiere hanno collaborato: dur
 
 ## Fine del Potere
 
-Quando [[Dominic Draco]] divenne **Re Draco, Unico Guardiano**, assorbendo i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento tramite l'arma Espediente, le Vere Fiere persero il proprio potere e tornarono semplici Umani. I [[Draghieri]] non le eliminarono: il loro Istinto non le riconosce come minaccia in forma umana.
+Quando [[Dominic Draco]] divenne **Re Draco, Unico Guardiano**, assorbendo i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento tramite l'arma Espediente, la cronologia generale riferisce che le Vere Fiere persero il proprio potere e tornarono semplici Umani. I [[Draghieri]] non le eliminarono: il loro Istinto non le riconosceva come minaccia in forma umana. La formulazione generale non chiarisce però la sorte di ogni individuo: `18___Misfit`, collocato nell'Era del Dominio, presenta Wendy Wyrm e Solomon ancora identificati come Vere Fiere, mentre `Inktober 2018 #Precious` mostra Solomon in forma umanoide e lascia ambiguo il suo stato. Vedi [[Domande Aperte e Lacune]] L16.
 
 Alcuni di questi ex-Vere Fiere potrebbero essere il seme della fazione delle **[[Fiamme]]**. ⚪ *Documentazione incompleta.*
 
