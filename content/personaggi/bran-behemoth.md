@@ -21,7 +21,7 @@ Bran Behemoth è il **V Draghiere del Behemoth** del Kindsgard. È uno dei Dragh
 
 ## Identità e Istinto
 
-Il Behemoth è la Fiera più massiccia e resistente del Kindsgard: pelle impenetrabile, forza smisurata, lentezza deliberata. L'Istinto di Bran riflette questa natura: è inamovibile, metodico, quasi impossibile da sorprendere con la velocità. Non è fatto per la sottigliezza — è fatto per essere l'ultimo a cadere.
+Il Behemoth è una Fiera colossale associata ai Picchi; le fonti narrative ne mostrano i passi capaci di far tremare la terra e la discesa al fiume capace di cambiarne il corso, ma non confermano pelle impenetrabile o lentezza intrinseca. L'Istinto di Bran è descritto come inamovibile e metodico, quasi impossibile da sorprendere con la velocità. Non è fatto per la sottigliezza — è fatto per essere l'ultimo a cadere.
 
 La sua arma è **Schiacciastelle**: una mazza ferrata dalla testa grande quanto il suo stesso torace, con quattro lame possenti, forgiata da lui stesso con il ferro nero della Valle dei Fulmini. L'armatura è ugualmente sua fattura, brunita e temperata in due mondi diversi.
 
