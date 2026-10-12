@@ -70,7 +70,7 @@ Le [[Vere Fiere]] non si numerano: ogni Vera Fiera si considera sé stessa, non 
 
 Il Battesimo del Fuoco può **fallire**. Gli Umani che affrontano una Fiera, sopravvivono allo scontro ma non completano la trasformazione diventano i **Bruciati**: individui che hanno toccato il fuoco di Fierezza/Maestà senza riuscire a contenerlo.
 
-I Bruciati rimangono menomati in modo permanente — nel corpo, nella mente, o in entrambi. Non ottengono poteri, non ricevono un mandato, non appartengono più pienamente al mondo degli Umani ordinari. Hanno una comunità dedicata con pratiche specifiche (vesti bianche, silenzio come regola, strutture simili a lazzaretti).
+Nel racconto `Inktober 2018 #Scorched (19-2)`, i Bruciati sono descritti come menomati in modo permanente — nel corpo, nella mente, o in entrambi. Non ottengono poteri né un mandato e sono presentati come separati dagli Umani ordinari. La stessa fonte descrive una comunità con vesti bianche, silenzio come regola e strutture simili a lazzaretti; non è ancora confermato che questi tratti valgano universalmente per tutti i Bruciati.
 
 I Bruciati sono il seme narrativo della fazione delle [[Fiamme]]. ⚪ *Documentazione incompleta.*
 
