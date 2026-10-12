@@ -16,7 +16,7 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Drag
 
 ## Panoramica
 
-Fierezza e Maestà sono denominazioni diverse dello stesso potere cosmologico che anima sia i [[Draghieri]] che le [[Vere Fiere]]. I Draghieri lo chiamano **Fierezza**, le Vere Fiere lo chiamano **Maestà**. Nessuna delle due fazioni sa di condividere la stessa fonte, né di essere — insieme — l'ago di una bilancia cosmica il cui scopo è mantenere in equilibrio Umani e Giardino, e quindi garantire la sopravvivenza di [[Natura]] stessa.
+Fierezza e Maestà sono denominazioni diverse dello stesso potere cosmologico che anima sia i [[Draghieri]] che le [[Vere Fiere]]. I Draghieri lo chiamano **Fierezza**, le Vere Fiere lo chiamano **Maestà**. Le due fazioni, in generale, non sanno di condividere la stessa fonte né di essere — insieme — l'ago di una bilancia cosmica il cui scopo è mantenere in equilibrio Umani e Giardino, e quindi garantire la sopravvivenza di [[Natura]] stessa. **Dominic Draco è l'eccezione documentata**: comprende il problema cosmologico e sceglie di proteggere il Giardino con la fondazione dell'Anello.
 
 Questa ignoranza reciproca è strutturale, non accidentale: è parte del meccanismo che ha permesso al Kindsgard di sopravvivere per eoni attraverso cicli di conquista e perdita, Fierezza e Maestà che si alternano nel dominio senza mai distruggersi definitivamente a vicenda.
 
