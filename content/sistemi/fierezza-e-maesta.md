@@ -44,7 +44,7 @@ Il terzo livello è l'**Espediente**: le capacità concrete, le proficienze, le 
 
 ## Il Battesimo del Fuoco
 
-Il Battesimo del Fuoco è l'evento che trasforma un Umano in Draghiere o Vera Fiera. La meccanica è universale e invariabile:
+Il Battesimo del Fuoco è l'evento che trasforma un Umano in Draghiere o Vera Fiera. Le fonti descrivono uno schema ordinario condiviso, ma documentano anche casi eccezionali: la sintesi seguente riassume il processo normale, non una regola priva di eccezioni:
 
 1. Un Umano si trova in una situazione di pericolo estremo di fronte a una Fiera
 2. Invece di fuggire o soccombere, sceglie di affrontarla
@@ -54,7 +54,7 @@ Il Battesimo del Fuoco è l'evento che trasforma un Umano in Draghiere o Vera Fi
 
 L'orientamento dell'infusione — verso Fierezza (Draghiere) o verso Maestà (Vera Fiera) — dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato rispettivamente ai Draghieri o alle Vere Fiere. I due orientamenti sono opposti ma attingono allo stesso principio cosmologico. Questo collegamento appartiene alla fase successiva all'interconnessione dei mondi, non alla cosmologia originaria del Kindsgard.
 
-Un Istinto che non si risveglia non è necessariamente assente: può essere già incarnato altrove. In un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie. I personaggi giocanti che arrivano tramite la Chiamata costituiscono un caso particolare e possono presentare entrambe le varianti.
+Un Istinto che non si risveglia non è necessariamente assente: può essere già incarnato altrove. In un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie. I personaggi giocanti che arrivano tramite la Chiamata costituiscono un caso particolare e possono presentare entrambe le varianti. Il racconto `Risveglio del Drago` documenta inoltre un evento eccezionale in cui Wade si reincarna come Vera Viverna senza uccidere una Viverna, mentre il suo sé umano è ancora vivo su Vilegis; il meccanismo non è spiegato integralmente.
 
 Il Battesimo può fallire: gli Umani che affrontano una Fiera e sopravvivono senza completare la trasformazione diventano i **[[Bruciati]]**, menomati permanenti che non ottengono poteri ma perdono qualcosa di irrecuperabile. I Bruciati sono il seme della fazione delle **[[Fiamme]]**. ⚪ *Documentazione incompleta.*
 
