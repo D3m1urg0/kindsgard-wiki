@@ -23,7 +23,7 @@ Draghiere del Roc, ingegnere e stratega aereo. Progettista del sistema di diga d
 Draghiere dell'Atrax (ragno). Vesti argentate, lunghe gonne, corona di fili d'argento. Porta un bastone ferrato. Appare nella Città-Alveare aprendo i portoni dall'interno al momento giusto per salvare [[Brienne Brood]] e i suoi (`Inktober 2019 #Pattern`). Capace di pietrificare i nemici tramite il morso.
 
 ### Gertrude Gorgon, XII Gorgone
-Draghiere della Gorgone, di stanza alle [[Colture]]. Ha condotto ricerche mediche sull'uso di parti di Fiera, collaborando con [[Syrus Salamander]] (appunti in inchiostro verde nel laboratorio). Porta una bipenne a due mani. Quando le Colture cadono, è l'unica Draghiere rimasta sul posto — trova una sopravvissuta umana chiamata Daisy (`Inktober 2018 #Bottle`). Coordina la riconquista e bonifica delle Colture (`Inktober 2018 #Overgrown`).
+Draghiere della Gorgone, di stanza alle [[Colture]]. Ha condotto ricerche mediche sull'uso di parti di Fiera, collaborando con [[Syrus Salamander]] (appunti in inchiostro verde nel laboratorio). Porta una bipenne a due mani. Quando le Colture cadono, è l'unica Draghiere rimasta sul posto — trova una sopravvissuta umana chiamata Daisy (`Inktober 2018 #Bottle`). Coordina la riconquista e bonifica delle Colture (`Inktober 2019 #Overgrown`).
 
 ### Cornelius Cockatrix, XIII Cockatrice
 Draghiere della Cockatrice. Il racconto `Fierezza.docx` documenta il suo [[Il Battesimo del Fuoco|Battesimo del Fuoco]] — il più dettagliato nelle fonti. Porta una balestra e una piccola fionda-arco personale; i suoi quadrelli sono avvelenati con una sostanza che pietrifica progressivamente il sangue del colpito. Il suo sangue stesso, se ferito, pietrifica ciò che tocca. Appare anche in `Prevedibilità (covata)` nella battaglia alla Città-Alveare.
@@ -38,10 +38,10 @@ Draghiere dell'[[fiere/fiere-stub#everastes|Everastes]] — una Fiera montana di
 Draghiere della Loccia — Fiera acquatica dei ghiacciai. Fisico esile, abiti blu e bianchi che sembrano fatti di scaglie. Porta arpioni leggeri con corde. Può rimanere immerso in acqua gelida per lunghi periodi senza effetti. Tattica: colpire dall'acqua, in silenzio, da posizioni nascoste. Collabora con [[Bran Behemoth]] ed [[Ember Everastes]] nella caccia al Drago (`Inktober 2019 #Snow, #Dragon`).
 
 ### Sef Sycamore, XIII Sicomoro Perenne
-Draghiere del Sicomoro Perenne — una Fitofiera. Opera nelle zone boschive. Porta un corno aggrovigliato di Aigokeros. Coordina la bonifica della Foresta ambulante nelle Brughiere (`Inktober 2018 #Mindless`, `Inktober 2019 #Ash`).
+Draghiere del Sicomoro Perenne — una Fitofiera. Opera nelle zone boschive. Porta un corno aggrovigliato di Aigokeros. Coordina la bonifica della Foresta ambulante nelle Brughiere (`Inktober 2019 #Mindless`, `Inktober 2019 #Ash`).
 
 ### Angeline Aconitum, VI Aconito
-Draghiere dell'Aconito. Opera nelle zone boschive insieme a Sef Sycamore. Perde il braccio sinistro durante la bonifica della Foresta ambulante — continua a combattere. Porta torce su bastoni lunghi per dare fuoco alle Fiere vegetali (`Inktober 2018 #Mindless`, `Inktober 2019 #Ash`).
+Draghiere dell'Aconito. Opera nelle zone boschive insieme a Sef Sycamore. Perde il braccio sinistro durante la bonifica della Foresta ambulante — continua a combattere. Porta torce su bastoni lunghi per dare fuoco alle Fiere vegetali (`Inktober 2019 #Mindless`, `Inktober 2019 #Ash`).
 
 ### Axsar Aigokeros, II Egocero
 Draghiere dell'Egocero. Gestisce un tempio-rifugio sulle scogliere dove accoglie gli Umani durante le alluvioni stagionali. Predica la rinuncia al desiderio come forma di sopravvivenza: *"Desiderare è il primo errore."* Porta uno scudo intarsiato. Il suo Istinto è orientato alla guida spirituale e alla protezione psicologica degli Umani (`Inktober 2019 #Ornament`).

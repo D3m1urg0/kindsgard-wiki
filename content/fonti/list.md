@@ -2,8 +2,8 @@
 titolo: "#List (spunti narrativi)"
 categoria: "fonti"
 tag: [spunti, brainstorming, idee-non-sviluppate]
-status: "canonico"
-ultima_modifica: "2025-06-13"
+status: "bozza"
+ultima_modifica: "2026-10-12"
 tipo: "lista"
 voci-wiki-collegate: ["Caitlin Chimera", "Fiere — Voci Stub"]
 ---

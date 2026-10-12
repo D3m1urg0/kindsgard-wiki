@@ -75,6 +75,11 @@ ultima_modifica: "2026-10-12"
 
 ---
 
+
+### Riferimenti legacy nei frontmatter da riconciliare
+
+Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cita `Copia_di_I_Draghieri_del_kindsgard` nel campo `fonti`. Non esiste un file con questo nome nel tree corrente e il riferimento non è descritto nel catalogo. `content/fonti/draghieri-spiegazione.md` è una fonte OOC pertinente, ma non ci sono prove sufficienti per affermare che sia la stessa fonte o la conversione di quel documento. **Non sostituire il riferimento senza recuperare o identificare il sorgente.**
+
 ## Decisioni di Canonizzazione
 
 ### 🔴 Contraddizioni Risolte
