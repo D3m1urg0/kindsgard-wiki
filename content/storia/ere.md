@@ -123,7 +123,7 @@ Dominic e i Draghieri scomparsi oltre l'Anello tornano dalla Maestà, trasformat
 Il mutaforma Ishvard, incapace di liberarsi dalla creatura ferale che lo controlla, chiede ai Draghieri di ucciderlo. Il trasferimento separa Umano e Fiera: Ishvard diventa Draghiere della Manticora, la sua controparte ferale diventa la Vera Manticora. Unicum narrativo, non ripetibile.
 
 ### La Forgiatura di Espediente e l'Ascesa di Re Draco
-Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** per proteggere il Kindsgard dalla minaccia del Nexus. Viene forgiata l'arma **Espediente**. Draco la usa per uccidere i **13 Guardiani del Kindsgard** — individui che inconsapevolmente incarnavano i 13 vettori collegati al Fondamento — diventando **Unico Guardiano, Re Draco**: entità autonoma, non più Draghiere né Vera Fiera, detentrice di tutto il Fondamento.
+Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** per proteggere il Kindsgard dalla minaccia del Nexus. Viene forgiata l'arma **Espediente**. Draco la usa per uccidere i **13 Guardiani del Kindsgard** — individui che, dopo la connessione con Vilegis/Lunaria, incarnavano inconsapevolmente i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento — diventando **Unico Guardiano, Re Draco**: entità autonoma, non più Draghiere né Vera Fiera, detentrice del potere così raccolto.
 
 Le Vere Fiere perdono il potere e tornano Umani semplici. I Draghieri non le eliminano perché il loro Istinto non le riconosce come minaccia. Draco fonda le città, dismette gran parte degli Artigli, regna sul Giardino con l'aiuto dei Draghieri.
 
