@@ -49,7 +49,7 @@ Sotto la pressione del massimo Bisogno degli Umani, Espediente trovò una via in
 
 ## Fierezza e Maestà
 
-Fierezza e Maestà sono lo stesso principio cosmologico, chiamato con nomi diversi dalle due fazioni che lo incarnano. I [[Draghieri]] lo chiamano **Fierezza**, le [[Vere Fiere]] lo chiamano **Maestà**. Nessuna delle due fazioni sa di condividere la stessa fonte di potere, né di servire lo stesso scopo cosmologico: mantenere l'equilibrio tra Umani e Giardino, garantendo la sopravvivenza di Natura stessa.
+Fierezza e Maestà sono lo stesso principio cosmologico, chiamato con nomi diversi dalle due fazioni che lo incarnano. I [[Draghieri]] lo chiamano **Fierezza**, le [[Vere Fiere]] lo chiamano **Maestà**. Le due fazioni, in generale, non sanno di condividere la stessa fonte di potere né di servire lo stesso scopo cosmologico: mantenere l'equilibrio tra Umani e Giardino, garantendo la sopravvivenza di Natura stessa. **Dominic Draco è l'eccezione documentata**: comprende il rischio per il Giardino e sceglie consapevolmente l'Anello.
 
 Il principio si articola in tre livelli distinti:
 

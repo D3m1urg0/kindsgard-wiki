@@ -23,16 +23,16 @@ Nel Kindsgard non esistono animali nel senso convenzionale. Ogni creatura è una
 ## Fiere Maggiori
 
 ### Drago
-La Fiera più maestosa del Kindsgard. Il primo Draghiere — [[Dominic Draco]] — prese il nome dall'uccisione di un Drago. Caratteristiche documentate: pelle impenetrabile, ali potenti, fuoco, olfatto eccezionale, coda mortale, quattro zampe prensili, vista a lungo raggio. Le uniche parti vulnerabili sono gli occhi (vicini al cervello) e il palato (durante la fiammata) e le sacche di gas infiammabile nel torace basso. Un Drago in piena attività produce calore tale da sciogliere la neve e il ghiaccio nel raggio di centinaia di metri. Il Corno del Behemoth può chiamare una valanga su di esso (`Inktober 2019 #Dragon`). Considerato il predatore supremo del Giardino.
+La Fiera più maestosa del Kindsgard. Il primo Draghiere — [[Dominic Draco]] — prese il nome dall'uccisione di un Drago. Caratteristiche documentate: pelle impenetrabile, ali potenti, fuoco, olfatto eccezionale, coda mortale, quattro zampe prensili, vista a lungo raggio. I punti deboli tradizionalmente tramandati dai Draghieri sono gli occhi (vicini al cervello), il palato durante la fiammata e le sacche di gas infiammabile nel torace basso. Nella caccia descritta in `Inktober 2019 #Dragon`, un'arma caricata di tuono spezza anche un'articolazione: è un espediente tattico specifico, non una prova che le articolazioni siano normalmente vulnerabili. Un Drago in piena attività produce calore tale da sciogliere la neve e il ghiaccio nel raggio di centinaia di metri. Il Corno del Behemoth può chiamare una valanga su di esso (`Inktober 2019 #Dragon`). Considerato il predatore supremo del Giardino.
 
 ### Behemoth
-Fiera colossale delle zone montuose. Pelle impenetrabile, forza smisurata, lentezza deliberata. Il suo passaggio causa terremoti locali. Si abbevera ai fiumi cambiandone il corso. Vive sulle cime delle montagne più alte. Ha un debole per i fulmini — il ferro della sua zona natale (Valle dei Fulmini) è particolarmente resistente. La Fiera che diventa Re della Montagna prima di essere decapitata dal Draghiere del Behemoth. Il Corno del Behemoth può chiamare valanghe e calamità naturali (`Inktober 2019 #Tread, #Dragon`).
+Fiera colossale delle zone montuose. Pelle impenetrabile, forza smisurata, lentezza deliberata. Il suo passaggio causa terremoti locali. Si abbevera ai fiumi cambiandone il corso e vive sulle cime delle montagne più alte. `Inktober 2019 #Tread` descrive un Behemoth durante una tempesta di fulmini, ma non stabilisce una debolezza specifica ai fulmini. Il ferro nero della Valle dei Fulmini è usato da Bran per forgiare Schiacciastelle e la propria armatura; la fonte non afferma che il metallo sia particolarmente resistente ai fulmini. Il Corno del Behemoth può chiamare valanghe e calamità naturali (`Inktober 2019 #Tread, #Dragon`).
 
 ### Leviatano
 Fiera delle profondità marine. Il suo **Canto** genera onde di energia devastanti capaci di distruggere navi e uccidere altre Fiere marine. Si sposta tra i fondali del Mare Interno. Quando canta, l'intero mare soprastante è pericoloso. Può essere sconfitto usando il suo stesso Canto contro di esso (`Inktober 2018 #Whale`).
 
 ### Manticora
-Fiera con corpo felino, criniera, zanne. Alcune varietà hanno colorazioni insolite (rossicce con striature bianche nelle zone nordiche fredde). Il loro sorriso è documentato come attiraleva — le persone sono portate a seguirle. Il veleno è insito nel sorriso stesso o nel morso. La Vera Manticora (Karsh) mantiene i ricordi del corpo umano da cui proviene. Meridian Manticora opera su Vilegis (`Prevedibilità`).
+Fiera con corpo felino, criniera e zanne. Alcune varietà hanno colorazioni insolite (rossicce con striature bianche nelle zone nordiche fredde). La canzone degli Umani descrive il sorriso come un richiamo che induce a seguirla e come intriso di veleno (`Canzoni degli Umani`). La fonte non chiarisce se il veleno venga trasmesso anche attraverso il morso o in altri modi. La Vera Manticora (Karsh) mantiene i ricordi del corpo umano da cui proviene. Meridian Manticora opera su Vilegis (`Prevedibilità`).
 
 ### Sfinge
 Fiera che pone enigmi. La sua trappola è la curiosità: chi risponde a una domanda della Sfinge rischia di diventarne il pasto. *"Non fidarti della Sfinge, lascia star curiosità: quando il dubbio ormai ti affligge sei il suo pasto e lei lo sa."* (`Canzoni degli Umani`). Istinto: conoscenza come strumento di caccia.
@@ -41,10 +41,10 @@ Fiera che pone enigmi. La sua trappola è la curiosità: chi risponde a una doma
 Fiera a tre teste (capra, leone, serpente), ali di drago, coda di serpente, fuoco. Quando è in branco dopo la caccia, non usa il fuoco — lo considera inutile e pericoloso per il branco. Punto debole: non si aspetta il fuoco da una fonte umana (`Inktober 2018 #Poisonous`).
 
 ### Viverna
-Rettile volante con veleno. Il sangue del Draghiere della Viverna pietrifica a contatto con l'aria (`Inktober 2019 #Sling`). La coda è un'arma primaria.
+Fiera alata, descritta nella filastrocca degli Umani come una minaccia dalla coda letale (`Canzoni degli Umani`, “Giù nel Bosco”). Le fonti descrivono veleno e sangue pietrificante nell'Espediente del Draghiere Wade Wyrm (`Inktober 2018`, `Inktober 2019 #Sling`), ma non separano in modo completo questi tratti dalla fisiologia della Fiera stessa: non trasferirli automaticamente alla scheda della specie.
 
 ### Grifone
-Fiera con corpo di leone e ali/testa di aquila. Piume cangianti del colore dei tronchi — si mimetizza nella foresta. Tre esemplari in `Inktober 2019 #Sling`: il primo viene abbattuto, gli altri tentano di accerchiare. Possono pietrificare le prede con lo sguardo (o è il veleno del Cockatrix?). ⚠️ *Da chiarire: la pietrificazione in #Sling è dell'arma del Cockatrix o della Fiera.*
+Fiera con corpo di leone e ali/testa di aquila. Piume cangianti del colore dei tronchi — si mimetizza nella foresta. Tre esemplari in `Inktober 2019 #Sling`: attaccano un gruppo di Umani e Cornelius Cockatrix li abbatte con dardi della propria arma. I Grifoni colpiti si pietrificano e si frantumano; il testo collega l'effetto al dardo e al sangue pietrificante del Draghiere della Cockatrice, non a uno sguardo del Grifone. La fonte non attribuisce ai Grifoni una capacità di pietrificazione.
 
 ### Cockatrice
 Grande volatile con testa, bargigli neri, rostro affilato. Gli occhi della Cockatrice pietrificano (`Fierezza.docx`). Il Draghiere della Cockatrice acquisisce questa capacità: il suo sangue pietrifica. I quadrelli della sua balestra portano una sostanza pietrificante. Altezza: circa doppia rispetto a un Umano. Fiera vorace e aggressiva.
@@ -66,7 +66,7 @@ Fiera acquatica dei ghiacciai. Vive nelle acque fredde, infesta le sorgenti dei 
 Fiera volante che produce luce dorata dalle piume. Attira le prede con la sua bellezza luminosa. La sua tana è ricca di oggetti metallici lucidi accumulati come richiamo. Chi entra nella tana di un Alicanto difficilmente ne esce (`Inktober 2019 #Treasure`).
 
 ### Zaratan
-Fiera con carapace massiccia. Due varianti documentate: una terrestre (lascia gallerie grandi quanto la sua forma nelle rocce) e una marina. Quella terrestre si muove lentamente ma è quasi impenetrabile. Il suo sangue è tossico (`Inktober 2018 #Cruel`). Il Draghiere dello Zaratan porta un carapace come scudo.
+Fiera associata al Draghiere Zachary Zaratan, che in `Inktober 2018 #Cruel` porta uno scudo rotondo fatto di carapace. `Prevedibilità (covata)` attribuisce inoltre a uno Zaratan alcune gallerie scavate nella roccia della Città-Alveare. Le fonti disponibili non stabiliscono esplicitamente che si tratti di due varianti distinte, né confermano habitat marino, lentezza, quasi-impenetrabilità o sangue tossico: questi dettagli non vanno trattati come canonici senza una fonte aggiuntiva.
 
 ### Falenottere
 Fiera insettiforme con pungiglione paralizzante. Attratta dalla luce — si addensa attorno a qualsiasi fonte luminosa. Il pungiglione paralizza la preda che rimane cosciente mentre la Fiera si nutre. Unica difesa: mantenere una luce abbastanza grande da tenerle impegnate lontano dalla preda (`Inktober 2018 #Drooling`).
@@ -103,9 +103,9 @@ Pianta con proprietà tossiche progressive. Può essere trattata per renderla in
 
 ## Fiere Minori / Menzionate
 
-**Leopterix** — Fiera ibrida rettile-volatile. L’unica descrizione disponibile la identifica come la Fiera di Lhars Leopterix; il Draghiere porta un mantello fatto di pelle e piume della propria Fiera. Le fonti attuali non specificano dimensioni, habitat preciso, capacità offensive o vulnerabilità: non dedurre ulteriori caratteristiche senza nuove fonti (*Elenco Draghieri*, *Inktober 2019 #Freeze, #Snow, #Dragon*).
+**Leopterix** — Fiera associata a Lhars Leopterix. Il Draghiere porta un mantello fatto di pelle e piume della propria Fiera, ma le fonti attuali non descrivono direttamente la morfologia della specie. La precedente etichetta “ibrida rettile-volatile” non è confermata da una descrizione esplicita; dimensioni, habitat preciso, capacità offensive e vulnerabilità restano ignoti (*Elenco Draghieri*, *Inktober 2019 #Freeze, #Snow, #Dragon*).
 
-**Everastes** — Fiera montana di grandi dimensioni, coperta di pelliccia candida e capace di mimetizzarsi nella neve; è descritta come immune al freddo. Ember Everastes porta un martello da guerra di pietra grezza, ma l’arma appartiene al Draghiere e non va trattata come proprietà della specie (*Inktober 2019 #Snow, #Dragon*).
+**Everastes** — Fiera montana associata a Ember Everastes. `Inktober 2019 #Snow` descrive il Draghiere con pellicce candide e come “fatta per stare in mezzo al gelo”, ma non stabilisce in modo esplicito che la Fiera sia immune al freddo. Ember porta un martello da guerra di pietra grezza, ma l’arma appartiene al Draghiere e non va trattata come proprietà della specie (*Inktober 2019 #Snow, #Dragon*).
 
 
 **Kyrin** — Fiera dell'altopiano, notturna o crepuscolare. Attirata dai fuochi. Menzionata in `L'esodo`.

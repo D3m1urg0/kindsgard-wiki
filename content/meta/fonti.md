@@ -30,7 +30,8 @@ ultima_modifica: "2026-10-12"
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `content/fonti/annali-artiglio-di-fuoco-intro.md` | Introduzione storica firmata da Syrus Salamander V. Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante. | ⚠️ Percorso da riconciliare |
+| `content/fonti/annali-artiglio-di-fuoco-intro.md` | Riferimento legacy a un'introduzione storica firmata da Syrus Salamander V. Una citazione attribuita agli Annali dell'Artiglio di Fuoco è effettivamente conservata in `content/fonti/inktober-2019.md`, ma non è possibile dimostrare che coincida con l'introduzione indicata né che il testo integrale sia stato incorporato. | ⚠️ Testo integrale/percorso da riconciliare |
+| `Annali dell'Artiglio delle Sabbie` (citazione in `content/fonti/inktober-2024.md`, #Exotic) | Testo citato come fonte interna alla narrazione; non esiste un file autonomo nel tree corrente. Non va confuso con gli `Annali dell'Artiglio di Fuoco`, citati in `Inktober 2019` e attribuiti a Syrus Salamander V. | ⚠️ Riferimento distinto, identità e testo sorgente da chiarire |
 | `content/fonti/draghieri-vere-fiere.md` | Riferimento a una descrizione OOC del dualismo Draghieri/Vere Fiere; il percorso non esiste nel tree attuale. `content/fonti/draghieri-spiegazione.md` è una fonte OOC presente che tratta i Draghieri e le Vere Fiere, ma senza il documento originale non è possibile confermare che sia la stessa fonte o una sua conversione. | ⚠️ Identità/percorso da riconciliare |
 | `content/fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
 | `content/fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
@@ -170,7 +171,7 @@ Il sito ufficiale di Battle for Vilegis è attualmente accessibile. I contenuti 
 
 Consultati il 2026-10-11. Registrare l’URL e la data di consultazione perché le pagine di un setting vivo possono cambiare.
 
-## Riconciliazione del catalogo — 2026-10-11
+## Riconciliazione del catalogo — 2026-10-12
 
 Il controllo della tree GitHub ha rilevato 29 file sotto `content/fonti/`. Quattro percorsi del catalogo non esistono con quel nome nel tree corrente:
 - `content/fonti/d3-cronistoria-ooc.md` — identità della fonte chiarita dall’utente come Cronistoria OOC sulle Ere; file sorgente non reperito.
@@ -178,4 +179,43 @@ Il controllo della tree GitHub ha rilevato 29 file sotto `content/fonti/`. Quatt
 - `content/fonti/annali-artiglio-di-fuoco-intro.md` — identità/percorso ancora da riconciliare.
 - `content/fonti/draghieri-vere-fiere.md` — identità/percorso ancora da riconciliare.
 
+Un ulteriore identificativo legacy presente nel frontmatter di `content/mondo/cosmologia.md` è `Copia_di_I_Draghieri_del_kindsgard`: non è un file nel tree e non è dimostrato che corrisponda a `content/fonti/draghieri-spiegazione.md`. Va tenuto distinto dai quattro percorsi sopra, che sono riferimenti espliciti nel catalogo.
+
 Non dichiarare perdute le fonti D3/D4: i loro nomi/contenuti generali sono stati identificati, ma i file originali non sono presenti nel repository consultato e non sono emersi dalla ricerca nella Library collegata. I percorsi esistenti nel repository sono indicati rispetto alla root GitHub come `content/fonti/...`.
+
+Un ulteriore riferimento non autonomo è **Annali dell'Artiglio delle Sabbie**, citato in `Inktober 2024 #Exotic`. È distinto dagli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V. La wiki non dispone al momento di elementi per stabilire se il primo sia un documento indipendente, un estratto o un riferimento interno alla storia.
+
+## Mappatura verificata degli identificatori legacy nei frontmatter
+
+I valori del campo `fonti` sono identificatori ereditati dalla conversione dei documenti originali, non sempre nomi di file attuali. Le corrispondenze seguenti sono ricavabili senza ambiguità dal contenuto e dal registro D1/D2; non implicano che la fonte sia normativa se il suo status dice altro.
+
+| Identificatore legacy | File corrente |
+|---|---|
+| `Bacche_Emofaghe.docx` | `content/fonti/bacche-emofaghe-fonte.md` — scheda tecnica canonica |
+| `Soffioni_Uncinati.docx`, `Soffioni_Uncinati` | `content/fonti/soffioni-uncinati-fonte.md` |
+| `Canzoni_degli_Umani` | `content/fonti/canzoni-degli-umani.md` |
+| `Cronistoria_versione_breve` | `content/fonti/cronistoria-versione-breve.md` |
+| `Deflecte_Cantum` | `content/fonti/deflecte-cantum.md` |
+| `Elenco_Draghieri_Conosciuti` | `content/fonti/elenco-draghieri.md` |
+| `Fierezza` | `content/fonti/fierezza-battesimo-cornelius.md` — racconto di Cornelius, secondo D1 |
+| `Fierezza__il_Dio_che_è_in_noi` | `content/fonti/fierezza-il-dio-che-e-in-noi.md` — saggio di Wade, secondo D1 |
+| `Inktober_2018`, `Inktober_2019`, `Inktober_2024` | rispettivamente `content/fonti/inktober-2018.md`, `inktober-2019.md`, `inktober-2024.md` |
+| `L_Animale_Uomo` | `content/fonti/l-animale-uomo.md` |
+| `L_esodo` | `content/fonti/l-esodo.md` |
+| `L_ultima_notte_all_ombra_dell_Anello` | `content/fonti/l-ultima-notte-all-ombra-dell-anello.md` |
+| `La_natura_di_Natura` | `content/fonti/la-natura-di-natura.md` |
+| `Lamento_di_Wade` | `content/fonti/lamento-di-wade.md` |
+| `18___Misfit` | `content/fonti/misfit.md` |
+| `Mostri` | `content/fonti/mostri.md` — brainstorming, non fonte normativa |
+| `Onda_bianca` | `content/fonti/onda-bianca.md` |
+| `Pezzo_del_rituale_-_Chimera` | `content/fonti/pezzo-del-rituale-chimera.md` |
+| `Prevedibilità__covata_` | `content/fonti/prevedibilita-covata.md` |
+| `Riflessioni` | `content/fonti/riflessioni.md` |
+| `Solitudine` | `content/fonti/solitudine.md` |
+| `Una_Missiva_dall_Anello` | `content/fonti/una-missiva-dall-anello.md` |
+| `Il_Trattato` | `content/fonti/il-trattato-wendy-wyrm.md` |
+
+### Identificatori non mappati intenzionalmente
+
+Non sono assegnati a un file corrente finché non esiste una prova dell'identità: `D3-cronistoria-ooc`, `D4-guida-draghiere`, `Annali_dell_Artiglio_di_Fuoco`, `Draghieri_Vere_Fiere_del_Kindsgard` e `Copia_di_I_Draghieri_del_kindsgard`. Per gli Annali, mantenere inoltre distinta la citazione degli **Annali dell'Artiglio delle Sabbie** in `Inktober 2024 #Exotic`. Non sostituire questi identificatori con fonti simili solo per somiglianza del titolo.
+

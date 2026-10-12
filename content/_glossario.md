@@ -17,7 +17,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Artigli** — Le torri che compongono l'Anello di Fuoco. Presidi militari e rifugi per gli Umani. Ogni Artiglio ha un Draghiere di stanza responsabile. → vedi [[Geografia del Kindsgard]]
 
-**Battesimo del Fuoco** — Il processo che trasforma un Umano in Draghiere o Vera Fiera. Nel caso ordinario, l'Umano affronta e uccide una Fiera, ricevendone l'Istinto e l'Espediente attraverso l'infusione di Fierezza o Maestà; le fonti documentano anche casi eccezionali legati alla connessione con Vilegis/Lunaria. → vedi [[Il Battesimo del Fuoco]]
+**Battesimo del Fuoco** — Il processo ordinario in cui un Umano affronta e uccide una Fiera e riceve Istinto ed Espediente tramite Fierezza o Maestà, diventando Draghiere o Vera Fiera. Le Vere Fiere possono anche derivare dalla trasformazione ciclica di un Draghiere che raggiunge la vetta della Maestà. È inoltre documentato un caso eccezionale in `Risveglio del Drago`, in cui Wade riceve un nuovo Battesimo senza uccidere una Viverna, nel contesto della duplicazione della sua essenza su Vilegis. → vedi [[Il Battesimo del Fuoco]]
 
 **Bisogno** — Prima forza ordinante del Kindsgard. L'inevitabile e il necessario: la condizione che motiva ogni azione. → vedi [[Cosmologia]]
 
@@ -81,6 +81,6 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Umani** — Specie inadatta al Kindsgard, creature dell'Era di Armonia. Sopravvivono grazie ai [[Draghieri]].
 
-**Vera Fiera** — Umano infuso dell'Espediente di una Fiera attraverso il Battesimo del Fuoco, orientato verso Maestà invece che Fierezza. Predatore fedele a Natura. → vedi [[Vere Fiere]]
+**Vera Fiera** — Portatore del principio cosmologico orientato verso Maestà. Può derivare dal Battesimo ordinario di un Umano o dalla trasformazione ciclica di un Draghiere che raggiunge la vetta della Maestà. Predatore fedele a Natura. → vedi [[Vere Fiere]]
 
 **Vilegis / Lunaria** — L'Oltregiardino principale. Un mondo i cui eventi influenzano il Kindsgard attraverso gli Echi. Fuori scope della wiki Kindsgard salvo le intersezioni documentate.

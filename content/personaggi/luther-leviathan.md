@@ -29,7 +29,7 @@ L'Istinto di Luther è quello del predatore delle profondità: pazienza, precisi
 
 ## La Maelstrom e il Canto
 
-La **Maelstrom** è la nave di Luther — probabilmente la più potente del Kindsgard per tonnellaggio e struttura. Trasporta Umani tra gli Artigli costieri e serve da base per le cacce alle Fiere marine.
+La **Maelstrom** è la nave di Luther. Trasporta Umani tra gli Artigli costieri e serve da base per le cacce alle Fiere marine. Le fonti disponibili non forniscono un confronto sistematico che permetta di definirla la nave più potente del Kindsgard.
 
 Il metodo di caccia di Luther è documentato in `Inktober 2018 #Whale`: si immerge nelle profondità con un'armatura pesante, scende fino alla Fiera bersaglio, e usa il proprio **Canto** per piegare o amplificare il Canto della Fiera stessa contro di lei. Nel caso documentato, usò il Canto di un Leviatano nemico per generare un'onda che lo distrusse dall'interno.
 
@@ -47,7 +47,7 @@ Il metodo di caccia di Luther è documentato in `Inktober 2018 #Whale`: si immer
 
 ## Stile di Comando
 
-Luther non spiega, non giustifica, non consola. Assegna compiti con frasi minime e si aspetta che vengano eseguiti. La sua autorità è assoluta a bordo della Maelstrom, non perché la imponga ma perché il suo Istinto è infallibile nell'ambiente marino. Gli Umani del suo equipaggio lo seguono per questo, non per affetto.
+Luther non spiega, non giustifica, non consola. Assegna compiti con frasi minime e si aspetta che vengano eseguiti. A bordo della Maelstrom esercita un'autorità molto forte, sostenuta dall'efficacia mostrata nelle cacce marine. Le fonti disponibili non dimostrano però che il suo Istinto sia letteralmente infallibile: la formulazione va letta come caratterizzazione, non come regola oggettiva.
 
 La scena della designazione di Maicol a Capitano è rivelatrice: Luther non chiede, non verifica l'idoneità, non offre conforto. Porge la fascia e pronuncia gli ordini. L'Istinto del Leviatano ha già deciso.
 

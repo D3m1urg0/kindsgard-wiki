@@ -19,10 +19,10 @@ Le decisioni seguenti sono state confermate nei registri canonici e nel changelo
 - **C4 — Grafia:** Frederick Fenice è la grafia canonica; “Frederic” e “Friederich” sono varianti presenti nelle fonti.
 - **A2 — Dominic Draco:** sequenza confermata in dieci fasi secondo il changelog. Per il dettaglio fa fede la voce `[[Dominic Draco]]` e la documentazione canonica.
 - **A3 — Covata:** successione Bartholomew Brood (XVI) → Brienne Brood (XVII) confermata.
-- **A4 — Fenice:** il Battesimo del Fuoco è una meccanica universale; la Fenice esiste anche come Specie di Fiera, distinta dal Draghiere Frederick Fenice.
+- **A4 — Fenice e Battesimo:** la Fenice esiste come Specie di Fiera, distinta dal Draghiere Frederick Fenice. Il Battesimo ha uno schema ordinario confermato, ma non è privo di eccezioni: `Risveglio del Drago` documenta il caso di Wade senza una Viverna uccisa; il meccanismo resta aperto in L4.
 - **L5 — Vilegis/Lunaria:** setting esterno, fuori scope, salvo intersezioni documentate.
 - **L6 — Stub delle Fiere:** la creazione iniziale degli stub è stata eseguita; resta il completamento e la verifica delle voci esistenti.
-- **L8 — Solomon:** non si assegna un numero progressivo alle Vere Fiere; le fonti disponibili lo collocano ancora attivo nell’Era del Dominio.
+- **L8 — Solomon:** non si assegna un numero progressivo alle Vere Fiere; la sua presenza narrativa nell’Era del Dominio è attestata, ma lo stato esatto dopo l'ascesa di Re Draco resta da chiarire (vedi L16).
 - **L10 — Bruciati:** sono il seme narrativo della fazione delle Fiamme; restano da approfondire eventuali dettagli non confermati.
 
 ## 🟡 Ambiguità da Risolvere
@@ -59,18 +59,19 @@ I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, En
 - → **HITL:** confermare se Equilibrio può essere registrato come tredicesimo Spettro nella versione storica pertinente, oppure se va mantenuto solo come riferimento esterno non canonico.
 
 ### L3 — Verifica finale della copertura geografica
-La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualmente presenti, compresi gli Artigli documentati, la Città del Re, le Colture, le aree costiere e le principali zone geografiche. Non è disponibile una mappa sistematica e alcune relazioni spaziali restano inferite. La copertura geografica non può essere dichiarata definitiva: l’utente ha identificato D3 come la Cronistoria OOC che confronta le Ere del Giardino e del Kindsgard e D4 come “You Want to Be a Dragoner”, ma i testi originali non sono presenti nel repository consultato né sono stati ritrovati nella Library collegata.
+La voce `[[Geografia]]` esiste già e registra i luoghi noti nelle fonti attualmente presenti, compresi gli Artigli documentati, la Città del Re, le Colture, le aree costiere e le principali zone geografiche. Non è disponibile una mappa sistematica e alcune relazioni spaziali restano inferite. “Valle dei Tuoni” compare come alias legacy di “Valle dei Fulmini”, ma non ha un riscontro indipendente nelle fonti presenti: non è certo che i due nomi indichino lo stesso luogo. La copertura geografica non può essere dichiarata definitiva: l’utente ha identificato D3 come la Cronistoria OOC che confronta le Ere del Giardino e del Kindsgard e D4 come “You Want to Be a Dragoner”, ma i testi originali non sono presenti nel repository consultato né sono stati ritrovati nella Library collegata.
 - → **Attività residua:** mantenere esplicita la distinzione tra posizioni attestate e inferenze; aggiornare la verifica geografica quando i testi originali saranno nuovamente disponibili. Non chiedere all’utente di chiarire l’identità dei documenti, già chiarita.
 
 ### L4 — Dettagli meccanici del Battesimo del Fuoco
-La meccanica universale e alcuni dettagli sono stati chiariti dall'utente e non vanno più trattati come domande aperte:
-- Il numero progressivo dei Draghieri è **per specie**, non globale (es. 33ª Viverna).
+Lo schema ordinario e alcuni dettagli sono stati chiariti dall'utente e non vanno più trattati come domande aperte:
+- Il numero progressivo dei Draghieri è **per specie**, non globale (es. 33ª Viverna); le Vere Fiere non si numerano.
 - Se un Istinto non si risveglia, può essere già incarnato altrove: in un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie.
 - L'orientamento del risveglio dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato ai Draghieri o alle Vere Fiere.
 - I personaggi giocanti che arrivano tramite la Chiamata sono un caso particolare e possono presentare entrambe le varianti.
-- Il Battesimo può fallire; gli Umani che sopravvivono senza trasformarsi diventano Bruciati, ma i dettagli oltre il seme narrativo delle Fiamme restano incompleti.
 
-La documentazione residua da recuperare riguarda soprattutto la formulazione esatta in D3/D4 e i dettagli dei Bruciati. Non chiedere all'utente di ripetere i punti sopra già chiariti.
+Restano invece aperti i fattori che determinano l'esito individuale del Battesimo, i dettagli dei Bruciati e il meccanismo dell'evento eccezionale narrato in `Risveglio del Drago`: Wade si reincarna come Vera Viverna senza uccidere una Viverna e mentre il suo sé umano è ancora vivo su Vilegis. Il testo documenta l'evento, ma non ne spiega completamente la causa.
+
+La documentazione residua da recuperare riguarda anche la formulazione esatta in D3/D4, i cui file originali non sono disponibili nel repository consultato.
 
 
 ### L6 — Completamento delle schede Fiere
@@ -114,3 +115,27 @@ Queste sono scelte editoriali di titolo, non decisioni sul canone narrativo. Le 
 
 Il frontmatter di `[[Cosmologia]]` cita `Copia_di_I_Draghieri_del_kindsgard`, ma nel tree corrente non esiste un file con questo nome e il riferimento non compare nel catalogo delle fonti. È disponibile `content/fonti/draghieri-spiegazione.md`, documento OOC sul tema, ma non è possibile dimostrare che coincida con il documento citato.
 - → **Chiarimento documentale:** se disponibile, recuperare il file originale o confermare a quale documento corrisponde il riferimento. Fino ad allora, non sostituire automaticamente la fonte nel frontmatter.
+
+### L12 — Annali dell'Artiglio delle Sabbie
+`Inktober 2024 #Exotic` introduce una citazione attribuita agli **Annali dell'Artiglio delle Sabbie**. Il repository contiene invece un riferimento agli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V; il relativo file autonomo non è presente con il percorso catalogato. Non ci sono elementi sufficienti per trattare i due titoli come lo stesso documento.
+- → **Chiarimento documentale:** gli Annali delle Sabbie sono un documento distinto, un estratto degli Annali del Fuoco o soltanto una fonte interna citata nel racconto? Fino alla conferma, mantenere i riferimenti separati e non inventare il testo mancante.
+
+### L13 — Ambito della fazione delle Fiamme
+La voce `[[Fiamme]]` nasce dai Bruciati descritti in `Inktober 2018 #Scorched`, ma la documentazione disponibile presenta le Fiamme come fazione giocata su Vilegis/Lunaria e non descrive la loro organizzazione sul Kindsgard. Per evitare di promuovere un'inferenza a canone, la voce non le definisce più “terza fazione del Kindsgard”.
+- → **Chiarimento canonico:** le Fiamme sono una fazione di Vilegis collegata narrativamente ai Bruciati del Kindsgard, oppure esiste anche una fazione organizzata delle Fiamme nel Kindsgard? Fino alla conferma, mantenere esplicita la connessione senza estendere l'affiliazione geografica.
+
+### L14 — “Infiammati” in `Inktober 2018 #Flowing`
+Nel resoconto di Brienne Brood sul lavoro al Fiume Bianco si menziona un gruppo di **Infiammati**, che avrebbe lavorato il doppio degli altri Umani. La fonte non li identifica come Bruciati e non stabilisce un legame con la fazione delle Fiamme. La somiglianza dei termini non basta per assimilarli.
+- → **Chiarimento documentale/canonico:** “Infiammati” è un gruppo distinto, una denominazione alternativa dei Bruciati o un termine con altro significato? Fino alla conferma, mantenere i termini separati.
+
+### L15 — Seymour Sandwurm e “ex Shai'Hulud”
+`Elenco Draghieri` elenca **Seymour Sandwurm** con la nota “ex Shai'Hulud”, senza spiegare il rapporto tra i due nomi. Non è possibile stabilire se Shai'Hulud sia un nome precedente del personaggio, una denominazione della Fiera/specie o un riferimento di altro tipo.
+- → **Chiarimento documentale:** che cosa indica “ex Shai'Hulud” nella fonte originale? Fino alla conferma, conservare la formulazione della fonte senza espanderla nella biografia o nella tassonomia.
+
+### L16 — Sorte delle Vere Fiere dopo l'ascesa di Re Draco
+La cronologia generale afferma che, dopo l'assorbimento dei tredici vettori da parte di Re Draco, le Vere Fiere perdono il potere e tornano Umani. Tuttavia `18___Misfit`, collocato nell'Era del Dominio, presenta Wendy Wyrm e Solomon come Vere Fiere; `Inktober 2018 #Precious` mostra Solomon in forma umanoide, senza chiarire se abbia ancora il potere o sia già tornato Umano. La documentazione disponibile non consente di stabilire se si tratti di eccezioni, di una diversa sequenza temporale o di un'ambiguità narrativa.
+- → **Chiarimento canonico/documentale:** la perdita del potere riguarda tutte le Vere Fiere senza eccezioni, oppure alcuni individui mantengono identità o potere? Prima di risolvere, confrontare la cronologia esatta di `18___Misfit`, `#Precious` e l'ascesa di Re Draco.
+
+### L17 — Identità dei tredici Guardiani
+La cosmologia e la cronologia attestano tredici individui/Guardiani legati ai vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. Le fonti attuali identificano esplicitamente solo una parte del gruppo: Bartholomew Brood, Samu'el Sphynx, Syrus Salamander, Mara Megalapterix e G. Gryffin. La voce di Frederick Fenice porta il tag `guardiano`, ma non spiega se appartenga a questo gruppo e l'Elenco Draghieri non lo marca come tale.
+- → **Chiarimento documentale/canonico:** esiste una lista completa dei tredici Guardiani? Frederick Fenice era uno di loro o il tag è residuo/di altro significato? Non completare l'elenco per inferenza dai personaggi noti.

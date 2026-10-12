@@ -15,9 +15,9 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Fierezza", "Cronistoria_ver
 
 ## Panoramica
 
-Il Battesimo del Fuoco è l'evento che trasforma un Umano comune in un [[Draghieri|Draghiere]] o in una [[Vere Fiere|Vera Fiera]]. È il meccanismo fondamentale attraverso cui [[Fierezza e Maestà]] si infonde in un individuo, attribuendogli l'Istinto e l'Espediente di una Fiera specifica.
+Il Battesimo del Fuoco è il processo ordinario attraverso cui un Umano può diventare [[Draghieri|Draghiere]] o [[Vere Fiere|Vera Fiera]]. È il meccanismo fondamentale attraverso cui [[Fierezza e Maestà]] si infonde in un individuo, attribuendogli l'Istinto e l'Espediente di una Fiera specifica. Le fonti documentano anche trasformazioni di Draghieri in Vere Fiere quando raggiungono la vetta della [[Maestà]]: quel passaggio appartiene al ciclo storico del Kindsgard e non va descritto come se richiedesse un nuovo Battesimo umano.
 
-Il modello ordinario prevede che un Umano, in una situazione di massimo Bisogno, affronti e uccida una Fiera e riceva il relativo Istinto ed Espediente. **Non è però un processo privo di eccezioni**: le fonti documentano casi straordinari legati alla connessione con Vilegis/Lunaria e alla Chiamata, che possono alterare il normale rapporto tra corpo umano, Fiera e orientamento dell'infusione.
+Il Battesimo segue uno schema generale condiviso dalle specie e dalle due fazioni, ma le fonti documentano anche eventi eccezionali che non seguono tutti i passaggi ordinari. `Risveglio del Drago` descrive il nuovo Battesimo di Wade Wyrm senza che abbia ucciso una Viverna, mentre il suo sé umano è ancora vivo su Vilegis. Il racconto collega l'evento alla duplicazione della sua essenza durante la presenza su Vilegis; il meccanismo preciso non è spiegato. È quindi utile distinguere la regola generale dai casi speciali, senza trasformare questi ultimi in una nuova regola universale.
 
 ---
 
@@ -25,13 +25,13 @@ Il modello ordinario prevede che un Umano, in una situazione di massimo Bisogno,
 
 ### Condizioni
 
-Il Battesimo avviene quando un Umano si trova in una situazione di pericolo estremo di fronte a una [[Fiere|Fiera]]. Non è sufficiente il pericolo ordinario: deve essere una condizione di **massimo Bisogno**, in cui la sopravvivenza sembra impossibile e la morte certa.
+Nel processo ordinario, il Battesimo avviene quando un Umano si trova in una situazione di pericolo estremo di fronte a una [[Fiere|Fiera]]. Non è sufficiente il pericolo ordinario: deve essere una condizione di **massimo Bisogno**, in cui la sopravvivenza sembra impossibile e la morte appare certa.
 
 ### L'Atto
 
-Nel caso ordinario, invece di fuggire o soccombere, l'Umano sceglie — consciamente o istintivamente — di affrontare la Fiera e la uccide. Nel momento dell'uccisione, [[Fierezza e Maestà|Fierezza o Maestà]] si infonde nell'Umano.
+Invece di fuggire o soccombere, l'Umano sceglie — consciamente o istintivamente — di affrontare la Fiera e la uccide. Questo è il percorso ordinario documentato, non una condizione da imporre retroattivamente a ogni caso eccezionale.
 
-Il racconto `Risveglio del Drago` documenta un caso eccezionale: durante l'Anno del Draco, Wade Wyrm riceve un nuovo Battesimo senza aver ucciso una Viverna; ai suoi piedi giace una vittima umana e lui diventa Vera Viverna. Il racconto collega l'evento alla duplicazione della sua essenza durante la presenza su Vilegis. Non generalizzare questa eccezione in una regola alternativa senza ulteriori fonti. L'orientamento dell'infusione — verso Fierezza (Draghiere) o verso Maestà (Vera Fiera) — determina il mandato del portatore.
+Nel momento dell'uccisione, [[Fierezza e Maestà|Fierezza o Maestà]] si infonde nell'Umano. L'orientamento dell'infusione — verso Fierezza (Draghiere) o verso Maestà (Vera Fiera) — determina il mandato del portatore.
 
 ### La Trasformazione
 
@@ -70,21 +70,19 @@ Le [[Vere Fiere]] non si numerano: ogni Vera Fiera si considera sé stessa, non 
 
 Il Battesimo del Fuoco può **fallire**. Gli Umani che affrontano una Fiera, sopravvivono allo scontro ma non completano la trasformazione diventano i **Bruciati**: individui che hanno toccato il fuoco di Fierezza/Maestà senza riuscire a contenerlo.
 
-I Bruciati rimangono menomati in modo permanente — nel corpo, nella mente, o in entrambi. Non ottengono poteri, non ricevono un mandato, non appartengono più pienamente al mondo degli Umani ordinari. Hanno una comunità dedicata con pratiche specifiche (vesti bianche, silenzio come regola, strutture simili a lazzaretti).
+Nel racconto `Inktober 2018 #Scorched (19-2)`, i Bruciati sono descritti come menomati in modo permanente — nel corpo, nella mente, o in entrambi. Non ottengono poteri né un mandato e sono presentati come separati dagli Umani ordinari. La stessa fonte descrive una comunità con vesti bianche, silenzio come regola e strutture simili a lazzaretti; non è ancora confermato che questi tratti valgano universalmente per tutti i Bruciati.
 
 I Bruciati sono il seme narrativo della fazione delle [[Fiamme]]. ⚪ *Documentazione incompleta.*
 
 ---
 
-## Regole confermate e questioni aperte
+## Questioni Aperte
 
-**Regole confermate:**
-- Se un Istinto non si risveglia, può essere già incarnato altrove: in un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie.
-- L'orientamento del risveglio dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato ai Draghieri o alle Vere Fiere. I personaggi giocanti che arrivano tramite la Chiamata costituiscono un caso particolare e possono presentare entrambe le varianti.
+I seguenti aspetti restano incompleti nelle fonti disponibili:
 
-**Questioni ancora aperte:**
-- Le fonti disponibili non definiscono completamente quali fattori determinino perché un Umano specifico affronti il Battesimo, muoia o sopravviva come Bruciato.
+- I fattori che determinano perché un Umano specifico affronti il Battesimo, muoia o sopravviva come Bruciato non sono documentati in modo sistematico.
 - I dettagli ulteriori sui Bruciati restano sospesi in attesa di un approfondimento dedicato.
+- Il racconto `Risveglio del Drago` descrive un evento eccezionale: Wade si reincarna come Vera Viverna senza aver ucciso una Viverna, mentre il suo sé umano è ancora vivo su Vilegis. Il testo lo presenta come un nuovo Battesimo e documenta una duplicazione dell'essenza, ma non spiega il meccanismo completo. Non generalizzare questo caso né cancellarlo per farlo rientrare nella regola ordinaria.
 
 ⚪ *Vedi [[Domande Aperte e Lacune]] L4.*
 

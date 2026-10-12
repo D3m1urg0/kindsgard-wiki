@@ -71,7 +71,7 @@ Con l'assorbimento del tredicesimo vettore, Dominic diventò **Re Draco, Unico G
 ## Il Regno
 
 Come Re Draco:
-- Le Vere Fiere persero il potere e tornarono Umani semplici
+- Le Vere Fiere persero il potere e tornarono Umani semplici. Questa è la regola generale della cronologia; le fonti post-ascesa su Wendy Wyrm e Solomon lasciano aperta la sorte di alcuni individui (vedi [[Domande Aperte e Lacune]] L16).
 - I Draghieri non le eliminarono (il loro Istinto non le riconosce come minaccia in forma umana)
 - Draco fondò le **città** per mettere al sicuro gli Umani. Questa scelta violava la legge del Giardino secondo cui tutto deve combattere e apriva un nuovo problema cosmologico; il potere ormai concentrato in Draco gli impediva di coglierne pienamente le conseguenze.
 - Dismise gran parte degli Artigli, ormai superflui con un regno stabile
