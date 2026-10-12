@@ -111,9 +111,11 @@ Situate a **nordest della Maestà**, sono l'habitat dei [[Soffione Uncinato|Soff
 
 ---
 
-### Valle dei Fulmini / Valle dei Tuoni
+### Valle dei Fulmini
 
-Zone montuose nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di origine dell'armatura di Bran, forgiata con il ferro nero del luogo. Citata in `Inktober 2019 #Bait`.
+Zona montuosa nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di origine dell'armatura di Bran, forgiata con il ferro nero del luogo. È citata in `Inktober 2019 #Bait` e `L'ultima notte all'ombra dell'Anello`.
+
+**Nota sul nome:** “Valle dei Tuoni” compare soltanto come alias legacy nei metadati di questa pagina; non è stato trovato un riscontro indipendente nelle fonti attualmente presenti. Non è quindi possibile stabilire se sia una variante del nome o un luogo distinto. L'alias viene conservato provvisoriamente, senza usarlo come prova geografica.
 
 ---
 
@@ -131,7 +133,7 @@ Corso d'acqua controllato da una diga costruita dai Draghieri all'altezza del La
 
 ## Note
 
-⚪ *Lacuna aperta L3: nessuna mappa sistematica disponibile. Le relazioni spaziali tra Artigli e zone geografiche sono parzialmente inferibili dai testi ma non confermabili con precisione. Procedere con cautela nell'uso di questa voce come riferimento geografico assoluto.*
+⚪ *Lacuna aperta L3: nessuna mappa sistematica disponibile. Le relazioni spaziali tra Artigli e zone geografiche sono parzialmente inferibili dai testi ma non confermabili con precisione. Anche l'equivalenza tra “Valle dei Tuoni” (alias legacy) e “Valle dei Fulmini” non è confermata. Procedere con cautela nell'uso di questa voce come riferimento geografico assoluto.*
 
 ---
 
