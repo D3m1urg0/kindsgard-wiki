@@ -18,7 +18,7 @@ fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Onda_bianc
 
 ### Panoramica
 
-Bartholomew Brood è il sedicesimo Draghiere della Covata e portava il titolo di **Guardiano** — uno dei 13 individui che inconsapevolmente incarnavano un vettore del Fondamento di Lunaria. Comandante dell'**Artiglio Sepolto delle Catene Montuose Orientali**, la **Città-Alveare**, la fortezza più strategicamente complessa del Kindsgard orientale.
+Bartholomew Brood è il sedicesimo Draghiere della Covata e portava il titolo di **Guardiano** — uno dei tredici individui che, dopo la connessione del Kindsgard con Vilegis/Lunaria, incarnavano inconsapevolmente un vettore manifestatosi nel Kindsgard in relazione al Fondamento. Questo gruppo successivo non coincide con i sette vettori originari del Kindsgard. Comandante dell'**Artiglio Sepolto delle Catene Montuose Orientali**, la **Città-Alveare**, la fortezza più strategicamente complessa del Kindsgard orientale.
 
 ### Istinto e Capacità
 
