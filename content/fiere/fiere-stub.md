@@ -32,7 +32,7 @@ Fiera colossale delle zone montuose. Pelle impenetrabile, forza smisurata, lente
 Fiera delle profondità marine. Il suo **Canto** genera onde di energia devastanti capaci di distruggere navi e uccidere altre Fiere marine. Si sposta tra i fondali del Mare Interno. Quando canta, l'intero mare soprastante è pericoloso. Può essere sconfitto usando il suo stesso Canto contro di esso (`Inktober 2018 #Whale`).
 
 ### Manticora
-Fiera con corpo felino, criniera, zanne. Alcune varietà hanno colorazioni insolite (rossicce con striature bianche nelle zone nordiche fredde). Il loro sorriso è documentato come attiraleva — le persone sono portate a seguirle. Il veleno è insito nel sorriso stesso o nel morso. La Vera Manticora (Karsh) mantiene i ricordi del corpo umano da cui proviene. Meridian Manticora opera su Vilegis (`Prevedibilità`).
+Fiera con corpo felino, criniera e zanne. Alcune varietà hanno colorazioni insolite (rossicce con striature bianche nelle zone nordiche fredde). La canzone degli Umani descrive il sorriso come un richiamo che induce a seguirla e come intriso di veleno (`Canzoni degli Umani`). La fonte non chiarisce se il veleno venga trasmesso anche attraverso il morso o in altri modi. La Vera Manticora (Karsh) mantiene i ricordi del corpo umano da cui proviene. Meridian Manticora opera su Vilegis (`Prevedibilità`).
 
 ### Sfinge
 Fiera che pone enigmi. La sua trappola è la curiosità: chi risponde a una domanda della Sfinge rischia di diventarne il pasto. *"Non fidarti della Sfinge, lascia star curiosità: quando il dubbio ormai ti affligge sei il suo pasto e lei lo sa."* (`Canzoni degli Umani`). Istinto: conoscenza come strumento di caccia.
