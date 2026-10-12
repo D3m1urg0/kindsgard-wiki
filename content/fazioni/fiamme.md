@@ -3,7 +3,7 @@ titolo: "Fiamme"
 categoria: "fazioni"
 tag: [fiamme, fazione, bruciati, stub]
 status: "bozza"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["Inktober_2018"]
 ---
 
