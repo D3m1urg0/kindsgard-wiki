@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Raffinata la scheda di Amaranthus Cruentus dopo confronto diretto con `Inktober 2019 #Overgrown` e `Inktober 2024 #Exotic`: distinti lavaggio delle spore, pericolo del fumo e trattamento delle radici per raccogliere i semi, evitando di suggerire che il lavaggio renda la pianta genericamente commestibile.
+
 - Aggiornate le istruzioni di ripresa con checkpoint persistente: branch, PR, file e fonti esaminati, modifiche proposte, stato della CI e ordine dei prossimi controlli.
 
 - Allineati README e frontmatter di `Tradizioni`: il README ora descrive il tree effettivo (`index.md` senza il duplicato `_index.md`) e riporta i 29 file sorgente Markdown attualmente presenti. Resta registrata come discrepanza storica la cifra 34 riportata nel changelog del 2025: non prova, da sola, che manchino cinque fonti.
