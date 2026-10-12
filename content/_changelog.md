@@ -11,6 +11,7 @@ ultima_modifica: "2026-10-12"
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
 - Avviata la riconciliazione del catalogo con il tree GitHub aggiornato dopo PR #10.
+- Aggiunta una tabella di corrispondenza per gli identificatori legacy dei frontmatter che hanno una destinazione verificata, separandoli dai riferimenti sorgente che restano senza file identificato.
 - Corretto lo status editoriale di `content/fonti/list.md` e `content/fonti/mostri.md`: sono spunti narrativi/brainstorming senza valore normativo, quindi non devono risultare `canonico`. Il contenuto verbatim è stato conservato.
 - Restano da verificare la tracciabilità delle fonti dichiarate nei frontmatter, le discrepanze tra catalogo e percorsi effettivi, le affermazioni geografiche e le schede Fiere preliminari.
 - L'audit incrociato dei tag Inktober nel bestiario e nella geografia ha individuato e corretto riferimenti con anno errato: `#Mindless` e `#Overgrown` appartengono alla raccolta 2019, non 2018; `#Tasty` non compare nella raccolta Inktober 2024 e il riferimento è stato rimosso. È stata tradotta in italiano una frase rimasta in inglese e sostituito il vecchio riferimento a `Soffioni_Uncinati.docx` con il percorso della fonte conservata nel repository.
