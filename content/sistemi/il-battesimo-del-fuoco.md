@@ -15,7 +15,7 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Fierezza", "Cronistoria_ver
 
 ## Panoramica
 
-Il Battesimo del Fuoco è l'evento che trasforma un Umano comune in un [[Draghieri|Draghiere]] o in una [[Vere Fiere|Vera Fiera]]. È il meccanismo fondamentale attraverso cui [[Fierezza e Maestà]] si infonde in un individuo, attribuendogli l'Istinto e l'Espediente di una Fiera specifica.
+Il Battesimo del Fuoco è il processo ordinario attraverso cui un Umano può diventare [[Draghieri|Draghiere]] o [[Vere Fiere|Vera Fiera]]. È il meccanismo fondamentale attraverso cui [[Fierezza e Maestà]] si infonde in un individuo, attribuendogli l'Istinto e l'Espediente di una Fiera specifica. Le fonti documentano anche trasformazioni di Draghieri in Vere Fiere quando raggiungono la vetta della [[Maestà]]: quel passaggio appartiene al ciclo storico del Kindsgard e non va descritto come se richiedesse un nuovo Battesimo umano.
 
 Il Battesimo segue uno schema generale condiviso dalle specie e dalle due fazioni, ma le fonti documentano anche eventi eccezionali che non seguono tutti i passaggi ordinari. È quindi utile distinguere la regola generale dai casi speciali, senza trasformare questi ultimi in una nuova regola universale.
 
