@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Raffinati i profili secondari di Lhars, Ember, Laerius e Mirjam: separati i dettagli dei personaggi dalle deduzioni sulla morfologia delle Fiere; rimosse da Laerius le capacità di immersione e le tattiche non descritte, da Ember la meccanica dell'Istinto non attestata, e da Mirjam la classificazione acquatica/paludosa della specie non supportata direttamente.
+
 - Aggiornato solo il metadato editoriale `ultima_modifica` di `Elenco Draghieri`, già modificato in una PR precedente per aggiungere una nota di tracciabilità; il testo originario dell'elenco non è stato riscritto.
 
 - Corrette due incongruenze nelle voci personaggio: rimosso da Ashur Alicanthus il potere di produrre luce dorata dalle piume, non attestato in `Inktober 2019 #Build`; corretto il titolo errato `Frederick — Guardiani minori` e registrata C5 per la numerazione di Sef Sycamore (XIII nell'elenco canonico, XIV in `#Mindless`, fonte lasciata invariata).
