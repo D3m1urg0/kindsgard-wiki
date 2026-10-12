@@ -123,3 +123,7 @@ Il frontmatter di `[[Cosmologia]]` cita `Copia_di_I_Draghieri_del_kindsgard`, ma
 ### L13 — Ambito della fazione delle Fiamme
 La voce `[[Fiamme]]` nasce dai Bruciati descritti in `Inktober 2018 #Scorched`, ma la documentazione disponibile presenta le Fiamme come fazione giocata su Vilegis/Lunaria e non descrive la loro organizzazione sul Kindsgard. Per evitare di promuovere un'inferenza a canone, la voce non le definisce più “terza fazione del Kindsgard”.
 - → **Chiarimento canonico:** le Fiamme sono una fazione di Vilegis collegata narrativamente ai Bruciati del Kindsgard, oppure esiste anche una fazione organizzata delle Fiamme nel Kindsgard? Fino alla conferma, mantenere esplicita la connessione senza estendere l'affiliazione geografica.
+
+### L14 — “Infiammati” in `Inktober 2018 #Flowing`
+Nel resoconto di Brienne Brood sul lavoro al Fiume Bianco si menziona un gruppo di **Infiammati**, che avrebbe lavorato il doppio degli altri Umani. La fonte non li identifica come Bruciati e non stabilisce un legame con la fazione delle Fiamme. La somiglianza dei termini non basta per assimilarli.
+- → **Chiarimento documentale/canonico:** “Infiammati” è un gruppo distinto, una denominazione alternativa dei Bruciati o un termine con altro significato? Fino alla conferma, mantenere i termini separati.
