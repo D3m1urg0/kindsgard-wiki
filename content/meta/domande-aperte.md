@@ -48,7 +48,7 @@ Il quadro resta incompleto perché i testi integrali D3 e D4 non sono disponibil
 - La manifestazione nel Kindsgard di tredici vettori/Guardiani collegati al Fondamento appartiene alla connessione successiva con Vilegis/Lunaria, non alla cosmologia originaria.
 
 Restano da documentare direttamente:
-- **Mondi Ancora**: definizione precisa, criteri di riconoscimento e significato della frase "primo Mondo Ancora riconosciuto dalla caduta di Anarion".
+- **Mondi Ancora**: è confermato che il Kindsgard è stato collegato come Mondo Ancora e che i Mondi Ancora riflettono la struttura del Fondamento. Restano da documentare la definizione precisa, i criteri di riconoscimento e il significato della frase "primo Mondo Ancora riconosciuto dalla caduta di Anarion".
 - **Il Fondamento**: il passaggio della Cronistoria OOC sul Battesimo di Dominic e il riferimento in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir").
 - **I Creatori**: menzionati nel titolo del progetto ma non descritti nelle fonti Kindsgard disponibili.
 - **Anarion**: menzionato in “You Want to Be a Dragoner” come evento di riferimento ("dalla caduta di Anarion"), ma non descritto.
