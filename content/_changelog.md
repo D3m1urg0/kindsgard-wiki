@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Aggiornato il checkpoint persistente dopo il controllo delle 36 pagine non sorgente e il confronto mirato delle fonti; registrati inventario dei 29 sorgenti, 32 identificatori di fonte, discrepanze geografiche, correzioni alle Fiere e prossimi passi.
+
 - Rimossi dalle schede Sicomoro Perenne e Chayote Strangolatore gli aggettivi tassonomici “Sensibile”/“Fitofiera Sensibile”: il termine non è definito nel glossario e non è supportato dalle fonti citate.
 
 - Aggiornata la priorità documentale L6 per Loccia: il riscontro sul comportamento delle “Lochs” viene da `Inktober 2018 #Flowing`; `Inktober 2019 #Snow` attesta Laerius Loch come XV Draghiere della Loccia, ma non descrive la specie.
