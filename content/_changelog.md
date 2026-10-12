@@ -11,6 +11,8 @@ ultima_modifica: "2026-10-12"
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
 - Avviata la riconciliazione del catalogo con il tree GitHub aggiornato dopo PR #10.
+- Completata un'ulteriore verifica di tracciabilità: aggiunto `Inktober_2024` alle fonti della Città-Alveare, della famiglia Brood, delle tradizioni e del bestiario, dove i testi sintetici citano rispettivamente `#Binoculars`, `#Passport` e `#Exotic`.
+- Corretto in `Maestà` un assoluto incompatibile con la caratterizzazione di Dominic: l'incapacità di comprendere il costo cosmologico è ora attribuita ai Draghieri ordinari, con l'eccezione di Dominic esplicitata.
 - Aggiunta una tabella di corrispondenza per gli identificatori legacy dei frontmatter che hanno una destinazione verificata, separandoli dai riferimenti sorgente che restano senza file identificato.
 - Corretto lo status editoriale di `content/fonti/list.md` e `content/fonti/mostri.md`: sono spunti narrativi/brainstorming senza valore normativo, quindi non devono risultare `canonico`. Il contenuto verbatim è stato conservato.
 - Restano da verificare la tracciabilità delle fonti dichiarate nei frontmatter, le discrepanze tra catalogo e percorsi effettivi, le affermazioni geografiche e le schede Fiere preliminari.
