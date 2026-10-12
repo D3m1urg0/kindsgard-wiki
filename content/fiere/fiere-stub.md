@@ -110,9 +110,9 @@ Pianta la cui radice, essiccata e trattata, può risultare temporaneamente innoc
 **Everastes** — Fiera associata a Ember Everastes, IV Draghiere dell'Everastes. `Inktober 2019 #Snow` descrive Ember come “fatta per stare in mezzo al gelo”, ma non stabilisce il tipo di habitat della Fiera né una sua immunità al freddo. Il simbolo montuoso sullo stemma e l'equipaggiamento del Draghiere non bastano a dedurre la morfologia o le capacità della specie (*Inktober 2019 #Snow, #Dragon*).
 
 
-**Kyrin** — Fiera dell'altopiano, notturna o crepuscolare. Attirata dai fuochi. Menzionata in `L'esodo`.
+**Kyrin** — Fiera dell'altopiano. In `L'Esodo`, un fuoco acceso per disfarsi dei caduti sembra attirarne l'attenzione; la fonte non ne descrive abitudini notturne o crepuscolari.
 
-**Sliss** — Fiera commestibile ma il cui consumo può causare allucinazioni collettive. Menzionata in `Onda Bianca` come possibile causa del malore del gruppo.
+**Sliss** — Fiera usata come alimento. In `Onda Bianca`, dopo che il gruppo ha mangiato uno stufato, i personaggi sospettano che lo Sliss abbia fatto loro male; la fonte non stabilisce che la specie provochi necessariamente allucinazioni collettive.
 
 **Tentacolo Scarlatto** — Fitofiera con tentacoli rossi che afferrano le prede. Può essere usata come esca. Le foglie trattate (cotte finché l'acqua diventa rossa, poi lavate) diventano commestibili ma l'acqua di cottura è urticante (`Inktober 2018 #Poisonous`).
 
