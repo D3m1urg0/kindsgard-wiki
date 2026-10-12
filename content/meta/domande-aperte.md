@@ -42,12 +42,17 @@ Gli Inktober 2018, 2019 e 2024 non hanno datazione interna esplicita rispetto al
 ## ⚪ Lacune e verifiche residue (contenuto mancante o incompleto)
 
 ### L1 — Cosmologia profonda: Mondi Ancora, Fondamento, Creatori
-Nessun documento definisce compiutamente:
-- **Mondi Ancora**: cosa sono, come vengono riconosciuti, perché il Kindsgard è il "primo Mondo Ancora riconosciuto dalla caduta di Anarion"
-- **Il Fondamento**: menzionato nella Cronistoria OOC (fonte identificata dall’utente, testo originale non disponibile qui) in relazione al Battesimo di Dominic ("come altrove accadeva con l'energia del Fondamento") e in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir")
-- **I Creatori**: menzionati nel titolo del progetto ma non documentati
-- **Anarion**: menzionato in “You Want to Be a Dragoner” (fonte identificata dall’utente come guida ai Draghieri, testo originale non disponibile qui) come evento di riferimento ("dalla caduta di Anarion"), ma non descritto
-- → **Materiale non ancora documentato. Archiviato come lacuna aperta.**
+Il quadro resta incompleto perché i testi integrali D3 e D4 non sono disponibili nel repository consultato. Sono però stati chiariti alcuni punti strutturali che non vanno più trattati come dubbi:
+- La cosmologia originaria del Kindsgard comprende sette vettori: Natura, Bisogno, Espediente, Umani, Fiere, Draghieri e Vere Fiere.
+- I tredici Spettri appartengono al sistema del Fondamento di Vilegis/Lunaria; non sono sinonimi dei sette vettori e non va presunta una corrispondenza uno-a-uno.
+- La manifestazione nel Kindsgard di tredici vettori/Guardiani collegati al Fondamento appartiene alla connessione successiva con Vilegis/Lunaria, non alla cosmologia originaria.
+
+Restano da documentare direttamente:
+- **Mondi Ancora**: definizione precisa, criteri di riconoscimento e significato della frase "primo Mondo Ancora riconosciuto dalla caduta di Anarion".
+- **Il Fondamento**: il passaggio della Cronistoria OOC sul Battesimo di Dominic e il riferimento in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir").
+- **I Creatori**: menzionati nel titolo del progetto ma non descritti nelle fonti Kindsgard disponibili.
+- **Anarion**: menzionato in “You Want to Be a Dragoner” come evento di riferimento ("dalla caduta di Anarion"), ma non descritto.
+- → **Lacuna documentale residua:** non dedurre dettagli ulteriori finché D3/D4 o altre fonti primarie non siano disponibili.
 
 ### L2 — Il tredicesimo Spettro — candidato esterno da verificare
 I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà. Il sito ufficiale attuale di Battle for Vilegis dichiara che gli Spettri sono tredici; la pagina di Gregoria associa il suo principio all’**Equilibrio**. Questo rende Equilibrio un candidato plausibile, ma le pagine attuali possono appartenere a una versione del setting diversa da quella richiamata nelle fonti Kindsgard.
