@@ -27,7 +27,7 @@ La Maestà è così imponente da essere visibile dall'orizzonte di qualsiasi pun
 
 Alla sua vetta si trova una caldera in costante attività. Le nubi di piogge acide che si addensano alla sommità sono una costante. L'aria è irrespirabile in prossimità della cima. Il magma è presente non solo nella caldera ma in estensioni che raggiungono le pendici — zone di lava e vapore acido.
 
-Nonostante la vicinanza a un vulcano attivo, uno dei fianchi della Maestà ospita un ghiacciaio esteso, descritto come "come potesse esistere un ghiacciaio così ampio sul fianco di un vulcano in piena attività" — una delle stranezze del Kindsgard che i portatori ordinari non si interrogano di norma a spiegare; Dominic costituisce l'eccezione documentata.
+Nonostante la vicinanza a un vulcano attivo, uno dei fianchi della Maestà ospita un ghiacciaio esteso, descritto come "come potesse esistere un ghiacciaio così ampio sul fianco di un vulcano in piena attività" — una delle stranezze del Kindsgard su cui i portatori ordinari non si interrogano di norma; Dominic costituisce l'eccezione documentata.
 
 ---
 
