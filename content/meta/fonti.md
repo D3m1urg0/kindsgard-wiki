@@ -30,7 +30,7 @@ ultima_modifica: "2026-10-12"
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `content/fonti/annali-artiglio-di-fuoco-intro.md` | Introduzione storica firmata da Syrus Salamander V. Il riferimento non è presente nel tree attuale con questo percorso: verificare se è stato incorporato, rinominato o conservato altrove prima di considerarlo mancante. | ⚠️ Percorso da riconciliare |
+| `content/fonti/annali-artiglio-di-fuoco-intro.md` | Riferimento legacy a un'introduzione storica firmata da Syrus Salamander V. Una citazione attribuita agli Annali dell'Artiglio di Fuoco è effettivamente conservata in `content/fonti/inktober-2019.md`, ma non è possibile dimostrare che coincida con l'introduzione indicata né che il testo integrale sia stato incorporato. | ⚠️ Testo integrale/percorso da riconciliare |
 | `Annali dell'Artiglio delle Sabbie` (citazione in `content/fonti/inktober-2024.md`, #Exotic) | Testo citato come fonte interna alla narrazione; non esiste un file autonomo nel tree corrente. Non va confuso con gli `Annali dell'Artiglio di Fuoco`, citati in `Inktober 2019` e attribuiti a Syrus Salamander V. | ⚠️ Riferimento distinto, identità e testo sorgente da chiarire |
 | `content/fonti/draghieri-vere-fiere.md` | Riferimento a una descrizione OOC del dualismo Draghieri/Vere Fiere; il percorso non esiste nel tree attuale. `content/fonti/draghieri-spiegazione.md` è una fonte OOC presente che tratta i Draghieri e le Vere Fiere, ma senza il documento originale non è possibile confermare che sia la stessa fonte o una sua conversione. | ⚠️ Identità/percorso da riconciliare |
 | `content/fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
