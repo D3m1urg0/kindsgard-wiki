@@ -10,7 +10,7 @@ voci-wiki-collegate: ["Draghieri", "Dominic Draco", "Wade Wyrm", "Caitlin Chimer
 
 # Elenco Draghieri Conosciuti
 
-> *Lista nominativa dei Draghieri del Kindsgard con numero progressivo e Fiera di riferimento. I nomi in **grassetto** indicano personaggi giocati attivamente. Il titolo GUARDIANO indica chi incarnava inconsapevolmente un vettore del Fondamento di Lunaria.*
+> *Lista nominativa dei Draghieri del Kindsgard con numero progressivo e Fiera di riferimento. I nomi in **grassetto** indicano personaggi giocati attivamente. La marcatura GUARDIANO indica individui identificati come parte del gruppo dei tredici vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria; non implica che i sette vettori originari del Kindsgard coincidano con gli Spettri del Fondamento.*
 
 ---
 
