@@ -5,7 +5,7 @@ tag: [bartholomew-brood, brienne-brood, draghieri, covata, guardiano, personaggi
 status: "revisionato"
 ultima_modifica: "2026-10-11"
 aliases: ["Bartholomew Brood","Brienne Brood"]
-fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Onda_bianca"]
+fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Inktober_2024", "Onda_bianca"]
 ---
 
 # Brood — Draghieri della Covata
