@@ -29,7 +29,7 @@ L'Istinto di Luther è quello del predatore delle profondità: pazienza, precisi
 
 ## La Maelstrom e il Canto
 
-La **Maelstrom** è la nave di Luther — probabilmente la più potente del Kindsgard per tonnellaggio e struttura. Trasporta Umani tra gli Artigli costieri e serve da base per le cacce alle Fiere marine.
+La **Maelstrom** è la nave di Luther. Trasporta Umani tra gli Artigli costieri e serve da base per le cacce alle Fiere marine. Le fonti disponibili non forniscono un confronto sistematico che permetta di definirla la nave più potente del Kindsgard.
 
 Il metodo di caccia di Luther è documentato in `Inktober 2018 #Whale`: si immerge nelle profondità con un'armatura pesante, scende fino alla Fiera bersaglio, e usa il proprio **Canto** per piegare o amplificare il Canto della Fiera stessa contro di lei. Nel caso documentato, usò il Canto di un Leviatano nemico per generare un'onda che lo distrusse dall'interno.
 
