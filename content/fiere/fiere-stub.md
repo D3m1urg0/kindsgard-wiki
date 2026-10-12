@@ -66,7 +66,7 @@ Fiera acquatica dei ghiacciai. Vive nelle acque fredde, infesta le sorgenti dei 
 Fiera volante che produce luce dorata dalle piume. Attira le prede con la sua bellezza luminosa. La sua tana è ricca di oggetti metallici lucidi accumulati come richiamo. Chi entra nella tana di un Alicanto difficilmente ne esce (`Inktober 2019 #Treasure`).
 
 ### Zaratan
-Fiera con carapace massiccia. Due varianti documentate: una terrestre (lascia gallerie grandi quanto la sua forma nelle rocce) e una marina. Quella terrestre si muove lentamente ma è quasi impenetrabile. Il suo sangue è tossico (`Inktober 2018 #Cruel`). Il Draghiere dello Zaratan porta un carapace come scudo.
+Fiera associata al Draghiere Zachary Zaratan, che in `Inktober 2018 #Cruel` porta uno scudo rotondo fatto di carapace. `Prevedibilità (covata)` attribuisce inoltre a uno Zaratan alcune gallerie scavate nella roccia della Città-Alveare. Le fonti disponibili non stabiliscono esplicitamente che si tratti di due varianti distinte, né confermano habitat marino, lentezza, quasi-impenetrabilità o sangue tossico: questi dettagli non vanno trattati come canonici senza una fonte aggiuntiva.
 
 ### Falenottere
 Fiera insettiforme con pungiglione paralizzante. Attratta dalla luce — si addensa attorno a qualsiasi fonte luminosa. Il pungiglione paralizza la preda che rimane cosciente mentre la Fiera si nutre. Unica difesa: mantenere una luce abbastanza grande da tenerle impegnate lontano dalla preda (`Inktober 2018 #Drooling`).
