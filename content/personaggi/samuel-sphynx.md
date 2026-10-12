@@ -3,7 +3,7 @@ titolo: "Samu'el Sphynx"
 categoria: "personaggi"
 tag: [samuel-sphynx, draghieri, sfinge, guardiano, personaggio]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["Inktober_2018", "L_ultima_notte_all_ombra_dell_Anello", "Onda_bianca", "Elenco_Draghieri_Conosciuti"]
 ---
 
