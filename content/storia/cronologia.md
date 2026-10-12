@@ -85,7 +85,7 @@ Il tempo sul Kindsgard non è costante. Periodi di dilatazione temporale causati
 
 **[Anno 1 del Draco]** — Un incidente temporale rallenta il tempo sul Kindsgard: ogni anno di Lunaria corrisponde ora a **cento anni** del Kindsgard.
 
-**[Anno 1 del Draco]** — Ogni Draghiere caduto in quest'anno si risveglia come Vera Fiera nella sua nuova incarnazione. Anche i Draghieri su Vilegis vedono la loro essenza duplicata nelle proprie **Nemesi**.
+**[Anno 1 del Draco]** — Ogni Draghiere caduto in quest'anno si risveglia come Vera Fiera nella sua nuova incarnazione. Anche i Draghieri su Vilegis vedono la loro essenza duplicata nelle proprie **Nemesi**. Questo non significa che in tutto l'Anno del Draco esistano soltanto Vere Fiere: i Draghieri ancora attivi restano presenti, e il fenomeno della duplicazione riguarda in particolare quelli che si trovano su Vilegis.
 
 **[Primo Secolo del Draco — periodo]** — Ishvard, mutaforma di Vilegis, viene trasferito sul Kindsgard. L'umano Ishvard e la Fiera Karsh vengono separati. Doppio Battesimo del Fuoco: Ishvard diventa Draghiere della Manticora, Karsh diventa Vera Manticora. *Unicum narrativo, non ripetibile.*
 
