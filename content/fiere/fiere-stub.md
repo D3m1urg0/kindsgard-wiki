@@ -44,7 +44,7 @@ Fiera a tre teste (capra, leone, serpente), ali di drago, coda di serpente, fuoc
 Rettile volante con veleno. Il sangue del Draghiere della Viverna pietrifica a contatto con l'aria (`Inktober 2019 #Sling`). La coda è un'arma primaria.
 
 ### Grifone
-Fiera con corpo di leone e ali/testa di aquila. Piume cangianti del colore dei tronchi — si mimetizza nella foresta. Tre esemplari in `Inktober 2019 #Sling`: il primo viene abbattuto, gli altri tentano di accerchiare. Possono pietrificare le prede con lo sguardo (o è il veleno del Cockatrix?). ⚠️ *Da chiarire: la pietrificazione in #Sling è dell'arma del Cockatrix o della Fiera.*
+Fiera con corpo di leone e ali/testa di aquila. Piume cangianti del colore dei tronchi — si mimetizza nella foresta. Tre esemplari in `Inktober 2019 #Sling`: attaccano un gruppo di Umani e Cornelius Cockatrix li abbatte con dardi della propria arma. I Grifoni colpiti si pietrificano e si frantumano; il testo collega l'effetto al dardo e al sangue pietrificante del Draghiere della Cockatrice, non a uno sguardo del Grifone. La fonte non attribuisce ai Grifoni una capacità di pietrificazione.
 
 ### Cockatrice
 Grande volatile con testa, bargigli neri, rostro affilato. Gli occhi della Cockatrice pietrificano (`Fierezza.docx`). Il Draghiere della Cockatrice acquisisce questa capacità: il suo sangue pietrifica. I quadrelli della sua balestra portano una sostanza pietrificante. Altezza: circa doppia rispetto a un Umano. Fiera vorace e aggressiva.
