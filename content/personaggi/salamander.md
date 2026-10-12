@@ -56,7 +56,7 @@ Sebastian ha ereditato da Syrus un laboratorio pieno di bottiglie multicolori, b
 
 **`Inktober 2019 #Ash`** — Sebastian è tra i Draghieri che completano la bonifica della Foresta ambulante nelle Brughiere. Coordina con [[Caitlin Chimera]] il rapporto a Re Draco e la missione verso le Colture.
 
-**`L'esodo`** — [[Wade Wyrm]] sta cercando di portare i sopravvissuti all'Artiglio del Magma dove "Salamandra saprà prendersi cura di loro." Il riferimento potrebbe essere a Syrus o a Sebastian a seconda della collocazione cronologica.
+**`L'esodo`** — [[Wade Wyrm]] sta cercando di portare i sopravvissuti all'Artiglio del Magma dove "Salamandra saprà prendersi cura di loro." Il riferimento resta ambiguo tra Syrus, Sebastian o la Salamandra in senso più ampio; la fonte non consente di scegliere. Vedi [[Domande Aperte e Lacune]] L18.
 
 ---
 
