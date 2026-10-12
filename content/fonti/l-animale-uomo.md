@@ -15,7 +15,7 @@ voci-wiki-collegate: ["Vere Fiere", "Dominic Draco", "Tradizioni, Canti e Motti"
 
 ---
 
-Questa storia narra
+Questa storia narra  
 del Giardino  
 l'animale Uomo  
 che meschino  
@@ -35,7 +35,7 @@ si arrogò il diritto di forgiare i suoi eroi.
 Con un vile inganno  
 Fece sua la Forza che scorreva già in noi.  
 
----
+---  
 
 Dimmi piccolo Umano  
 chi ti proteggerà  
@@ -47,7 +47,7 @@ E una Fiera lo sa
 *Ahahahah ahahahah*  
 *Lei che ha visto la Maestà*  
 
----
+---  
 
 Poiché è la natura  
 Di Natura  
@@ -59,7 +59,7 @@ Alla stessa legge la Dea Madre legò
 Nel folle capriccio  
 Con i suoi Draghieri la Natura braccò.  
 
----
+---  
 
 Ma comprese un dì Draco  
 La follia che può far  
@@ -72,7 +72,7 @@ verso l'alta Maestà
 
 *Vi trovò la verità*  
 
----
+---  
 
 Draco è ritornato  
 Qui all'anello  
@@ -84,7 +84,7 @@ Con diritto e forza di regnare per sé
 Una Vera Fiera  
 Come tutte quelle che ha portato con sé  
 
----
+---  
 
 Sei tu piccolo Umano  
 la follia che può far  
