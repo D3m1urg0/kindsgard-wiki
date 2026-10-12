@@ -4,7 +4,7 @@ categoria: "cultura"
 tag: [cultura, tradizioni, canti, motti, rituali]
 status: "revisionato"
 ultima_modifica: "2025-06-13"
-fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_Wade", "Annali_dell_Artiglio_di_Fuoco", "Pezzo_del_rituale_-_Chimera", "Inktober_2024"]
+fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_Wade", "Annali_dell_Artiglio_di_Fuoco", "Pezzo_del_rituale_-_Chimera", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
 ---
 
 # Tradizioni, Canti e Motti

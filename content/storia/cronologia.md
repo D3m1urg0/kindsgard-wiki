@@ -4,7 +4,7 @@ categoria: "storia"
 tag: [cronologia, timeline, storia]
 status: "revisionato"
 ultima_modifica: "2026-10-12"
-fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Risveglio_del_Drago"]
+fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Risveglio_del_Drago", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
 ---
 
 # Cronologia
