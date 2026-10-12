@@ -3,7 +3,7 @@ titolo: "Bacca Emofaga"
 categoria: "fiere"
 tag: [bacca-emofaga, fitofiera, parassita, fiera, scheda-completa]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["Bacche_Emofaghe.docx", "L_esodo"]
 ---
 
@@ -43,12 +43,13 @@ fonti: ["Bacche_Emofaghe.docx", "L_esodo"]
 
 La Fitofiera cerca il centro nevralgico dell'ospite, inibendo la percezione del dolore affinché la crescita all'interno del corpo sia indolore.
 
-Progressione tipica:
+Sintomi documentati (la sequenza non è dimostrata come universale):
 1. Iniziale insensibilità sensoriale
 2. Completa assenza di reazione al dolore
 3. Pallore e rigonfiamenti della pelle (soprattutto vicino alla fioritura)
-4. Allucinazioni (quando un fusto cresce alla base della nuca)
-5. Fuoriuscita di foglie dalle cavità superiori (naso, bocca, orecchie, talvolta occhi) → stadio terminale
+4. Fuoriuscita di foglie dalle cavità superiori (naso, bocca, orecchie, talvolta occhi) → stadio terminale
+
+**Allucinazioni — caso narrativo:** in `L'Esodo`, un infestato ancora vivo presenta violente allucinazioni; Wade ipotizza che siano causate da un grosso fusto cresciuto alla base della nuca. La fonte documenta un caso e un'ipotesi, non una fase obbligatoria della progressione.
 
 ---
 

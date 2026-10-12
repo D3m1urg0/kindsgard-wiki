@@ -3,7 +3,7 @@ titolo: "Risveglio del Drago"
 categoria: "fonti"
 tag: [wade-wyrm, dominic-draco, frederick-fenice, vilegis, racconto, in-world, anno-del-draco]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "racconto"
 autore: "Stefania Ricco"
 voci-wiki-collegate: ["Wade Wyrm", "Dominic Draco", "Frederick Fenice", "Vilegis / Lunaria", "Vere Fiere", "Cronologia"]
@@ -51,7 +51,7 @@ La sua forma attuale, lo spettro della Viverna, conosceva quel momento: stava pe
 
 Impossibile, l'umano Wade, sull'oltregiardino Vilegis, era ancora vivo.
 
-→ *Voci wiki: [[Wade Wyrm]], [[Vilegis / Lunaria]], [[Cronologia — Primo Secolo del Draco]]*
+→ *Voci wiki: [[Wade Wyrm]], [[Vilegis / Lunaria]], [[storia/cronologia#il-primo-secolo-del-draco|Cronologia — Primo Secolo del Draco]]*
 
 ---
 
@@ -86,7 +86,7 @@ Il Draghiere della Viverna tornò al Kindsgard, sul Giardino era già l'inferno.
 
 ## Note
 
-Racconto chiave per il Primo Secolo del Draco: documenta in tempo reale la duplicazione dell'essenza di Wade in una Nemesi (la Vera Viverna che agisce su Vilegis) mentre Wade-Draghiere è ancora vivo e attivo sul Kindsgard — fenomeno descritto in [[L'Ambientazione dei Draghieri del Kindsgard — Cronistoria OOC|D3]] come "duplicazione nelle proprie Nemesi" per i Draghieri presenti su Vilegis durante l'inizio dell'Anno del Draco.
+Racconto chiave per il Primo Secolo del Draco: documenta in tempo reale la duplicazione dell'essenza di Wade in una Nemesi (la Vera Viverna che agisce su Vilegis) mentre Wade-Draghiere è ancora vivo e attivo sul Kindsgard — fenomeno descritto in [[Fonti e Decisioni Canoniche|D3 — fonte non reperita]] come "duplicazione nelle proprie Nemesi" per i Draghieri presenti su Vilegis durante l'inizio dell'Anno del Draco.
 
 Il racconto descrive anche **Dominic Draco senza elmo per la prima volta nella storia** — momento di rivelazione totale della sua trasformazione in Vera Fiera, il "sorriso di liberazione".
 

@@ -3,133 +3,138 @@ titolo: "Domande Aperte e Lacune"
 categoria: "meta"
 tag: [meta, lacune, ambiguità, domande]
 status: "in aggiornamento"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 ---
 
 # Domande Aperte e Lacune
 
-> *Registro di tutte le questioni non ancora risolte. Aggiornare ad ogni sessione. Le questioni risolte vanno spostate in `fonti.md` sotto "Decisioni di Canonizzazione".*
+> *Registro operativo delle questioni ancora aperte. Le decisioni confermate sono riportate in `[[Fonti e Decisioni Canoniche]]` e nello storico del changelog; non riaprire una decisione senza nuove evidenze.*
 
 ---
 
-## ⚠️ Questioni Critiche (bloccanti per la wiki)
+## ✅ Decisioni già chiuse — non riaprire senza nuove evidenze
 
-### C4 — Grafia canonica di "Frederic Fenice"
-- `D3-cronistoria-ooc` usa: **Frederic**
-- `Una Missiva dall'Anello` usa: **Friederich**
-- → **Quale grafia è canonica?**
+Le decisioni seguenti sono state confermate nei registri canonici e nel changelog; non devono restare fra le domande aperte:
 
----
+- **C4 — Grafia:** Frederick Fenice è la grafia canonica; “Frederic” e “Friederich” sono varianti presenti nelle fonti.
+- **A2 — Dominic Draco:** sequenza confermata in dieci fasi secondo il changelog. Per il dettaglio fa fede la voce `[[Dominic Draco]]` e la documentazione canonica.
+- **A3 — Covata:** successione Bartholomew Brood (XVI) → Brienne Brood (XVII) confermata.
+- **A4 — Fenice e Battesimo:** la Fenice esiste come Specie di Fiera, distinta dal Draghiere Frederick Fenice. Il Battesimo ha uno schema ordinario confermato, ma non è privo di eccezioni: `Risveglio del Drago` documenta il caso di Wade senza una Viverna uccisa; il meccanismo resta aperto in L4.
+- **L5 — Vilegis/Lunaria:** setting esterno, fuori scope, salvo intersezioni documentate.
+- **L6 — Stub delle Fiere:** la creazione iniziale degli stub è stata eseguita; resta il completamento e la verifica delle voci esistenti.
+- **L8 — Solomon:** non si assegna un numero progressivo alle Vere Fiere; la sua presenza narrativa nell’Era del Dominio è attestata, ma lo stato esatto dopo l'ascesa di Re Draco resta da chiarire (vedi L16).
+- **L10 — Bruciati:** sono il seme narrativo della fazione delle Fiamme; restano da approfondire eventuali dettagli non confermati.
 
 ## 🟡 Ambiguità da Risolvere
 
+### A5 — Grafia di Angeline Aconitum/Aconytum
+La voce narrativa `[[Altri Personaggi]]` usa **Angeline Aconitum**, mentre `Elenco Draghieri` riporta **Angeline Aconytum**. La grafia canonica non è determinabile con certezza dalle fonti attuali.
+- → **HITL:** quale grafia va adottata come canonica? Fino alla conferma, mantenere la variante originale nella citazione della fonte e non correggerla retroattivamente.
+
 ### A1 — Collocazione cronologica degli Inktober
-Gli Inktober 2018, 2019 e 2024 non hanno datazione interna esplicita rispetto alla timeline master. Alcune deduzioni contestuali:
-- **Inktober 2018 e 2019:** Draco è Re, l'Anello è (ri)integro, le Vere Fiere sembrano sconfitte o assenti. Suggerisce ambientazione post-Primo Secolo del Draco, nell'Era del Dominio.
-- **Inktober 2024:** Ambientazione incerta, possibilmente successiva o parallela.
-- → **Vuoi mappare ogni racconto sulla timeline, o lasciarli come materiale "fluttuante"?**
+La raccolta **Inktober 2018** è catalogata come post-Anno del Draco/Era del Dominio; **Inktober 2019** è anch'essa associata all'Era del Dominio e i racconti mostrano Re Draco e l'Anello ripristinato. È sufficiente mantenere questa collocazione a livello di raccolta: le singole storie non hanno tutte una data interna precisa e non vanno assegnate a un anno inventato.
 
-### A2 — Sequenza di Dominic Draco
-La sequenza narrativa desunta dai documenti sembra essere:
-1. Primo Draghiere → fonda l'Anello di Fuoco
-2. Parte verso la Maestà con i più antichi
-3. Maestà li trasforma in Vere Fiere
-4. Ritorna come Vera Fiera, guida l'attacco all'Anello (Anno del Draco)
-5. Viene sconfitto o si converte → diventa Re
-6. Regna sull'Artiglio come Unico Guardiano
-- → **Questa sequenza è corretta? Ci sono passaggi mancanti o errati?**
-
-### A3 — Successione Brood
-- Bartholomew Brood, XVI Covata: Guardiano, muore per mano di Draco (`Prevedibilità`, `Inktober 2019 #Build`)
-- Brienne Brood, XVII Covata: gli succede, prende il comando della Città-Alveare
-- → **Confermata la sequenza?**
-
-### A4 — Frederic Fenice vs Specie Fenice
-- Frederic Fenice è il Draghiere "Unica Fenice" (titolo che implica unicità).
-- La Fenice come Specie/Fiera appare in `Solitudine` come bestia distinta, l'ultima della sua specie, sacrificata alla bocca della Maestà.
-- → **La distinzione tra Frederic Fenice (Draghiere) e la Fenice come Specie è intenzionale e canonica?**
+La collocazione di **Inktober 2024** rispetto alla timeline master resta indeterminata. Le storie forniscono indizi di contesto, ma non una datazione certa. Per ora va mantenuta come raccolta non collocata, senza chiedere una scelta editoriale che le fonti non possono risolvere.
 
 ---
 
-## ⚪ Lacune (contenuto mancante)
+## ⚪ Lacune e verifiche residue (contenuto mancante o incompleto)
 
 ### L1 — Cosmologia profonda: Mondi Ancora, Fondamento, Creatori
-Nessun documento definisce compiutamente:
-- **Mondi Ancora**: cosa sono, come vengono riconosciuti, perché il Kindsgard è il "primo Mondo Ancora riconosciuto dalla caduta di Anarion"
-- **Il Fondamento**: menzionato in `D3` in relazione al Battesimo di Dominic ("come altrove accadeva con l'energia del Fondamento") e in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir")
-- **I Creatori**: menzionati nel titolo del progetto ma non documentati
-- **Anarion**: menzionato in `D4` come evento di riferimento ("dalla caduta di Anarion") ma non descritto
-- → **Materiale non ancora documentato. Archiviato come lacuna aperta.**
+Il quadro resta incompleto perché i testi integrali D3 e D4 non sono disponibili nel repository consultato. Sono però stati chiariti alcuni punti strutturali che non vanno più trattati come dubbi:
+- La cosmologia originaria del Kindsgard comprende sette vettori: Natura, Bisogno, Espediente, Umani, Fiere, Draghieri e Vere Fiere.
+- I tredici Spettri appartengono al sistema del Fondamento di Vilegis/Lunaria; non sono sinonimi dei sette vettori e non va presunta una corrispondenza uno-a-uno.
+- La manifestazione nel Kindsgard di tredici vettori/Guardiani collegati al Fondamento appartiene alla connessione successiva con Vilegis/Lunaria, non alla cosmologia originaria.
 
-### L2 — Il tredicesimo Spettro
-I 12 Spettri noti di Vilegis/Lunaria: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà.
-- → **Qual è il tredicesimo Spettro?**
-- Fonte potenziale: `battleforvilegis.com` (non accessibile). Richiedere copia dei contenuti rilevanti.
+Restano da documentare direttamente:
+- **Mondi Ancora**: è confermato che il Kindsgard è stato collegato come Mondo Ancora e che i Mondi Ancora riflettono la struttura del Fondamento. Restano da documentare la definizione precisa, i criteri di riconoscimento e il significato della frase "primo Mondo Ancora riconosciuto dalla caduta di Anarion".
+- **Il Fondamento**: il passaggio della Cronistoria OOC sul Battesimo di Dominic e il riferimento in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir").
+- **I Creatori**: menzionati nel titolo del progetto ma non descritti nelle fonti Kindsgard disponibili.
+- **Anarion**: menzionato in “You Want to Be a Dragoner” come evento di riferimento ("dalla caduta di Anarion"), ma non descritto.
+- → **Lacuna documentale residua:** non dedurre dettagli ulteriori finché D3/D4 o altre fonti primarie non siano disponibili.
 
-### L3 — Geografia sistematica del Kindsgard
-Luoghi menzionati nei documenti ma mai descritti sistematicamente:
-- Mare Esterno, Mare Interno
-- Maestà (vulcano centrale)
-- Anello di Fuoco (perimetro degli Artigli)
-- Artigli noti: delle Brughiere, delle Sabbie, del Magma, delle Nevi, Sepolto delle Catene Montuose Orientali (Città-Alveare), dei Picchi, del Fuoco, del Lago Semipermanente, del Lago Alto, delle Scogliere
-- Pianure del Vento (nordest della Maestà)
-- Valle dei Fulmini, Valle dei Tuoni
-- Catene Montuose Orientali
-- Bordo / Spiagge del Mare Esterno
-- Colture (serre agricole, a Sud)
-- Città del Re (menzione in Inktober 2018)
-- → **Proposta: costruire voce geografia basata esclusivamente sui riferimenti testuali, segnalando relazioni incerte. Procedere?**
+### L2 — Il tredicesimo Spettro — candidato esterno da verificare
+I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà. Il sito ufficiale attuale di Battle for Vilegis dichiara che gli Spettri sono tredici; la pagina di Gregoria associa il suo principio all’**Equilibrio**. Questo rende Equilibrio un candidato plausibile, ma le pagine attuali possono appartenere a una versione del setting diversa da quella richiamata nelle fonti Kindsgard.
+- Riferimenti esterni: [Cos’è Vilegis](https://battleforvilegis.com/cose-vilegis/) e [Gregoria](https://battleforvilegis.com/gregoria/).
+- → **HITL:** confermare se Equilibrio può essere registrato come tredicesimo Spettro nella versione storica pertinente, oppure se va mantenuto solo come riferimento esterno non canonico.
 
-### L4 — Meccanica del Battesimo del Fuoco
-Non chiarito sistematicamente:
-- Se ogni Fiera può generare un solo Draghiere/Vera Fiera attivo alla volta
-- Se il numero progressivo (es. "33^ Viverna") è globale o per-specie *(probabile: per-specie)*
-- Cosa determina la predestinazione di un Umano al Battesimo
-- Se il Battesimo può fallire (vedi "Bruciati" in Inktober 2018 #Scorched 19-2)
-- → **Lacuna da lasciare aperta o hai materiale non caricato?**
+### L3 — Verifica finale della copertura geografica
+La voce `[[Geografia]]` registra i luoghi noti nelle fonti attualmente presenti, ma non esiste una mappa sistematica e alcune relazioni spaziali restano inferite. È stata verificata una discrepanza toponomastica: `Inktober 2019 #Bait` usa “Valle dei Tuoni”, mentre `#Tread` e `L'ultima notte all'ombra dell'Anello` usano “Valle dei Fulmini”; non è stabilito se siano lo stesso luogo. È stata inoltre corretta una conflazione nella tabella degli Artigli: `Inktober 2018 #Scorched` distingue l'Artiglio del Fuoco (con il laboratorio della Salamandra, fuori città) dall'“Artiglio di Città del Re”, citato per i Battesimi controllati; non c'è base per rinominare quest'ultimo “Artiglio di Fuoco”. `Inktober 2019 #Bait` descrive un ghiacciaio sul fianco di un vulcano attivo, senza nominare quel vulcano nel passaggio: identificarlo con la Maestà è plausibile, ma non provato esplicitamente. La copertura geografica non può essere dichiarata definitiva anche perché i testi originali D3 (Cronistoria OOC) e D4 (“You Want to Be a Dragoner”) non sono presenti nel repository consultato né sono stati ritrovati nella Library collegata.
+- → **Attività residua:** mantenere esplicita la distinzione tra posizioni attestate e inferenze; aggiornare la verifica geografica quando i testi originali saranno nuovamente disponibili. Non chiedere all’utente di chiarire l’identità dei documenti, già chiarita.
 
-### L5 — Vilegis/Lunaria come setting
-`D3` e `D4` fanno riferimento esteso a Vilegis come Oltregiardino, con eventi che impattano direttamente il Kindsgard. Nessun documento descrive Vilegis in sé.
-- → **Trattato come setting esterno, fuori scope della wiki Kindsgard, salvo le intersezioni documentate. Confermi?**
+### L4 — Dettagli meccanici del Battesimo del Fuoco
+Lo schema ordinario e alcuni dettagli sono stati chiariti dall'utente e non vanno più trattati come domande aperte:
+- Il numero progressivo dei Draghieri è **per specie**, non globale (es. 33ª Viverna); le Vere Fiere non si numerano.
+- Se un Istinto non si risveglia, può essere già incarnato altrove: in un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie.
+- L'orientamento del risveglio dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato ai Draghieri o alle Vere Fiere.
+- I personaggi giocanti che arrivano tramite la Chiamata sono un caso particolare e possono presentare entrambe le varianti.
 
-### L6 — Schede Fiere incomplete
-Solo Soffioni Uncinati e Bacche Emofaghe hanno schede tecniche complete. Fiere menzionate nei racconti senza scheda:
-- Zaratan (`Inktober 2018 #Cruel`)
-- Leopterix (Draghiere Lhars, `Inktober 2019`)
-- Everastes (Draghiere Ember, `Inktober 2019`)
-- Covata (insetti/sciame, `Prevedibilità`)
-- Atrax (ragni, `Inktober 2019 #Pattern`)
-- Chiroptera (pipistrelli, `Prevedibilità`, `Inktober 2018 #Angular`)
-- Loccia (acquatica, `Inktober 2019 #Snow`)
-- Alicanto (`Elenco Draghieri`, `Inktober 2019 #Treasure`)
-- Falenottere (`Inktober 2018 #Drooling`)
-- Tripode (`Inktober 2018 #Flowing`)
-- Sicomoro Perenne (`Inktober 2018 #Mindless`)
-- Manticora (più apparizioni)
-- Behemoth (più apparizioni)
-- Sfinge (più apparizioni)
-- Drago (più apparizioni, inclusa la bestia in `Inktober 2019 #Dragon`)
-- → **Creare voci stub basate sui riferimenti narrativi, segnalate come incomplete?**
+Restano invece aperti i fattori che determinano l'esito individuale del Battesimo, i dettagli dei Bruciati e il meccanismo dell'evento eccezionale narrato in `Risveglio del Drago`: Wade si reincarna come Vera Viverna senza uccidere una Viverna e mentre il suo sé umano è ancora vivo su Vilegis. Il testo documenta l'evento, ma non ne spiega completamente la causa.
 
-### L7 — "Icaria"
-Menzionata in `Una Missiva dall'Anello` come bestia nuova proveniente dal profondo del Giardino, così grande da rivaleggiare con i Draghi. Il nome "Icaria" è attribuito a Draghieri che hanno visitato Vilegis.
-- → **Chi o cosa è Icaria? È documentata altrove?**
+La documentazione residua da recuperare riguarda anche la formulazione esatta in D3/D4, i cui file originali non sono disponibili nel repository consultato.
 
-### L8 — Solomon (Vera Sfinge)
-Appare in `18___Misfit` e `Inktober 2018 #Precious` come Vera Sfinge. In #Precious è ancora in forma umanoide ma con comportamenti predatori. Il suo numero nella sequenza delle Sfingi non è indicato.
-- → **Qual è il numero di Solomon nella sequenza? È ancora attivo?**
 
-### L9 — Il contenuto di `Grande_faciolata_del_Kindsgard_di_Giugno.xlsx`
-Non leggibile in questa sessione.
-- → **Cosa contiene questo file?**
+### L6 — Completamento delle schede Fiere
+La pagina `[[Fiere — Voci Stub]]` esiste già e raccoglie tutte le Fiere attualmente identificate nel corpus. **Bacca Emofaga** e **Soffione Uncinato** hanno schede tecniche dedicate; le altre 26 voci elencate sotto restano profili preliminari, con livelli di copertura diversi. L'elenco è esaustivo rispetto alla pagina stub corrente: non implica che esistano fonti sufficienti per completare una scheda tecnica per ciascuna specie.
 
-### L10 — I "Bruciati"
-`Inktober 2018 #Scorched (19-2)` introduce il concetto dei "Bruciati": Umani che hanno tentato il Battesimo del Fuoco e sono sopravvissuti ma non si sono trasformati, rimanendo menomati. Hanno una comunità dedicata con pratiche specifiche (vesti bianche, silenzio, lazzaretto).
-- → **I Bruciati sono un elemento canonico dell'ambientazione o un racconto isolato?**
+- **Fiere maggiori (9):** Drago, Behemoth, Leviatano, Manticora, Sfinge, Chimera, Viverna, Grifone, Cockatrice.
+- **Fiere di media pericolosità (7):** Atrax, Chiroptera, Loccia, Alicanto, Zaratan, Falenottere, Covata.
+- **Fitofiere (7):** Sicomoro Perenne, Tripode, Dionea Mangiauomini, Mandragora, Chayote Strangolatore, Amaranthus Cruentus, Fabalo Spinato.
+- **Fiere minori classificate (3):** Leopterix, Everastes, Tentacolo Scarlatto.
+
+Le priorità documentali già individuate comprendono Zaratan (`Inktober 2018 #Cruel`), Atrax (`Inktober 2019 #Pattern`), Chiroptera (`Prevedibilità`, `Inktober 2018 #Angular`), Loccia (`Inktober 2018 #Flowing`, `Inktober 2019 #Snow`), Alicanto (`Elenco Draghieri`, `Inktober 2019 #Treasure`), Falenottere (`Inktober 2018 #Drooling`), Tripode (`Inktober 2018 #Flowing`), Sicomoro Perenne (`Inktober 2019 #Mindless`), oltre alle Fiere maggiori per cui esistono più apparizioni narrative. Le descrizioni già presenti vanno comunque mantenute entro ciò che le fonti sostengono: niente poteri, debolezze o fisiologia dedotti per analogia con il Draghiere omonimo.
+
+Il conteggio delle 26 voci riguarda esclusivamente i quattro gruppi sopra elencati (9 + 7 + 7 + 3). **Kyrin, Sliss e Tentacolo Purpureo** sono menzioni narrative aggiuntive, non incluse nel conteggio. In particolare, `Inktober 2018 #Poisonous` descrive un Tentacolo Scarlatto vermiforme, mentre `Inktober 2019 #Tasty` descrive foglie di Tentacolo Purpureo trattate per il consumo: non è documentata l'identità fra i due nomi. I dodici nomi della lista OOC `Mostri` sono brainstorming e non attestazioni di Fiere canoniche; restano separati dal conteggio e sono elencati integralmente nella pagina stub.
+
+→ **Attività residua:** verificare le voci esistenti, collegare le fonti e ampliare le schede soltanto quando le informazioni sono sufficienti. Non creare nuovi stub e non inventare dettagli.
+
+### L7 — "Icaria" — dettaglio oltre la fonte non reperito
+L’unica menzione trovata nel repository è `Una Missiva dall’Anello`: una belva enorme, proveniente dal profondo del Giardino, chiamata Icaria da Draghieri che avevano visitato Vilegis. La voce del glossario ora registra questi soli dati. Non è stata trovata un’altra fonte nel repository o nella Library collegata.
+- → **Lacuna documentale:** non aggiungere identità, specie o capacità finché non emerge un’altra fonte.
+
+
+
+### L10 — Dettagli ancora da verificare sui Bruciati
+**Decisione già registrata nel changelog:** i Bruciati sono il seme narrativo della fazione delle Fiamme. Rimane da verificare quanto dei dettagli del racconto (`Inktober 2018 #Scorched`, 19-2) sia stato sviluppato e confermato oltre la fonte narrativa. Non riaprire la loro esistenza come elemento dell’ambientazione senza nuove evidenze.
 
 ---
 
-## 📋 Decisioni di Stile da Confermare
+## 📋 Decisioni editoriali da confermare
 
-- Titolo canonico per `Fierezza.docx` nella wiki: *"Il Battesimo di Cornelius"*? Da confermare.
-- Titolo canonico per `Fierezza__il_Dio_che_è_in_noi.docx` nella wiki: *"Fierezza: il Dio che è in noi"*? Da confermare.
+- Titolo canonico per `fierezza-battesimo-cornelius.md`: *"Il Battesimo di Cornelius"*? Da confermare.
+- Titolo canonico per `fierezza-il-dio-che-e-in-noi.md`: *"Fierezza: il Dio che è in noi"*? Da confermare.
+
+Queste sono scelte editoriali di titolo, non decisioni sul canone narrativo. Le fonti non vanno rinominate o eliminate finché la scelta non è confermata.
+
+### L11 — Riferimento sorgente non riconciliato: `Copia_di_I_Draghieri_del_kindsgard`
+
+Il frontmatter di `[[Cosmologia]]` cita `Copia_di_I_Draghieri_del_kindsgard`, ma nel tree corrente non esiste un file con questo nome e il riferimento non compare nel catalogo delle fonti. È disponibile `content/fonti/draghieri-spiegazione.md`, documento OOC sul tema, ma non è possibile dimostrare che coincida con il documento citato.
+- → **Chiarimento documentale:** se disponibile, recuperare il file originale o confermare a quale documento corrisponde il riferimento. Fino ad allora, non sostituire automaticamente la fonte nel frontmatter.
+
+### L12 — Annali dell'Artiglio delle Sabbie
+`Inktober 2024 #Exotic` introduce una citazione attribuita agli **Annali dell'Artiglio delle Sabbie**. Il repository contiene invece un riferimento agli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V; il relativo file autonomo non è presente con il percorso catalogato. Non ci sono elementi sufficienti per trattare i due titoli come lo stesso documento.
+- → **Chiarimento documentale:** gli Annali delle Sabbie sono un documento distinto, un estratto degli Annali del Fuoco o soltanto una fonte interna citata nel racconto? Fino alla conferma, mantenere i riferimenti separati e non inventare il testo mancante.
+
+### L13 — Ambito della fazione delle Fiamme
+La voce `[[Fiamme]]` nasce dai Bruciati descritti in `Inktober 2018 #Scorched`, ma la documentazione disponibile presenta le Fiamme come fazione giocata su Vilegis/Lunaria e non descrive la loro organizzazione sul Kindsgard. Per evitare di promuovere un'inferenza a canone, la voce non le definisce più “terza fazione del Kindsgard”.
+- → **Chiarimento canonico:** le Fiamme sono una fazione di Vilegis collegata narrativamente ai Bruciati del Kindsgard, oppure esiste anche una fazione organizzata delle Fiamme nel Kindsgard? Fino alla conferma, mantenere esplicita la connessione senza estendere l'affiliazione geografica.
+
+### L14 — “Infiammati” in `Inktober 2018 #Flowing`
+Nel resoconto di Brienne Brood sul lavoro al Fiume Bianco si menziona un gruppo di **Infiammati**, che avrebbe lavorato il doppio degli altri Umani. La fonte non li identifica come Bruciati e non stabilisce un legame con la fazione delle Fiamme. La somiglianza dei termini non basta per assimilarli.
+- → **Chiarimento documentale/canonico:** “Infiammati” è un gruppo distinto, una denominazione alternativa dei Bruciati o un termine con altro significato? Fino alla conferma, mantenere i termini separati.
+
+### L15 — Seymour Sandwurm e “ex Shai'Hulud”
+`Elenco Draghieri` elenca **Seymour Sandwurm** con la nota “ex Shai'Hulud”, senza spiegare il rapporto tra i due nomi. Non è possibile stabilire se Shai'Hulud sia un nome precedente del personaggio, una denominazione della Fiera/specie o un riferimento di altro tipo.
+- → **Chiarimento documentale:** che cosa indica “ex Shai'Hulud” nella fonte originale? Fino alla conferma, conservare la formulazione della fonte senza espanderla nella biografia o nella tassonomia.
+
+### L16 — Sorte delle Vere Fiere dopo l'ascesa di Re Draco
+La cronologia generale afferma che, dopo l'assorbimento dei tredici vettori da parte di Re Draco, le Vere Fiere perdono il potere e tornano Umani. Tuttavia `18___Misfit`, collocato nell'Era del Dominio, presenta Wendy Wyrm e Solomon come Vere Fiere; `Inktober 2018 #Precious` mostra Solomon in forma umanoide, senza chiarire se abbia ancora il potere o sia già tornato Umano. La documentazione disponibile non consente di stabilire se si tratti di eccezioni, di una diversa sequenza temporale o di un'ambiguità narrativa.
+- → **Chiarimento canonico/documentale:** la perdita del potere riguarda tutte le Vere Fiere senza eccezioni, oppure alcuni individui mantengono identità o potere? Prima di risolvere, confrontare la cronologia esatta di `18___Misfit`, `#Precious` e l'ascesa di Re Draco.
+
+### L17 — Identità dei tredici Guardiani
+La cosmologia e la cronologia attestano tredici individui/Guardiani legati ai vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. Le fonti attuali identificano esplicitamente solo una parte del gruppo: Bartholomew Brood, Samu'el Sphynx, Syrus Salamander, Mara Megalapterix e G. Gryffin. La voce di Frederick Fenice porta il tag `guardiano`, ma non spiega se appartenga a questo gruppo e l'Elenco Draghieri non lo marca come tale.
+- → **Chiarimento documentale/canonico:** esiste una lista completa dei tredici Guardiani? Frederick Fenice era uno di loro o il tag è residuo/di altro significato? Non completare l'elenco per inferenza dai personaggi noti.
+
+### L18 — Riferimento alla Salamandra in `L'Esodo`
+In `L'Esodo`, Wade intende condurre i sopravvissuti all'Artiglio del Magma, dove “Salamandra saprà prendersi cura di loro”. La fonte non data con precisione il passaggio e non chiarisce se “Salamandra” indichi Syrus, Sebastian o la Fiera/fazione in senso più ampio. La scheda di Salamander non attribuisce la frase a uno dei due individui.
+- → **Attività residua:** mantenere l'ambiguità finché una collocazione cronologica dell'`Esodo` o un'altra fonte non la risolva; non scegliere un nome per inferenza.

@@ -2,85 +2,93 @@
 titolo: "Fonti e Decisioni Canoniche"
 categoria: "meta"
 tag: [meta, fonti, canonizzazione, sessioni]
-status: "aggiornato"
-ultima_modifica: "2025-06-13"
+status: "in aggiornamento"
+ultima_modifica: "2026-10-12"
 ---
 
 # Fonti e Decisioni Canoniche
 
-> *Registro delle fonti originali del progetto e di tutte le decisioni di canonizzazione prese nelle sessioni di lavoro. Da ricaricare all'inizio di ogni nuova sessione.*
+> *Registro delle fonti originali del progetto e delle decisioni di canonizzazione prese nelle sessioni di lavoro. L'identità di una fonte e la disponibilità del suo testo integrale sono registrate separatamente.*
 
 ---
 
 ## Fonti del Progetto
 
-### Documenti OOC Canonizzati
+### Documenti OOC di riferimento
 
 | File | Contenuto | Status |
 |------|-----------|--------|
-| `fonti/d3-cronistoria-ooc.md` | Cronistoria completa OOC con corrispondenze Vilegis/Lunaria. Le sezioni "Nota sullo Sdoppiamento" e "Allineamento degli Echi" sono state rimosse come obsolete. Il resto è canonico. | **Canonico** |
-| `fonti/d4-guida-draghiere.md` | Guida al personaggio per Battle for Vilegis. Formato: singolo documento stratificato (Option A). | **Canonico** |
-| `fonti/elenco-draghieri.md` | Lista nominativa dei Draghieri | **Canonico** |
-| `fonti/fierezza-il-dio-che-e-in-noi.md` | Saggio di Wade Wyrm sulla spiritualità | Incompleto; usare con cautela |
-| `fonti/cio-che-sanno-i-draghieri.md` | Verità parziale (livello personaggio) | Prospettiva in-world, non cosmologica |
-| `fonti/cronistoria-versione-breve.md` | Cronistoria in-world (versione divulgativa) | **Canonico** |
-| `fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa | **Canonico** |
+| Fonte identificata dall’utente come “Cronistoria OOC” | Cronistoria che parte dalle Ere e confronta le Ere del Giardino con le Ere del Kindsgard. Il documento originale non è presente nel tree GitHub attuale né è stato ritrovato nella Library collegata con la ricerca effettuata. | ⚠️ Fonte identificata, file sorgente da recuperare/riconciliare |
+| “You Want to Be a Dragoner” | Guida ai Draghieri indicata dall’utente come documento corrispondente al riferimento storico D4. Il documento originale non è presente nel tree GitHub attuale né è stato ritrovato nella Library collegata con la ricerca effettuata. | ⚠️ Fonte identificata, file sorgente da recuperare/riconciliare |
+| `content/fonti/elenco-draghieri.md` | Lista nominativa dei Draghieri | **Canonico** |
+| `content/fonti/fierezza-il-dio-che-e-in-noi.md` | Saggio di Wade Wyrm sulla spiritualità | Incompleto; usare con cautela |
+| `content/fonti/cio-che-sanno-i-draghieri.md` | Verità parziale (livello personaggio) | Prospettiva in-world, non cosmologica |
+| `content/fonti/cronistoria-versione-breve.md` | Cronistoria in-world (versione divulgativa) | **Canonico** |
+| `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa; ID frontmatter usato: `draghieri-spiegazione`, distinto dai riferimenti D3/D4 mancanti | **Canonico** |
 
 ### Narrativa In-World
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `fonti/annali-artiglio-di-fuoco-intro.md` | Introduzione storica firmata da Syrus Salamander V | Fonte primaria per l'Era degli Eroi |
-| `fonti/draghieri-vere-fiere.md` | Descrizione OOC dualismo Draghieri/Vere Fiere | |
-| `fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
-| `fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
-| `fonti/la-natura-di-natura.md` | Saggio della Vera Viverna (Wendy Wyrm) | Prospettiva Maestà/Natura; verità cosmologica più accurata |
-| `fonti/misfit.md` | Racconto: Wendy e Solomon (Vera Sfinge) sugli spalti | |
-| `fonti/solitudine.md` | Racconto: Draco e la Vera Viverna alla Maestà | |
-| `fonti/pezzo-del-rituale-chimera.md` | Rituale di Caitlin Chimera | |
-| `fonti/riflessioni.md` | Note di Caitlin Chimera su Vilegis | |
-| `fonti/fierezza-battesimo-cornelius.md` | Racconto: Battesimo del Fuoco di Cornelius Cockatrix | |
-| `fonti/l-ultima-notte-all-ombra-dell-anello.md` | Poema/racconto: Wade, ultima resistenza all'Anello | |
-| `fonti/prevedibilita-covata.md` | Racconto: Bartholomew Brood e la battaglia alla Città-Alveare | |
-| `fonti/onda-bianca.md` | Racconto: i Draghieri e l'onda di oblio | |
-| `fonti/canzoni-degli-umani.md` | Canti in-world: Canto dei Draghieri, Giù nel bosco, Ninna nanna | |
-| `fonti/deflecte-cantum.md` | Canzone: il ritorno dei Draghieri post-Anno del Drago | Note di Pietro Caruso presenti: alcune strofe segnate come errate |
-| `fonti/l-animale-uomo.md` | Canzone dal punto di vista delle Vere Fiere | |
-| `fonti/lamento-di-wade.md` | Poema: Wade durante l'Anno del Drago | |
-| `fonti/risveglio-del-drago.md` | Racconto: Wade a Vilegis durante l'Anno del Draco | |
-| `fonti/il-trattato-wendy-wyrm.md` | Racconto: Wendy Wyrm e gli scribi dell'Artiglio della Sfinge | |
+| `content/fonti/annali-artiglio-di-fuoco-intro.md` | Riferimento legacy a un'introduzione storica firmata da Syrus Salamander V. Una citazione attribuita agli Annali dell'Artiglio di Fuoco è effettivamente conservata in `content/fonti/inktober-2019.md`, ma non è possibile dimostrare che coincida con l'introduzione indicata né che il testo integrale sia stato incorporato. | ⚠️ Testo integrale/percorso da riconciliare |
+| `Annali dell'Artiglio delle Sabbie` (citazione in `content/fonti/inktober-2024.md`, #Exotic) | Testo citato come fonte interna alla narrazione; non esiste un file autonomo nel tree corrente. Non va confuso con gli `Annali dell'Artiglio di Fuoco`, citati in `Inktober 2019` e attribuiti a Syrus Salamander V. | ⚠️ Riferimento distinto, identità e testo sorgente da chiarire |
+| `content/fonti/draghieri-vere-fiere.md` | Riferimento a una descrizione OOC del dualismo Draghieri/Vere Fiere; il percorso non esiste nel tree attuale. `content/fonti/draghieri-spiegazione.md` è una fonte OOC presente che tratta i Draghieri e le Vere Fiere, ma senza il documento originale non è possibile confermare che sia la stessa fonte o una sua conversione. | ⚠️ Identità/percorso da riconciliare |
+| `content/fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
+| `content/fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
+| `content/fonti/la-natura-di-natura.md` | Saggio della Vera Viverna (Wendy Wyrm) | Prospettiva Maestà/Natura; verità cosmologica più accurata |
+| `content/fonti/misfit.md` | Racconto: Wendy e Solomon (Vera Sfinge) sugli spalti | |
+| `content/fonti/solitudine.md` | Racconto: Draco e la Vera Viverna alla Maestà | |
+| `content/fonti/pezzo-del-rituale-chimera.md` | Rituale di Caitlin Chimera | |
+| `content/fonti/riflessioni.md` | Note di Caitlin Chimera su Vilegis | |
+| `content/fonti/fierezza-battesimo-cornelius.md` | Racconto: Battesimo del Fuoco di Cornelius Cockatrix | |
+| `content/fonti/l-ultima-notte-all-ombra-dell-anello.md` | Poema/racconto: Wade, ultima resistenza all'Anello | |
+| `content/fonti/prevedibilita-covata.md` | Racconto: Bartholomew Brood e la battaglia alla Città-Alveare | |
+| `content/fonti/onda-bianca.md` | Racconto: i Draghieri e l'onda di oblio | |
+| `content/fonti/canzoni-degli-umani.md` | Canti in-world: Canto dei Draghieri, Giù nel bosco, Ninna nanna | |
+| `content/fonti/deflecte-cantum.md` | Canzone: il ritorno dei Draghieri post-Anno del Drago | Note di Pietro Caruso presenti: alcune strofe segnate come errate |
+| `content/fonti/l-animale-uomo.md` | Canzone dal punto di vista delle Vere Fiere | |
+| `content/fonti/lamento-di-wade.md` | Poema: Wade durante l'Anno del Drago | |
+| `content/fonti/risveglio-del-drago.md` | Racconto: Wade a Vilegis durante l'Anno del Draco | |
+| `content/fonti/il-trattato-wendy-wyrm.md` | Racconto: Wendy Wyrm e gli scribi dell'Artiglio della Sfinge | |
 
 ### Raccolte Narrative (Inktober)
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `fonti/inktober-2018.md` | 22 racconti brevi, con indice riassuntivo. Autori: Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12) | Ambientazione: post-Anno del Draco, Era del Dominio |
-| `fonti/inktober-2019.md` | 25 racconti brevi (numerazione salta da #17 a #19), con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: presunta Era del Dominio/post-Vere Fiere |
-| `fonti/inktober-2024.md` | 9 racconti brevi, con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: periodo successivo, da mappare |
+| `content/fonti/inktober-2018.md` | 22 racconti brevi, con indice riassuntivo. Autori: Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12) | Ambientazione: post-Anno del Draco, Era del Dominio |
+| `content/fonti/inktober-2019.md` | 25 racconti brevi (numerazione salta da #17 a #19), con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: presunta Era del Dominio/post-Vere Fiere |
+| `content/fonti/inktober-2024.md` | 9 racconti brevi, con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: periodo successivo, da mappare |
 
 ### Schede Tecniche
 
 | File | Contenuto | Status |
 |------|-----------|--------|
-| `fonti/soffioni-uncinati-fonte.md` | Scheda completa: Achenium Hamatus | Canonico |
-| `fonti/bacche-emofaghe-fonte.md` | Scheda completa: Emophillis Helix | Canonico (versione in Inktober 2018 #Drain è narrativa, non normativa) |
-| `fonti/mostri.md` | Lista di nomi di Fiere potenziali (brainstorming) | Solo lista, nessuna descrizione. Valore: brainstorming |
+| `content/fonti/soffioni-uncinati-fonte.md` | Scheda completa: Achenium Hamatus | Canonico |
+| `content/fonti/bacche-emofaghe-fonte.md` | Scheda completa: Emophillis Helix | Canonico (versione in Inktober 2018 #Drain è narrativa, non normativa) |
+| `content/fonti/mostri.md` | Lista di nomi di Fiere potenziali (brainstorming) | Solo lista, nessuna descrizione. Valore: brainstorming |
 
 ### Altro
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `fonti/list.md` | Due spunti narrativi non sviluppati | Valore minimo |
-| `Grande_faciolata_del_Kindsgard_di_Giugno.xlsx` | Contenuto non ancora verificato | Da controllare nella prossima sessione |
+| `content/fonti/list.md` | Due spunti narrativi non sviluppati | Valore minimo |
+
 
 ---
+
+
+### Riferimenti legacy nei frontmatter da riconciliare
+
+Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cita `Copia_di_I_Draghieri_del_kindsgard` nel campo `fonti`. Non esiste un file con questo nome nel tree corrente e il riferimento non è descritto nel catalogo. `content/fonti/draghieri-spiegazione.md` è una fonte OOC pertinente, ma non ci sono prove sufficienti per affermare che sia la stessa fonte o la conversione di quel documento. **Non sostituire il riferimento senza recuperare o identificare il sorgente.**
 
 ## Decisioni di Canonizzazione
 
 ### 🔴 Contraddizioni Risolte
 
+> Le decisioni qui registrate prevalgono sulle domande operative più vecchie. Le domande aperte devono essere aggiornate quando una decisione viene confermata.
+
 **C1 — Origine di Bisogno ed Espediente**
-- **Versione in-world (credenza umana):** Bisogno ed Espediente nacquero dalle preghiere disperate degli Umani. Fonte: `Cronistoria (versione breve)`, `D3-cronistoria-ooc`.
+- **Versione in-world (credenza umana):** Bisogno ed Espediente nacquero dalle preghiere disperate degli Umani. Fonte disponibile: `Cronistoria (versione breve)`. Il riferimento alla Cronistoria OOC è identificato dall’utente, ma il testo sorgente non è ancora disponibile nel repository consultato.
 - **Verità cosmologica:** Bisogno ed Espediente sono manifestazioni primordiali della legge naturale del Giardino, preesistenti agli Umani e indifferenti a loro. Fonte: `La natura di Natura` (Vera Viverna/Wendy Wyrm).
 - **Decisione canonica:** Entrambe le versioni sono canoniche ai rispettivi livelli. La contraddizione è intenzionale e rappresenta la differenza tra conoscenza in-world e verità cosmologica.
 
@@ -91,10 +99,17 @@ ultima_modifica: "2025-06-13"
 **C3 — Syrus Salamander**
 - **Decisione canonica:** Syrus Salamander è il **V Draghiere della Salamandra**, predecessore di Sebastian Salamander (VI). La sequenza numerica è corretta e non contraddittoria.
 
-**C4 — Frederic/Friedrich Fenice**
-- Le grafie "Frederic" (`D3`) e "Friederich" (`Una Missiva`) si riferiscono allo stesso personaggio.
-- **Grafia canonica:** da confermare con Pit. ⚠️ *Ancora aperta.*
-- **Meccanica canonica confermata:** Frederic Fenice resuscita sempre nel proprio corpo, non si reincarna in un nuovo corpo.
+**C4 — Frederic/Friedrich Fenice — RISOLTA**
+- Le grafie "Frederic" (attribuita nella documentazione storica alla Cronistoria OOC, il cui testo sorgente non è ancora disponibile qui) e "Friederich" (`Una Missiva`) potrebbero riferirsi allo stesso personaggio; la grafia canonica Frederick Fenice è comunque già confermata.
+- **Grafia canonica confermata:** Frederick Fenice. Le varianti presenti nelle fonti sono storiche e non vanno propagate nelle nuove voci sintetiche.
+- **Meccanica canonica confermata:** Frederick Fenice resuscita sempre nel proprio corpo, non si reincarna in un nuovo corpo.
+- Decisione registrata nel changelog del 2025-06-13.
+
+
+**C5 — Numero progressivo di Sef Sycamore — risoluzione editoriale**
+
+- `Elenco Draghieri` (fonte catalogata come canonica) riporta **Sef Sycamore, XIII Sicomoro Perenne**; `Inktober 2019 #Mindless` lo chiama **XIV Draghiere del Sicomoro**.
+- **Regola operativa:** le voci sintetiche adottano XIII, come nell'elenco canonico. La fonte narrativa resta invariata e la discrepanza viene segnalata; non si ipotizza un secondo personaggio né si corregge il testo originale senza nuova evidenza.
 
 ### 🟠 Duplicazioni Risolte
 
@@ -108,12 +123,14 @@ ultima_modifica: "2025-06-13"
 - La versione in `Inktober 2018 #Drain` è narrativa/ambientale, non normativa.
 - **Decisione:** Nessuna contraddizione. Tracciabilità registrata.
 
-**D3 — Cronistoria duplicata**
-- `D3-cronistoria-ooc.md` e `Cronistoria_del_Kindsgard__versione_breve_.docx` coprono gli stessi eventi.
-- **Decisione:** `D3` è la fonte OOC canonica e completa. La versione breve è una fonte in-world (narrativa divulgativa per i personaggi).
+**Riferimenti storici D3/D4 — identità chiarita, file sorgenti non reperiti**
 
-**D4 — Guida al personaggio**
-- `D4-guida-draghiere.md` è il documento canonico nella versione "singolo documento stratificato".
+- **D3 — Cronistoria OOC:** l’utente chiarisce che è la cronistoria che parte dalle Ere e mette a confronto le Ere del Giardino con le Ere del Kindsgard.
+- **D4 — “You Want to Be a Dragoner”:** l’utente identifica così la guida ai Draghieri.
+
+Le due fonti non sono presenti nel tree GitHub attuale con i vecchi percorsi `content/fonti/d3-cronistoria-ooc.md` e `content/fonti/d4-guida-draghiere.md`; una ricerca nella Library collegata non ha restituito i documenti. L’identità dei documenti è quindi chiarita, ma il testo integrale non è disponibile per una verifica diretta in questa sessione.
+
+**Regola operativa:** non chiamarli più documenti sconosciuti né dedurre che non esistano. Tenere distinta l’identificazione fornita dall’utente dalla disponibilità effettiva dei file. Le affermazioni attribuite a questi documenti possono essere confrontate con le fonti già presenti solo come verifica parziale, non come sostituto del testo originale.
 
 ---
 
@@ -140,15 +157,71 @@ Entrambi attingono allo stesso Istinto archetipico della Fiera, ma con orientame
 Le Vere Fiere non mantengono un conteggio progressivo dei propri membri (a differenza dei Draghieri) per orgoglio e individualismo: ogni Vera Fiera si considera sé stessa, non un anello in una catena.
 
 ### Lo Spettro (termine di Vilegis)
-Non è sinonimo di Espediente. È un termine del sistema di Vilegis/Lunaria: i 13 principi fondanti del multiverso. L'Espediente della Fiera funziona *analogamente* agli Spettri ma è un sistema distinto e locale al Kindsgard. I 12 Spettri noti: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà. Il tredicesimo è ⚪ lacuna aperta.
+Non è sinonimo di Espediente. È un termine del sistema di Vilegis/Lunaria: i 13 principi fondanti del multiverso. L'Espediente della Fiera funziona *analogamente* agli Spettri ma è un sistema distinto e locale al Kindsgard. I 12 Spettri noti: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà. Il tredicesimo resta non confermato per la versione storica richiamata dalla wiki. Il sito ufficiale attuale associa Gregoria all’Equilibrio, ma questo è solo un candidato esterno: non importarlo nel canone Kindsgard senza conferma.
 
 ### La Vera Viverna
 La firma "Vera Viverna" in `La natura di Natura` è il titolo/ruolo dell'autrice: **Wendy Wyrm**, individuo separato da Wade Wyrm (33^ Viverna/Draghiere). Wendy è la controparte Vera Fiera di Wade.
 
 ---
 
-## Fonti Esterne Non Accessibili
+## Riferimenti esterni consultati — contesto, non canone Kindsgard
 
-| Fonte | Contenuto atteso | Status |
-|-------|-----------------|--------|
-| `battleforvilegis.com` | Lore di Vilegis/Lunaria, possibilmente il tredicesimo Spettro | Non accessibile via URL. Richiedere copia dei contenuti rilevanti. |
+Il sito ufficiale di Battle for Vilegis è attualmente accessibile. I contenuti seguenti riguardano la versione attuale di Vilegis/Lunaria e **non vanno trasferiti automaticamente** nel canone del Kindsgard: la cronologia e le versioni potrebbero differire.
+
+| Fonte | Informazione utile | Uso consentito |
+|-------|--------------------|----------------|
+| [Cos’è Vilegis](https://battleforvilegis.com/cose-vilegis/) | Descrive tredici Spettri come energie del Fondamento. | Contesto esterno; non determina da sola il tredicesimo Spettro della versione storica. |
+| [Gregoria](https://battleforvilegis.com/gregoria/) | Associa lo Spettro di Gregoria all’Equilibrio. | Candidato plausibile per L2, da confermare prima di adottarlo. |
+| [Il Pantheon](https://battleforvilegis.com/il-pantheon/) | Tratta Creatori, Fondamento e Spettri. | Riferimento esterno per orientare L1; non sostituisce le fonti Kindsgard mancanti. |
+| [The Keep: Radiant](https://battleforvilegis.com/the-keep-radiant/) | Menziona la creazione di un Mondo Ancora. | Contesto esterno per L1; non chiarisce automaticamente il riferimento ad Anarion nelle fonti Kindsgard. |
+
+Consultati il 2026-10-11. Registrare l’URL e la data di consultazione perché le pagine di un setting vivo possono cambiare.
+
+## Riconciliazione del catalogo — 2026-10-12
+
+Il controllo della tree GitHub ha rilevato 29 file sotto `content/fonti/`. Quattro percorsi del catalogo non esistono con quel nome nel tree corrente:
+- `content/fonti/d3-cronistoria-ooc.md` — identità della fonte chiarita dall’utente come Cronistoria OOC sulle Ere; file sorgente non reperito.
+- `content/fonti/d4-guida-draghiere.md` — identità della fonte chiarita dall’utente come “You Want to Be a Dragoner”; file sorgente non reperito.
+- `content/fonti/annali-artiglio-di-fuoco-intro.md` — identità/percorso ancora da riconciliare.
+- `content/fonti/draghieri-vere-fiere.md` — identità/percorso ancora da riconciliare.
+
+Un ulteriore identificativo legacy presente nel frontmatter di `content/mondo/cosmologia.md` è `Copia_di_I_Draghieri_del_kindsgard`: non è un file nel tree e non è dimostrato che corrisponda a `content/fonti/draghieri-spiegazione.md`. Va tenuto distinto dai quattro percorsi sopra, che sono riferimenti espliciti nel catalogo.
+
+Non dichiarare perdute le fonti D3/D4: i loro nomi/contenuti generali sono stati identificati, ma i file originali non sono presenti nel repository consultato e non sono emersi dalla ricerca nella Library collegata. I percorsi esistenti nel repository sono indicati rispetto alla root GitHub come `content/fonti/...`.
+
+Un ulteriore riferimento non autonomo è **Annali dell'Artiglio delle Sabbie**, citato in `Inktober 2024 #Exotic`. È distinto dagli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V. La wiki non dispone al momento di elementi per stabilire se il primo sia un documento indipendente, un estratto o un riferimento interno alla storia.
+
+## Mappatura verificata degli identificatori legacy nei frontmatter
+
+I valori del campo `fonti` sono identificatori ereditati dalla conversione dei documenti originali, non sempre nomi di file attuali. Le corrispondenze seguenti sono ricavabili senza ambiguità dal contenuto e dal registro D1/D2; non implicano che la fonte sia normativa se il suo status dice altro.
+
+| Identificatore legacy | File corrente |
+|---|---|
+| `Bacche_Emofaghe.docx` | `content/fonti/bacche-emofaghe-fonte.md` — scheda tecnica canonica |
+| `Soffioni_Uncinati.docx`, `Soffioni_Uncinati` | `content/fonti/soffioni-uncinati-fonte.md` |
+| `Canzoni_degli_Umani` | `content/fonti/canzoni-degli-umani.md` |
+| `Cronistoria_versione_breve` | `content/fonti/cronistoria-versione-breve.md` |
+| `Deflecte_Cantum` | `content/fonti/deflecte-cantum.md` |
+| `Elenco_Draghieri_Conosciuti` | `content/fonti/elenco-draghieri.md` |
+| `Fierezza` | `content/fonti/fierezza-battesimo-cornelius.md` — racconto di Cornelius, secondo D1 |
+| `Fierezza__il_Dio_che_è_in_noi` | `content/fonti/fierezza-il-dio-che-e-in-noi.md` — saggio di Wade, secondo D1 |
+| `Inktober_2018`, `Inktober_2019`, `Inktober_2024` | rispettivamente `content/fonti/inktober-2018.md`, `inktober-2019.md`, `inktober-2024.md` |
+| `L_Animale_Uomo` | `content/fonti/l-animale-uomo.md` |
+| `L_esodo` | `content/fonti/l-esodo.md` |
+| `L_ultima_notte_all_ombra_dell_Anello` | `content/fonti/l-ultima-notte-all-ombra-dell-anello.md` |
+| `La_natura_di_Natura` | `content/fonti/la-natura-di-natura.md` |
+| `Lamento_di_Wade` | `content/fonti/lamento-di-wade.md` |
+| `18___Misfit` | `content/fonti/misfit.md` |
+| `Mostri` | `content/fonti/mostri.md` — brainstorming, non fonte normativa |
+| `Onda_bianca` | `content/fonti/onda-bianca.md` |
+| `Pezzo_del_rituale_-_Chimera` | `content/fonti/pezzo-del-rituale-chimera.md` |
+| `Prevedibilità__covata_` | `content/fonti/prevedibilita-covata.md` |
+| `Riflessioni` | `content/fonti/riflessioni.md` |
+| `Solitudine` | `content/fonti/solitudine.md` |
+| `Una_Missiva_dall_Anello` | `content/fonti/una-missiva-dall-anello.md` |
+| `Il_Trattato` | `content/fonti/il-trattato-wendy-wyrm.md` |
+
+### Identificatori non mappati intenzionalmente
+
+Non sono assegnati a un file corrente finché non esiste una prova dell'identità: `D3-cronistoria-ooc`, `D4-guida-draghiere`, `Annali_dell_Artiglio_di_Fuoco`, `Draghieri_Vere_Fiere_del_Kindsgard` e `Copia_di_I_Draghieri_del_kindsgard`. Per gli Annali, mantenere inoltre distinta la citazione degli **Annali dell'Artiglio delle Sabbie** in `Inktober 2024 #Exotic`. Non sostituire questi identificatori con fonti simili solo per somiglianza del titolo.
+

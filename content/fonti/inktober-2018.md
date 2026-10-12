@@ -3,7 +3,8 @@ titolo: "Inktober 2018 — Racconti del Kindsgard"
 categoria: "fonti"
 tag: [inktober, racconti, antologia, in-world, era-del-dominio]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
+aliases: ["Inktober 2018"]
 tipo: "racconto"
 autore: "Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12)"
 voci-wiki-collegate: ["Le Ere del Kindsgard", "Draghieri", "Caitlin Chimera", "Wade Wyrm", "Samu'el Sphynx", "Solomon", "Luther Leviathan", "Brood", "Salamander", "Fiere — Voci Stub", "Bruciati", "Fiamme"]

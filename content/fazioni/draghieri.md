@@ -3,7 +3,7 @@ titolo: "Draghieri"
 categoria: "fazioni"
 tag: [draghieri, fazione, fierezza, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuoco", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi"]
 ---
 
@@ -31,7 +31,7 @@ I Draghieri non formano una gerarchia rigida né un ordine formale: si riconosco
 
 **Numero progressivo:** Il conteggio è per-specie, non globale. Il "33^ Viverna" significa che Wade è il trentatreesimo Draghiere della Viverna nella storia del Kindsgard.
 
-**Guardiani:** Alcuni Draghieri portano il titolo aggiuntivo di **Guardiano**. Si tratta di individui che inconsapevolmente incarnavano uno dei 13 vettori del Fondamento di Lunaria. Non è un titolo assegnato consapevolmente.
+**Guardiani:** Alcuni Draghieri portano il titolo aggiuntivo di **Guardiano**. Si tratta di individui che, nella fase successiva alla connessione con Vilegis/Lunaria, incarnavano inconsapevolmente uno dei tredici vettori manifestatisi nel Kindsgard e collegati al Fondamento. Non è un titolo assegnato consapevolmente; questo gruppo di tredici non va confuso con i sette vettori originari del Kindsgard.
 
 ---
 
@@ -47,7 +47,7 @@ Caratteristiche condivise da tutti i Draghieri, indipendentemente dalla Fiera:
 - **Istinto protettivo verso i deboli**: non sopprimibile, è parte della Fierezza
 - **Incapacità di ammettere errori**: se qualcosa va male, è colpa delle circostanze
 
-I Draghieri sono **completamente incapaci di concepire le conseguenze dell'uccisione di Natura**, poiché la loro mente cieca antepone sempre la Fierezza a qualsiasi ragionamento. Marciano verso una crociata deicida suicida senza vederla tale.
+Il Draghiere ordinario è strutturalmente incapace di concepire le conseguenze dell'uccisione di Natura: il suo Istinto antepone la Fierezza a ogni altro ragionamento e lo spinge verso una crociata deicida senza comprenderne il costo. **Dominic Draco è l'eccezione documentata**: l'Istinto del Drago gli permette di vedere oltre il mandato immediato e di compiere la scelta dell'Anello.
 
 ---
 

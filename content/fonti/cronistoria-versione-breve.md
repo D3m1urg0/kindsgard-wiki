@@ -3,7 +3,7 @@ titolo: "Cronistoria del Kindsgard (versione breve)"
 categoria: "fonti"
 tag: [cronistoria, in-world, storia, ere, draghieri, natura]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "testo-in-world"
 autore: "anonimo (fonte divulgativa)"
 voci-wiki-collegate: ["Le Ere del Kindsgard", "Cronologia", "Cosmologia", "Draghieri", "Vere Fiere", "Dominic Draco", "Anello di Fuoco", "Fierezza e Maestà"]
@@ -11,7 +11,7 @@ voci-wiki-collegate: ["Le Ere del Kindsgard", "Cronologia", "Cosmologia", "Dragh
 
 # Cronistoria del Kindsgard (versione breve)
 
-> *Versione divulgativa in-world della storia del Kindsgard. Per la versione OOC completa vedi [[L'Ambientazione dei Draghieri del Kindsgard — Cronistoria OOC|D3-cronistoria-ooc]]. Nota: il termine "U-Ma-Ni" presente in questo documento è un refuso canonicamente eliminato — il nome corretto è semplicemente Umani.*
+> *Versione divulgativa in-world della storia del Kindsgard. Per la versione OOC completa vedi [[Fonti e Decisioni Canoniche|D3-cronistoria-ooc — fonte non reperita]]. Nota: il termine "U-Ma-Ni" presente in questo documento è un refuso canonicamente eliminato — il nome corretto è semplicemente Umani.*
 
 ---
 

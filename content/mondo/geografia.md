@@ -3,8 +3,9 @@ titolo: "Geografia del Kindsgard"
 categoria: "mondo"
 tag: [geografia, luoghi, artigli, anello, maestà, mare]
 status: "bozza"
-ultima_modifica: "2025-06-13"
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Inktober_2018", "Inktober_2019"]
+ultima_modifica: "2026-10-12"
+aliases: ["Spiagge del Mare Esterno","Valle dei Fulmini","Fiume Bianco"]
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
 ---
 
 # Geografia del Kindsgard
@@ -17,11 +18,11 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Soffioni_Uncinati", "Una_Mi
 
 Il Kindsgard è un mondo-corpo: la sua divinità ([[Natura]]/[[Maestà]]) ne è letteralmente il cuore fisico. La geografia riflette questa struttura:
 
-- Al **centro assoluto** del mondo si trova la **[[Maestà]]**, un vulcano di dimensioni tali da dominare l'orizzonte da qualunque punto del Giardino
+- Al **centro assoluto** del mondo si trova la **[[Maestà]]**, il vulcano che la guida OOC canonica descrive come grande quanto il mondo (`Draghieri del Kindsgard (spiegazione)`) e che `Inktober 2019 #Ring` rappresenta come dominante rispetto a colline, burroni, Mare Interno e deserti; le fonti non forniscono una misura separata del raggio di visibilità
 - Attorno alla Maestà si estende il **Giardino** — territorio selvaggio, incontrollato, popolato dalle [[Fiere]]
 - A distanza dalla Maestà si trova l'**[[Anello di Fuoco]]** — il perimetro difensivo dei [[Draghieri]]
 - Oltre l'Anello si estendono i **territori Umani** — liberati e messi in sicurezza nei secoli
-- Ai margini estremi del mondo si trovano le **[[Spiagge del Mare Esterno]]** — le terre più lontane dalla Maestà, dove la forza di Natura è più debole
+- Ai margini estremi del mondo si trovano le **[[mondo/geografia#spiagge-del-mare-esterno-il-bordo|Spiagge del Mare Esterno]]** — le terre più lontane dalla Maestà, dove la forza di Natura è più debole
 
 ---
 
@@ -29,7 +30,7 @@ Il Kindsgard è un mondo-corpo: la sua divinità ([[Natura]]/[[Maestà]]) ne è 
 
 ### Maestà
 
-Il vulcano centrale, cuore pulsante di [[Natura]]. Di dimensioni così imponenti da essere visibile da qualsiasi punto del Kindsgard. È il luogo in cui la forza creatrice e distruttrice di Natura si irradia per il Creato. Alla sua vetta si trova la caldera in cui, secondo i Draghieri, risiede il cuore di Natura.
+Il vulcano centrale, cuore pulsante di [[Natura]]. `Inktober 2019 #Ring` lo descrive come una montagna che si staglia oltre le nubi acide e oltre colline, burroni, Mare Interno e deserti; la fonte ne rende l'enorme scala, ma non stabilisce una misura di visibilità da ogni punto del Kindsgard. Alla sua vetta si trova la caldera in cui, secondo i Draghieri, risiede il cuore di Natura.
 
 Le [[Vere Fiere]] vi condussero l'ultima grande Fenice (la Specie) per sacrificarla al magma, condannandola a bruciare eternamente per preservare la specie dall'estinzione (`Solitudine`).
 
@@ -55,7 +56,7 @@ Le torri che compongono l'Anello di Fuoco. Strutture imponenti, costruite in pie
 |------|------|-----------------------|------|
 | Artiglio delle Brughiere | Ovest | [[Caitlin Chimera]] | Cade durante la crisi dell'Orso |
 | Artiglio delle Sabbie | Deserti | [[Samu'el Sphynx]] | Sede della biblioteca e dei progetti delle Serre |
-| Artiglio del Magma | Zona vulcanica | [[Syrus Salamander]] | Menzionato in `L'esodo` |
+| Artiglio del Magma | Zona vulcanica | Draghiere della Salamandra non identificabile con certezza | Wade cerca di condurvi i sopravvissuti in `L'esodo`; la data non permette di stabilire se si tratti di Syrus o Sebastian Salamander |
 | Artiglio delle Nevi | Nord | [[Ember Everastes]], [[Laerius Loch]] | Evacuato per un Drago (`Inktober 2019`) |
 | Artiglio Sepolto delle Catene Montuose Orientali | Est montagnoso | [[Bartholomew Brood]], poi [[Brienne Brood]] | La **Città-Alveare** |
 | Artiglio dei Picchi | Nord montagnoso | — | Menzionato in `Inktober 2019` |
@@ -63,7 +64,7 @@ Le torri che compongono l'Anello di Fuoco. Strutture imponenti, costruite in pie
 | Artiglio del Lago Semipermanente | Nord | — | Prima diga del Fiume Bianco (`Inktober 2018 #Flowing`) |
 | Artiglio del Lago Alto | Nord | — | Colpito dal terremoto durante i lavori idrici |
 | Artiglio delle Scogliere | Costa del Mare Interno | [[Luther Leviathan]] | Porto della Maelstrom |
-| Artiglio di Fuoco (Città del Re) | — | [[Dominic Draco]] | Sede del regno di Re Draco |
+| Artiglio di Città del Re | Città del Re | [[Dominic Draco]] | Citato per i Battesimi controllati nell'Era del Dominio (`Inktober 2018 #Scorched`); da non confondere con l'Artiglio del Fuoco, sede del laboratorio della Salamandra |
 
 ---
 
@@ -88,7 +89,7 @@ Serre agricole situate a **Sud**, l'unico sistema organizzato di produzione alim
 - **Settore Est**: Chayote Strangolatore
 - **Settore Sud**: Amaranthus Cruentus
 
-Cadute in abbandono durante la crisi. Riconquistate e ripopolate da [[Gertrude Gorgon]] con l'aiuto di altri Draghieri (`Inktober 2018 #Overgrown`, `#Bottle`).
+Cadute in abbandono durante la crisi. Riconquistate e ripopolate da [[Gertrude Gorgon]] con l'aiuto di altri Draghieri (`Inktober 2019 #Overgrown`, `#Bottle`).
 
 ---
 
@@ -106,13 +107,15 @@ Il grande specchio d'acqua interno al Giardino. Navigabile dopo che i Draghieri 
 
 ### Pianure del Vento
 
-Situate a **nordest della Maestà**, sono l'habitat dei [[Soffione Uncinato|Soffioni Uncinati]] (`Soffioni_Uncinati.docx`). I forti venti permettono ai loro acheni di cacciare e disperdersi.
+Situate a **nordest della Maestà**, sono l'habitat dei [[Soffione Uncinato|Soffioni Uncinati]] (`content/fonti/soffioni-uncinati-fonte.md`). I forti venti permettono ai loro acheni di cacciare e disperdersi.
 
 ---
 
-### Valle dei Fulmini / Valle dei Tuoni
+### Valle dei Fulmini
 
-Zone montuose nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di origine dell'armatura di Bran, forgiata con il ferro nero del luogo. Citata in `Inktober 2019 #Bait`.
+Zona montuosa nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di origine dell'armatura di Bran, forgiata con il ferro nero del luogo. È citata in `Inktober 2019 #Bait` e `L'ultima notte all'ombra dell'Anello`.
+
+**Nota sui nomi:** `Inktober 2019 #Bait` colloca Bran sul costone più a Nord della sua “Valle dei Tuoni”; `#Tread` e `L'ultima notte all'ombra dell'Anello` usano invece “Valle dei Fulmini”. Le fonti attestano entrambi i nomi, ma non dichiarano esplicitamente se indichino lo stesso luogo o due luoghi distinti. Non trattare “Valle dei Tuoni” come semplice variante né unificare i due toponimi senza ulteriori prove.
 
 ---
 
@@ -130,7 +133,7 @@ Corso d'acqua controllato da una diga costruita dai Draghieri all'altezza del La
 
 ## Note
 
-⚪ *Lacuna aperta L3: nessuna mappa sistematica disponibile. Le relazioni spaziali tra Artigli e zone geografiche sono parzialmente inferibili dai testi ma non confermabili con precisione. Procedere con cautela nell'uso di questa voce come riferimento geografico assoluto.*
+⚪ *Lacuna aperta L3: nessuna mappa sistematica disponibile. Le relazioni spaziali tra Artigli e zone geografiche sono parzialmente inferibili dai testi ma non confermabili con precisione. `Inktober 2019 #Bait` usa “Valle dei Tuoni”; `#Tread` e `L'ultima notte all'ombra dell'Anello` usano “Valle dei Fulmini”. Le fonti non stabiliscono se i due nomi indichino lo stesso luogo. Procedere con cautela nell'uso di questa voce come riferimento geografico assoluto.*
 
 ---
 

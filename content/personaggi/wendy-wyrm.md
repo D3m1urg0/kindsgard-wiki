@@ -3,7 +3,7 @@ titolo: "Wendy Wyrm"
 categoria: "personaggi"
 tag: [wendy-wyrm, vere-fiere, vera-viverna, personaggio]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["La_natura_di_Natura", "Solitudine", "18___Misfit", "Il_Trattato"]
 ---
 
@@ -54,3 +54,5 @@ La firma della Vera Viverna è l'assenza di dubbi: *"La Dea fa quello che le par
 
 ## Note
 Il documento "La natura di Natura" è firmato "La Vera Viverna, Infusa di Maestà e signora del Giardino" — titolo/ruolo, non nome proprio. Il nome Wendy Wyrm è confermato da altre fonti.
+
+`18___Misfit`, collocato nell'Era del Dominio dopo l'ascesa di Re Draco, presenta Wendy ancora come Vera Viverna. Questo sembra in tensione con la regola generale secondo cui le Vere Fiere persero il potere e tornarono Umani quando Draco assorbì i tredici vettori. Non è documentato se Wendy costituisca un'eccezione o se la sequenza degli eventi richieda una riconciliazione ulteriore; vedi [[Domande Aperte e Lacune]] L16.

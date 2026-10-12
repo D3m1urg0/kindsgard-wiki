@@ -40,6 +40,27 @@ function coerceToArray(input: string | string[]): string[] | undefined {
     .map((tag: string | number) => tag.toString())
 }
 
+export function inferWikiAliases(data: Record<string, any>, stem: string): string[] {
+  const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"])) ?? []
+  const inferred: string[] = []
+  if (data.titolo != null) inferred.push(data.titolo.toString())
+
+  const humanStem = stem
+    .replace(/^_+/, "")
+    .split(/[-_]+/)
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ")
+  if (humanStem) inferred.push(humanStem)
+
+  const title = String(data.title ?? data.titolo ?? stem)
+  const titleWithoutArticle = title.replace(/^(?:il|lo|la|i|gli|le|l['’])\s+/i, "")
+  if (titleWithoutArticle !== title) inferred.push(titleWithoutArticle)
+
+  return [...new Set([...aliases, ...inferred].filter(Boolean))]
+}
+
+
 function getAliasSlugs(aliases: string[]): FullSlug[] {
   const res: FullSlug[] = []
   for (const alias of aliases) {
@@ -71,8 +92,11 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               },
             })
 
-            if (data.title != null && data.title.toString() !== "") {
-              data.title = data.title.toString()
+            // The Kindsgard wiki's editorial schema uses "titolo"; Quartz expects "title".
+            // Prefer an explicit Quartz title, then the wiki's canonical title, then the filename.
+            const canonicalTitle = coalesceAliases(data, ["title", "titolo"])
+            if (canonicalTitle != null && canonicalTitle.toString() !== "") {
+              data.title = canonicalTitle.toString()
             } else {
               data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
             }
@@ -80,10 +104,12 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]))
             if (tags) data.tags = [...new Set(tags.map((tag: string) => slugTag(tag)))]
 
-            const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"]))
-            if (aliases) {
-              data.aliases = aliases // frontmatter
-              file.data.aliases = getAliasSlugs(aliases)
+            // Generate redirects for the canonical title and common title variants so Obsidian-style
+            // links like [[Dominic Draco]] resolve even when the underlying filename is lowercase.
+            const uniqueAliases = inferWikiAliases(data, file.stem ?? "")
+            if (uniqueAliases.length > 0) {
+              data.aliases = uniqueAliases // explicit and inferred frontmatter aliases
+              file.data.aliases = getAliasSlugs(uniqueAliases)
               allSlugs.push(...file.data.aliases)
             }
 

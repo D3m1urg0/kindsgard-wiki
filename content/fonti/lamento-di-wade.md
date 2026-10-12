@@ -15,45 +15,45 @@ voci-wiki-collegate: ["Wade Wyrm", "Tradizioni, Canti e Motti", "Cronologia", "D
 
 ---
 
-*Fu Draco che pose a noi l'anello*
-*nessun draghiere passarlo può*
-*lui che di noi fu il più antico e fiero*
-*nessun draghiere violarlo vuol*
+*Fu Draco che pose a noi l'anello*  
+*nessun draghiere passarlo può*  
+*lui che di noi fu il più antico e fiero*  
+*nessun draghiere violarlo vuol*  
 
-*passaron gli anni cento in trincea*
-*fermando assalti salvando lor*
-*gli umani che senza altra difesa*
-*per nostra impresa vivono ancor*
+*passaron gli anni cento in trincea*  
+*fermando assalti salvando lor*  
+*gli umani che senza altra difesa*  
+*per nostra impresa vivono ancor*  
 
-*Poi venne un uomo d'onor vestito*
-*un altro anello dietro di sé*
-*Vilegis che terra di frontiera*
-*mille altri mondi da contener*
+*Poi venne un uomo d'onor vestito*  
+*un altro anello dietro di sé*  
+*Vilegis che terra di frontiera*  
+*mille altri mondi da contener*  
 
-*I loro umani nel legar le stelle*
-*mille perigli da confrontar*
-*lottammo allor nella grande giostra*
-*che nostra terra può far crollar*
+*I loro umani nel legar le stelle*  
+*mille perigli da confrontar*  
+*lottammo allor nella grande giostra*  
+*che nostra terra può far crollar*  
 
-*Tornò Fenice fiero immortale*
-*nuova speranza nei nostri cuor*
-*sotto il vessillo del suo avvampare*
-*nel giuoco alieno lottammo ancor*
+*Tornò Fenice fiero immortale*  
+*nuova speranza nei nostri cuor*  
+*sotto il vessillo del suo avvampare*  
+*nel giuoco alieno lottammo ancor*  
 
-*E fu per l'orso vittoria e riso*
-*la Dea possente si scatenò*
-*ma nel bisogno sempr'è espediente*
-*e un altro anno lottammo ancor*
+*E fu per l'orso vittoria e riso*  
+*la Dea possente si scatenò*  
+*ma nel bisogno sempr'è espediente*  
+*e un altro anno lottammo ancor*  
 
-*Fu Draco che assaltò l'anello*
-*nessun draghiere fermarlo può*
-*lui che di noi fu il più antico e fiero*
-*fonteggeremo con più furor*
+*Fu Draco che assaltò l'anello*  
+*nessun draghiere fermarlo può*  
+*lui che di noi fu il più antico e fiero*  
+*fonteggeremo con più furor*  
 
-*saranno gli anni cento in trincea*
-*fermando assalti salvando lor*
-*gli umani che senza altra difesa*
-*per nostra impresa vivranno ancor*
+*saranno gli anni cento in trincea*  
+*fermando assalti salvando lor*  
+*gli umani che senza altra difesa*  
+*per nostra impresa vivranno ancor*  
 
 → *Voci wiki: [[Anello di Fuoco]], [[Frederick Fenice]], [[Dominic Draco]], [[Cronologia]], [[Tradizioni, Canti e Motti]]*
 

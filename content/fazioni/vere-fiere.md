@@ -3,8 +3,8 @@ titolo: "Vere Fiere"
 categoria: "fazioni"
 tag: [vere-fiere, fazione, maestà, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "L_Animale_Uomo", "Solitudine", "18___Misfit"]
+ultima_modifica: "2026-10-12"
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "L_Animale_Uomo", "Solitudine", "18___Misfit", "Inktober_2018"]
 ---
 
 # Vere Fiere
@@ -17,9 +17,9 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Drag
 
 Le Vere Fiere sono la nemesi dei [[Draghieri]]: individui infusi dello stesso principio cosmologico ([[Fierezza e Maestà|Fierezza/Maestà]]) ma con orientamento opposto. Dove i Draghieri servono la sopravvivenza degli [[Umani]], le Vere Fiere servono la legge di [[Natura]]: il predatore domina, il debole soccombe.
 
-Come i Draghieri, ogni Vera Fiera nasce da un [[Battesimo del Fuoco]] — un Umano che affronta e uccide una Fiera — ma l'infusione avviene attraverso **Maestà** invece che Fierezza, imprimendo un mandato opposto: il diritto di predare, regnare e onorare la legge del Giardino.
+Nel processo ordinario, un [[Battesimo del Fuoco]] può orientarsi verso **Maestà** invece che Fierezza, imprimendo il mandato di predare, regnare e onorare la legge del Giardino. Non tutte le Vere Fiere, però, derivano da un Umano che ha appena ucciso una Fiera: il ciclo storico del Kindsgard prevede anche che i Draghieri, quando raggiungono la vetta della [[Maestà]], vengano trasformati in Vere Fiere. Le due vie non vanno fuse in un'unica sequenza obbligatoria.
 
-Le Vere Fiere non sanno di condividere la stessa fonte di potere dei Draghieri, né di servire lo stesso scopo cosmologico. Credono di essere i figli prediletti di Natura, i suoi paladini, e considerano gli Umani un'aberrazione indegna di sopravvivere.
+Le Vere Fiere, in generale, non sanno di condividere la stessa fonte di potere dei Draghieri né di servire lo stesso scopo cosmologico. Credono di essere i figli prediletti di Natura, i suoi paladini, e considerano gli Umani un'aberrazione indegna di sopravvivere. **Dominic Draco è l'eccezione documentata**: anche durante la fase da Vera Fiera comprende il problema cosmologico e sceglie di proteggere il Giardino attraverso l'Anello.
 
 ---
 
@@ -51,7 +51,7 @@ In un'unica occasione documentata, Draghieri e Vere Fiere hanno collaborato: dur
 
 ## Fine del Potere
 
-Quando [[Dominic Draco]] divenne **Re Draco, Unico Guardiano**, assorbendo i 13 vettori del Fondamento tramite l'arma Espediente, le Vere Fiere persero il proprio potere e tornarono semplici Umani. I [[Draghieri]] non le eliminarono: il loro Istinto non le riconosce come minaccia in forma umana.
+Quando [[Dominic Draco]] divenne **Re Draco, Unico Guardiano**, assorbendo i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento tramite l'arma Espediente, la cronologia generale riferisce che le Vere Fiere persero il proprio potere e tornarono semplici Umani. I [[Draghieri]] non le eliminarono: il loro Istinto non le riconosceva come minaccia in forma umana. La formulazione generale non chiarisce però la sorte di ogni individuo: `18___Misfit`, collocato nell'Era del Dominio, presenta Wendy Wyrm e Solomon ancora identificati come Vere Fiere, mentre `Inktober 2018 #Precious` mostra Solomon in forma umanoide e lascia ambiguo il suo stato. Vedi [[Domande Aperte e Lacune]] L16.
 
 Le [[Fiamme]] sono una fazione distinta, non derivata dalle ex-Vere Fiere: nascono da Battesimi del Fuoco predestinati ma interrotti, risolti solo grazie all'ondata di Fierezza scatenata dalla crisi della specie Fenice su Vilegis. Vedi [[Fiamme]] per il meccanismo completo.
 ---

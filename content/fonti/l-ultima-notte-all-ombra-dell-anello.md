@@ -3,7 +3,7 @@ titolo: "L'Ultima Notte all'Ombra dell'Anello"
 categoria: "fonti"
 tag: [wade-wyrm, poema, racconto, in-world, crisi-dell-orso, anello-di-fuoco, samuel-sphynx]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "racconto"
 autore: "Wade Wyrm, 33° Viverna"
 data-in-world: "Territori dell'Artiglio delle Sabbie, 25/10/1104 — La notte della chiamata"
@@ -32,20 +32,20 @@ Corro...
 
 ---
 
-Stringe la lancia e lo invade la fiele,
-Stringe la lancia e barcolla il Draghiere.
-Colpisce tre volte preciso e veemente
-la coda, poi l'ala ed infine lo ventre,
-affonda il suo colpo che il tempo è già andato,
-la fiera e il Draghiere si accascian su un lato.
-In pioggia di schegge manticora muore
-ed ecco una voce sovrasta il rumore.
-[[Frederick Fenice|Fenice]] richiama il Draghiere rimasto
-per ultimo al fronte d'eterno contrasto.
-Precoce chiamata gli giunge in aiuto
-gli Artigli son vuoti, l'Anello è caduto.
+Stringe la lancia e lo invade la fiele,  
+Stringe la lancia e barcolla il Draghiere.  
+Colpisce tre volte preciso e veemente  
+la coda, poi l'ala ed infine lo ventre,  
+affonda il suo colpo che il tempo è già andato,  
+la fiera e il Draghiere si accascian su un lato.  
+In pioggia di schegge manticora muore  
+ed ecco una voce sovrasta il rumore.  
+[[Frederick Fenice|Fenice]] richiama il Draghiere rimasto  
+per ultimo al fronte d'eterno contrasto.  
+Precoce chiamata gli giunge in aiuto  
+gli Artigli son vuoti, l'Anello è caduto.  
 
-→ *Voci wiki: [[Anello di Fuoco]], [[Cronologia — Primo Anno dell'Orso]], [[Wade Wyrm]], [[Samu'el Sphynx]]*
+→ *Voci wiki: [[Anello di Fuoco]], [[storia/cronologia#anno-dellorso|Cronologia — Primo Anno dell'Orso]], [[Wade Wyrm]], [[Samu'el Sphynx]]*
 
 ---
 

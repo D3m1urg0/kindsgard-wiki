@@ -3,7 +3,8 @@ titolo: "Fierezza e Maestà"
 categoria: "sistemi"
 tag: [fierezza, maestà, istinto, espediente, battesimo, draghieri, vere-fiere]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
+aliases: ["Fierezza"]
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi"]
 ---
 
@@ -15,9 +16,9 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Drag
 
 ## Panoramica
 
-Fierezza e Maestà sono denominazioni diverse dello stesso potere cosmologico che anima sia i [[Draghieri]] che le [[Vere Fiere]]. I Draghieri lo chiamano **Fierezza**, le Vere Fiere lo chiamano **Maestà**. Nessuna delle due fazioni sa di condividere la stessa fonte, né di essere — insieme — l'ago di una bilancia cosmica il cui scopo è mantenere in equilibrio Umani e Giardino, e quindi garantire la sopravvivenza di [[Natura]] stessa.
+Fierezza e Maestà sono denominazioni diverse dello stesso potere cosmologico che anima sia i [[Draghieri]] che le [[Vere Fiere]]. I Draghieri lo chiamano **Fierezza**, le Vere Fiere lo chiamano **Maestà**. Le due fazioni, in generale, non sanno di condividere la stessa fonte né di essere — insieme — l'ago di una bilancia cosmica il cui scopo è mantenere in equilibrio Umani e Giardino, e quindi garantire la sopravvivenza di [[Natura]] stessa. **Dominic Draco è l'eccezione documentata**: comprende il problema cosmologico e sceglie di proteggere il Giardino con la fondazione dell'Anello.
 
-Questa ignoranza reciproca è strutturale, non accidentale: è parte del meccanismo che ha permesso al Kindsgard di sopravvivere per eoni attraverso cicli di conquista e perdita, Fierezza e Maestà che si alternano nel dominio senza mai distruggersi definitivamente a vicenda.
+Per i portatori ordinari, questa ignoranza reciproca è strutturale, non accidentale: è parte del meccanismo che ha permesso al Kindsgard di sopravvivere per eoni attraverso cicli di conquista e perdita, Fierezza e Maestà che si alternano nel dominio senza mai distruggersi definitivamente a vicenda. La capacità di Dominic di vedere oltre questo schema è precisamente ciò che rende possibile la scelta dell'Anello.
 
 ---
 
@@ -43,15 +44,17 @@ Il terzo livello è l'**Espediente**: le capacità concrete, le proficienze, le 
 
 ## Il Battesimo del Fuoco
 
-Il Battesimo del Fuoco è l'evento che trasforma un Umano in Draghiere o Vera Fiera. La meccanica è universale e invariabile:
+Il Battesimo del Fuoco è l'evento che trasforma un Umano in Draghiere o Vera Fiera. Le fonti descrivono uno schema ordinario condiviso, ma documentano anche casi eccezionali: la sintesi seguente riassume il processo normale, non una regola priva di eccezioni:
 
 1. Un Umano si trova in una situazione di pericolo estremo di fronte a una Fiera
 2. Invece di fuggire o soccombere, sceglie di affrontarla
 3. La uccide
 4. In quell'istante Fierezza/Maestà si infonde in lui, trasferendogli l'Istinto e l'Espediente della Fiera sconfitta
-5. L'Umano prende il nome della Fiera come cognome e un numero progressivo nella sequenza di quella specie
+5. L'Umano assume il nome della Fiera come cognome. Se si risveglia come Draghiere, riceve anche un numero progressivo nella sequenza di quella specie; le Vere Fiere non adottano una numerazione progressiva.
 
-L'orientamento dell'infusione — verso Fierezza (Draghiere) o verso Maestà (Vera Fiera) — determina quale mandato il portatore riceverà. I due orientamenti sono opposti ma attingono allo stesso principio cosmologico.
+L'orientamento dell'infusione — verso Fierezza (Draghiere) o verso Maestà (Vera Fiera) — dipende dall'esito della grande battaglia su Vilegis e dallo Spettro più allineato rispettivamente ai Draghieri o alle Vere Fiere. I due orientamenti sono opposti ma attingono allo stesso principio cosmologico. Questo collegamento appartiene alla fase successiva all'interconnessione dei mondi, non alla cosmologia originaria del Kindsgard.
+
+Un Istinto che non si risveglia non è necessariamente assente: può essere già incarnato altrove. In un dato periodo può esserci un solo Battesimo del Fuoco per ciascun tipo di creatura/specie. I personaggi giocanti che arrivano tramite la Chiamata costituiscono un caso particolare e possono presentare entrambe le varianti. Il racconto `Risveglio del Drago` documenta inoltre un evento eccezionale in cui Wade si reincarna come Vera Viverna senza uccidere una Viverna, mentre il suo sé umano è ancora vivo su Vilegis; il meccanismo non è spiegato integralmente.
 
 Il Battesimo può fallire: gli Umani che affrontano una Fiera e sopravvivono senza completare la trasformazione diventano i **[[Bruciati]]**, menomati permanenti che non ottengono poteri ma perdono qualcosa di irrecuperabile. I Bruciati sono il seme della fazione delle **[[Fiamme]]**. ⚪ *Documentazione incompleta.*
 
@@ -73,7 +76,7 @@ Le Vere Fiere non mantengono un conteggio progressivo dei propri membri: ogni Ve
 
 ## Il Ciclo
 
-Per eoni, Fierezza e Maestà si sono alternate nel dominio del Kindsgard secondo un ciclo:
+Per eoni, Fierezza e Maestà si sono alternate nel dominio del Kindsgard secondo un ciclo. Normalmente, quando i Draghieri si avvicinano alla Maestà, il ciclo cambia orientamento e i nuovi risvegli sono soltanto Vere Fiere; non significa però che in ogni evento o periodo storico esistano esclusivamente Vere Fiere:
 
 - Quando gli Umani erano prossimi all'estinzione, Fierezza sorgeva nel cuore degli Eroi → i Draghieri avanzavano, strappando terre al Giardino
 - Quando i Draghieri raggiungevano la vetta della [[Maestà]], la stessa forza si rivoltava in loro → diventavano Vere Fiere, regnavano sul Kindsgard divorando e abusando

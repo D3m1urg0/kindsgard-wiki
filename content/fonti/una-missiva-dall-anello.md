@@ -3,7 +3,7 @@ titolo: "Una Missiva dall'Anello"
 categoria: "fonti"
 tag: [wade-wyrm, lettera, in-world, anno-dell-orso, anello-di-fuoco, icaria, frederick-fenice]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "testo-in-world"
 autore: "Wade Wyrm, 33° Viverna"
 data-in-world: "103° anno all'ombra dell'anello"
@@ -32,9 +32,9 @@ Questi sono i luoghi in cui Draco ha posto i confini e mai da quando esiste per 
 
 Proprio ieri **Frederick Fenice**, Unica Fenice dei Draghieri del Kindsgard, ha pronunciato una frase che mi ha subito ricordato il motto del vostro casato:
 
-*"Se questa situazione vi appare disperata ricordate*
-*che vi fu un tempo in cui il Giardino dominava tutte le terre*
-*e fu dal Bisogno che l'Espediente donò all'uomo i Draghieri"*
+*"Se questa situazione vi appare disperata ricordate*  
+*che vi fu un tempo in cui il Giardino dominava tutte le terre*  
+*e fu dal Bisogno che l'Espediente donò all'uomo i Draghieri"*  
 
 Noi resisteremo.
 *"Dalla cenere alla vittoria"*
@@ -42,7 +42,7 @@ Noi resisteremo.
 *Wade Wyrm, 33° viverna dei Draghieri del Kindsgard*
 *103° anno all'ombra dell'anello*
 
-→ *Voci wiki: [[Anello di Fuoco]], [[Frederick Fenice]], [[Le Ere del Kindsgard — Anno dell'Orso]], [[Cronologia]]*
+→ *Voci wiki: [[Anello di Fuoco]], [[Frederick Fenice]], [[storia/ere#il-primo-anno-dellorso|Le Ere del Kindsgard — Anno dell'Orso]], [[Cronologia]]*
 
 ---
 

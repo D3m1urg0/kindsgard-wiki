@@ -4,7 +4,7 @@ categoria: "mondo"
 tag: [città-alveare, artiglio, geografia, covata, est]
 status: "revisionato"
 ultima_modifica: "2025-06-13"
-fonti: ["Prevedibilità__covata_", "Inktober_2019"]
+fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2024"]
 ---
 
 # Città-Alveare

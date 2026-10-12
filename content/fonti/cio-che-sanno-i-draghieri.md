@@ -3,7 +3,7 @@ titolo: "La 'Mezza' Verità — Ciò che i Draghieri Conoscono"
 categoria: "fonti"
 tag: [draghieri, in-world, cosmologia, bisogno, espediente, fierezza, verità-parziale]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
 tipo: "testo-in-world"
 autore: "anonimo (prospettiva collettiva Draghieri)"
 voci-wiki-collegate: ["Draghieri", "Cosmologia", "Fierezza e Maestà", "Dominic Draco", "Anello di Fuoco", "Il Battesimo del Fuoco", "Vilegis / Lunaria"]
@@ -11,7 +11,7 @@ voci-wiki-collegate: ["Draghieri", "Cosmologia", "Fierezza e Maestà", "Dominic 
 
 # La "Mezza" Verità — Ciò che i Draghieri Conoscono
 
-> *Documento OOC che descrive la versione dei fatti conosciuta dai Draghieri — una verità parziale, non la realtà cosmologica. Per la verità cosmologica completa vedi [[Cosmologia]] e [[L'Ambientazione dei Draghieri del Kindsgard — Cronistoria OOC|D3-cronistoria-ooc]].*
+> *Documento OOC che descrive la versione dei fatti conosciuta dai Draghieri — una verità parziale, non la realtà cosmologica. Per la verità cosmologica completa vedi [[Cosmologia]] e [[Fonti e Decisioni Canoniche|D3-cronistoria-ooc — fonte non reperita]].*
 
 ---
 
@@ -53,6 +53,6 @@ Ora una nuova prospettiva è giunta alla nostra conoscenza. Altri Giardini esist
 
 Questo documento presenta la **versione parziale e in-world** della storia del Kindsgard, come la conoscono i Draghieri stessi. Alcune differenze rispetto alla verità cosmologica:
 
-- La versione Draghieri attribuisce la nascita di Bisogno ed Espediente alle preghiere umane; la verità cosmologica (da [[La natura di Natura — testo|La natura di Natura]] e [[L'Ambientazione dei Draghieri del Kindsgard — Cronistoria OOC|D3]]) dice che Bisogno ed Espediente sono principi preesistenti al Giardino.
+- La versione Draghieri attribuisce la nascita di Bisogno ed Espediente alle preghiere umane; la verità cosmologica (da [[La natura di Natura — testo|La natura di Natura]] e [[Fonti e Decisioni Canoniche|D3 — fonte non reperita]]) dice che Bisogno ed Espediente sono principi preesistenti al Giardino.
 - La versione Draghieri descrive Fierezza come "un secondo Dio donato al genere umano da Dominic"; la verità cosmologica dice che è lo stesso principio di Maestà, incarnato in direzione opposta.
 - Il documento descrive Vilegis come "un luogo simile al nostro Anello di Fuoco" — prospettiva in-world limitata.

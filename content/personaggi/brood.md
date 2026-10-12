@@ -3,8 +3,9 @@ titolo: "Brood — Draghieri della Covata"
 categoria: "personaggi"
 tag: [bartholomew-brood, brienne-brood, draghieri, covata, guardiano, personaggio]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
-fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Onda_bianca"]
+ultima_modifica: "2026-10-12"
+aliases: ["Bartholomew Brood","Brienne Brood"]
+fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Inktober_2024", "Onda_bianca"]
 ---
 
 # Brood — Draghieri della Covata
@@ -17,7 +18,7 @@ fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Onda_bianc
 
 ### Panoramica
 
-Bartholomew Brood è il sedicesimo Draghiere della Covata e portava il titolo di **Guardiano** — uno dei 13 individui che inconsapevolmente incarnavano un vettore del Fondamento di Lunaria. Comandante dell'**Artiglio Sepolto delle Catene Montuose Orientali**, la **Città-Alveare**, la fortezza più strategicamente complessa del Kindsgard orientale.
+Bartholomew Brood è il sedicesimo Draghiere della Covata e portava il titolo di **Guardiano** — uno dei tredici individui che, dopo la connessione del Kindsgard con Vilegis/Lunaria, incarnavano inconsapevolmente un vettore manifestatosi nel Kindsgard in relazione al Fondamento. Questo gruppo successivo non coincide con i sette vettori originari del Kindsgard. Comandante dell'**Artiglio Sepolto delle Catene Montuose Orientali**, la **Città-Alveare**, la fortezza più strategicamente complessa del Kindsgard orientale.
 
 ### Istinto e Capacità
 

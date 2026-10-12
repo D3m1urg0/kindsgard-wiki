@@ -72,7 +72,7 @@ Tutti i contenuti sono in `content/`, organizzati nelle stesse cartelle della st
 
 ```
 content/
-├── _index.md, _glossario.md, _changelog.md, index.md
+├── _glossario.md, _changelog.md, index.md
 ├── meta/          (fonti, domande aperte, convenzioni, istruzioni di ripresa)
 ├── mondo/         (cosmologia, geografia, maestà, anello di fuoco, città-alveare)
 ├── storia/        (cronologia, ere)
@@ -81,7 +81,7 @@ content/
 ├── sistemi/       (fierezza e maestà, battesimo del fuoco)
 ├── cultura/       (religioni, tradizioni)
 ├── fiere/         (soffione uncinato, bacca emofaga, fiere stub)
-└── fonti/         (34 documenti sorgente convertiti, verbatim)
+└── fonti/         (29 file Markdown sorgente presenti nel tree corrente; il registro meta distingue le fonti presenti dai riferimenti legacy non riconciliati)
 ```
 
 Per modificare una voce: apri il file `.md` corrispondente con qualsiasi editor di testo (anche direttamente su GitHub.com, cliccando la matita in alto a destra in ogni file), modifica, salva. Se lavori su GitHub.com il sito si aggiorna automaticamente al prossimo deploy.

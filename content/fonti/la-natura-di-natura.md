@@ -3,7 +3,8 @@ titolo: "La Natura di Natura"
 categoria: "fonti"
 tag: [wendy-wyrm, vera-viverna, cosmologia, natura, bisogno, espediente, maestà, in-world, saggio]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-11"
+aliases: ["La natura di Natura — testo"]
 tipo: "testo-in-world"
 autore: "Wendy Wyrm, Vera Viverna — Infusa di Maestà e signora del Giardino"
 data-in-world: "22° giorno del settimo mese, nel terzo anno dalla grande eruzione che diede inizio al primo secolo dell'Orso"
