@@ -56,7 +56,7 @@ Le torri che compongono l'Anello di Fuoco. Strutture imponenti, costruite in pie
 |------|------|-----------------------|------|
 | Artiglio delle Brughiere | Ovest | [[Caitlin Chimera]] | Cade durante la crisi dell'Orso |
 | Artiglio delle Sabbie | Deserti | [[Samu'el Sphynx]] | Sede della biblioteca e dei progetti delle Serre |
-| Artiglio del Magma | Zona vulcanica | [[Syrus Salamander]] | Menzionato in `L'esodo` |
+| Artiglio del Magma | Zona vulcanica | Draghiere della Salamandra non identificabile con certezza | Wade cerca di condurvi i sopravvissuti in `L'esodo`; la data non permette di stabilire se si tratti di Syrus o Sebastian Salamander |
 | Artiglio delle Nevi | Nord | [[Ember Everastes]], [[Laerius Loch]] | Evacuato per un Drago (`Inktober 2019`) |
 | Artiglio Sepolto delle Catene Montuose Orientali | Est montagnoso | [[Bartholomew Brood]], poi [[Brienne Brood]] | La **Città-Alveare** |
 | Artiglio dei Picchi | Nord montagnoso | — | Menzionato in `Inktober 2019` |
