@@ -12,6 +12,8 @@ fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Prevedibilità__cova
 
 > *Voci sintetiche incomplete per Fiere attestate o menzionate nelle fonti elencate. Le due Fiere con scheda tecnica completa hanno voci dedicate: [[Soffione Uncinato]] e [[Bacca Emofaga]]. Le informazioni vanno lette secondo la fonte indicata in ciascuna voce: il corpus comprende racconti, liste OOC e brainstorming. I nomi nella sezione finale di brainstorming non attestano l'esistenza canonica di quelle Fiere.*
 
+> ⚠️ **Voce incompleta:** questo indice non sostituisce le schede tecniche e non attribuisce canonicità ai nomi presenti soltanto in liste di brainstorming.
+
 ---
 
 ## Nota Generale sulle Fiere
