@@ -12,6 +12,38 @@ ultima_modifica: "2026-10-12"
 
 ---
 
+## Sintesi finale — sole decisioni da sottoporre al proprietario
+
+Questa sezione separa le decisioni che richiedono una risposta umana dalle attività documentali che l'audit deve svolgere autonomamente. Non è una dichiarazione che le verifiche sulle fonti mancanti siano concluse.
+
+### Decisioni canoniche o interpretative
+
+1. **A5 — Angeline Aconitum/Aconytum:** quale grafia adottare come canonica? Le due forme sono attestate in fonti diverse; fino alla risposta, conservarle nelle rispettive citazioni.
+2. **L12 — Annali dell'Artiglio delle Sabbie:** sono una fonte distinta dagli Annali dell'Artiglio di Fuoco, una citazione interna derivata da essi, oppure un altro rapporto? Non unificare i riferimenti senza evidenza.
+3. **L13 — Fiamme nel Kindsgard:** le Fiamme esistono come fazione organizzata anche nel Kindsgard, oppure la fazione appartiene a Vilegis/Lunaria e i Bruciati sono soltanto il suo seme narrativo? Il legame già registrato fra Bruciati e Fiamme non è in discussione.
+4. **L14 — “Infiammati”:** il termine in Inktober 2018 #Flowing indica i Bruciati, un gruppo distinto o altro? La somiglianza lessicale non basta a identificarli.
+5. **L15 — Seymour Sandwurm / “ex Shai'Hulud”:** che cosa designa Shai'Hulud nella nota originale: un precedente nome personale, una specie/Fiera o altro?
+6. **L16 — Vere Fiere dopo l'ascesa di Re Draco:** la regola del ritorno allo stato umano è universale, oppure Wendy e/o Solomon costituiscono eccezioni? Prima della risposta va comunque completato il confronto cronologico fra le fonti già disponibili.
+7. **L17 — Tredici Guardiani:** esiste una lista canonica completa? Frederick Fenice apparteneva al gruppo dei tredici Guardiani collegati al Fondamento, oppure il tag `guardiano` nella sua voce ha un altro significato?
+8. **L11 — `Copia_di_I_Draghieri_del_kindsgard`:** il proprietario riconosce questo riferimento come un documento specifico e può fornire il file o identificarne la destinazione? Non sostituirlo automaticamente con `draghieri-spiegazione.md`.
+9. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
+
+### Non richiedono una decisione umana in questa fase
+
+- **A1:** non assegnare date inventate alle singole storie; Inktober 2024 resta non collocato finché le fonti non permettono una datazione.
+- **L1, L3 e L4:** recuperare/confrontare i testi D3 e D4 e documentare ciò che è attestato. Non chiedere di ripetere i chiarimenti già registrati; i dettagli non presenti nei testi restano lacune.
+- **L2 — tredicesimo Spettro:** Equilibrio resta un candidato menzionato esclusivamente come riferimento esterno non canonico. Dato che Vilegis/Lunaria è fuori scope salvo intersezioni documentate, non è necessaria una decisione del proprietario per il canone Kindsgard; non promuoverlo a fatto canonico senza una fonte primaria pertinente.
+- **L6:** proseguire la verifica delle 26 voci preliminari e delle fonti, senza creare nuovi stub né inventare proprietà.
+- **L7:** mantenere Icaria limitata all'unica menzione reperita; riaprire solo se emerge una nuova fonte.
+- **L10:** mantenere la decisione già presa sui Bruciati e verificare soltanto quali dettagli ulteriori siano attestati.
+- **L18:** confrontare collocazione e testo di `L'Esodo` con le fonti disponibili; finché non risolto, mantenere “Salamandra” ambiguo senza chiedere una scelta arbitraria fra Syrus e Sebastian.
+
+### Criterio di chiusura
+
+Una voce può uscire dal registro delle domande solo quando è risolta da una fonte verificata, da una decisione canonica già registrata o da una risposta esplicita del proprietario. Una fonte non reperita non equivale a una questione risolta. Le attività documentali ancora da eseguire restano nel registro operativo, ma non vanno presentate come domande per il proprietario.
+
+---
+
 ## ✅ Decisioni già chiuse — non riaprire senza nuove evidenze
 
 Le decisioni seguenti sono state confermate nei registri canonici e nel changelog; non devono restare fra le domande aperte:
@@ -56,7 +88,7 @@ Restano da documentare direttamente:
 ### L2 — Il tredicesimo Spettro — candidato esterno da verificare
 I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà. Il sito ufficiale attuale di Battle for Vilegis dichiara che gli Spettri sono tredici; la pagina di Gregoria associa il suo principio all’**Equilibrio**. Questo rende Equilibrio un candidato plausibile, ma le pagine attuali possono appartenere a una versione del setting diversa da quella richiamata nelle fonti Kindsgard.
 - Riferimenti esterni: [Cos’è Vilegis](https://battleforvilegis.com/cose-vilegis/) e [Gregoria](https://battleforvilegis.com/gregoria/).
-- → **HITL:** confermare se Equilibrio può essere registrato come tredicesimo Spettro nella versione storica pertinente, oppure se va mantenuto solo come riferimento esterno non canonico.
+- **Stato decisionale:** Equilibrio resta un candidato menzionato esclusivamente come riferimento esterno non canonico. Dato che Vilegis/Lunaria è fuori scope salvo intersezioni documentate, non è necessaria una decisione del proprietario per il canone Kindsgard; non promuoverlo a fatto canonico senza una fonte primaria pertinente.
 
 ### L3 — Verifica finale della copertura geografica
 La voce `[[Geografia]]` registra i luoghi noti nelle fonti attualmente presenti, ma non esiste una mappa sistematica e alcune relazioni spaziali restano inferite. È stata verificata una discrepanza toponomastica: `Inktober 2019 #Bait` usa “Valle dei Tuoni”, mentre `#Tread` e `L'ultima notte all'ombra dell'Anello` usano “Valle dei Fulmini”; non è stabilito se siano lo stesso luogo. È stata inoltre corretta una conflazione nella tabella degli Artigli: `Inktober 2018 #Scorched` distingue l'Artiglio del Fuoco (con il laboratorio della Salamandra, fuori città) dall'“Artiglio di Città del Re”, citato per i Battesimi controllati; non c'è base per rinominare quest'ultimo “Artiglio di Fuoco”. `Inktober 2019 #Bait` descrive un ghiacciaio sul fianco di un vulcano attivo, senza nominare quel vulcano nel passaggio: identificarlo con la Maestà è plausibile, ma non provato esplicitamente. La copertura geografica non può essere dichiarata definitiva anche perché i testi originali D3 (Cronistoria OOC) e D4 (“You Want to Be a Dragoner”) non sono presenti nel repository consultato né sono stati ritrovati nella Library collegata.
