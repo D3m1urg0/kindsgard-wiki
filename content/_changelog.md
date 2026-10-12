@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Corretta la scheda tecnica wiki della Bacca Emofaga: le allucinazioni sono ora trattate come un singolo caso narrativo ipoteticamente collegato a un fusto alla base della nuca, non come una fase universale della progressione.
+
 - Aggiunta alla voce Maestà una nota di tracciabilità che distingue i dettagli fisici/cosmologici verificati dalle formulazioni che dipendono dai testi integrali D3/D4 non reperiti, con rinvio a L1.
 
 - Risolta una contraddizione interna nella scheda Salamander: il ritrovamento dei resti di Syrus nel laboratorio non viene più trasformato in certezza sul luogo della morte; la sezione finale ora concorda con la nota di tracciabilità che lascia ignote causa e luogo esatti.
