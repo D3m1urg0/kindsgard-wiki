@@ -43,11 +43,11 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Fitofiera** — Classificazione delle Fiere di natura vegetale. Include Soffioni Uncinati, Bacche Emofaghe, Sicomori Perenni, Dionee, ecc.
 
-**Fondamento** — Il sistema cosmologico sottostante al multiverso. Nel Kindsgard si manifesta attraverso 13 vettori incarnati nei [[Guardiani]]. → vedi [[Cosmologia]]
+**Fondamento** — Sistema cosmologico descritto nel setting di Vilegis/Lunaria. Va distinto dai sette vettori originari del Kindsgard e dalla successiva manifestazione nel Kindsgard di tredici vettori/Guardiani collegati al Fondamento. → vedi [[Cosmologia]]
 
 **Giardino** — Nome informale per il territorio del Kindsgard ancora sotto il controllo di Natura, all'interno dell'[[Anello di Fuoco]].
 
-**Guardiano** — Individuo (Draghiere, Vera Fiera o Fiera effettiva) che inconsapevolmente incarnava uno dei 13 vettori del Fondamento di Lunaria. Alcuni Draghieri portano questo titolo nell'Elenco. → vedi [[Cosmologia]], [[Dominic Draco]]
+**Guardiano** — Individuo (Draghiere, Vera Fiera o Fiera effettiva) che, dopo la connessione con Vilegis/Lunaria, incarnava inconsapevolmente uno dei tredici vettori manifestatisi nel Kindsgard e collegati al Fondamento. Alcuni Draghieri portano questo titolo nell'Elenco. → vedi [[Cosmologia]], [[Dominic Draco]]
 
 **Icaria** — Fiera nuova menzionata in *Una Missiva dall'Anello*, proveniente dal profondo del Giardino e descritta come abbastanza grande da rivaleggiare con i Draghi. La natura precisa e gli ulteriori dettagli restano da documentare. → vedi [[Una Missiva dall'Anello]], [[Domande Aperte e Lacune]]
 
@@ -75,7 +75,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Specie Fenice** — Specie di Fiera distinta da Frederick Fenice, il Draghiere detto Unica Fenice. In *Solitudine* compare come l'ultima della propria specie, sacrificata alla bocca della Maestà. → vedi [[Frederick Fenice]], [[Maestà]]
 
-**Unico Guardiano** — Titolo di [[Dominic Draco]] dopo l'assorbimento dei 13 vettori del Fondamento. → vedi [[Dominic Draco]]
+**Unico Guardiano** — Titolo di [[Dominic Draco]] dopo l'assorbimento dei tredici vettori collegati al Fondamento e manifestatisi nel Kindsgard. → vedi [[Dominic Draco]]
 
 **Umani** — Specie inadatta al Kindsgard, creature dell'Era di Armonia. Sopravvivono grazie ai [[Draghieri]].
 
