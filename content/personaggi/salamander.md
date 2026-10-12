@@ -3,7 +3,7 @@ titolo: "Salamander — Draghieri della Salamandra"
 categoria: "personaggi"
 tag: [syrus-salamander, sebastian-salamander, draghieri, salamandra, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-12"
 aliases: ["Syrus Salamander","Sebastian Salamander"]
 fonti: ["Annali_dell_Artiglio_di_Fuoco", "L_esodo", "Inktober_2018", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
