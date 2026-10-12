@@ -29,13 +29,13 @@ Draghiere della Gorgone, di stanza alle [[Colture]]. Ha condotto ricerche medich
 Draghiere della Cockatrice. Il racconto `Fierezza.docx` documenta il suo [[Il Battesimo del Fuoco|Battesimo del Fuoco]] — il più dettagliato nelle fonti. Porta una balestra e una piccola fionda-arco personale; i suoi quadrelli sono avvelenati con una sostanza che pietrifica progressivamente il sangue del colpito. Il suo sangue stesso, se ferito, pietrifica ciò che tocca. Appare anche in `Prevedibilità (covata)` nella battaglia alla Città-Alveare.
 
 ### Lhars Leopterix
-Draghiere del [[fiere/fiere-stub#leopterix|Leopterix]]. Porta un mantello fatto di pelle e piume della propria Fiera; la fonte non descrive abbastanza la specie per confermare che sia un ibrido rettile-volatile. Arciere di estrema precisione — *"lui è la freccia"*. Era scomparso e dato per estinto prima di riapparire nel nord glaciale durante la caccia al Drago con [[Bran Behemoth]] (`Inktober 2019 #Freeze, #Snow, #Dragon`). Numero nella sequenza non specificato.
+Draghiere del [[fiere/fiere-stub#leopterix|Leopterix]]. In `Inktober 2019 #Freeze` indossa un mantello di pelle e piume ricavato da una creatura che il testo descrive come un misto di rettile e volatile e che Lhars caccia abitualmente; il passaggio non nomina esplicitamente la specie, quindi l'identificazione con il Leopterix resta inferita dal contesto. Arciere di estrema precisione — *"lui è la freccia"*. Era scomparso e dato per estinto prima di riapparire nel nord glaciale durante la caccia al Drago con [[Bran Behemoth]] (`Inktober 2019 #Freeze, #Snow, #Dragon`). Numero nella sequenza non specificato.
 
 ### Ember Everastes, IV Everastes
-Draghiere dell'[[fiere/fiere-stub#everastes|Everastes]]. `Inktober 2019 #Snow` lo descrive coperto di pellicce candide, mimetizzato nella neve e “fatto per stare in mezzo al gelo”; non afferma però un'immunità assoluta al freddo. Porta un martello da guerra di pietra grezza. Opera nell'Artiglio delle Nevi e nelle zone glaciali del nord. Il suo Istinto è quello della montagna: immobile, resistente, capace di assorbire colpi enormi senza cedere (`Inktober 2019 #Snow, #Dragon`).
+Draghiere dell'[[fiere/fiere-stub#everastes|Everastes]]. `Inktober 2019 #Snow` lo descrive coperto di pellicce candide, mimetizzato nella neve e “fatto per stare in mezzo al gelo”; non afferma però un'immunità assoluta al freddo. Porta un martello da guerra di pietra grezza e opera nell'Artiglio delle Nevi e nelle zone glaciali del nord. Il suo stemma mostra una montagna al centro di un cerchio di fiamme, ma le fonti citate non dettagliano la meccanica del suo Istinto.
 
 ### Laerius Loch, XV Loccia
-Draghiere della Loccia — Fiera acquatica dei ghiacciai. Fisico esile, abiti blu e bianchi che sembrano fatti di scaglie. Porta arpioni leggeri con corde. Può rimanere immerso in acqua gelida per lunghi periodi senza effetti. Tattica: colpire dall'acqua, in silenzio, da posizioni nascoste. Collabora con [[Bran Behemoth]] ed [[Ember Everastes]] nella caccia al Drago (`Inktober 2019 #Snow, #Dragon`).
+Draghiere della Loccia. In `Inktober 2019 #Snow` veste blu e bianco, con un farsetto imbottito che sembra fatto di scaglie, e combatte con arpioni leggeri a cui possono essere legate corde. Collabora con [[Bran Behemoth]] ed [[Ember Everastes]] nella caccia al Drago. Le fonti citate non attestano un habitat glaciale della Fiera, la capacità di restare immerso a lungo o una tattica abituale di attacco dall'acqua.
 
 ### Sef Sycamore, XIII Sicomoro Perenne
 Draghiere del Sicomoro Perenne — una Fitofiera. Opera nelle zone boschive. Porta un corno aggrovigliato di Aigokeros. Coordina la bonifica della Foresta ambulante nelle Brughiere (`Inktober 2019 #Mindless`, `Inktober 2019 #Ash`).
@@ -58,7 +58,7 @@ Due Draghieri della Manticora documentati nell'Elenco. Meridian appare in `Preve
 Due Draghieri del Kelpie. Kriss appare in `Inktober 2019 #Build` e `#Pattern` tra i Draghieri alla Città-Alveare. Insieme a Mirjam Merrow opera nelle zone paludose.
 
 ### Mirjam Merrow
-Draghiere della Merrow (creatura acquatica/paludosa). Porta una lunga falce. Opera nelle paludi. Appare in `Inktober 2019 #Build` e `#Pattern`.
+Draghiere della Merrow. Porta una lunga falce e appare in `Inktober 2019 #Build` e `#Pattern`; le fonti la collocano insieme a Kriss Kelpie nelle zone paludose, ma non descrivono direttamente la Fiera Merrow.
 
 ### Adryanne Achenius, XII Soffione Uncinato
 Draghiere del Soffione Uncinato. Porta un immenso scudo e un uncino alto quanto lei stessa. Manto viola. Si lamenta del vento. Esperta nelle piogge di Soffioni — conosce i tempi di semina e i sistemi per sopravvivere alle tempeste di acheni (`Inktober 2019 #Build, #Husky`).
