@@ -41,7 +41,7 @@ Fiera che pone enigmi. La sua trappola è la curiosità: chi risponde a una doma
 Fiera a tre teste (capra, leone, serpente), ali di drago, coda di serpente, fuoco. Quando è in branco dopo la caccia, non usa il fuoco — lo considera inutile e pericoloso per il branco. Punto debole: non si aspetta il fuoco da una fonte umana (`Inktober 2018 #Poisonous`).
 
 ### Viverna
-Rettile volante con veleno. Il sangue del Draghiere della Viverna pietrifica a contatto con l'aria (`Inktober 2019 #Sling`). La coda è un'arma primaria.
+Fiera alata, descritta nella filastrocca degli Umani come una minaccia dalla coda letale (`Canzoni degli Umani`, “Giù nel Bosco”). Le fonti descrivono veleno e sangue pietrificante nell'Espediente del Draghiere Wade Wyrm (`Inktober 2018`, `Inktober 2019 #Sling`), ma non separano in modo completo questi tratti dalla fisiologia della Fiera stessa: non trasferirli automaticamente alla scheda della specie.
 
 ### Grifone
 Fiera con corpo di leone e ali/testa di aquila. Piume cangianti del colore dei tronchi — si mimetizza nella foresta. Tre esemplari in `Inktober 2019 #Sling`: attaccano un gruppo di Umani e Cornelius Cockatrix li abbatte con dardi della propria arma. I Grifoni colpiti si pietrificano e si frantumano; il testo collega l'effetto al dardo e al sangue pietrificante del Draghiere della Cockatrice, non a uno sguardo del Grifone. La fonte non attribuisce ai Grifoni una capacità di pietrificazione.
