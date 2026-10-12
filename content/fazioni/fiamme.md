@@ -9,7 +9,7 @@ fonti: ["Inktober_2018"]
 
 # Fiamme
 
-> *Terza fazione del Kindsgard. Documentazione in corso.*
+> *Fazione collegata ai Bruciati e sviluppata nel contesto di Vilegis/Lunaria. Documentazione in corso.*
 
 ---
 
@@ -23,11 +23,13 @@ Questa voce è uno stub. Le Fiamme sono una fazione attiva su [[Vilegis/Lunaria]
 
 Le Fiamme hanno le loro radici nel concetto dei **Bruciati**: Umani che hanno tentato il [[Battesimo del Fuoco]], sono sopravvissuti ma non si sono trasformati in [[Draghieri]] né in [[Vere Fiere]], rimanendo menomati in modo permanente.
 
-Il racconto `Inktober 2018 #Scorched (19-2)` descrive la comunità dei Bruciati con pratiche specifiche:
+Il racconto `Inktober 2018 #Scorched (19-2)` descrive una comunità di Bruciati con pratiche specifiche:
 - Vesti bianche come segno distintivo
 - Silenzio come regola comunitaria
 - Strutture simili a lazzaretti per i nuovi arrivati
 - Identità costruita attorno alla sopravvivenza e alla perdita
+
+Questi dettagli sono attestati per la comunità del racconto; le fonti non confermano che siano caratteristiche universali di tutti i Bruciati.
 
 I Bruciati rappresentano coloro che hanno toccato il fuoco di Fierezza/Maestà senza riuscire a contenerlo, e ne portano le conseguenze nel corpo e nella mente.
 
