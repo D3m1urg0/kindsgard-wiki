@@ -18,7 +18,7 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Soffioni_Uncinati", "Una_Mi
 
 Il Kindsgard è un mondo-corpo: la sua divinità ([[Natura]]/[[Maestà]]) ne è letteralmente il cuore fisico. La geografia riflette questa struttura:
 
-- Al **centro assoluto** del mondo si trova la **[[Maestà]]**, un vulcano di dimensioni tali da dominare l'orizzonte da qualunque punto del Giardino
+- Al **centro assoluto** del mondo si trova la **[[Maestà]]**, un vulcano descritto come enorme e dominante rispetto a colline, burroni, Mare Interno e deserti (`Inktober 2019 #Ring`); le fonti non quantificano la visibilità da ogni punto del Giardino
 - Attorno alla Maestà si estende il **Giardino** — territorio selvaggio, incontrollato, popolato dalle [[Fiere]]
 - A distanza dalla Maestà si trova l'**[[Anello di Fuoco]]** — il perimetro difensivo dei [[Draghieri]]
 - Oltre l'Anello si estendono i **territori Umani** — liberati e messi in sicurezza nei secoli
@@ -30,7 +30,7 @@ Il Kindsgard è un mondo-corpo: la sua divinità ([[Natura]]/[[Maestà]]) ne è 
 
 ### Maestà
 
-Il vulcano centrale, cuore pulsante di [[Natura]]. Di dimensioni così imponenti da essere visibile da qualsiasi punto del Kindsgard. È il luogo in cui la forza creatrice e distruttrice di Natura si irradia per il Creato. Alla sua vetta si trova la caldera in cui, secondo i Draghieri, risiede il cuore di Natura.
+Il vulcano centrale, cuore pulsante di [[Natura]]. `Inktober 2019 #Ring` lo descrive come una montagna che si staglia oltre le nubi acide e oltre colline, burroni, Mare Interno e deserti; la fonte ne rende l'enorme scala, ma non stabilisce una misura di visibilità da ogni punto del Kindsgard. Alla sua vetta si trova la caldera in cui, secondo i Draghieri, risiede il cuore di Natura.
 
 Le [[Vere Fiere]] vi condussero l'ultima grande Fenice (la Specie) per sacrificarla al magma, condannandola a bruciare eternamente per preservare la specie dall'estinzione (`Solitudine`).
 
