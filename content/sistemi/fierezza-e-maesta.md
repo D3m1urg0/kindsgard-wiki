@@ -44,7 +44,7 @@ Il terzo livello è l'**Espediente**: le capacità concrete, le proficienze, le 
 
 ## Il Battesimo del Fuoco
 
-Il Battesimo del Fuoco è l'evento che trasforma un Umano in Draghiere o Vera Fiera. La meccanica è universale e invariabile:
+Il Battesimo del Fuoco è il processo che trasforma un Umano in Draghiere o Vera Fiera. Il modello ordinario prevede l'uccisione di una Fiera e l'infusione del relativo Istinto ed Espediente, ma non è privo di eccezioni: `Risveglio del Drago` documenta il nuovo Battesimo di Wade Wyrm senza una Viverna uccisa, nel contesto della duplicazione della sua essenza durante la presenza su Vilegis. Il caso non va generalizzato oltre quanto attestato.
 
 1. Un Umano si trova in una situazione di pericolo estremo di fronte a una Fiera
 2. Invece di fuggire o soccombere, sceglie di affrontarla
