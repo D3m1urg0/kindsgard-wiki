@@ -198,3 +198,7 @@ Wiki sostanzialmente completa nella sua prima versione. File mancanti opzionali:
 - Qualificate in `Cronologia` e `Le Ere del Kindsgard` le corrispondenze con Lunaria come parallelismi storici, non equivalenze totali fra i due setting.
 - Aggiornati glossario e registro delle lacune per riflettere i chiarimenti già forniti dall’utente, lasciando aperti solo i dettagli non verificabili senza i testi integrali D3/D4.
 - Nessuna informazione del setting esterno è stata importata come canone indipendente del Kindsgard.
+- Registrato il Kindsgard come Mondo Ancora collegato, mantenendo aperti i dettagli non definiti di Anarion e dei criteri di riconoscimento.
+- Esplicitata la relazione causale tra la morte del Guardiano-Re di Vilegis/Lunaria, la scelta di Dominic di interrompere i cicli e il rischio cosmologico.
+- Registrata la conseguenza della fondazione delle città: viola la legge del Giardino secondo cui tutto deve combattere.
+- Aggiornate le regole del Battesimo già chiarite: unicità dell'incarnazione per tipo di creatura/specie nel periodo, orientamento legato all'esito della battaglia su Vilegis e numerazione progressiva dei soli Draghieri.
