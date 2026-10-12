@@ -103,7 +103,7 @@ Pianta con proprietà tossiche progressive. Può essere trattata per renderla in
 
 ## Fiere Minori / Menzionate
 
-**Leopterix** — Fiera ibrida rettile-volatile. L’unica descrizione disponibile la identifica come la Fiera di Lhars Leopterix; il Draghiere porta un mantello fatto di pelle e piume della propria Fiera. Le fonti attuali non specificano dimensioni, habitat preciso, capacità offensive o vulnerabilità: non dedurre ulteriori caratteristiche senza nuove fonti (*Elenco Draghieri*, *Inktober 2019 #Freeze, #Snow, #Dragon*).
+**Leopterix** — Fiera associata a Lhars Leopterix. Il Draghiere porta un mantello fatto di pelle e piume della propria Fiera, ma le fonti attuali non descrivono direttamente la morfologia della specie. La precedente etichetta “ibrida rettile-volatile” non è confermata da una descrizione esplicita; dimensioni, habitat preciso, capacità offensive e vulnerabilità restano ignoti (*Elenco Draghieri*, *Inktober 2019 #Freeze, #Snow, #Dragon*).
 
 **Everastes** — Fiera montana di grandi dimensioni, coperta di pelliccia candida e capace di mimetizzarsi nella neve; è descritta come immune al freddo. Ember Everastes porta un martello da guerra di pietra grezza, ma l’arma appartiene al Draghiere e non va trattata come proprietà della specie (*Inktober 2019 #Snow, #Dragon*).
 
