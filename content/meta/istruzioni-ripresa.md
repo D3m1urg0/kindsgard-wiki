@@ -3,7 +3,7 @@ titolo: "Istruzioni di Ripresa — Stato e Protocollo Editoriale"
 categoria: "meta"
 tag: [meta, ripresa, sessione, istruzioni, audit]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-12"
 ---
 
 # Istruzioni di Ripresa
@@ -73,3 +73,14 @@ Consultare `[[Domande Aperte e Lacune]]` per ciò che resta da verificare. Se un
 ## Decisioni editoriali ancora da chiedere
 
 I titoli definitivi delle due fonti originariamente intitolate “Fierezza” restano da confermare nel registro delle domande aperte. Non rinominare né eliminare i documenti originali in assenza di questa decisione.
+
+
+## Checkpoint audit — 2026-10-12
+
+- **Branch di lavoro:** `audit/inventario-completo-fiere`; **PR #18:** [Audit: rende esaustivo l'inventario delle Fiere incomplete](https://github.com/D3m1urg0/kindsgard-wiki/pull/18), ancora aperta. Non eseguire merge automatico: il workflow editoriale prevede revisione del diff.
+- **Ultimo commit verificato:** `0cc448fdd15f6e24941dbe0f5f03b7defa1416f9`. La build di validazione avviata per questo commit è stata vista in corso al momento del checkpoint; verificare l'esito prima di proseguire.
+- **Controlli eseguiti:** tree ricorsivo completo di GitHub (283 elementi, non troncato); inventario di 29 Markdown sotto `content/fonti/`; confronto con `meta/fonti.md`; lettura di `meta/domande-aperte.md`, `meta/convenzioni.md`, `meta/istruzioni-ripresa.md`, changelog, README, pagina Fiere stub e pagine sintetiche principali (Draghieri, Vere Fiere, Fiere, Cosmologia, Geografia, sistema del Battesimo, cronologia, Ere e personaggi principali); campionamento diretto delle fonti Inktober 2018/2019/2024, Prevedibilità, Canzoni degli Umani ed Elenco Draghieri.
+- **Correzioni documentali proposte nella PR #18:** reso esplicito che il conteggio L6 di 26 copre i quattro gruppi classificati; separati Kyrin e Sliss come menzioni aggiuntive e i 12 nomi di `Mostri` come brainstorming non canonico; corretto l'introduttivo del bestiario e aggiunto l'avviso di incompletezza richiesto dalle convenzioni; aggiornato README al tree effettivo (nessun `content/_index.md`, 29 sorgenti Markdown attuali); aggiornata la data editoriale di Tradizioni; registrato il disallineamento storico fra il conteggio 34 del changelog 2025 e i 29 file correnti, senza dichiarare cinque fonti perdute.
+- **Non modificato:** testi sorgente verbatim, contenuto narrativo, canone e pagine su main. Nessuna informazione è stata importata da Vilegis/Lunaria come canone indipendente del Kindsgard.
+- **Prossimi passi:** (1) verificare esito CI della PR #18; (2) proseguire il confronto delle schede Fiere con le fonti primarie, includendo i punti non ancora controllati; (3) verificare tracciabilità dei frontmatter e metadati delle altre pagine sintetiche; (4) completare la copertura geografica e le discrepanze cronologiche; (5) aggiornare registri e checkpoint; (6) formulare il report definitivo solo quando il perimetro verificato è completo.
+- **Decisioni umane attualmente documentate:** grafia Angeline Aconitum/Aconytum; status storico del tredicesimo Spettro; titolo delle due fonti “Fierezza”; identificazione degli Annali delle Sabbie rispetto agli Annali del Fuoco; ambito Kindsgard/Vilegis delle Fiamme e significato di “Infiammati”; nota “ex Shai'Hulud”; sorte individuale delle Vere Fiere dopo Re Draco; identità dei tredici Guardiani. Non richiedere ora risposte: completare prima le verifiche documentali.
