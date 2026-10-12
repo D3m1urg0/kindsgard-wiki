@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Separata visivamente la sezione delle tre Fiere minori classificate dalle menzioni narrative aggiuntive (Kyrin, Sliss, Tentacolo Purpureo) e dai dodici nomi di brainstorming; allineata la terminologia di L6 al conteggio effettivo.
+
 - Precisata la scheda di Axsar Aigokeros: la guida spirituale e la protezione degli Umani sono presentate come sintesi del comportamento nel racconto, non come definizione tecnica esplicita dell'Istinto.
 
 - Corretta la scheda tecnica wiki della Bacca Emofaga: le allucinazioni sono ora trattate come un singolo caso narrativo ipoteticamente collegato a un fusto alla base della nuca, non come una fase universale della progressione.
