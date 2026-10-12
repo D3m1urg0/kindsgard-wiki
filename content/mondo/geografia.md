@@ -5,7 +5,7 @@ tag: [geografia, luoghi, artigli, anello, maestà, mare]
 status: "bozza"
 ultima_modifica: "2026-10-12"
 aliases: ["Spiagge del Mare Esterno","Valle dei Fulmini","Fiume Bianco"]
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
 ---
 
 # Geografia del Kindsgard
@@ -18,7 +18,7 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Soffioni_Uncinati", "Una_Mi
 
 Il Kindsgard è un mondo-corpo: la sua divinità ([[Natura]]/[[Maestà]]) ne è letteralmente il cuore fisico. La geografia riflette questa struttura:
 
-- Al **centro assoluto** del mondo si trova la **[[Maestà]]**, un vulcano descritto come enorme e dominante rispetto a colline, burroni, Mare Interno e deserti (`Inktober 2019 #Ring`); le fonti non quantificano la visibilità da ogni punto del Giardino
+- Al **centro assoluto** del mondo si trova la **[[Maestà]]**, il vulcano che la guida OOC canonica descrive come grande quanto il mondo (`Draghieri del Kindsgard (spiegazione)`) e che `Inktober 2019 #Ring` rappresenta come dominante rispetto a colline, burroni, Mare Interno e deserti; le fonti non forniscono una misura separata del raggio di visibilità
 - Attorno alla Maestà si estende il **Giardino** — territorio selvaggio, incontrollato, popolato dalle [[Fiere]]
 - A distanza dalla Maestà si trova l'**[[Anello di Fuoco]]** — il perimetro difensivo dei [[Draghieri]]
 - Oltre l'Anello si estendono i **territori Umani** — liberati e messi in sicurezza nei secoli
