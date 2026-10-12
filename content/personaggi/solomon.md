@@ -31,7 +31,7 @@ Il suo numero nella sequenza delle Sfingi non è documentato. Le Vere Fiere non 
 
 ## Note
 
-⚪ Lo stato attuale di Solomon (attivo come Vera Fiera? umano?) e il suo numero nella sequenza sono lacune aperte. Il racconto `#Precious` suggerisce che possa essere già tornato umano al momento della storia.
+⚪ Lo stato di Solomon dopo l'ascesa di Re Draco è incerto: `18___Misfit` lo presenta come Vera Sfinge, mentre `Inktober 2018 #Precious` lo mostra in forma umanoide senza chiarire se abbia ancora il potere o sia già tornato Umano. Questo va riconciliato con la regola generale sulla perdita del potere delle Vere Fiere (vedi [[Domande Aperte e Lacune]] L16). Il numero nella sequenza non è pertinente: le Vere Fiere non si numerano.
 
 ---
 
