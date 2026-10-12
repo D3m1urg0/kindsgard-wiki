@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Aggiornate le istruzioni di ripresa con checkpoint persistente: branch, PR, file e fonti esaminati, modifiche proposte, stato della CI e ordine dei prossimi controlli.
+
 - Allineati README e frontmatter di `Tradizioni`: il README ora descrive il tree effettivo (`index.md` senza il duplicato `_index.md`) e riporta i 29 file sorgente Markdown attualmente presenti. Resta registrata come discrepanza storica la cifra 34 riportata nel changelog del 2025: non prova, da sola, che manchino cinque fonti.
 
 - Precisato il perimetro del conteggio L6: le 26 voci sono i profili classificati nei quattro gruppi; Kyrin e Sliss restano menzioni narrative aggiuntive, mentre i 12 nomi di `Mostri` sono brainstorming e non attestazioni canoniche.
