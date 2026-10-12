@@ -3,7 +3,7 @@ titolo: "Glossario"
 categoria: "meta"
 tag: [glossario, termini, definizioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-12"
 aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardiani","Echi","Kindsgard","Fiera","Mare Esterno","Mare Interno","Fondamento","Istinto","Giardino","Nexus","Oltregiardino","Rovina","Spettro","Draghiere","Vera Fiera","Covata","Vilegis / Lunaria","Vilegis/Lunaria","Specie Fenice","Colture","Icaria"]
 ---
 
