@@ -80,7 +80,7 @@ La pagina `[[Fiere — Voci Stub]]` esiste già e raccoglie tutte le Fiere attua
 - **Fiere maggiori (9):** Drago, Behemoth, Leviatano, Manticora, Sfinge, Chimera, Viverna, Grifone, Cockatrice.
 - **Fiere di media pericolosità (7):** Atrax, Chiroptera, Loccia, Alicanto, Zaratan, Falenottere, Covata.
 - **Fitofiere (7):** Sicomoro Perenne, Tripode, Dionea Mangiauomini, Mandragora, Chayote Strangolatore, Amaranthus Cruentus, Fabalo Spinato.
-- **Fiere minori o menzionate (3):** Leopterix, Everastes, Tentacolo Scarlatto.
+- **Fiere minori classificate (3):** Leopterix, Everastes, Tentacolo Scarlatto.
 
 Le priorità documentali già individuate comprendono Zaratan (`Inktober 2018 #Cruel`), Atrax (`Inktober 2019 #Pattern`), Chiroptera (`Prevedibilità`, `Inktober 2018 #Angular`), Loccia (`Inktober 2018 #Flowing`, `Inktober 2019 #Snow`), Alicanto (`Elenco Draghieri`, `Inktober 2019 #Treasure`), Falenottere (`Inktober 2018 #Drooling`), Tripode (`Inktober 2018 #Flowing`), Sicomoro Perenne (`Inktober 2019 #Mindless`), oltre alle Fiere maggiori per cui esistono più apparizioni narrative. Le descrizioni già presenti vanno comunque mantenute entro ciò che le fonti sostengono: niente poteri, debolezze o fisiologia dedotti per analogia con il Draghiere omonimo.
 
