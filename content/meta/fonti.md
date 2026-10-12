@@ -99,6 +99,11 @@ Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cit
 **C3 — Syrus Salamander**
 - **Decisione canonica:** Syrus Salamander è il **V Draghiere della Salamandra**, predecessore di Sebastian Salamander (VI). La sequenza numerica è corretta e non contraddittoria.
 
+**C5 — Numero progressivo di Sef Sycamore — risoluzione editoriale**
+
+- `Elenco Draghieri` (fonte catalogata come canonica) riporta **Sef Sycamore, XIII Sicomoro Perenne**; `Inktober 2019 #Mindless` lo chiama **XIV Draghiere del Sicomoro**.
+- **Regola operativa:** le voci sintetiche adottano XIII, come nell'elenco canonico. La fonte narrativa resta invariata e la discrepanza viene segnalata; non si ipotizza un secondo personaggio né si corregge il testo originale senza nuova evidenza.
+
 **C4 — Frederic/Friedrich Fenice — RISOLTA**
 - Le grafie "Frederic" (attribuita nella documentazione storica alla Cronistoria OOC, il cui testo sorgente non è ancora disponibile qui) e "Friederich" (`Una Missiva`) potrebbero riferirsi allo stesso personaggio; la grafia canonica Frederick Fenice è comunque già confermata.
 - **Grafia canonica confermata:** Frederick Fenice. Le varianti presenti nelle fonti sono storiche e non vanno propagate nelle nuove voci sintetiche.
