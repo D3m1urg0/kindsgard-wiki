@@ -85,7 +85,7 @@ La pagina `[[Fiere — Voci Stub]]` esiste già e raccoglie le Fiere attualmente
 - Alicanto (`Elenco Draghieri`, `Inktober 2019 #Treasure`)
 - Falenottere (`Inktober 2018 #Drooling`)
 - Tripode (`Inktober 2018 #Flowing`)
-- Sicomoro Perenne (`Inktober 2018 #Mindless`)
+- Sicomoro Perenne (`Inktober 2019 #Mindless`)
 - Manticora (più apparizioni)
 - Behemoth (più apparizioni)
 - Sfinge (più apparizioni)
