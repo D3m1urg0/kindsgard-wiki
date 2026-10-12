@@ -3,14 +3,14 @@ titolo: "Fiere — Voci Stub"
 categoria: "fiere"
 tag: [fiere, stub, bestiario]
 status: "bozza"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-12"
 aliases: ["Fiere"]
 fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Prevedibilità__covata_", "Mostri", "Elenco_Draghieri_Conosciuti", "D4-guida-draghiere"]
 ---
 
 # Fiere — Voci Stub
 
-> *Voci incomplete per le Fiere menzionate nelle fonti narrative ma prive di scheda tecnica completa. Le due Fiere con scheda completa hanno voci dedicate: [[Soffione Uncinato]] e [[Bacca Emofaga]]. Tutte le informazioni qui riportate sono dedotte dai racconti.*
+> *Voci sintetiche incomplete per Fiere attestate o menzionate nelle fonti elencate. Le due Fiere con scheda tecnica completa hanno voci dedicate: [[Soffione Uncinato]] e [[Bacca Emofaga]]. Le informazioni vanno lette secondo la fonte indicata in ciascuna voce: il corpus comprende racconti, liste OOC e brainstorming. I nomi nella sezione finale di brainstorming non attestano l'esistenza canonica di quelle Fiere.*
 
 ---
 
@@ -114,7 +114,7 @@ Pianta con proprietà tossiche progressive. Può essere trattata per renderla in
 
 **Tentacolo Scarlatto** — Fitofiera con tentacoli rossi che afferrano le prede. Può essere usata come esca. Le foglie trattate (cotte finché l'acqua diventa rossa, poi lavate) diventano commestibili ma l'acqua di cottura è urticante (`Inktober 2018 #Poisonous`).
 
-**Ahuizotl, Akhult, Ammit, Anfesibena, Cipactli, Yale/Eale** — Fiere elencate in `Mostri.docx` come potenziali aggiunte al bestiario. Nessuna descrizione disponibile nelle fonti narrative.
+**Nomi da brainstorming, non attestazioni canoniche:** Ahuizotl, Akhult, Allghoi-khorhoi, Al-Mi'raj, Ammit, Anfesibena, KarKinos, Cipactli, Vellosa, Yali, Makara, Yale/Eale. Sono i dodici nomi presenti nella lista OOC `Mostri`; non hanno descrizioni nel corpus narrativo e non vanno conteggiati tra le 26 voci preliminari del bestiario.
 
 ---
 
