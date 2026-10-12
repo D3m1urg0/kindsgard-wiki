@@ -40,6 +40,8 @@ Draghiere della Loccia — Fiera acquatica dei ghiacciai. Fisico esile, abiti bl
 ### Sef Sycamore, XIII Sicomoro Perenne
 Draghiere del Sicomoro Perenne — una Fitofiera. Opera nelle zone boschive. Porta un corno aggrovigliato di Aigokeros. Coordina la bonifica della Foresta ambulante nelle Brughiere (`Inktober 2019 #Mindless`, `Inktober 2019 #Ash`).
 
+
+> **Nota di tracciabilità:** `Elenco Draghieri` (fonte catalogata come canonica) riporta XIII, mentre `Inktober 2019 #Mindless` lo chiama XIV. La voce sintetica mantiene XIII secondo l'elenco; il testo narrativo originale resta invariato.
 ### Angeline Aconitum, VI Aconito
 Draghiere dell'Aconito. Opera nelle zone boschive insieme a Sef Sycamore. Perde il braccio sinistro durante la bonifica della Foresta ambulante — continua a combattere. Porta torce su bastoni lunghi per dare fuoco alle Fiere vegetali (`Inktober 2019 #Mindless`, `Inktober 2019 #Ash`).
 
@@ -47,7 +49,7 @@ Draghiere dell'Aconito. Opera nelle zone boschive insieme a Sef Sycamore. Perde 
 Draghiere dell'Egocero. Gestisce un tempio-rifugio sulle scogliere dove accoglie gli Umani durante le alluvioni stagionali. Predica la rinuncia al desiderio come forma di sopravvivenza: *"Desiderare è il primo errore."* Porta uno scudo intarsiato. Il suo Istinto è orientato alla guida spirituale e alla protezione psicologica degli Umani (`Inktober 2019 #Ornament`).
 
 ### Ashur Alicanthus, VII Alicanto
-Draghiere dell'Alicanto. Produce luce dorata con le piume. Opera nelle zone montuose. Appare in `Inktober 2019 #Build` tra i Draghieri schierati verso la Città-Alveare.
+Draghiere dell'Alicanto. Appare in `Inktober 2019 #Build` tra i Draghieri schierati verso la Città-Alveare. Le fonti citate non descrivono capacità specifiche o un habitat proprio di Ashur; non attribuirgli l'emissione di luce dalle piume sulla sola base del nome della Fiera.
 
 ### Mors Mantichore, IX Manticora / Meridian Mantichore, X Manticora
 Due Draghieri della Manticora documentati nell'Elenco. Meridian appare in `Prevedibilità (covata)`: era a Istica e aveva preso la lista delle Vere Fiere, informando [[Bran Behemoth]] della situazione.
@@ -61,7 +63,7 @@ Draghiere della Merrow (creatura acquatica/paludosa). Porta una lunga falce. Ope
 ### Adryanne Achenius, XII Soffione Uncinato
 Draghiere del Soffione Uncinato. Porta un immenso scudo e un uncino alto quanto lei stessa. Manto viola. Si lamenta del vento. Esperta nelle piogge di Soffioni — conosce i tempi di semina e i sistemi per sopravvivere alle tempeste di acheni (`Inktober 2019 #Build, #Husky`).
 
-### Frederick — Guardiani minori
+### Guardiani minori
 Dall'Elenco Draghieri: Mara Megalapterix (Guardiano), Mordred Megalapterix, G. Gryffin (Guardiano), Gwynidd Griffin, Grace Griffin. Quest'ultimi tre appaiono in `Inktober 2019 #Build` e `#Pattern` tra i Draghieri alla Città-Alveare. Grace e Mordred sono rispettivamente Grifone ed erede della Guardiana Megalapterix.
 
 ---
