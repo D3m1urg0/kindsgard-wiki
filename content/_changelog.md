@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Corrette due discrepanze geografiche basate su fonti primarie: distinto l'“Artiglio di Città del Re” (Battesimi controllati) dall'Artiglio del Fuoco con il laboratorio della Salamandra; registrato che “Valle dei Tuoni” compare in `Inktober 2019 #Snow` mentre “Valle dei Fulmini” compare in `#Tread` e `#Bait`, senza presumere che siano lo stesso luogo.
+
 - Corretto il profilo dell'Alicanto: `Inktober 2019 #Treasure` attesta una piuma che riflette la luce solare e un tesoro nella tana, non l'emissione di luce propria né un intento esplicito di attirare prede con gli oggetti. Rimossi questi dettagli non dimostrati, potenzialmente importati dalla mitologia esterna.
 
 - Raffinate altre tre schede: Sfinge ora distingue la rappresentazione nella canzone in-world da una scheda tecnica oggettiva; Grifone non importa la testa d'aquila dalla tradizione mitologica esterna, mantenendo solo corpo felino, ali e becco attestati; Mandragora chiarisce che l'estrazione è letale per chi la rimuove, non che la pianta uccida soltanto perché estratta.
