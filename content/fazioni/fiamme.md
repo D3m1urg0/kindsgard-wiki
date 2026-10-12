@@ -9,7 +9,7 @@ fonti: ["Inktober_2018"]
 
 # Fiamme
 
-> *Terza fazione del Kindsgard. Documentazione in corso.*
+> *Fazione collegata ai Bruciati e sviluppata nel contesto di Vilegis/Lunaria. Documentazione in corso.*
 
 ---
 
