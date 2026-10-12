@@ -40,7 +40,7 @@ Con l'infusione, l'Umano riceve:
 - L'**Espediente** della Fiera: le capacità fisiche e soprannaturali specifiche
 - **Longevità**: il corpo smette di invecchiare e non è più soggetto a malattie comuni
 - **Forza e resistenza sovrumane**: base comune a tutti i portatori
-- Il **nome della Fiera** come cognome e un **numero progressivo** nella sequenza di quella specie
+- Il **nome della Fiera** come cognome; il numero progressivo per specie si applica ai Draghieri, non alle Vere Fiere
 
 La trasformazione sovrascrive quasi interamente la personalità originaria dell'Umano. Ciò che rimane è determinato dall'Istinto della Fiera sconfitta.
 
