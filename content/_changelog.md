@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Riallineata la struttura del bestiario al conteggio L6: Tentacolo Scarlatto è ora nella sezione delle tre Fiere minori classificate; Tentacolo Purpureo resta tra le menzioni aggiuntive non conteggiate.
+
 - Aggiornato il checkpoint persistente con lo stato della PR #18, l'esito CI, l'inventario delle fonti, le discrepanze geografiche e cosmologiche corrette, il perimetro di verifica e le decisioni residue.
 
 - Rinominata la sezione `Guardiani e personaggi collegati`: l'elenco contiene anche personaggi legati ai Guardiani ma non classificati esplicitamente come tali, quindi il titolo precedente era troppo ampio.
