@@ -69,7 +69,7 @@ Fiera volante che produce luce dorata dalle piume. Attira le prede con la sua be
 Fiera con carapace massiccia. Due varianti documentate: una terrestre (lascia gallerie grandi quanto la sua forma nelle rocce) e una marina. Quella terrestre si muove lentamente ma è quasi impenetrabile. Il suo sangue è tossico (`Inktober 2018 #Cruel`). Il Draghiere dello Zaratan porta un carapace come scudo.
 
 ### Falenottere
-Fiera insettiforme con pungiglione paralizzante. Attracted to light — si addensa attorno a qualsiasi fonte luminosa. Il pungiglione paralizza la preda che rimane cosciente mentre la Fiera si nutre. Unica difesa: mantenere una luce abbastanza grande da tenerle impegnate lontano dalla preda (`Inktober 2018 #Drooling`).
+Fiera insettiforme con pungiglione paralizzante. Attratta dalla luce — si addensa attorno a qualsiasi fonte luminosa. Il pungiglione paralizza la preda che rimane cosciente mentre la Fiera si nutre. Unica difesa: mantenere una luce abbastanza grande da tenerle impegnate lontano dalla preda (`Inktober 2018 #Drooling`).
 
 ### Covata
 Fiera insettiforme/alveare. Si muove in sciami con unità specializzate: operai (scavano varchi), soldati (combattono), e una struttura gerarchica complessa. I bozzoli operai si schiudono a intervalli prevedibili — il Draghiere della Covata può anticipare i cicli. Punto debole: senza operai, le schiere soldato non possono aprire varchi e vengono respinte dalle difese (`Prevedibilità`).
@@ -79,13 +79,13 @@ Fiera insettiforme/alveare. Si muove in sciami con unità specializzate: operai 
 ## Fitofiere
 
 ### Sicomoro Perenne
-Grande albero mobile — una Fitofiera Sensibile che si sposta in branchi. Si muove lentamente ma inesorabilmente, lasciando frane e ruscelli esondati al suo passaggio. Sfugge al calore. Quando circondata da fuoco, invece di fuggire si stringe — attira la caccia all'interno del branco. Le sue radici si estendono per chilometri (`Inktober 2018 #Mindless`, `Inktober 2019 #Mindless`).
+Grande albero mobile — una Fitofiera Sensibile che si sposta in branchi. Si muove lentamente ma inesorabilmente, lasciando frane e ruscelli esondati al suo passaggio. Sfugge al calore. Quando circondata da fuoco, invece di fuggire si stringe — attira la caccia all'interno del branco. Le sue radici si estendono per chilometri (`Inktober 2019 #Mindless`).
 
 ### Tripode
 Fitofiera dei terreni umidi. Germoglia rapidamente nei terreni ex-paludosi. Pericolosa in grandi quantità. Richiede bonifica periodica con il fuoco (`Inktober 2018 #Flowing`).
 
 ### Dionea Mangiauomini
-Fitofiera carnivora del settore Ovest delle [[Colture]]. I liquidi digestivi esplodono e schizzano se incendiati — richiede l'innesco di fuoco al centro e una rapida fuga (`Inktober 2018 #Overgrown`).
+Fitofiera carnivora del settore Ovest delle [[Colture]]. I liquidi digestivi esplodono e schizzano se incendiati — richiede l'innesco di fuoco al centro e una rapida fuga (`Inktober 2019 #Overgrown`).
 
 ### Mandragora
 Fitofiera radicata. Se estratta dal terreno uccide. Il trattamento richiede di versare acido su tutto il terreno circostante per renderla inerme, poi ucciderla radicata. Coltivata nel settore Nord delle [[Colture]] (`Inktober 2018 #Overgrown`).
@@ -112,7 +112,7 @@ Pianta con proprietà tossiche progressive. Può essere trattata per renderla in
 
 **Sliss** — Fiera commestibile ma il cui consumo può causare allucinazioni collettive. Menzionata in `Onda Bianca` come possibile causa del malore del gruppo.
 
-**Tentacolo Scarlatto** — Fitofiera con tentacoli rossi che afferrano le prede. Può essere usata come esca. Le foglie trattate (cotte finché l'acqua diventa rossa, poi lavate) diventano commestibili ma l'acqua di cottura è urticante (`Inktober 2018 #Poisonous`, `Inktober 2024 #Tasty`).
+**Tentacolo Scarlatto** — Fitofiera con tentacoli rossi che afferrano le prede. Può essere usata come esca. Le foglie trattate (cotte finché l'acqua diventa rossa, poi lavate) diventano commestibili ma l'acqua di cottura è urticante (`Inktober 2018 #Poisonous`).
 
 **Ahuizotl, Akhult, Ammit, Anfesibena, Cipactli, Yale/Eale** — Fiere elencate in `Mostri.docx` come potenziali aggiunte al bestiario. Nessuna descrizione disponibile nelle fonti narrative.
 
