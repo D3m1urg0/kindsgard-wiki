@@ -115,7 +115,7 @@ Situate a **nordest della Maestà**, sono l'habitat dei [[Soffione Uncinato|Soff
 
 Zona montuosa nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di origine dell'armatura di Bran, forgiata con il ferro nero del luogo. È citata in `Inktober 2019 #Bait` e `L'ultima notte all'ombra dell'Anello`.
 
-**Nota sui nomi:** `Inktober 2019 #Snow` colloca Bran sul costone più a Nord della sua “Valle dei Tuoni”; `#Tread` e `#Bait` usano invece “Valle dei Fulmini”. Le fonti attestano entrambi i nomi, ma non dichiarano esplicitamente se indichino lo stesso luogo o due luoghi distinti. Non trattare “Valle dei Tuoni” come semplice variante né unificare i due toponimi senza ulteriori prove.
+**Nota sui nomi:** `Inktober 2019 #Bait` colloca Bran sul costone più a Nord della sua “Valle dei Tuoni”; `#Tread` e `L'ultima notte all'ombra dell'Anello` usano invece “Valle dei Fulmini”. Le fonti attestano entrambi i nomi, ma non dichiarano esplicitamente se indichino lo stesso luogo o due luoghi distinti. Non trattare “Valle dei Tuoni” come semplice variante né unificare i due toponimi senza ulteriori prove.
 
 ---
 
@@ -133,7 +133,7 @@ Corso d'acqua controllato da una diga costruita dai Draghieri all'altezza del La
 
 ## Note
 
-⚪ *Lacuna aperta L3: nessuna mappa sistematica disponibile. Le relazioni spaziali tra Artigli e zone geografiche sono parzialmente inferibili dai testi ma non confermabili con precisione. Le fonti usano sia “Valle dei Tuoni” sia “Valle dei Fulmini”, senza stabilire se i due nomi indichino lo stesso luogo. Procedere con cautela nell'uso di questa voce come riferimento geografico assoluto.*
+⚪ *Lacuna aperta L3: nessuna mappa sistematica disponibile. Le relazioni spaziali tra Artigli e zone geografiche sono parzialmente inferibili dai testi ma non confermabili con precisione. `Inktober 2019 #Bait` usa “Valle dei Tuoni”; `#Tread` e `L'ultima notte all'ombra dell'Anello` usano “Valle dei Fulmini”. Le fonti non stabiliscono se i due nomi indichino lo stesso luogo. Procedere con cautela nell'uso di questa voce come riferimento geografico assoluto.*
 
 ---
 
