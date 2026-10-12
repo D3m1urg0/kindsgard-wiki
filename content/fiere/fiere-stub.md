@@ -56,7 +56,7 @@ Grande volatile con testa, bargigli neri, rostro affilato. Gli occhi della Cocka
 ## Fiere di Media Pericolosità
 
 ### Atrax
-Fiera aracniforme. Gli adulti sono grandi due volte la testa di un Umano. Tessono tele complesse di fili bianchi traslucidi in pattern geometrici precisi. Le tele riempiono interi tunnel e caverne. Caccia intrappolando le prede nei fili. Può iniettare veleno/fiele paralizzante. I piccoli (delle dimensioni di una testa Umana) sono velenosi ma non ancora in grado di tessere. Punto debole: il fuoco brucia le tele (`Inktober 2019 #Pattern`).
+Fiera aracniforme che caccia intrappolando le prede in tele complesse di fili bianchi traslucidi, disposte secondo pattern geometrici e capaci di riempire caverne (`Inktober 2019 #Pattern`). `Inktober 2018 #Guarded` descrive gli esemplari piccoli come grandi circa il doppio della testa di un Umano: sono velenosi, ma non ancora in grado di tessere; la fonte non specifica l'effetto del veleno. La dimensione degli adulti e l'eventuale effetto paralizzante non sono determinati dalle fonti qui citate. Il fuoco può bruciare le tele (`Inktober 2018 #Guarded`, `Inktober 2019 #Pattern`).
 
 ### Chiroptera
 Grande Fiera simile a un pipistrello, alta circa due volte e mezzo un Umano, ali escluse. In `Inktober 2018 #Angular` una Chiroptera viene trovata morta all'Artiglio con le ali rotte e una ferita penetrante al torace; il racconto non determina con certezza la causa della morte né l'origine del sangue nerastro. `Prevedibilità` descrive la cupola della Città-Alveare infestata da Chiroptera. Le fonti citate non attestano vulnerabilità specifiche al fuoco o alla luce, echolocalizzazione o caratteristiche dei giovani.
