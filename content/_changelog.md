@@ -10,6 +10,8 @@ ultima_modifica: "2026-10-12"
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
+- Allineate le pagine Bran, Dominic, Cronologia e homepage alla distinzione cosmologica: rimosse dal Behemoth la pelle impenetrabile/lentezza non documentate; sostituito “assorbire il titolo” con l'assorbimento dei vettori; chiarito che Dominic detiene il potere raccolto dai tredici vettori collegati al Fondamento, non che Kindsgard e Fondamento siano identici; rimossa la formula iperbolica “Maestà grande quanto il mondo”.
+
 - Raffinati i profili secondari di Lhars, Ember, Laerius e Mirjam: separati i dettagli dei personaggi dalle deduzioni sulla morfologia delle Fiere; rimosse da Laerius le capacità di immersione e le tattiche non descritte, da Ember la meccanica dell'Istinto non attestata, e da Mirjam la classificazione acquatica/paludosa della specie non supportata direttamente.
 
 - Aggiornato solo il metadato editoriale `ultima_modifica` di `Elenco Draghieri`, già modificato in una PR precedente per aggiungere una nota di tracciabilità; il testo originario dell'elenco non è stato riscritto.
