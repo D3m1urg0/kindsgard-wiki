@@ -24,7 +24,7 @@ ultima_modifica: "2026-10-12"
 | `content/fonti/fierezza-il-dio-che-e-in-noi.md` | Saggio di Wade Wyrm sulla spiritualità | Incompleto; usare con cautela |
 | `content/fonti/cio-che-sanno-i-draghieri.md` | Verità parziale (livello personaggio) | Prospettiva in-world, non cosmologica |
 | `content/fonti/cronistoria-versione-breve.md` | Cronistoria in-world (versione divulgativa) | **Canonico** |
-| `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa | **Canonico** |
+| `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa; ID frontmatter usato: `draghieri-spiegazione`, distinto dai riferimenti D3/D4 mancanti | **Canonico** |
 
 ### Narrativa In-World
 
