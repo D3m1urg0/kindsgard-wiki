@@ -97,7 +97,7 @@ Il tempo sul Kindsgard non è costante. Periodi di dilatazione temporale causati
 
 **[Periodo]** — Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** per forgiare l'arma **Espediente** e proteggere il Kindsgard dalla minaccia del Nexus.
 
-**[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard** — Draghieri, Vere Fiere o Fiere effettive che inconsapevolmente incarnavano i 13 vettori collegati al Fondamento di Lunaria — assorbendone il titolo uno per uno.
+**[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard** — Draghieri, Vere Fiere o Fiere effettive che inconsapevolmente incarnavano i 13 vettori collegati al Fondamento di Lunaria — assorbendone i vettori uno per uno.
 
 **[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard, non più Draghiere né Vera Fiera. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli e regna sul Giardino con i Draghieri. La fondazione delle città infrange la legge del Giardino secondo cui tutto deve combattere: è un problema generato dalla scelta di Draco, che il potere ormai concentrato in lui gli impedisce di vedere pienamente. La sorte individuale di Wendy Wyrm e Solomon, presentati come Vere Fiere in `18___Misfit` nell'Era del Dominio, resta da riconciliare (vedi [[Domande Aperte e Lacune]] L16).
 
