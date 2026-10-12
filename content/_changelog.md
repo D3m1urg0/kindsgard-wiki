@@ -24,6 +24,7 @@ ultima_modifica: "2026-10-11"
 - Precisata la provenienza degli `Annali dell'Artiglio di Fuoco`: è presente una citazione attribuita a Syrus in `Inktober 2019`, ma non è dimostrato che coincida con il file legacy atteso né che il documento integrale sia stato conservato.
 - Aggiunta la domanda L14 sul termine “Infiammati” in `Inktober 2018 #Flowing`: non viene assimilato ai Bruciati né alla fazione delle Fiamme senza una fonte che lo confermi.
 - Corretto un assoluto non compatibile con la fonte nella voce di Bran Behemoth: la descrizione lo definiva immune al calore, mentre `Inktober 2019 #Dragon` mostra che la fiammata lo ferisce e fonde lo scudo. Ora è descritta come resistenza eccezionale, non immunità.
+- Ridimensionata nella voce di Luther Leviathan l'affermazione che il suo Istinto sia infallibile in ambiente marino: le fonti mostrano efficacia e autorevolezza, non una regola oggettiva di infallibilità.
 - Nessuna informazione mancante è stata colmata per inferenza; le questioni di canone non deducibili dalle fonti saranno elencate separatamente.
 
 > *Log di tutte le modifiche alla wiki con data e motivazione.*
