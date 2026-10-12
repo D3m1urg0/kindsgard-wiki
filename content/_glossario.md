@@ -4,7 +4,7 @@ categoria: "meta"
 tag: [glossario, termini, definizioni]
 status: "in aggiornamento"
 ultima_modifica: "2026-10-12"
-aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardiani","Echi","Kindsgard","Fiera","Mare Esterno","Mare Interno","Fondamento","Istinto","Giardino","Nexus","Oltregiardino","Rovina","Spettro","Draghiere","Vera Fiera","Covata","Vilegis / Lunaria","Vilegis/Lunaria","Specie Fenice","Colture","Icaria"]
+aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardiani","Echi","Kindsgard","Fiera","Mare Esterno","Mare Interno","Mondo Ancora","Fondamento","Istinto","Giardino","Nexus","Oltregiardino","Rovina","Spettro","Draghiere","Vera Fiera","Covata","Vilegis / Lunaria","Vilegis/Lunaria","Specie Fenice","Colture","Icaria"]
 ---
 
 # Glossario
@@ -56,6 +56,8 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 **Kindsgard** — Il nome del mondo. Significa anche "Giardino delle Specie". → vedi [[Cosmologia]], [[Geografia del Kindsgard]]
 
 **Maestà** — (1) Il nome con cui le [[Vere Fiere]] chiamano il principio cosmologico che le anima. Sinonimo di Fierezza. (2) Il vulcano centrale del Kindsgard, corpo fisico di Natura. → vedi [[Fierezza e Maestà]], [[Geografia del Kindsgard]]
+
+**Mondo Ancora** — Mondo collegato al Fondamento e capace di rifletterne la struttura. Il Kindsgard è stato collegato come Mondo Ancora; i dettagli precisi del concetto e il riferimento ad Anarion restano da documentare. → vedi [[Cosmologia]], [[Domande Aperte e Lacune]]
 
 **Mare Esterno** — I margini estremi del Kindsgard, le spiagge dove la forza di Natura è più debole. Primo rifugio degli Umani.
 
