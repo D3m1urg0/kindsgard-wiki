@@ -24,7 +24,7 @@ Syrus portava il titolo di **Guardiano** — era uno dei tredici individui che, 
 
 Syrus è presentato come voce storica del Kindsgard attraverso una citazione attribuita agli Annali dell'Artiglio di Fuoco. Il frammento disponibile lo colloca nell'Era degli Eroi, ma il testo integrale degli Annali non è presente nel repository: non è quindi possibile valutare la completezza della sua documentazione né attribuirgli, sulla sola base del frammento, una consapevolezza cosmologica superiore alla media dei Draghieri.
 
-In `Inktober 2018 #Bottle`, Sebastian trova il laboratorio di Syrus con i suoi resti ancora presenti sul tavolo — segno di una morte improvvisa o di un Battesimo fallito nel laboratorio stesso. Gli appunti di Syrus (in bella grafia elegante, inchiostro rosso scuro che ha quasi bruciato le pagine) sono mescolati con quelli di una collaboratrice identificata come **Gertrude** (inchiostro verde), su cui condusse studi medici degli usi di alcune parti di Fiera.
+In `Inktober 2018 #Bottle`, Sebastian trova nel laboratorio i resti di Syrus. La causa e il luogo esatto della morte non sono descritti in modo conclusivo. Poiché Syrus portava il titolo di Guardiano, rientra nel gruppo dei tredici Guardiani uccisi da Dominic durante l'ascesa a Re Draco; il ritrovamento dei resti nel laboratorio non dimostra che sia morto lì né che si sia trattato di un Battesimo fallito. Gli appunti di Syrus (in bella grafia elegante, inchiostro rosso scuro che ha quasi bruciato le pagine) sono mescolati con quelli di una collaboratrice identificata come **Gertrude** (inchiostro verde), su cui condusse studi medici degli usi di alcune parti di Fiera.
 
 ### Fine
 
