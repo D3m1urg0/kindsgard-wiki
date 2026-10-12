@@ -3,7 +3,7 @@ titolo: "Maestà"
 categoria: "mondo"
 tag: [maestà, natura, vulcano, geografia, cosmologia]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-12"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Solitudine", "Annali_dell_Artiglio_di_Fuoco", "Cronistoria_versione_breve", "Inktober_2019"]
 ---
 
@@ -15,7 +15,7 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Solitudine", "Annali_dell_A
 
 ## Panoramica
 
-La Maestà è il vulcano posto al centro assoluto del Kindsgard. È contemporaneamente una formazione geologica — il più grande vulcano del mondo — e il **corpo fisico di [[Natura]]**: la divinità creatrice del Giardino vi si è rifugiata dopo la sua follia, e da essa la sua forza creatrice e distruttrice si propaga per tutto il Creato.
+La Maestà è il vulcano posto al centro assoluto del Kindsgard e il **corpo fisico di [[Natura]]**: la divinità creatrice del Giardino vi si è rifugiata dopo la sua follia, e da essa la sua forza creatrice e distruttrice si propaga per tutto il Creato. Le fonti disponibili ne sottolineano le dimensioni eccezionali, ma non permettono di stabilire un primato geologico assoluto.
 
 Uccidere Natura significherebbe raggiungere la caldera della Maestà e distruggerla — obiettivo finale dichiarato dei [[Draghieri]]. Il Draghiere ordinario non è in grado di comprendere le conseguenze apocalittiche di tale azione, perché l'Istinto antepone il mandato immediato di Fierezza a ogni altra considerazione. [[Dominic Draco]] è l'eccezione documentata: ha compreso che distruggere la Maestà equivarrebbe a distruggere il mondo stesso e ha fondato l'Anello per evitarlo.
 
@@ -23,11 +23,11 @@ Uccidere Natura significherebbe raggiungere la caldera della Maestà e distrugge
 
 ## Caratteristiche Fisiche
 
-La Maestà è così imponente da essere visibile dall'orizzonte di qualsiasi punto del Kindsgard. Le sue proporzioni trascendono qualsiasi paragone con i vulcani ordinari — è letteralmente "grande quanto il mondo".
+In `Inktober 2019 #Ring`, la Maestà è descritta come una montagna che si staglia oltre le nubi acide, le colline, i burroni, il Mare Interno e i deserti. Il testo ne comunica la scala eccezionale, ma non quantifica la visibilità da ogni punto né la descrive letteralmente grande quanto il mondo.
 
 Alla sua vetta si trova una caldera in costante attività. Le nubi di piogge acide che si addensano alla sommità sono una costante. L'aria è irrespirabile in prossimità della cima. Il magma è presente non solo nella caldera ma in estensioni che raggiungono le pendici — zone di lava e vapore acido.
 
-Nonostante la vicinanza a un vulcano attivo, uno dei fianchi della Maestà ospita un ghiacciaio esteso, descritto come "come potesse esistere un ghiacciaio così ampio sul fianco di un vulcano in piena attività" — una delle stranezze del Kindsgard su cui i portatori ordinari non si interrogano di norma; Dominic costituisce l'eccezione documentata.
+`Inktober 2019 #Bait` descrive un grande ghiacciaio sul fianco di un vulcano attivo, ma non nomina esplicitamente la Maestà in quel passaggio. L'identificazione del vulcano con la Maestà è quindi plausibile nel contesto geografico, ma non dimostrata dalla frase isolata.
 
 ---
 
