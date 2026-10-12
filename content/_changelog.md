@@ -14,7 +14,8 @@ ultima_modifica: "2026-10-11"
 - Corretto lo status editoriale di `content/fonti/list.md` e `content/fonti/mostri.md`: sono spunti narrativi/brainstorming senza valore normativo, quindi non devono risultare `canonico`. Il contenuto verbatim è stato conservato.
 - Restano da verificare la tracciabilità delle fonti dichiarate nei frontmatter, le discrepanze tra catalogo e percorsi effettivi, le affermazioni geografiche e le schede Fiere preliminari.
 - L'audit incrociato dei tag Inktober nel bestiario e nella geografia ha individuato e corretto riferimenti con anno errato: `#Mindless` e `#Overgrown` appartengono alla raccolta 2019, non 2018; `#Tasty` non compare nella raccolta Inktober 2024 e il riferimento è stato rimosso. È stata tradotta in italiano una frase rimasta in inglese e sostituito il vecchio riferimento a `Soffioni_Uncinati.docx` con il percorso della fonte conservata nel repository.
-- Verifica automatica mirata dopo le correzioni: 22 citazioni Inktober nel bestiario e 4 nella geografia controllate contro i titoli effettivi delle tre raccolte; nessuna citazione residua punta a un tag assente dall'anno dichiarato.
+- Verifica automatica mirata dopo le correzioni: 22 citazioni Inktober nel bestiario e 4 nella geografia controllate contro i titoli effettivi delle tre raccolte; nessuna citazione residua punta a un tag assente dall'anno dichiarato in queste due voci.
+- Estesa la correzione dei riferimenti `#Mindless` e `#Overgrown` a `content/personaggi/altri-personaggi.md` e `content/meta/domande-aperte.md`, dove l'anno 2018 era anch'esso errato.
 - Nessuna informazione mancante è stata colmata per inferenza; le questioni di canone non deducibili dalle fonti saranno elencate separatamente.
 
 > *Log di tutte le modifiche alla wiki con data e motivazione.*
