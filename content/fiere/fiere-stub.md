@@ -62,7 +62,7 @@ Fiera aracniforme. Gli adulti sono grandi due volte la testa di un Umano. Tesson
 Grande Fiera simile a un pipistrello, alta circa due volte e mezzo un Umano, ali escluse. In `Inktober 2018 #Angular` una Chiroptera viene trovata morta all'Artiglio con le ali rotte e una ferita penetrante al torace; il racconto non determina con certezza la causa della morte né l'origine del sangue nerastro. `Prevedibilità` descrive la cupola della Città-Alveare infestata da Chiroptera. Le fonti citate non attestano vulnerabilità specifiche al fuoco o alla luce, echolocalizzazione o caratteristiche dei giovani.
 
 ### Loccia
-Fiera acquatica dei ghiacciai. Vive nelle acque fredde, infesta le sorgenti dei fiumi del nord. Denti abbondanti. Il metallo carico elettricamente (grazie ai parafulmini installati vicino alle dighe) le tiene lontane (`Inktober 2018 #Flowing`).
+Fiera associata a Laerius Loch, XV Draghiere della Loccia (`Elenco Draghieri`). In `Inktober 2018 #Flowing`, Brienne riferisce che una rete metallica caricata dai fulmini tiene lontane dalle dighe le creature chiamate nel racconto “Lochs” e le mantiene intorpidite. La fonte non descrive morfologia o dentatura e non stabilisce un habitat glaciale; il contesto è quello delle dighe e del Fiume Bianco.
 
 ### Alicanto
 Fiera volante che produce luce dorata dalle piume. Attira le prede con la sua bellezza luminosa. La sua tana è ricca di oggetti metallici lucidi accumulati come richiamo. Chi entra nella tana di un Alicanto difficilmente ne esce (`Inktober 2019 #Treasure`).
@@ -107,7 +107,7 @@ Pianta la cui radice, essiccata e trattata, può risultare temporaneamente innoc
 
 **Leopterix** — Fiera associata a Lhars Leopterix. Il Draghiere porta un mantello fatto di pelle e piume della propria Fiera, ma le fonti attuali non descrivono direttamente la morfologia della specie. La precedente etichetta “ibrida rettile-volatile” non è confermata da una descrizione esplicita; dimensioni, habitat preciso, capacità offensive e vulnerabilità restano ignoti (*Elenco Draghieri*, *Inktober 2019 #Freeze, #Snow, #Dragon*).
 
-**Everastes** — Fiera montana associata a Ember Everastes. `Inktober 2019 #Snow` descrive il Draghiere con pellicce candide e come “fatta per stare in mezzo al gelo”, ma non stabilisce in modo esplicito che la Fiera sia immune al freddo. Ember porta un martello da guerra di pietra grezza, ma l’arma appartiene al Draghiere e non va trattata come proprietà della specie (*Inktober 2019 #Snow, #Dragon*).
+**Everastes** — Fiera associata a Ember Everastes, IV Draghiere dell'Everastes. `Inktober 2019 #Snow` descrive Ember come “fatta per stare in mezzo al gelo”, ma non stabilisce il tipo di habitat della Fiera né una sua immunità al freddo. Il simbolo montuoso sullo stemma e l'equipaggiamento del Draghiere non bastano a dedurre la morfologia o le capacità della specie (*Inktober 2019 #Snow, #Dragon*).
 
 
 **Kyrin** — Fiera dell'altopiano, notturna o crepuscolare. Attirata dai fuochi. Menzionata in `L'esodo`.
