@@ -210,3 +210,10 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 
 - **Avanzamento fonte:** 9 corpi verificati integralmente; 1 recuperato ma solo parzialmente leggibile in questa passata; 19 non ancora letti integralmente. Non dichiarare chiuso l'inventario semantico.
 - **Stato repository al checkpoint:** merge della PR #23 in `main` al commit `b601eb2e6063e2d9a03c8547aa56f3db83f4b379`; l'indice include ora la sezione Cultura. Il branch di questo checkpoint porta l'inventario a 25 branch totali, incluso `main` (24 non-main).
+
+
+### Risoluzione di una domanda proprietario — L16, 2026-10-13
+
+- La lettura diretta di `content/fonti/misfit.md` mostra che il testo usa il passato per Wendy («colei che fu Vera Viverna») e Solomon («che fu la Vera Sfinge»). Il racconto è collocato nell'Era del Dominio e la sua interpretazione editoriale li identifica come ex-Vere Fiere tornate umane dopo la perdita del potere.
+- Rimossa la domanda al proprietario su Wendy/Solomon come possibili eccezioni: l'apparente conflitto derivava da una lettura imprecisa del tempo verbale nella fonte. La regola generale della cronologia resta, senza estenderla oltre le attestazioni disponibili.
+- PR di correzione in preparazione sul branch `audit/resolve-l16-from-misfit-2026-10-13`. Dopo l'integrazione, proseguire con la lettura delle fonti rimanenti e la verifica delle altre domande.
