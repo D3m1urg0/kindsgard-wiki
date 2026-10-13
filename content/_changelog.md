@@ -370,3 +370,13 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Tutti i 65 file controllati mostrano frontmatter e `status`. Conteggio descrittivo dei valori: 30 canonico, 23 revisionato, 6 bozza, 6 in aggiornamento. La correttezza semantica non è implicata da questo conteggio.
 - Individuata un'omissione nella navigazione: l'indice non elenca le due pagine della categoria Cultura. La PR #23 aggiunge una sezione Cultura con Religioni e Spiritualità e Tradizioni, Canti e Motti.
 - Il punto 2 resta in corso: lettura integrale dei 29 corpi fonte, riconciliazione dei riferimenti legacy e confronto semantico con le pagine wiki.
+
+
+## 2026-10-13 — Prima tranche di verifica semantica delle fonti
+
+- Letti integralmente e verificati in prima passata 9 corpi fonte: Cronistoria breve, Ciò che i Draghieri conoscono, Draghieri del Kindsgard (spiegazione), Canzoni degli Umani, Deflecte Cantum, Lamento di Wade, La Natura di Natura, Fierezza — Il Battesimo di Cornelius e Fierezza: il Dio che è in noi.
+- Confermata la distinzione fra la credenza in-world secondo cui gli Umani avrebbero creato Bisogno e la verità cosmologica espressa da `La Natura di Natura`. Registrata senza risoluzione una possibile lacuna di supporto per la frase wiki secondo cui Natura avrebbe scelto di preservare gli Umani; D3, fonte utile a risolvere, è non reperita.
+- Registrata la natura mista della fonte OOC `draghieri-spiegazione.md`, con riferimenti Vilegis/Lunaria da non assimilare automaticamente al canone originario. Non è stata modificata la fonte.
+- Il saggio di Wade resta canonico ma incompleto; `Deflecte Cantum` mantiene due strofe marcate come errate. Nessuna riclassificazione senza ulteriori evidenze.
+- Inktober 2018 è stato recuperato ma l'output è stato troncato; non è classificato come letto integralmente. Inktober 2019 e 2024 restano da leggere per sezioni.
+- L'inventario semantico resta in corso: 9/29 corpi fonte verificati integralmente.
