@@ -394,3 +394,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Inktober 2018 #Flowing` presenta una discrepanza interna sul numero di Brienne Brood: XVII nell'indice/intestazione e VI nella firma della lettera. Le altre attestazioni canoniche concordano su XVII; il testo sorgente non è alterato.
 - `Inktober 2019 #Legend` riproduce due strofe di `Deflecte Cantum` che la fonte autonoma marca come errate/da ignorare. Il registro fonti e la voce Tradizioni ora esplicitano che la riproduzione non prevale sulle correzioni dell'autore.
 - L16 è stata risolta nella PR #25 sulla base di `Misfit`. I corpi delle tre raccolte Inktober non sono ancora verificati integralmente; 26/29 altre fonti sono state lette in prima passata.
+
+
+## 2026-10-13 — Quarantena Fiamme e nuove ambiguità di fonte
+
+- La voce `Fiamme` contraddiceva il registro L13: si autodefiniva terza fazione del Kindsgard e importava meccaniche legate a Vilegis/Lunaria. La PR #27 la riclassifica come bozza, separa i Bruciati attestati nel corpus Kindsgard e conserva il materiale esterno in una sezione esplicitamente non canonica.
+- Aggiunta L19 per “Sirius” in `Inktober 2018 #Flowing`: identità non risolta, non assimilata automaticamente a Syrus Salamander.
+- Registrate le varianti Brianne/Brienne e il nuovo ancoraggio relativo di Inktober 2024 (cinque anni dopo la missione di ripopolamento della Città-Alveare), senza assegnare date assolute.
