@@ -362,3 +362,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Copia_di_I_Draghieri_del_kindsgard` resta un identificatore legacy distinto, non un file autonomo né un'identità dimostrata di `draghieri-spiegazione.md`.
 - Il saggio `fierezza-il-dio-che-e-in-noi.md` è marcato canonico ma incompleto (tag e catalogo); mantenuta la distinzione fra status canonico e integrità del testo, senza riclassificazione automatica.
 - Il controllo ha coperto metadati e percorsi, non la lettura integrale dei 29 corpi narrativi. Il confronto semantico rimane da eseguire.
+
+
+## 2026-10-13 — Copertura dell'indice e inventario pagine
+
+- L'albero ricorsivo di `main` è stato letto senza troncatura: 283 voci totali, 253 file, 65 Markdown sotto `content/`. I 29 file fonte hanno frontmatter controllato; gli altri 36 file sono stati passati in rassegna a livello di frontmatter e struttura principale.
+- Tutti i 65 file controllati mostrano frontmatter e `status`. Conteggio descrittivo dei valori: 30 canonico, 23 revisionato, 6 bozza, 6 in aggiornamento. La correttezza semantica non è implicata da questo conteggio.
+- Individuata un'omissione nella navigazione: l'indice non elenca le due pagine della categoria Cultura. La PR #23 aggiunge una sezione Cultura con Religioni e Spiritualità e Tradizioni, Canti e Motti.
+- Il punto 2 resta in corso: lettura integrale dei 29 corpi fonte, riconciliazione dei riferimenti legacy e confronto semantico con le pagine wiki.
