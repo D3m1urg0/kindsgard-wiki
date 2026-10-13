@@ -238,3 +238,9 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - Nuovo ancoraggio relativo per Inktober 2024: `#Binoculars` dichiara cinque anni dalla missione che ripopolò la Città-Alveare, coerente con `Inktober 2019 #Build`. Non permette ancora di assegnare un anno assoluto alla raccolta.
 - **Prossimo passo:** chiudere la revisione mirata delle tre antologie Inktober, verificare i corpi delle pagine wiki più legate alle incongruenze emerse e confrontare le fonti con i registri canonici. Le affermazioni esterne restano separate dal canone originario.
 - **Branch corrente:** `audit/quarantine-fiamme-and-sources-2026-10-13`; conteggio branch dopo la creazione: 28 totali, 27 non-main.
+
+
+### Riconciliazione delle pagine dipendenti da L16 — 2026-10-13
+
+- Aggiornate `content/fazioni/vere-fiere.md` e `content/storia/ere.md`: entrambe riportavano ancora L16 come aperta e interpretavano `Misfit` come se Wendy Wyrm e Solomon fossero presentati come Vere Fiere attive. La lettura diretta della fonte mostra il passato verbale («colei che fu Vera Viverna», «che fu la Vera Sfinge»); il riferimento a L16 è stato rimosso e la regola generale della cronologia mantenuta.
+- La voce Vere Fiere ora rinvia alle Fiamme come bozza in quarantena e non ne ripete come canonica la meccanica esterna.
