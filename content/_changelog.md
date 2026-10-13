@@ -398,6 +398,6 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 ## 2026-10-13 — Quarantena Fiamme e nuove ambiguità di fonte
 
-- La voce `Fiamme` contraddiceva il registro L13: si autodefiniva terza fazione del Kindsgard e importava meccaniche legate a Vilegis/Lunaria. La PR #27 la riclassifica come bozza, separa i Bruciati attestati nel corpus Kindsgard e conserva il materiale esterno in una sezione esplicitamente non canonica.
+- La voce `Fiamme` contraddiceva il registro L13: si autodefiniva terza fazione del Kindsgard e importava meccaniche legate a Vilegis/Lunaria. La PR #27 la riclassifica come bozza, separa i Bruciati attestati nel corpus Kindsgard, conserva il materiale esterno in una sezione esplicitamente non canonica e corregge la descrizione fuorviante nell'indice.
 - Aggiunta L19 per “Sirius” in `Inktober 2018 #Flowing`: identità non risolta, non assimilata automaticamente a Syrus Salamander.
 - Registrate le varianti Brianne/Brienne e il nuovo ancoraggio relativo di Inktober 2024 (cinque anni dopo la missione di ripopolamento della Città-Alveare), senza assegnare date assolute.
