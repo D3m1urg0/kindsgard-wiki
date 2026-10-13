@@ -11,8 +11,8 @@ ultima_modifica: "2026-10-12"
 ## 2026-10-13 — Ricognizione repository e consolidamento delle domande
 
 - Verificato che `main` punta al merge commit `75f74f4624c135fdc26e83b254cc77e64d18e2fb`, relativo alla PR #19 che consolida le decisioni da sottoporre al proprietario in `content/meta/domande-aperte.md`.
-- La ricerca delle PR aperte non ha restituito risultati. L'inventario iniziale contava 20 branch remoti totali, di cui 19 diversi da `main`; la creazione del branch `audit/checkpoint-2026-10-13` porta il totale corrente a 21 (20 non-main).
-- Le PR #1–#11, #13 e #15–#19 risultano chiuse e integrate; la #12 risulta chiusa senza merge. La #14 riporta `merged=false` ma anche un `merge_commit_sha` non nullo: discrepanza da verificare, non interpretata come prova di merge.
+- La ricerca delle PR aperte non ha restituito risultati. L'inventario iniziale contava 20 branch remoti totali, di cui 19 diversi da `main`; la creazione del branch `audit/checkpoint-2026-10-13` portava il totale a 21 (20 non-main); il branch corrente `audit/reconcile-pr14-metadata` porta il totale a 22 (21 non-main).
+- Le PR #1–#11, #13 e #15–#19 risultano chiuse e integrate; la #12 risulta chiusa senza merge. La #14 è chiusa senza merge (`merged=false`, `merged_at=null`); il `merge_commit_sha` restituito è un commit di prova con messaggio di merge sintetico, non prova un'integrazione reale.
 - Per il merge della PR #19 non sono state restituite workflow runs né status checks: la CI su quel commit resta non verificata. La PR #20 ha eseguito `Validate Quartz wiki` (run 38353745004) con esito `success`, inclusi controllo wikilink e build Quartz, sul primo commit del branch (`5cd5979`). Gli aggiornamenti successivi alla run hanno prodotto ulteriori commit sul branch, senza una nuova run associata restituita dagli strumenti: non si dichiara verificato il HEAD finale.
 - La verifica del repository prosegue: questo checkpoint non dichiara concluso l'audit semantico delle pagine o il confronto integrale delle fonti.
 
@@ -346,3 +346,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Aggiunto il termine Mondo Ancora al glossario e distinto il dato confermato (Kindsgard collegato come Mondo Ancora) dai dettagli ancora da recuperare.
 - Ristretta la domanda cronologica A1 alla sola collocazione non determinata di Inktober 2024; mantenute le raccolte 2018/2019 al livello di Era del Dominio senza inventare date per i singoli racconti.
 - Precisato nel catalogo che `draghieri-spiegazione.md` tratta il dualismo Draghieri/Vere Fiere, ma non è possibile affermare senza l'originale che coincida con il riferimento storico `Draghieri/Vere Fiere del Kindsgard`.
+
+
+## 2026-10-13 — Riconciliazione metadati PR #14
+
+- Verificati i metadati della PR #14: chiusa, `merged=false`, `merged_at=null`. Il campo `merge_commit_sha` punta al commit `2f7a76d948c48bf9cafaa2df7409e35ecdf89f62`, il cui messaggio è `Merge ddc4da80ebc7bdd61e952c25d9c1e41f66dab89b into 6fd6f10a00093f58044854dc985092a4de44d989`: un commit di prova/mergeability, non un merge effettivo della PR.
+- Classificata la PR #14 come chiusa senza merge. Nessun contenuto viene recuperato automaticamente dal suo branch storico.
+- Dopo il merge della PR #20, `main` punta a `dac44d6d46d36b2c84a6ee69eeb369f0dcedb2e2`; il branch di questa correzione porta l'inventario a 22 branch totali, inclusi `main`.

@@ -147,11 +147,18 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 
 ## Checkpoint ricognizione repository — 2026-10-13
 
-- **HEAD di `main` verificato:** `75f74f4624c135fdc26e83b254cc77e64d18e2fb`, commit `docs(audit): consolidate final owner questions (#19)`. Il commit precedente è `c625f54ce8c6e0f5572c6b6a5a8b936722e7b8f5`; nessun commit successivo è apparso nella ricerca dei commit recenti.
+- **HEAD di `main` al primo controllo:** `75f74f4624c135fdc26e83b254cc77e64d18e2fb`, commit `docs(audit): consolidate final owner questions (#19)`. Dopo il merge della PR #20, il nuovo HEAD verificato è `dac44d6d46d36b2c84a6ee69eeb369f0dcedb2e2`.
 - **PR #19:** chiusa e integrata in `main`; merge commit `75f74f4624c135fdc26e83b254cc77e64d18e2fb`. La sezione riepilogativa delle domande è presente in `content/meta/domande-aperte.md` (blob SHA `a68d567986c6b283b2dbec0a2851dec8c8a1c6c2`).
 - **PR aperte:** la ricerca GitHub per PR aperte nel repository non ha restituito risultati.
-- **Branch:** 21 totali, inclusi `main`; 20 non-main. I 17 branch storici già esaminati restano presenti; `audit/consolidamento-domande-finali` è il branch della PR #19 e `audit/checkpoint-2026-10-13` è il branch di questa registrazione.
-- **PR precedenti:** le PR #1–#11, #13 e #15–#19 risultano chiuse e integrate secondo i metadati recuperati. La #12 risulta chiusa senza merge. La #14 risulta `merged=false` ma restituisce un `merge_commit_sha` non nullo: metadati discordanti da verificare prima di trarre conclusioni. Non risultano PR aperte.
+- **Branch:** 22 totali, inclusi `main`; 21 non-main dopo la creazione del branch `audit/reconcile-pr14-metadata`. I 17 branch storici già esaminati restano presenti; `audit/consolidamento-domande-finali` è il branch della PR #19 e `audit/checkpoint-2026-10-13` quello della PR #20.
+- **PR precedenti:** le PR #1–#11, #13 e #15–#19 risultano chiuse e integrate secondo i metadati recuperati. La #12 risulta chiusa senza merge. La #14 risulta chiusa senza merge (`merged=false`, `merged_at=null`). Il `merge_commit_sha` restituito è un commit di test con messaggio `Merge ddc4da80ebc7bdd61e952c25d9c1e41f66dab89b into 6fd6f10a00093f58044854dc985092a4de44d989`, non prova un merge effettivo. Non risultano PR aperte.
 - **CI:** per il merge della PR #19 non sono state restituite workflow runs né status checks, quindi la CI su quel commit resta non verificata. Per la PR #20 la run `Validate Quartz wiki` n. 38353745004 è terminata con esito `success` (controllo wikilink e build Quartz); la run è associata al primo commit del branch (`5cd5979`). Gli aggiornamenti successivi alla run hanno prodotto ulteriori commit sul branch, senza una nuova run associata restituita dagli strumenti. Non dichiarare testato il HEAD finale.
-- **Registri letti:** `content/meta/istruzioni-ripresa.md`, `content/meta/fonti.md`, `content/meta/domande-aperte.md` e `content/_changelog.md`. I tre registri meta riportano stato in aggiornamento e ultima modifica 2026-10-12; il changelog non registra ancora esplicitamente il merge della PR #19.
-- **Prossimo passo:** completare la riconciliazione dei metadati PR #14; poi iniziare l'inventario ricorsivo effettivo della tree e la copertura dei contenuti non ancora verificati integralmente. Non trattare i riepiloghi dei checkpoint storici come prova sostitutiva della lettura dei file.
+- **Registri letti:** `content/meta/istruzioni-ripresa.md`, `content/meta/fonti.md`, `content/meta/domande-aperte.md` e `content/_changelog.md`. I tre registri meta riportano stato in aggiornamento e ultima modifica 2026-10-12; il changelog registra ora la ricognizione successiva alla PR #19 e il checkpoint del 13 ottobre.
+- **Prossimo passo:** iniziare l'inventario ricorsivo effettivo della tree e la copertura dei contenuti non ancora verificati integralmente. Non trattare i riepiloghi dei checkpoint storici come prova sostitutiva della lettura dei file.
+
+
+### Esito della riconciliazione PR #14 — 2026-10-13
+
+- Verificati i metadati della PR #14: `state=closed`, `merged=false`, `merged_at=null`. Il valore `merge_commit_sha=2f7a76d948c48bf9cafaa2df7409e35ecdf89f62` punta a un commit con messaggio `Merge ddc4da80ebc7bdd61e952c25d9c1e41f66dab89b into 6fd6f10a00093f58044854dc985092a4de44d989`, coerente con un commit di prova/mergeability e non con un merge reale della PR.
+- Esito: PR #14 classificata **chiusa senza merge**; nessuna modifica da recuperare automaticamente. Il branch resta un riferimento storico già confrontato, non un cambiamento integrato.
+- Dopo il merge della PR #20, `main` punta a `dac44d6d46d36b2c84a6ee69eeb369f0dcedb2e2`. Il branch di questa correzione documentale porta il conteggio a 22 branch totali (21 non-main).
