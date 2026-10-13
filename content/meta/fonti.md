@@ -121,7 +121,7 @@ Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cit
 
 **C8 — Varianti del nome Brienne/Brianne**
 - La forma canonica è **Brienne Brood**, sostenuta da `Elenco Draghieri`, dalla voce personaggio e dalla maggior parte delle occorrenze in `Inktober 2018/2019/2024`.
-- `Inktober 2019 #Build` e `Inktober 2024 #Binoculars` contengono alcune occorrenze di **Brianne**; non emerge un secondo personaggio. Le fonti sono mantenute inalterate e le voci sintetiche usano Brienne.
+- `Inktober 2019 #Build` e `Inktober 2024 #Binoculars` contengono alcune occorrenze di **Brianne**; non emerge un secondo personaggio. Le fonti sono mantenute inalterate e le voci sintetiche usano Brienne. `Inktober 2019 #Husky` usa inoltre «Adryanne Achenium», mentre `#Build`, `Elenco Draghieri` e le voci wiki usano «Adryanne Achenius»; la forma sintetica adottata resta Achenius.
 
 ### 🟠 Duplicazioni Risolte
 
@@ -150,7 +150,8 @@ Le due fonti non sono presenti nel tree GitHub attuale con i vecchi percorsi `co
 
 ### Ambiguità nominali emerse nell'audit — 2026-10-13
 
-- **Sirius**, in `Inktober 2018 #Flowing`: nome usato per chi ha fornito rocce nel I anno di Regno. Non esistono altre occorrenze nel repository; non va assimilato automaticamente a Syrus Salamander, dato che la cronologia colloca Syrus tra i Guardiani uccisi prima dell'ascesa a Re. Registrato come domanda L19.
+- **Sirius**, in `Inktober 2018 #Flowing`: nome usato per chi ha fornito rocce nel I anno di Regno. Non esistono altre occorrenze nel repository; non va assimilato automaticamente a Syrus Salamander.
+- **Syrus e gli Annali dell'Artiglio di Fuoco:** `Inktober 2019 #Wild` attribuisce a Syrus un testo che menziona città costruite dall'Anno del Dominio, ma la cronologia e `#Bottle` collocano la sua morte prima dell'ascesa a Re Draco. Il documento integrale degli Annali non è reperito. L'identità di Sirius e la datazione/attribuzione del brano sono riunite nella domanda L19.
 - **Brienne/Brianne**: variante grafica risolta editorialmente a favore di Brienne, senza correggere i testi sorgente.
 
 ## Sistema di Potere: Schema Canonico
