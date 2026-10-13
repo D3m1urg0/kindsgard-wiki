@@ -23,10 +23,11 @@ Questa sezione separa le decisioni che richiedono una risposta umana dalle attiv
 3. **L13 — Fiamme nel Kindsgard:** le Fiamme esistono come fazione organizzata anche nel Kindsgard, oppure la fazione appartiene a Vilegis/Lunaria e i Bruciati sono soltanto il suo seme narrativo? Il legame già registrato fra Bruciati e Fiamme non è in discussione.
 4. **L14 — “Infiammati”:** il termine in Inktober 2018 #Flowing indica i Bruciati, un gruppo distinto o altro? La somiglianza lessicale non basta a identificarli.
 5. **L19 — Identità e cronologia di Sirius/Syrus:** `Inktober 2018 #Flowing` nomina Sirius come fornitore di rocce nel I anno di Regno; `Inktober 2019 #Wild` attribuisce a Syrus Salamander un testo che parla di città dell'Anno del Dominio, mentre `#Bottle` e la cronologia collocano la sua morte prima dell'ascesa di Re Draco. Chiarire se Sirius è distinto da Syrus e se il testo degli Annali è una compilazione postuma, un'attribuzione errata o una discrepanza cronologica. Non correggere le fonti per inferenza.
-6. **L15 — Seymour Sandwurm / “ex Shai'Hulud”:** che cosa designa Shai'Hulud nella nota originale: un precedente nome personale, una specie/Fiera o altro?
-7. **L17 — Tredici Guardiani:** esiste una lista canonica completa? Frederick Fenice apparteneva al gruppo dei tredici Guardiani collegati al Fondamento, oppure il tag `guardiano` nella sua voce ha un altro significato?
-8. **L11 — `Copia_di_I_Draghieri_del_kindsgard`:** il proprietario riconosce questo riferimento come un documento specifico e può fornire il file o identificarne la destinazione? Non sostituirlo automaticamente con `draghieri-spiegazione.md`.
-9. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
+7. **L20 — Adryanne Achenius/Achenium, IX/XII:** `Inktober 2019 #Build` la chiama IX Draghiere del Soffione Uncinato; `#Husky` e `Elenco Draghieri` riportano XII. Chiarire se IX è un refuso, una diversa collocazione temporale o una persona distinta; conservare le citazioni originali.
+8. **L15 — Seymour Sandwurm / “ex Shai'Hulud”:** che cosa designa Shai'Hulud nella nota originale: un precedente nome personale, una specie/Fiera o altro?
+9. **L17 — Tredici Guardiani:** esiste una lista canonica completa? Frederick Fenice apparteneva al gruppo dei tredici Guardiani collegati al Fondamento, oppure il tag `guardiano` nella sua voce ha un altro significato?
+10. **L11 — `Copia_di_I_Draghieri_del_kindsgard`:** il proprietario riconosce questo riferimento come un documento specifico e può fornire il file o identificarne la destinazione? Non sostituirlo automaticamente con `draghieri-spiegazione.md`.
+11. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
 
 ### Non richiedono una decisione umana in questa fase
 
@@ -158,6 +159,12 @@ Nel resoconto di Brienne Brood sul lavoro al Fiume Bianco si menziona un gruppo 
 ### L19 — Identità e cronologia di Sirius/Syrus
 `Inktober 2018 #Flowing` nomina **Sirius** come fornitore di rocce nel I anno di Regno; la ricerca del nome esatto nel repository non ha restituito altre occorrenze. Non va automaticamente corretto in **Syrus**. Inoltre, `Inktober 2019 #Wild` attribuisce a Syrus Salamander un brano degli Annali dell'Artiglio di Fuoco che menziona città costruite dall'Anno del Dominio, mentre `#Bottle` e la cronologia collocano la sua morte prima dell'ascesa di Re Draco.
 - → **Chiarimento documentale/canonico:** Sirius è una persona distinta da Syrus? Il brano degli Annali è una compilazione postuma, un'attribuzione errata o una discrepanza cronologica? Conservare nomi e testi originali; non correggere né assegnare identità per inferenza.
+
+
+### L20 — Numero di Adryanne Achenius/Achenium
+`Inktober 2019 #Build` chiama Adryanne Achenius **IX Draghiere del Soffione Uncinato**; `#Husky` usa la variante grafica **Achenium** e la chiama **XII Draghiere**. `Elenco Draghieri` e la scheda wiki riportano XII. Le fonti non forniscono date in-world abbastanza precise per stabilire se si tratti di una variante testuale, di un diverso periodo o di due persone distinte.
+- → **Chiarimento documentale/canonico:** IX in `#Build` è un errore, indica una diversa fase della successione o si riferisce a un'altra Adryanne? Conservare le citazioni originali; la sintesi wiki mantiene XII in base all'Elenco Draghieri e a `#Husky` fino a eventuale chiarimento.
+
 
 ### L15 — Seymour Sandwurm e “ex Shai'Hulud”
 `Elenco Draghieri` elenca **Seymour Sandwurm** con la nota “ex Shai'Hulud”, senza spiegare il rapporto tra i due nomi. Non è possibile stabilire se Shai'Hulud sia un nome precedente del personaggio, una denominazione della Fiera/specie o un riferimento di altro tipo.
