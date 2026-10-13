@@ -3,7 +3,7 @@ titolo: "Inktober 2024 — Racconti del Kindsgard 3"
 categoria: "fonti"
 tag: [inktober, racconti, antologia, in-world, ambientazione-da-mappare]
 status: "canonico"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-13"
 aliases: ["Inktober 2024"]
 tipo: "racconto"
 autore: "Stefania Ricco"
@@ -18,9 +18,9 @@ voci-wiki-collegate: ["Le Ere del Kindsgard", "Brood", "Altri Personaggi", "Citt
 > - #5 Binoculars — Razvan Roc viene allontanato dalla Città-Alveare da Brienne Brood → [[Brood]], [[Altri Personaggi]], [[Città-Alveare]]
 > - #6 Trek — un gruppo di sopravvissuti in marcia segue le tracce di un Draghiere sconosciuto
 > - #7 Passport — il sistema di controllo sanitario al porto, il "marchio dell'Anello" → [[Geografia del Kindsgard#Mare Interno]]
-> - #8/9 Hile/Sun — un ex-bibliotecario dell'Artiglio delle Sabbie, sopravvissuto a un Battesimo del Fuoco fallito, attraversa il deserto → [[Il Battesimo del Fuoco]], [[Samu'el Sphynx]]
+> - #8/9 Hile/Sun — un ex-bibliotecario dell'Artiglio delle Sabbie ricorda di essere morto e tornato e non viene percepito dagli Umani; la causa e la natura del suo stato non sono esplicitate → [[Samu'el Sphynx]]
 >
-> *Nota: la collocazione cronologica di questa raccolta rispetto alla timeline master non è determinata — vedi [[Domande Aperte e Lacune]] A1. Il racconto #8/9 introduce un possibile caso aggiuntivo di Battesimo del Fuoco fallito (Bruciato), da verificare contro [[Fiamme]].*
+> *Nota: la collocazione cronologica assoluta di questa raccolta rispetto alla timeline master non è determinata; #Binoculars stabilisce però un intervallo relativo di cinque anni dalla missione che ripopolò la Città-Alveare — vedi [[Domande Aperte e Lacune]] A1. #Hile/#Sun non nomina esplicitamente un Battesimo del Fuoco né identifica il personaggio come Bruciato o Fiamma: il possibile collegamento resta un'ipotesi editoriale, non un fatto attestato.*
 
 ---
 

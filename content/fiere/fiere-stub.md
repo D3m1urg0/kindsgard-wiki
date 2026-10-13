@@ -3,7 +3,7 @@ titolo: "Fiere — Voci Stub"
 categoria: "fiere"
 tag: [fiere, stub, bestiario]
 status: "bozza"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 aliases: ["Fiere"]
 fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Prevedibilità__covata_", "Mostri", "Elenco_Draghieri_Conosciuti", "D4-guida-draghiere"]
 ---
@@ -17,6 +17,8 @@ fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Prevedibilità__cova
 ---
 
 ## Nota Generale sulle Fiere
+
+> **Nota editoriale:** le intestazioni «Fiere Maggiori», «Fiere di Media Pericolosità» e «Fiere Minori» sono raggruppamenti organizzativi di questo indice, non una gerarchia canonica né una scala ufficiale di pericolosità. «Fitofiera» è invece una categoria attestata nelle schede in cui la fonte la specifica.
 
 Nel Kindsgard non esistono animali nel senso convenzionale. Ogni creatura è una **Fiera**: un mostro mitologico enormemente pericoloso, dotato di capacità letali specifiche. Alcune Fiere sono **Fitofiere** (di natura vegetale). Le Fiere si dividono anche in **Sensibili** (dotate di terminazioni nervose, reagiscono agli stimoli muovendosi e attaccando) e **Inerti** (uccidono rilasciando veleno o spore, si nutrono per contatto o dal terreno).
 

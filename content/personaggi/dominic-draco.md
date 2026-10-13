@@ -5,7 +5,7 @@ tag: [dominic-draco, draghieri, vere-fiere, re-draco, unico-guardiano, protagoni
 status: "revisionato"
 ultima_modifica: "2026-10-13"
 aliases: ["Re Draco", "Unico Guardiano", "Re Draco, Unico Guardiano"]
-fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artiglio_di_Fuoco", "Solitudine", "18___Misfit", "Risveglio_del_Drago", "Inktober_2019", "Deflecte_Cantum", "L_Animale_Uomo"]
+fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artiglio_di_Fuoco", "Solitudine", "18___Misfit", "Risveglio_del_Drago", "Inktober_2019", "Deflecte_Cantum", "L_Animale_Uomo", "draghieri-spiegazione"]
 ---
 
 # Dominic Draco

@@ -3,8 +3,8 @@ titolo: "Cosmologia"
 categoria: "mondo"
 tag: [cosmologia, natura, bisogno, espediente, fondamento, spettri]
 status: "revisionato"
-ultima_modifica: "2026-10-12"
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Cronistoria_versione_breve", "Copia_di_I_Draghieri_del_kindsgard"]
+ultima_modifica: "2026-10-13"
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Cronistoria_versione_breve", "Copia_di_I_Draghieri_del_kindsgard", "draghieri-spiegazione", "Inktober_2019"]
 ---
 
 # Cosmologia
