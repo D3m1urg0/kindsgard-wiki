@@ -111,6 +111,14 @@ Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cit
 - `Elenco Draghieri` (fonte catalogata come canonica) riporta **Sef Sycamore, XIII Sicomoro Perenne**; `Inktober 2019 #Mindless` lo chiama **XIV Draghiere del Sicomoro**.
 - **Regola operativa:** le voci sintetiche adottano XIII, come nell'elenco canonico. La fonte narrativa resta invariata e la discrepanza viene segnalata; non si ipotizza un secondo personaggio né si corregge il testo originale senza nuova evidenza.
 
+**C6 — Numero di Brienne Brood in `Inktober 2018 #Flowing` — variante interna alla fonte**
+- L'indice rapido e l'introduzione della stessa raccolta indicano Brienne come XVII Draghiere della Covata; la firma in fondo alla lettera di `#Flowing` riporta invece «VI Draghiere della Covata».
+- `Elenco Draghieri`, la voce di Brienne e la successione canonica Bartholomew XVI → Brienne XVII concordano sul numero XVII. La firma VI è registrata come incongruenza testuale della fonte, non come seconda numerazione canonica. Il testo narrativo originale resta invariato.
+
+**C7 — Due strofe di `Deflecte Cantum` riprodotte in `Inktober 2019 #Legend`**
+- La fonte autonoma `deflecte-cantum.md` conserva annotazioni esplicite di Pietro Caruso: «Tema i suoi figli la dea» è marcata «No» e la strofa «Stretta nel pugno la lancia possente» è marcata da ignorare per il momento.
+- `inktober-2019.md`, nel racconto `#Legend`, riproduce entrambe le strofe senza le annotazioni correttive. La riproduzione è mantenuta come attestazione testuale, ma non annulla le correzioni esplicite nella fonte della canzone. Nelle sintesi wiki, le due strofe non vanno trattate come testo canonico confermato.
+
 ### 🟠 Duplicazioni Risolte
 
 **D1 — Due documenti intitolati "Fierezza"**
