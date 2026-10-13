@@ -255,3 +255,9 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - `Inktober 2019 #Wild` attribuisce a Syrus Salamander un brano degli Annali che menziona città costruite dall'Anno del Dominio; `content/personaggi/salamander.md` e la cronologia collocano Syrus tra i Guardiani uccisi da Dominic prima dell'ascesa a Re Draco. Il testo integrale degli Annali non è reperito e il catalogo non dimostra che il brano coincida con il documento legacy `annali-artiglio-di-fuoco-intro.md`.
 - L19 è stata ampliata per comprendere questa discrepanza e il nome Sirius in `Inktober 2018 #Flowing`. Il frammento non viene più datato con sicurezza all'Era degli Eroi e non viene usato per sostenere che Syrus sia sopravvissuto.
 - Rilevata anche la variante «Adryanne Achenium» in `Inktober 2019 #Husky`, mentre l'Elenco Draghieri e le altre occorrenze usano «Adryanne Achenius». Registrata come variante testuale, senza correzione del sorgente.
+
+
+### Aggiornamento copertura delle antologie — 2026-10-13
+
+- Completata la lettura integrale di `content/fonti/inktober-2024.md` (218 righe). L'annotazione sul possibile Battesimo fallito in `#Hile/#Sun` resta un'ipotesi editoriale: il testo descrive un personaggio che ricorda di essere morto e tornato e che non viene percepito dagli Umani, ma non nomina esplicitamente un Battesimo né lo chiama Bruciato o Fiamma.
+- Avanzamento aggiornato: **27/29 corpi fonte letti integralmente in prima passata**. Restano da completare la lettura integrale delle raccolte `Inktober 2018` e `Inktober 2019`; per entrambe sono già stati letti l'indice e sezioni mirate rilevanti per le voci wiki.
