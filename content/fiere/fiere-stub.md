@@ -112,7 +112,7 @@ Pianta la cui radice, essiccata e trattata, può risultare temporaneamente innoc
 **Everastes** — Fiera associata a Ember Everastes, IV Draghiere dell'Everastes. `Inktober 2019 #Snow` descrive Ember come “fatta per stare in mezzo al gelo”, ma non stabilisce il tipo di habitat della Fiera né una sua immunità al freddo. Il simbolo montuoso sullo stemma e l'equipaggiamento del Draghiere non bastano a dedurre la morfologia o le capacità della specie (*Inktober 2019 #Snow, #Dragon*).
 
 
-**Tentacolo Scarlatto** — Fiera vermiforme e sanguinolenta, descritta mentre tenta di afferrare una Cockatrice; Wade Wyrm la usa come esca (`Inktober 2018 #Poisonous`). La fonte non la descrive come fitofiera e non menziona foglie commestibili.
+**Tentacolo Scarlatto** — Fiera vermiforme e sanguinolenta, descritta mentre tenta di afferrare una Cockatrice; Wade Wyrm la usa come esca (`Inktober 2018 #Poisonous`). La fonte non la descrive come fitofiera e non menziona foglie commestibili. Le liane rosso vermiglio di `Inktober 2019 #Ancient` non vengono identificate come Tentacolo Scarlatto: il racconto non nomina la specie e le descrive come appendici parassite di un albero antico.
 
 ## Menzioni narrative aggiuntive (fuori dal conteggio delle 26)
 

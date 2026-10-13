@@ -121,7 +121,7 @@ Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cit
 
 **C8 — Varianti del nome Brienne/Brianne**
 - La forma canonica è **Brienne Brood**, sostenuta da `Elenco Draghieri`, dalla voce personaggio e dalla maggior parte delle occorrenze in `Inktober 2018/2019/2024`.
-- `Inktober 2019 #Build` e `Inktober 2024 #Binoculars` contengono alcune occorrenze di **Brianne**; non emerge un secondo personaggio. Le fonti sono mantenute inalterate e le voci sintetiche usano Brienne. `Inktober 2019 #Husky` usa inoltre «Adryanne Achenium», mentre `#Build`, `Elenco Draghieri` e le voci wiki usano «Adryanne Achenius»; la forma sintetica adottata resta Achenius.
+- `Inktober 2019 #Build` e `Inktober 2024 #Binoculars` contengono alcune occorrenze di **Brianne**; non emerge un secondo personaggio. Le fonti sono mantenute inalterate e le voci sintetiche usano Brienne. `Inktober 2019 #Husky` usa inoltre «Adryanne Achenium», mentre `#Build`, `Elenco Draghieri` e le voci wiki usano «Adryanne Achenius»; la forma sintetica adottata resta Achenius. La numerazione resta invece discordante: `#Build` dice IX, mentre `#Husky` ed `Elenco Draghieri` dicono XII; la questione è registrata come L20 e non è normalizzata automaticamente.
 
 ### 🟠 Duplicazioni Risolte
 
@@ -152,7 +152,11 @@ Le due fonti non sono presenti nel tree GitHub attuale con i vecchi percorsi `co
 
 - **Sirius**, in `Inktober 2018 #Flowing`: nome usato per chi ha fornito rocce nel I anno di Regno. Non esistono altre occorrenze nel repository; non va assimilato automaticamente a Syrus Salamander.
 - **Syrus e gli Annali dell'Artiglio di Fuoco:** `Inktober 2019 #Wild` attribuisce a Syrus un testo che menziona città costruite dall'Anno del Dominio, ma la cronologia e `#Bottle` collocano la sua morte prima dell'ascesa a Re Draco. Il documento integrale degli Annali non è reperito. L'identità di Sirius e la datazione/attribuzione del brano sono riunite nella domanda L19.
+- **Adryanne Achenius/Achenium:** `Inktober 2019 #Build` riporta IX, mentre `#Husky` ed `Elenco Draghieri` riportano XII. La voce wiki mantiene XII, ma l'incongruenza della fonte è aperta in L20.
 - **Brienne/Brianne**: variante grafica risolta editorialmente a favore di Brienne, senza correggere i testi sorgente.
+- **`Giù nel Bosco` — variante di strofa:** `Canzoni degli Umani` riporta «Che con te lui vuol cenar», mentre `Inktober 2019 #Enchanted` cita «Via da me ti vuol portar». Entrambe le formulazioni sono attestate; il testo della raccolta canzoni resta la versione di riferimento e la variante narrativa non viene corretta.
+- **`Inktober 2019 #Ancient` — liane rosse non identificate:** il racconto descrive liane rosso vermiglio che parassitano un albero antico, ma non nomina la specie. Non identificarle automaticamente con Tentacolo Scarlatto per il solo colore; il riferimento alle Bacche Emofaghe è una supposizione del personaggio su un altro caso, non la diagnosi del fenomeno mostrato.
+- **`Inktober 2019 #Enchanted` — piccole Fiere alate:** il racconto mostra lucine alate che pungono Alison, senza nominarne la specie. Non assegnarle a Chiroptera o a un'altra Fiera nota senza ulteriori fonti.
 
 - **Hile/Sun in `Inktober 2024`:** il racconto descrive un personaggio che ricorda di essere morto e tornato e non viene percepito dagli Umani, ma non menziona esplicitamente un Battesimo fallito né lo chiama Bruciato/Fiamma. Il collegamento resta un'ipotesi editoriale.
 

@@ -274,3 +274,19 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - **Branch corrente:** `audit/source-fidelity-citations-2026-10-13`; inventario aggiornato a 31 branch totali, incluso `main` (30 non-main).
 
 - Il confronto diretto fra `content/fonti/bacche-emofaghe-fonte.md` e `Inktober 2018 #Drain` mostra che #Drain è una variante abbreviata e parzialmente riformulata della scheda tecnica, non una sezione narrativa/ambientale né una seconda attestazione indipendente. Aggiornata D2 nel catalogo: la scheda completa resta normativa e la variante è conservata senza prevalere su di essa.
+
+
+### Aggiornamento copertura e nuova discrepanza — 2026-10-13
+
+- La lettura diretta di `Inktober 2018` è completata; avanzamento: **28/29 corpi fonte letti integralmente**. Resta da completare la raccolta `Inktober 2019`, della quale sono già state lette sezioni mirate (#Build, #Husky, #Legend, #Wild, #Swing, #Pattern, #Dragon, #Overgrown, #Tread, #Treasure, #Tasty e altre).
+- Nuova discrepanza nominale/ordinale: `Inktober 2019 #Build` chiama Adryanne Achenius IX Draghiere del Soffione Uncinato; `#Husky` e `Elenco Draghieri` riportano XII. La sintesi mantiene XII, ma l'identità temporale non è risolvibile con le fonti attuali; registrata L20.
+- Il numero IX/XII non va confuso con la variante grafica Achenius/Achenium, che resta una variante testuale registrata in C8.
+- Il branch corrente `audit/adryanne-ordinal-and-coverage-2026-10-13` porta il conteggio a 32 branch totali, incluso `main` (31 non-main).
+
+
+### Chiusura della prima passata di inventario fonti — 2026-10-13
+
+- Completata la lettura integrale in prima passata di tutte le **29/29 fonti** catalogate, incluse le antologie `Inktober 2018`, `Inktober 2019` e `Inktober 2024`. Questo chiude l'inventario e la lettura di primo livello delle fonti, non l'intero audit semantico.
+- Varianti e limiti registrati: `Giù nel Bosco` ha una strofa diversa in `Inktober 2019 #Enchanted`; la raccolta canzoni resta il testo di riferimento e la variante è conservata. Le liane rosse di `#Ancient` e le piccole Fiere alate di `#Enchanted` non sono identificate per specie; non vengono fuse con Fiere note per somiglianza.
+- **Prossimo passo:** completare il confronto sistematico fra tutte le pagine wiki e le fonti appena lette, verificare le citazioni puntuali, controllare i registri editoriali e le destinazioni dei riferimenti legacy. Il report finale resta prematuro finché queste verifiche non sono concluse.
+- **Branch corrente:** `audit/adryanne-ordinal-and-coverage-2026-10-13`; 32 branch totali, 31 non-main.
