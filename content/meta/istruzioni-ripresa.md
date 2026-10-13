@@ -282,3 +282,11 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - Nuova discrepanza nominale/ordinale: `Inktober 2019 #Build` chiama Adryanne Achenius IX Draghiere del Soffione Uncinato; `#Husky` e `Elenco Draghieri` riportano XII. La sintesi mantiene XII, ma l'identità temporale non è risolvibile con le fonti attuali; registrata L20.
 - Il numero IX/XII non va confuso con la variante grafica Achenius/Achenium, che resta una variante testuale registrata in C8.
 - Il branch corrente `audit/adryanne-ordinal-and-coverage-2026-10-13` porta il conteggio a 32 branch totali, incluso `main` (31 non-main).
+
+
+### Chiusura della prima passata di inventario fonti — 2026-10-13
+
+- Completata la lettura integrale in prima passata di tutte le **29/29 fonti** catalogate, incluse le antologie `Inktober 2018`, `Inktober 2019` e `Inktober 2024`. Questo chiude l'inventario e la lettura di primo livello delle fonti, non l'intero audit semantico.
+- Varianti e limiti registrati: `Giù nel Bosco` ha una strofa diversa in `Inktober 2019 #Enchanted`; la raccolta canzoni resta il testo di riferimento e la variante è conservata. Le liane rosse di `#Ancient` e le piccole Fiere alate di `#Enchanted` non sono identificate per specie; non vengono fuse con Fiere note per somiglianza.
+- **Prossimo passo:** completare il confronto sistematico fra tutte le pagine wiki e le fonti appena lette, verificare le citazioni puntuali, controllare i registri editoriali e le destinazioni dei riferimenti legacy. Il report finale resta prematuro finché queste verifiche non sono concluse.
+- **Branch corrente:** `audit/adryanne-ordinal-and-coverage-2026-10-13`; 32 branch totali, 31 non-main.
