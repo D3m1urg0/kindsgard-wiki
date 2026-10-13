@@ -244,3 +244,5 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 
 - Aggiornate `content/fazioni/vere-fiere.md`, `content/storia/ere.md` e `content/personaggi/dominic-draco.md`: riportavano ancora L16 come aperta e interpretavano `Misfit` come se Wendy Wyrm e Solomon fossero presentati come Vere Fiere attive. La lettura diretta della fonte mostra il passato verbale («colei che fu Vera Viverna», «che fu la Vera Sfinge»); i riferimenti a L16 sono stati rimossi e la regola generale della cronologia mantenuta.
 - La voce Vere Fiere ora rinvia alle Fiamme come bozza in quarantena e non ne ripete come canonica la meccanica esterna.
+
+- La verifica incrociata ha trovato ulteriori riferimenti obsoleti a L16 nelle voci `content/personaggi/wendy-wyrm.md` e `content/personaggi/solomon.md`. Sono stati corretti in modo coerente con `Misfit`: i titoli di Vera Viverna/Vera Sfinge sono trattati come identità storiche, non come poteri ancora attivi nell'Era del Dominio.
