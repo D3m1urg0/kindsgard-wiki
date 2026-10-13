@@ -387,3 +387,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Verificato il corpo di `content/fonti/misfit.md`: Wendy Wyrm è indicata come «colei che fu Vera Viverna» e Solomon come «che fu la Vera Sfinge», coerentemente con il loro stato successivo alla perdita del potere.
 - Rimossa L16 dalla lista delle decisioni da sottoporre al proprietario e registrata fra le questioni risolte documentalmente. `Inktober 2018 #Precious` non è prova di mantenimento del potere: la forma umanoide non contraddice la fonte più esplicita.
 - La regola generale riportata dalla cronologia viene mantenuta, senza dichiarare dimostrata la sorte individuale di ogni Vera Fiera.
+
+
+## 2026-10-13 — Varianti testuali individuate nel confronto delle fonti
+
+- `Inktober 2018 #Flowing` presenta una discrepanza interna sul numero di Brienne Brood: XVII nell'indice/intestazione e VI nella firma della lettera. Le altre attestazioni canoniche concordano su XVII; il testo sorgente non è alterato.
+- `Inktober 2019 #Legend` riproduce due strofe di `Deflecte Cantum` che la fonte autonoma marca come errate/da ignorare. Il registro fonti e la voce Tradizioni ora esplicitano che la riproduzione non prevale sulle correzioni dell'autore.
+- L16 è stata risolta nella PR #25 sulla base di `Misfit`. I corpi delle tre raccolte Inktober non sono ancora verificati integralmente; 26/29 altre fonti sono state lette in prima passata.

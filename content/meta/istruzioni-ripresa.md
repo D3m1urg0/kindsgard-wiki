@@ -217,3 +217,13 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - La lettura diretta di `content/fonti/misfit.md` mostra che il testo usa il passato per Wendy («colei che fu Vera Viverna») e Solomon («che fu la Vera Sfinge»). Il racconto è collocato nell'Era del Dominio e la sua interpretazione editoriale li identifica come ex-Vere Fiere tornate umane dopo la perdita del potere.
 - Rimossa la domanda al proprietario su Wendy/Solomon come possibili eccezioni: l'apparente conflitto derivava da una lettura imprecisa del tempo verbale nella fonte. La regola generale della cronologia resta, senza estenderla oltre le attestazioni disponibili.
 - PR di correzione in preparazione sul branch `audit/resolve-l16-from-misfit-2026-10-13`. Dopo l'integrazione, proseguire con la lettura delle fonti rimanenti e la verifica delle altre domande.
+
+
+### Verifica incrociata di varianti testuali — 2026-10-13
+
+- La lettura integrale dei corpi di **26/29 fonti** è stata completata in prima passata. Le tre antologie Inktober sono state inventariate strutturalmente e lette per sezioni mirate; non sono dichiarate lette integralmente.
+- Registrata la discrepanza interna di `Inktober 2018 #Flowing`: la fonte introduce Brienne Brood come XVII Draghiere della Covata, ma la firma della lettera dice VI. `Elenco Draghieri`, la voce di Brienne e la successione già confermata sostengono XVII; la fonte è conservata senza alterare il testo originale.
+- Registrata la divergenza fra `deflecte-cantum.md` e `Inktober 2019 #Legend`: la seconda raccolta riproduce due strofe che la fonte autonoma marca esplicitamente come errate/da ignorare. Le correzioni dell'autore prevalgono nelle sintesi wiki; entrambe le versioni restano documentate.
+- `Misfit` ha risolto L16: Wendy e Solomon sono indicati al passato come ex-Vere Fiere. L16 è stata rimossa dalle decisioni per il proprietario nella PR #25, già integrata.
+- **Rimanenti corpi fonte non letti integralmente:** `inktober-2018.md`, `inktober-2019.md`, `inktober-2024.md`. Restano inoltre da completare la verifica semantica sistematica delle pagine wiki e la riconciliazione dei riferimenti legacy.
+- **HEAD di main al checkpoint:** `c33506e51c4c8555848643100d3c56744203d6a3`. Il branch `audit/record-source-variants-2026-10-13` porta il conteggio a 27 branch totali, incluso `main` (26 non-main).
