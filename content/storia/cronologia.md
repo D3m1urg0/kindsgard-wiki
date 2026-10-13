@@ -3,7 +3,7 @@ titolo: "Cronologia"
 categoria: "storia"
 tag: [cronologia, timeline, storia]
 status: "revisionato"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Risveglio_del_Drago", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
 ---
 
@@ -99,7 +99,7 @@ Il tempo sul Kindsgard non è costante. Periodi di dilatazione temporale causati
 
 **[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard** — Draghieri, Vere Fiere o Fiere effettive che inconsapevolmente incarnavano i 13 vettori collegati al Fondamento di Lunaria — assorbendone i vettori uno per uno.
 
-**[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard, non più Draghiere né Vera Fiera. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli e regna sul Giardino con i Draghieri. La fondazione delle città infrange la legge del Giardino secondo cui tutto deve combattere: è un problema generato dalla scelta di Draco, che il potere ormai concentrato in lui gli impedisce di vedere pienamente. La sorte individuale di Wendy Wyrm e Solomon, presentati come Vere Fiere in `18___Misfit` nell'Era del Dominio, resta da riconciliare (vedi [[Domande Aperte e Lacune]] L16).
+**[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard, non più Draghiere né Vera Fiera. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli e regna sul Giardino con i Draghieri. La fondazione delle città infrange la legge del Giardino secondo cui tutto deve combattere: è un problema generato dalla scelta di Draco, che il potere ormai concentrato in lui gli impedisce di vedere pienamente. `18___Misfit` è coerente con la regola generale: Wendy Wyrm è chiamata «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge», al passato. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, ma non afferma che conservi il potere; L16 è stata risolta documentalmente.
 
 ---
 
