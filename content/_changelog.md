@@ -8,6 +8,14 @@ ultima_modifica: "2026-10-12"
 
 # Changelog
 
+## 2026-10-13 — Ricognizione repository e consolidamento delle domande
+
+- Verificato che `main` punta al merge commit `75f74f4624c135fdc26e83b254cc77e64d18e2fb`, relativo alla PR #19 che consolida le decisioni da sottoporre al proprietario in `content/meta/domande-aperte.md`.
+- La ricerca delle PR aperte non ha restituito risultati. L'inventario branch è aggiornato a 20 branch remoti totali, di cui 19 diversi da `main`.
+- Le PR #1–#11, #13 e #15–#19 risultano chiuse e integrate; la #12 risulta chiusa senza merge. La #14 riporta `merged=false` ma anche un `merge_commit_sha` non nullo: discrepanza da verificare, non interpretata come prova di merge.
+- Per il commit più recente non sono state restituite workflow runs né status checks. La CI sul merge della PR #19 resta quindi non verificata; il successo documentato per la PR #18 non viene esteso al commit corrente.
+- La verifica del repository prosegue: questo checkpoint non dichiara concluso l'audit semantico delle pagine o il confronto integrale delle fonti.
+
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
 
 - Corretto il rendering Markdown dei versi con hard line breaks (due spazi finali, senza modificare parole, punteggiatura o ordine) in `Canzoni degli Umani`, `Deflecte Cantum`, `L'Animale Uomo`, `Lamento di Wade`, il componimento finale di `L'Ultima Notte all'Ombra dell'Anello` e i tre versi citati in `Una Missiva dall'Anello`.
