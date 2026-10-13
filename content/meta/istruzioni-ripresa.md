@@ -246,3 +246,5 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - La voce Vere Fiere ora rinvia alle Fiamme come bozza in quarantena e non ne ripete come canonica la meccanica esterna.
 
 - La verifica incrociata ha trovato ulteriori riferimenti obsoleti a L16 nelle voci `content/personaggi/wendy-wyrm.md` e `content/personaggi/solomon.md`. Sono stati corretti in modo coerente con `Misfit`: i titoli di Vera Viverna/Vera Sfinge sono trattati come identità storiche, non come poteri ancora attivi nell'Era del Dominio.
+
+- La verifica delle pagine dipendenti ha individuato due ulteriori affermazioni stale: `content/_glossario.md` definiva ancora le Fiamme «terza fazione del Kindsgard» e `content/storia/cronologia.md` manteneva aperta L16. Entrambe sono state riallineate nella PR #27: Fiamme come riferimento esterno non confermato e L16 chiusa tramite `Misfit`.
