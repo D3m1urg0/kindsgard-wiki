@@ -417,3 +417,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Estesa L19 alla tensione fra la morte di Syrus prima dell'ascesa a Re Draco e il brano di `Inktober 2019 #Wild` attribuitogli, che menziona città costruite dall'Anno del Dominio. Il brano non viene datato né riassegnato senza il testo integrale degli Annali.
 - Registrata la variante Adryanne Achenium/Achenius; la sintesi wiki conserva Achenius, senza alterare il testo sorgente.
+
+- Completata la lettura integrale di `Inktober 2024`: il personaggio di `#Hile/#Sun` ricorda di essere morto e tornato e non viene percepito dagli Umani, ma la fonte non menziona esplicitamente un Battesimo fallito né lo identifica come Bruciato/Fiamma. Il collegamento resta ipotesi, non fatto canonico. Avanzamento fonti: 27/29 corpi letti integralmente; restano le antologie 2018 e 2019.
