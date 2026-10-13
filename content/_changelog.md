@@ -419,3 +419,12 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Registrata la variante Adryanne Achenium/Achenius; la sintesi wiki conserva Achenius, senza alterare il testo sorgente.
 
 - Completata la lettura integrale di `Inktober 2024`: il personaggio di `#Hile/#Sun` ricorda di essere morto e tornato e non viene percepito dagli Umani, ma la fonte non menziona esplicitamente un Battesimo fallito né lo identifica come Bruciato/Fiamma. Il collegamento resta ipotesi, non fatto canonico. Avanzamento fonti: 27/29 corpi letti integralmente; restano le antologie 2018 e 2019.
+
+
+## 2026-10-13 — Precisione dei riepiloghi e riconciliazione dei riferimenti
+
+- Corretto l'indice rapido di `Inktober 2024`: `#Hile/#Sun` non attesta esplicitamente un Battesimo fallito né identifica il personaggio come Bruciato/Fiamma. Aggiornata anche L13 per distinguere testo e ipotesi.
+- Precisato in L17 che i tredici Draghieri di `Inktober 2019 #Build` non sono automaticamente i tredici Guardiani di `#Legend`.
+- Chiarita la natura editoriale dei raggruppamenti nel bestiario.
+- Aggiunti riferimenti a `draghieri-spiegazione` e `Inktober_2019` alle pagine che li usano direttamente; il catalogo distingue l'identificatore di riferimento dal campo `id` assente nel frontmatter della fonte.
+- 27/29 corpi fonte letti integralmente; le antologie 2018 e 2019 restano da completare. La verifica semantica delle pagine è ancora in corso.
