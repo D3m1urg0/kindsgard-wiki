@@ -436,3 +436,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Completata la lettura integrale di `Inktober 2018`; avanzamento fonti 28/29. Resta da completare `Inktober 2019`.
 - Registrata L20: `Inktober 2019 #Build` chiama Adryanne Achenius IX Draghiere, mentre `#Husky` e `Elenco Draghieri` riportano XII. La sintesi conserva XII senza modificare le citazioni originali.
+
+
+## 2026-10-13 — Chiusura della prima passata di lettura fonti
+
+- Completata la lettura integrale di tutte le 29 fonti catalogate (29/29). Restano aperti il confronto semantico sistematico con le pagine wiki, la verifica puntuale delle citazioni e la riconciliazione dei riferimenti legacy.
+- Registrata la variante della strofa di `Giù nel Bosco` in `Inktober 2019 #Enchanted`; la versione della raccolta `Canzoni degli Umani` resta il riferimento, senza alterare la citazione narrativa.
+- Chiarito che le liane rosse di `#Ancient` e le piccole Fiere alate di `#Enchanted` non sono identificate per specie e non vanno assimilate a specie note per somiglianza.
