@@ -3,7 +3,7 @@ titolo: "Istruzioni di Ripresa — Stato e Protocollo Editoriale"
 categoria: "meta"
 tag: [meta, ripresa, sessione, istruzioni, audit]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 ---
 
 # Istruzioni di Ripresa
