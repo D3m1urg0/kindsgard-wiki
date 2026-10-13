@@ -64,7 +64,7 @@ ultima_modifica: "2026-10-13"
 | File | Contenuto | Status |
 |------|-----------|--------|
 | `content/fonti/soffioni-uncinati-fonte.md` | Scheda completa: Achenium Hamatus | Canonico |
-| `content/fonti/bacche-emofaghe-fonte.md` | Scheda completa: Emophillis Helix | Canonico (versione in Inktober 2018 #Drain è narrativa, non normativa) |
+| `content/fonti/bacche-emofaghe-fonte.md` | Scheda completa: Emophillis Helix | Canonico (la variante abbreviata in Inktober 2018 #Drain è conservata come variante testuale, non come attestazione indipendente) |
 | `content/fonti/mostri.md` | Lista di nomi di Fiere potenziali (brainstorming) | Solo lista, nessuna descrizione. Valore: brainstorming |
 
 ### Altro
@@ -130,10 +130,10 @@ Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cit
 - `Fierezza__il_Dio_che_è_in_noi.docx` = saggio filosofico di Wade Wyrm.
 - **Decisione:** Voci wiki distinte. Titoli proposti: *"Il Battesimo di Cornelius"* e *"Fierezza: il Dio che è in noi"*. Da confermare con Pit.
 
-**D2 — Bacche Emofaghe duplicate**
-- La scheda tecnica in `Bacche_Emofaghe.docx` è la fonte normativa canonica.
-- La versione in `Inktober 2018 #Drain` è narrativa/ambientale, non normativa.
-- **Decisione:** Nessuna contraddizione. Tracciabilità registrata.
+**D2 — Bacche Emofaghe: scheda tecnica e variante in antologia**
+- La scheda tecnica in `Bacche_Emofaghe.docx`, rappresentata da `content/fonti/bacche-emofaghe-fonte.md`, è la fonte normativa canonica.
+- La sezione `Inktober 2018 #Drain` riproduce una versione abbreviata e parzialmente riformulata della scheda: conserva la descrizione morfologica e del ciclo, ma omette campi come la classificazione e modifica alcuni dettagli di impaginazione/formulazione. Non è un racconto narrativo/ambientale né una seconda attestazione indipendente.
+- **Decisione:** la scheda tecnica completa guida le voci wiki; la variante #Drain resta conservata nel testo dell'antologia e non prevale sulla scheda canonica.
 
 **Riferimenti storici D3/D4 — identità chiarita, file sorgenti non reperiti**
 
