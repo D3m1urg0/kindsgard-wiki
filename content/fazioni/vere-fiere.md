@@ -3,7 +3,7 @@ titolo: "Vere Fiere"
 categoria: "fazioni"
 tag: [vere-fiere, fazione, maestà, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "L_Animale_Uomo", "Solitudine", "18___Misfit", "Inktober_2018"]
 ---
 
