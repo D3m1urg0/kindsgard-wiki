@@ -3,7 +3,7 @@ titolo: "Domande Aperte e Lacune"
 categoria: "meta"
 tag: [meta, lacune, ambiguità, domande]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 ---
 
 # Domande Aperte e Lacune
@@ -22,14 +22,15 @@ Questa sezione separa le decisioni che richiedono una risposta umana dalle attiv
 2. **L12 — Annali dell'Artiglio delle Sabbie:** sono una fonte distinta dagli Annali dell'Artiglio di Fuoco, una citazione interna derivata da essi, oppure un altro rapporto? Non unificare i riferimenti senza evidenza.
 3. **L13 — Fiamme nel Kindsgard:** le Fiamme esistono come fazione organizzata anche nel Kindsgard, oppure la fazione appartiene a Vilegis/Lunaria e i Bruciati sono soltanto il suo seme narrativo? Il legame già registrato fra Bruciati e Fiamme non è in discussione.
 4. **L14 — “Infiammati”:** il termine in Inktober 2018 #Flowing indica i Bruciati, un gruppo distinto o altro? La somiglianza lessicale non basta a identificarli.
-5. **L15 — Seymour Sandwurm / “ex Shai'Hulud”:** che cosa designa Shai'Hulud nella nota originale: un precedente nome personale, una specie/Fiera o altro?
-6. **L17 — Tredici Guardiani:** esiste una lista canonica completa? Frederick Fenice apparteneva al gruppo dei tredici Guardiani collegati al Fondamento, oppure il tag `guardiano` nella sua voce ha un altro significato?
-7. **L11 — `Copia_di_I_Draghieri_del_kindsgard`:** il proprietario riconosce questo riferimento come un documento specifico e può fornire il file o identificarne la destinazione? Non sostituirlo automaticamente con `draghieri-spiegazione.md`.
-8. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
+5. **L19 — “Sirius” in Inktober 2018 #Flowing:** chi fornisce le rocce nel resoconto del I anno di Regno? È una persona distinta, una variante/errore per Syrus Salamander o una discrepanza cronologica? Non sostituire il nome per inferenza.
+6. **L15 — Seymour Sandwurm / “ex Shai'Hulud”:** che cosa designa Shai'Hulud nella nota originale: un precedente nome personale, una specie/Fiera o altro?
+7. **L17 — Tredici Guardiani:** esiste una lista canonica completa? Frederick Fenice apparteneva al gruppo dei tredici Guardiani collegati al Fondamento, oppure il tag `guardiano` nella sua voce ha un altro significato?
+8. **L11 — `Copia_di_I_Draghieri_del_kindsgard`:** il proprietario riconosce questo riferimento come un documento specifico e può fornire il file o identificarne la destinazione? Non sostituirlo automaticamente con `draghieri-spiegazione.md`.
+9. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
 
 ### Non richiedono una decisione umana in questa fase
 
-- **A1:** non assegnare date inventate alle singole storie; Inktober 2024 resta non collocato finché le fonti non permettono una datazione.
+- **A1:** non assegnare date inventate alle singole storie. Inktober 2024 non è collocato in un anno assoluto della timeline master; `Inktober 2024 #Binoculars` fornisce però un ancoraggio relativo, dicendo che sono passati cinque anni dalla missione che ha ripopolato la Città-Alveare (riconquista narrata in `Inktober 2019 #Build`). Conservare questa relazione relativa senza convertirla in una data assoluta.
 - **L1, L3 e L4:** recuperare/confrontare i testi D3 e D4 e documentare ciò che è attestato. Non chiedere di ripetere i chiarimenti già registrati; i dettagli non presenti nei testi restano lacune.
 - **L2 — tredicesimo Spettro:** Equilibrio resta un candidato menzionato esclusivamente come riferimento esterno non canonico. Dato che Vilegis/Lunaria è fuori scope salvo intersezioni documentate, non è necessaria una decisione del proprietario per il canone Kindsgard; non promuoverlo a fatto canonico senza una fonte primaria pertinente.
 - **L6:** proseguire la verifica delle 26 voci preliminari e delle fonti, senza creare nuovi stub né inventare proprietà.
@@ -147,12 +148,16 @@ Il frontmatter di `[[Cosmologia]]` cita `Copia_di_I_Draghieri_del_kindsgard`, ma
 - → **Chiarimento documentale:** gli Annali delle Sabbie sono un documento distinto, un estratto degli Annali del Fuoco o soltanto una fonte interna citata nel racconto? Fino alla conferma, mantenere i riferimenti separati e non inventare il testo mancante.
 
 ### L13 — Ambito della fazione delle Fiamme
-La voce `[[Fiamme]]` nasce dai Bruciati descritti in `Inktober 2018 #Scorched`, ma la documentazione disponibile presenta le Fiamme come fazione giocata su Vilegis/Lunaria e non descrive la loro organizzazione sul Kindsgard. Per evitare di promuovere un'inferenza a canone, la voce non le definisce più “terza fazione del Kindsgard”.
+La precedente sintesi di `[[Fiamme]]` presentava la fazione come parte del Kindsgard e importava nel canone originario meccaniche legate a Vilegis/Lunaria. La voce è stata riclassificata come bozza e quarantinata: i dettagli esterni sono conservati come archivio esplicitamente non canonico. Il corpus attesta i Bruciati in `Inktober 2018 #Scorched` e il loro legame come seme narrativo delle Fiamme, ma non prova che le Fiamme siano una fazione organizzata nel Kindsgard.
 - → **Chiarimento canonico:** le Fiamme sono una fazione di Vilegis collegata narrativamente ai Bruciati del Kindsgard, oppure esiste anche una fazione organizzata delle Fiamme nel Kindsgard? Fino alla conferma, mantenere esplicita la connessione senza estendere l'affiliazione geografica.
 
 ### L14 — “Infiammati” in `Inktober 2018 #Flowing`
 Nel resoconto di Brienne Brood sul lavoro al Fiume Bianco si menziona un gruppo di **Infiammati**, che avrebbe lavorato il doppio degli altri Umani. La fonte non li identifica come Bruciati e non stabilisce un legame con la fazione delle Fiamme. La somiglianza dei termini non basta per assimilarli.
 - → **Chiarimento documentale/canonico:** “Infiammati” è un gruppo distinto, una denominazione alternativa dei Bruciati o un termine con altro significato? Fino alla conferma, mantenere i termini separati.
+
+### L19 — “Sirius” in `Inktober 2018 #Flowing`
+Nel resoconto del I anno di Regno, Brienne Brood scrive che alcune rocce erano state fornite da **Sirius**. La ricerca del nome esatto nel repository non ha restituito altre occorrenze. Non va automaticamente corretto in **Syrus**: il corpus colloca Syrus Salamander tra i tredici Guardiani uccisi da Dominic prima dell'ascesa a Re, mentre la lettera è datata al I anno di Regno.
+- → **Chiarimento documentale/canonico:** Sirius è una persona distinta, una variante/refuso per Syrus Salamander o un errore di cronologia nella fonte? Conservare “Sirius” nella citazione originale e non assegnargli un'identità finché non emerge una fonte sufficiente.
 
 ### L15 — Seymour Sandwurm e “ex Shai'Hulud”
 `Elenco Draghieri` elenca **Seymour Sandwurm** con la nota “ex Shai'Hulud”, senza spiegare il rapporto tra i due nomi. Non è possibile stabilire se Shai'Hulud sia un nome precedente del personaggio, una denominazione della Fiera/specie o un riferimento di altro tipo.

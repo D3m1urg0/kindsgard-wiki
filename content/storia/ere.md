@@ -3,7 +3,7 @@ titolo: "Le Ere del Kindsgard"
 categoria: "storia"
 tag: [storia, ere, cronologia, armonia, conflitto, rivalsa, dominio]
 status: "revisionato"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 aliases: ["Era di Armonia"]
 fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "D4-guida-draghiere", "Inktober_2018", "Inktober_2019"]
 ---
@@ -125,7 +125,7 @@ Il mutaforma Ishvard, incapace di liberarsi dalla creatura ferale che lo control
 ### La Forgiatura di Espediente e l'Ascesa di Re Draco
 Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** per proteggere il Kindsgard dalla minaccia del Nexus. Viene forgiata l'arma **Espediente**. Draco la usa per uccidere i **13 Guardiani del Kindsgard** — individui che, dopo la connessione con Vilegis/Lunaria, incarnavano inconsapevolmente i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento — diventando **Unico Guardiano, Re Draco**: entità autonoma, non più Draghiere né Vera Fiera, detentrice del potere così raccolto.
 
-Le Vere Fiere perdono il potere e tornano Umani semplici. I Draghieri non le eliminano perché il loro Istinto non le riconosce come minaccia. Draco fonda le città, dismette gran parte degli Artigli, regna sul Giardino con l'aiuto dei Draghieri. Questa è la regola generale riportata dalla cronologia; la sorte di Wendy Wyrm e Solomon, presentati come Vere Fiere in `18___Misfit` nell'Era del Dominio, resta da riconciliare (vedi [[Domande Aperte e Lacune]] L16).
+Le Vere Fiere perdono il potere e tornano Umani semplici. I Draghieri non le eliminano perché il loro Istinto non le riconosce come minaccia. Draco fonda le città, dismette gran parte degli Artigli, regna sul Giardino con l'aiuto dei Draghieri. `18___Misfit` è coerente con questa regola: Wendy Wyrm è chiamata «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge», al passato. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, senza affermare che conservi il potere; L16 è stata quindi risolta documentalmente.
 
 ### L'Era del Dominio
 *(Parallelismo con Lunaria: Era del Dominio — post Guardiani)*

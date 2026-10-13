@@ -3,7 +3,7 @@ titolo: "Istruzioni di Ripresa — Stato e Protocollo Editoriale"
 categoria: "meta"
 tag: [meta, ripresa, sessione, istruzioni, audit]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 ---
 
 # Istruzioni di Ripresa
@@ -227,3 +227,24 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - `Misfit` ha risolto L16: Wendy e Solomon sono indicati al passato come ex-Vere Fiere. L16 è stata rimossa dalle decisioni per il proprietario nella PR #25, già integrata.
 - **Rimanenti corpi fonte non letti integralmente:** `inktober-2018.md`, `inktober-2019.md`, `inktober-2024.md`. Restano inoltre da completare la verifica semantica sistematica delle pagine wiki e la riconciliazione dei riferimenti legacy.
 - **HEAD di main al checkpoint:** `c33506e51c4c8555848643100d3c56744203d6a3`. Il branch `audit/record-source-variants-2026-10-13` porta il conteggio a 27 branch totali, incluso `main` (26 non-main).
+
+
+### Seconda tranche di inventario e controllo delle contaminazioni — 2026-10-13
+
+- I 29 file fonte sono inventariati; 26 corpi sono stati letti integralmente in prima passata. Le tre antologie Inktober sono state controllate per frontmatter, struttura e indice rapido, e lette per sezioni mirate; non sono considerate verificate integralmente.
+- Rilevata una discrepanza fra il registro L13 e `content/fazioni/fiamme.md`: il registro diceva che la voce non classificava le Fiamme come fazione del Kindsgard, ma il testo effettivo le definiva «terza fazione del Kindsgard» e importava meccaniche di Vilegis/Lunaria come fatti del Kindsgard. La PR #27 riclassifica la voce come bozza, mette il materiale esterno in quarantena e corregge anche la descrizione nell'indice.
+- `Inktober 2018 #Flowing` nomina **Sirius** come fornitore di rocce nel I anno di Regno. Non è trovato altrove; non può essere automaticamente identificato con Syrus Salamander, che la cronologia colloca tra i Guardiani uccisi prima dell'ascesa a Re. Registrata L19 per chiarimento.
+- Varianti **Brienne/Brianne** rilevate in `Inktober 2019 #Build` e `Inktober 2024 #Binoculars`; la forma canonica della voce resta Brienne, senza modificare le citazioni originali.
+- Nuovo ancoraggio relativo per Inktober 2024: `#Binoculars` dichiara cinque anni dalla missione che ripopolò la Città-Alveare, coerente con `Inktober 2019 #Build`. Non permette ancora di assegnare un anno assoluto alla raccolta.
+- **Prossimo passo:** chiudere la revisione mirata delle tre antologie Inktober, verificare i corpi delle pagine wiki più legate alle incongruenze emerse e confrontare le fonti con i registri canonici. Le affermazioni esterne restano separate dal canone originario.
+- **Branch corrente:** `audit/quarantine-fiamme-and-sources-2026-10-13`; conteggio branch dopo la creazione: 28 totali, 27 non-main.
+
+
+### Riconciliazione delle pagine dipendenti da L16 — 2026-10-13
+
+- Aggiornate `content/fazioni/vere-fiere.md`, `content/storia/ere.md` e `content/personaggi/dominic-draco.md`: riportavano ancora L16 come aperta e interpretavano `Misfit` come se Wendy Wyrm e Solomon fossero presentati come Vere Fiere attive. La lettura diretta della fonte mostra il passato verbale («colei che fu Vera Viverna», «che fu la Vera Sfinge»); i riferimenti a L16 sono stati rimossi e la regola generale della cronologia mantenuta.
+- La voce Vere Fiere ora rinvia alle Fiamme come bozza in quarantena e non ne ripete come canonica la meccanica esterna.
+
+- La verifica incrociata ha trovato ulteriori riferimenti obsoleti a L16 nelle voci `content/personaggi/wendy-wyrm.md` e `content/personaggi/solomon.md`. Sono stati corretti in modo coerente con `Misfit`: i titoli di Vera Viverna/Vera Sfinge sono trattati come identità storiche, non come poteri ancora attivi nell'Era del Dominio.
+
+- La verifica delle pagine dipendenti ha individuato due ulteriori affermazioni stale: `content/_glossario.md` definiva ancora le Fiamme «terza fazione del Kindsgard» e `content/storia/cronologia.md` manteneva aperta L16. Entrambe sono state riallineate nella PR #27: Fiamme come riferimento esterno non confermato e L16 chiusa tramite `Misfit`.

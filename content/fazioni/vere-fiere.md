@@ -3,7 +3,7 @@ titolo: "Vere Fiere"
 categoria: "fazioni"
 tag: [vere-fiere, fazione, maestà, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "L_Animale_Uomo", "Solitudine", "18___Misfit", "Inktober_2018"]
 ---
 
@@ -51,9 +51,9 @@ In un'unica occasione documentata, Draghieri e Vere Fiere hanno collaborato: dur
 
 ## Fine del Potere
 
-Quando [[Dominic Draco]] divenne **Re Draco, Unico Guardiano**, assorbendo i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento tramite l'arma Espediente, la cronologia generale riferisce che le Vere Fiere persero il proprio potere e tornarono semplici Umani. I [[Draghieri]] non le eliminarono: il loro Istinto non le riconosceva come minaccia in forma umana. La formulazione generale non chiarisce però la sorte di ogni individuo: `18___Misfit`, collocato nell'Era del Dominio, presenta Wendy Wyrm e Solomon ancora identificati come Vere Fiere, mentre `Inktober 2018 #Precious` mostra Solomon in forma umanoide e lascia ambiguo il suo stato. Vedi [[Domande Aperte e Lacune]] L16.
+Quando [[Dominic Draco]] divenne **Re Draco, Unico Guardiano**, assorbendo i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento tramite l'arma Espediente, la cronologia generale riferisce che le Vere Fiere persero il proprio potere e tornarono semplici Umani. I [[Draghieri]] non le eliminarono: il loro Istinto non le riconosceva come minaccia in forma umana. La lettura diretta di `18___Misfit` chiarisce che Wendy Wyrm è «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge»: il passato verbale è coerente con la regola generale, non un'eccezione. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, ma non afferma che conservi il potere.
 
-Le [[Fiamme]] sono una fazione distinta, non derivata dalle ex-Vere Fiere: nascono da Battesimi del Fuoco predestinati ma interrotti, risolti solo grazie all'ondata di Fierezza scatenata dalla crisi della specie Fenice su Vilegis. Vedi [[Fiamme]] per il meccanismo completo.
+La voce [[Fiamme]] è attualmente una bozza in quarantena editoriale: conserva materiale di Vilegis/Lunaria non utilizzabile come canone Kindsgard. Il legame narrativo tra Bruciati e Fiamme è registrato come seme, ma l'esistenza di una fazione organizzata delle Fiamme nel Kindsgard non è confermata (vedi [[Domande Aperte e Lacune]] L13).
 ---
 
 ## Vere Fiere Note

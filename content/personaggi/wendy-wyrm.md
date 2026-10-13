@@ -3,7 +3,7 @@ titolo: "Wendy Wyrm"
 categoria: "personaggi"
 tag: [wendy-wyrm, vere-fiere, vera-viverna, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 fonti: ["La_natura_di_Natura", "Solitudine", "18___Misfit", "Il_Trattato"]
 ---
 
@@ -15,7 +15,7 @@ fonti: ["La_natura_di_Natura", "Solitudine", "18___Misfit", "Il_Trattato"]
 
 ## Panoramica
 
-Wendy Wyrm è la **Vera Viverna** del Kindsgard — la controparte [[Vere Fiere|Vera Fiera]] di [[Wade Wyrm]]. Condivide con lui l'Istinto della Viverna ma con orientamento opposto: dove Wade serve [[Fierezza e Maestà|Fierezza]] proteggendo gli Umani, Wendy serve Maestà in quanto predatrice fedele alla legge di [[Natura]].
+Wendy Wyrm fu la **Vera Viverna** del Kindsgard — la controparte [[Vere Fiere|Vera Fiera]] di [[Wade Wyrm]]. Condivideva con lui l'Istinto della Viverna ma con orientamento opposto: dove Wade serve [[Fierezza e Maestà|Fierezza]] proteggendo gli Umani, Wendy serviva Maestà in quanto predatrice fedele alla legge di [[Natura]].
 
 È l'autrice del saggio "La natura di Natura", il documento cosmologicamente più denso e accurato tra le fonti del Kindsgard, scritto dalla prospettiva di chi accetta e celebra la crudeltà del Giardino come espressione della divinità.
 
@@ -23,7 +23,7 @@ Wendy Wyrm è la **Vera Viverna** del Kindsgard — la controparte [[Vere Fiere|
 
 ## Identità e Istinto
 
-Come Vera Viverna, Wendy incarna l'Istinto della Viverna nella sua versione Maestà: autosufficiente, predatoria, sprezzante degli Umani, capace di una forma di auto-celebrazione quasi gioiosa. A differenza di Wade, non dimentica — la Viverna non scrive perché non ne ha bisogno, ma la Vera Viverna ricorda tutto ciò che le è utile per dominare.
+Quando era Vera Viverna, Wendy incarnava l'Istinto della Viverna nella sua versione Maestà: autosufficiente, predatoria, sprezzante degli Umani, capace di una forma di auto-celebrazione quasi gioiosa. A differenza di Wade, non dimenticava — la Viverna non scrive perché non ne ha bisogno, ma la Vera Viverna ricordava tutto ciò che le era utile per dominare.
 
 Nel racconto `Il Trattato (Wendy Wyrm)` è descritta mentre tenta con metodi spicci e violenti di trovare qualcuno in grado di scrivere per lei — uno spaccato del suo Istinto pratico e brutale.
 
@@ -55,4 +55,4 @@ La firma della Vera Viverna è l'assenza di dubbi: *"La Dea fa quello che le par
 ## Note
 Il documento "La natura di Natura" è firmato "La Vera Viverna, Infusa di Maestà e signora del Giardino" — titolo/ruolo, non nome proprio. Il nome Wendy Wyrm è confermato da altre fonti.
 
-`18___Misfit`, collocato nell'Era del Dominio dopo l'ascesa di Re Draco, presenta Wendy ancora come Vera Viverna. Questo sembra in tensione con la regola generale secondo cui le Vere Fiere persero il potere e tornarono Umani quando Draco assorbì i tredici vettori. Non è documentato se Wendy costituisca un'eccezione o se la sequenza degli eventi richieda una riconciliazione ulteriore; vedi [[Domande Aperte e Lacune]] L16.
+`18___Misfit`, collocato nell'Era del Dominio dopo l'ascesa di Re Draco, chiama Wendy «colei che fu Vera Viverna». Il passato verbale è coerente con la regola generale: dopo la perdita del potere delle Vere Fiere, Wendy è presentata in forma umana. L16 è stata risolta documentalmente e non resta una domanda aperta su Wendy.
