@@ -154,7 +154,7 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - **PR precedenti:** le PR #1–#11, #13 e #15–#19 risultano chiuse e integrate secondo i metadati recuperati. La #12 risulta chiusa senza merge. La #14 risulta chiusa senza merge (`merged=false`, `merged_at=null`). Il `merge_commit_sha` restituito è un commit di test con messaggio `Merge ddc4da80ebc7bdd61e952c25d9c1e41f66dab89b into 6fd6f10a00093f58044854dc985092a4de44d989`, non prova un merge effettivo. Non risultano PR aperte.
 - **CI:** per il merge della PR #19 non sono state restituite workflow runs né status checks, quindi la CI su quel commit resta non verificata. Per la PR #20 la run `Validate Quartz wiki` n. 38353745004 è terminata con esito `success` (controllo wikilink e build Quartz); la run è associata al primo commit del branch (`5cd5979`). Gli aggiornamenti successivi alla run hanno prodotto ulteriori commit sul branch, senza una nuova run associata restituita dagli strumenti. Non dichiarare testato il HEAD finale.
 - **Registri letti:** `content/meta/istruzioni-ripresa.md`, `content/meta/fonti.md`, `content/meta/domande-aperte.md` e `content/_changelog.md`. I tre registri meta riportano stato in aggiornamento e ultima modifica 2026-10-12; il changelog registra ora la ricognizione successiva alla PR #19 e il checkpoint del 13 ottobre.
-- **Prossimo passo:** iniziare l'inventario ricorsivo effettivo della tree e la copertura dei contenuti non ancora verificati integralmente. Non trattare i riepiloghi dei checkpoint storici come prova sostitutiva della lettura dei file.
+- **Prossimo passo:** proseguire con il confronto semantico fra fonti e pagine sintetiche, distinguendo i corpi già letti da quelli verificati soltanto nei metadati. Non trattare i riepiloghi dei checkpoint storici come prova sostitutiva della lettura dei file.
 
 
 ### Esito della riconciliazione PR #14 — 2026-10-13
@@ -162,3 +162,14 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - Verificati i metadati della PR #14: `state=closed`, `merged=false`, `merged_at=null`. Il valore `merge_commit_sha=2f7a76d948c48bf9cafaa2df7409e35ecdf89f62` punta a un commit con messaggio `Merge ddc4da80ebc7bdd61e952c25d9c1e41f66dab89b into 6fd6f10a00093f58044854dc985092a4de44d989`, coerente con un commit di prova/mergeability e non con un merge reale della PR.
 - Esito: PR #14 classificata **chiusa senza merge**; nessuna modifica da recuperare automaticamente. Il branch resta un riferimento storico già confrontato, non un cambiamento integrato.
 - Dopo il merge della PR #20, `main` punta a `dac44d6d46d36b2c84a6ee69eeb369f0dcedb2e2`. Il branch di questa correzione documentale porta il conteggio a 22 branch totali (21 non-main).
+
+
+### Inventario fonti — passaggio frontmatter e riconciliazione percorsi, 2026-10-13
+
+- La ricerca GitHub limitata a `path:content/fonti` restituisce **29 file attuali**. Sono stati recuperati tutti e 29 i file e controllati i frontmatter: ciascuno ha `titolo`, `categoria: "fonti"`, `status` e `ultima_modifica`.
+- **Classificazione frontmatter:** 27 file hanno `status: "canonico"`; `content/fonti/list.md` e `content/fonti/mostri.md` hanno `status: "bozza"` e sono descritti dal registro come brainstorming/spunti non normativi.
+- Il confronto meccanico fra i percorsi restituiti e i percorsi `content/fonti/*.md` menzionati in `content/meta/fonti.md` non trova file attuali orfani dal catalogo. Il catalogo contiene 33 percorsi distinti: 29 corrispondono a file attuali e quattro restano assenti/non reperiti: `annali-artiglio-di-fuoco-intro.md`, `d3-cronistoria-ooc.md`, `d4-guida-draghiere.md`, `draghieri-vere-fiere.md`.
+- `Copia_di_I_Draghieri_del_kindsgard` è un ulteriore identificatore legacy citato in `content/mondo/cosmologia.md`, non un quinto percorso `.md` del catalogo. La sua identità non è dimostrata e non va sostituita automaticamente con `draghieri-spiegazione.md`.
+- **Nota di classificazione da preservare:** `content/fonti/fierezza-il-dio-che-e-in-noi.md` è `status: "canonico"` ma ha il tag `incompleto` e il catalogo lo descrive come incompleto/da usare con cautela. Questo non è automaticamente una contraddizione: può distinguere l'appartenenza canonica dall'integrità del testo. Non cambiare lo status senza ulteriori evidenze.
+- **Limite esplicito:** in questo passaggio sono stati controllati i frontmatter e i riferimenti di catalogo, non letti integralmente i corpi di tutti i 29 testi. L'audit semantico delle fonti resta aperto.
+- Dopo la creazione del branch `audit/source-inventory-frontmatter-2026-10-13`, il conteggio dei branch è **23 totali, 22 non-main**. Il nuovo branch serve solo a registrare il checkpoint.

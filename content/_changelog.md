@@ -353,3 +353,12 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Verificati i metadati della PR #14: chiusa, `merged=false`, `merged_at=null`. Il campo `merge_commit_sha` punta al commit `2f7a76d948c48bf9cafaa2df7409e35ecdf89f62`, il cui messaggio è `Merge ddc4da80ebc7bdd61e952c25d9c1e41f66dab89b into 6fd6f10a00093f58044854dc985092a4de44d989`: un commit di prova/mergeability, non un merge effettivo della PR.
 - Classificata la PR #14 come chiusa senza merge. Nessun contenuto viene recuperato automaticamente dal suo branch storico.
 - Dopo il merge della PR #20, `main` punta a `dac44d6d46d36b2c84a6ee69eeb369f0dcedb2e2`; il branch di questa correzione porta l'inventario a 22 branch totali, inclusi `main`.
+
+
+## 2026-10-13 — Riconciliazione del catalogo fonti: verifica frontmatter
+
+- La ricerca del percorso `content/fonti/` restituisce 29 file attuali; i frontmatter di tutti i 29 sono stati recuperati e controllati. Tutti riportano titolo, categoria `fonti`, status e ultima modifica; 27 sono marcati `canonico`, mentre `list.md` e `mostri.md` sono marcati `bozza` e classificati come brainstorming.
+- Il confronto dei percorsi attuali con `content/meta/fonti.md` non trova file sorgente orfani dal catalogo. Dei 33 percorsi distinti citati nel catalogo, 29 corrispondono a file presenti e quattro restano non reperiti: Annali dell'Artiglio di Fuoco, D3 Cronistoria OOC, D4 “You Want to Be a Dragoner” e Draghieri/Vere Fiere del Kindsgard.
+- `Copia_di_I_Draghieri_del_kindsgard` resta un identificatore legacy distinto, non un file autonomo né un'identità dimostrata di `draghieri-spiegazione.md`.
+- Il saggio `fierezza-il-dio-che-e-in-noi.md` è marcato canonico ma incompleto (tag e catalogo); mantenuta la distinzione fra status canonico e integrità del testo, senza riclassificazione automatica.
+- Il controllo ha coperto metadati e percorsi, non la lettura integrale dei 29 corpi narrativi. Il confronto semantico rimane da eseguire.
