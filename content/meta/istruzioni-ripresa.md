@@ -154,7 +154,7 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - **PR precedenti:** le PR #1–#11, #13 e #15–#19 risultano chiuse e integrate secondo i metadati recuperati. La #12 risulta chiusa senza merge. La #14 risulta chiusa senza merge (`merged=false`, `merged_at=null`). Il `merge_commit_sha` restituito è un commit di test con messaggio `Merge ddc4da80ebc7bdd61e952c25d9c1e41f66dab89b into 6fd6f10a00093f58044854dc985092a4de44d989`, non prova un merge effettivo. Non risultano PR aperte.
 - **CI:** per il merge della PR #19 non sono state restituite workflow runs né status checks, quindi la CI su quel commit resta non verificata. Per la PR #20 la run `Validate Quartz wiki` n. 38353745004 è terminata con esito `success` (controllo wikilink e build Quartz); la run è associata al primo commit del branch (`5cd5979`). Gli aggiornamenti successivi alla run hanno prodotto ulteriori commit sul branch, senza una nuova run associata restituita dagli strumenti. Non dichiarare testato il HEAD finale.
 - **Registri letti:** `content/meta/istruzioni-ripresa.md`, `content/meta/fonti.md`, `content/meta/domande-aperte.md` e `content/_changelog.md`. I tre registri meta riportano stato in aggiornamento e ultima modifica 2026-10-12; il changelog registra ora la ricognizione successiva alla PR #19 e il checkpoint del 13 ottobre.
-- **Prossimo passo:** leggere i corpi delle fonti in tranche, costruire una mappa verificabile tra nomi storici nei campi `fonti` e file correnti, quindi confrontare le voci wiki dipendenti. Non trattare i riepiloghi dei checkpoint storici come prova sostitutiva della lettura dei file.
+- **Prossimo passo:** continuare la lettura integrale delle fonti rimanenti, iniziando da Inktober 2018/2019 in sezioni mirate e poi Inktober 2024; parallelamente riconciliare i riferimenti legacy nei campi `fonti` e confrontare le voci wiki dipendenti. Non trattare i riepiloghi dei checkpoint storici come prova sostitutiva della lettura dei file.
 
 
 ### Esito della riconciliazione PR #14 — 2026-10-13
@@ -184,3 +184,29 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - L'indice è una selezione e non un inventario completo di ogni voce: altre pagine esistenti (ad es. Anello di Fuoco, Città-Alveare, Maestà e Altri Personaggi) sono raggiungibili da link interni ma non elencate direttamente nell'indice. Da valutare nella revisione della copertura, senza espandere automaticamente l'indice oltre la struttura editoriale desiderata.
 - La verifica di tutti i link interni va distinta dalla verifica semantica. Lo script `scripts/check-wikilinks.mjs` controlla target e collisioni alias/slug, ma non rileva omissioni di navigazione né riferimenti narrativi non dimostrati.
 - **Lavoro residuo del punto 2:** leggere integralmente i corpi delle fonti e confrontarli con le voci wiki; normalizzare e verificare i riferimenti legacy dei campi `fonti`; controllare le pagine rimanenti in modo semantico, non solo strutturale. I 29 corpi fonte non sono ancora tutti verificati integralmente in questa sessione.
+
+
+### Verifica semantica delle fonti — prima tranche, 2026-10-13
+
+**Corpi letti integralmente e confrontati in prima passata (9/29):**
+- `cronistoria-versione-breve.md`
+- `cio-che-sanno-i-draghieri.md`
+- `draghieri-spiegazione.md`
+- `canzoni-degli-umani.md`
+- `deflecte-cantum.md`
+- `lamento-di-wade.md`
+- `la-natura-di-natura.md`
+- `fierezza-battesimo-cornelius.md`
+- `fierezza-il-dio-che-e-in-noi.md`
+
+**Osservazioni registrate, non ancora tutte risolte:**
+- Le fonti in-world dei Draghieri (Cronistoria breve, Ciò che i Draghieri conoscono, Canto dei Draghieri) presentano la nascita di Bisogno come credenza umana; `La Natura di Natura` e le note esplicite delle fonti distinguono tale credenza dalla cosmologia effettiva. La wiki attualmente mantiene questa distinzione in `cosmologia.md`.
+- `draghieri-spiegazione.md` è una fonte OOC canonica ma contiene esteso materiale su Vilegis/Lunaria e altre entità esterne. Quel materiale va mantenuto separato dal canone originario, salvo intersezioni esplicitamente documentate; non è stato importato come fatto autonomo.
+- `cio-che-sanno-i-draghieri.md` ha `tipo: "testo-in-world"`, mentre la nota introduttiva lo chiama documento OOC che descrive una prospettiva in-world. La distinzione può essere intenzionale (cornice editoriale OOC, testo narrativo in-world); nessuna riclassificazione automatica.
+- `fierezza-il-dio-che-e-in-noi.md` è marcato canonico ma incompleto e interrotto in più punti. La wiki segnala già la limitazione; mantenuta la distinzione fra status canonico e integrità del documento.
+- `deflecte-cantum.md` conserva due strofe esplicitamente marcate dall'autore come errate/da ignorare; le note della wiki ne mantengono la cautela.
+- **Possibile punto da verificare, non ancora classificato come contraddizione:** `cosmologia.md` afferma che Natura volle preservare gli Umani e che questo atto la prosciugò. Nelle fonti lette finora, `cronistoria-versione-breve.md` parla del ritorno degli Umani dal passato armonico, mentre `La Natura di Natura` li descrive come aberranti e parassitari; il testo D3 (Cronistoria OOC) non è disponibile. Non correggere finché non si controllano tutte le fonti accessibili e il riferimento mancante.
+- `Inktober 2018` è stato recuperato ma l'output integrale è stato troncato dal limite di lettura; il documento **non** è considerato verificato integralmente. `Inktober 2019` non è ancora verificato nel corpo. Entrambi restano da leggere per sezioni mirate.
+
+- **Avanzamento fonte:** 9 corpi verificati integralmente; 1 recuperato ma solo parzialmente leggibile in questa passata; 19 non ancora letti integralmente. Non dichiarare chiuso l'inventario semantico.
+- **Stato repository al checkpoint:** merge della PR #23 in `main` al commit `b601eb2e6063e2d9a03c8547aa56f3db83f4b379`; l'indice include ora la sezione Cultura. Il branch di questo checkpoint porta l'inventario a 25 branch totali, incluso `main` (24 non-main).
