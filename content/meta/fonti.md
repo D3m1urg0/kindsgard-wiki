@@ -119,6 +119,10 @@ Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cit
 - La fonte autonoma `deflecte-cantum.md` conserva annotazioni esplicite di Pietro Caruso: «Tema i suoi figli la dea» è marcata «No» e la strofa «Stretta nel pugno la lancia possente» è marcata da ignorare per il momento.
 - `inktober-2019.md`, nel racconto `#Legend`, riproduce entrambe le strofe senza le annotazioni correttive. La riproduzione è mantenuta come attestazione testuale, ma non annulla le correzioni esplicite nella fonte della canzone. Nelle sintesi wiki, le due strofe non vanno trattate come testo canonico confermato.
 
+**C8 — Varianti del nome Brienne/Brianne**
+- La forma canonica è **Brienne Brood**, sostenuta da `Elenco Draghieri`, dalla voce personaggio e dalla maggior parte delle occorrenze in `Inktober 2018/2019/2024`.
+- `Inktober 2019 #Build` e `Inktober 2024 #Binoculars` contengono alcune occorrenze di **Brianne**; non emerge un secondo personaggio. Le fonti sono mantenute inalterate e le voci sintetiche usano Brienne.
+
 ### 🟠 Duplicazioni Risolte
 
 **D1 — Due documenti intitolati "Fierezza"**
@@ -141,6 +145,13 @@ Le due fonti non sono presenti nel tree GitHub attuale con i vecchi percorsi `co
 **Regola operativa:** non chiamarli più documenti sconosciuti né dedurre che non esistano. Tenere distinta l’identificazione fornita dall’utente dalla disponibilità effettiva dei file. Le affermazioni attribuite a questi documenti possono essere confrontate con le fonti già presenti solo come verifica parziale, non come sostituto del testo originale.
 
 ---
+
+
+
+### Ambiguità nominali emerse nell'audit — 2026-10-13
+
+- **Sirius**, in `Inktober 2018 #Flowing`: nome usato per chi ha fornito rocce nel I anno di Regno. Non esistono altre occorrenze nel repository; non va assimilato automaticamente a Syrus Salamander, dato che la cronologia colloca Syrus tra i Guardiani uccisi prima dell'ascesa a Re. Registrato come domanda L19.
+- **Brienne/Brianne**: variante grafica risolta editorialmente a favore di Brienne, senza correggere i testi sorgente.
 
 ## Sistema di Potere: Schema Canonico
 
