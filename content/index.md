@@ -46,7 +46,7 @@ Per ricaricare il contesto in una nuova sessione di lavoro, caricare sempre:
 ### Fazioni
 - [[Draghieri]] — eroi protettori degli Umani
 - [[Vere Fiere]] — predatori fedeli a Natura
-- [[Fiamme]] — terza fazione, revenant nati da Battesimi del Fuoco falliti
+- [[Fiamme]] — riferimento esterno in quarantena; legame narrativo coi Bruciati attestato come seme, presenza nel Kindsgard non confermata
 
 ### Personaggi
 - [[Dominic Draco]] — Primo Draghiere, poi Re Draco, Unico Guardiano
