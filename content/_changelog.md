@@ -13,7 +13,7 @@ ultima_modifica: "2026-10-12"
 - Verificato che `main` punta al merge commit `75f74f4624c135fdc26e83b254cc77e64d18e2fb`, relativo alla PR #19 che consolida le decisioni da sottoporre al proprietario in `content/meta/domande-aperte.md`.
 - La ricerca delle PR aperte non ha restituito risultati. L'inventario iniziale contava 20 branch remoti totali, di cui 19 diversi da `main`; la creazione del branch `audit/checkpoint-2026-10-13` porta il totale corrente a 21 (20 non-main).
 - Le PR #1–#11, #13 e #15–#19 risultano chiuse e integrate; la #12 risulta chiusa senza merge. La #14 riporta `merged=false` ma anche un `merge_commit_sha` non nullo: discrepanza da verificare, non interpretata come prova di merge.
-- Per il merge della PR #19 non sono state restituite workflow runs né status checks: la CI su quel commit resta non verificata. La PR #20 ha avviato una workflow run `Validate Quartz wiki` (run 38353745004), inizialmente in coda al momento del controllo; l'esito va verificato prima del merge.
+- Per il merge della PR #19 non sono state restituite workflow runs né status checks: la CI su quel commit resta non verificata. La PR #20 ha eseguito `Validate Quartz wiki` (run 38353745004) con esito `success`, inclusi controllo wikilink e build Quartz, sul primo commit del branch (`5cd5979`). La correzione successiva del conteggio branch ha prodotto il nuovo HEAD `d23d4f4`, per il quale non è stata restituita una run: non si dichiara verificato quel preciso HEAD.
 - La verifica del repository prosegue: questo checkpoint non dichiara concluso l'audit semantico delle pagine o il confronto integrale delle fonti.
 
 ## 2026-10-12 — Inventario fonti e audit editoriale (in corso)
