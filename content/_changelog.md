@@ -428,3 +428,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Chiarita la natura editoriale dei raggruppamenti nel bestiario.
 - Aggiunti riferimenti a `draghieri-spiegazione` e `Inktober_2019` alle pagine che li usano direttamente; il catalogo distingue l'identificatore di riferimento dal campo `id` assente nel frontmatter della fonte.
 - 27/29 corpi fonte letti integralmente; le antologie 2018 e 2019 restano da completare. La verifica semantica delle pagine è ancora in corso.
+
+- Confrontati direttamente `bacche-emofaghe-fonte.md` e `Inktober 2018 #Drain`: quest'ultimo è una variante abbreviata e parzialmente riformulata della scheda tecnica, non un racconto narrativo/ambientale né una seconda attestazione indipendente. Corretta la classificazione D2 nel catalogo.
