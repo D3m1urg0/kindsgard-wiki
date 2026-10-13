@@ -24,7 +24,7 @@ ultima_modifica: "2026-10-13"
 | `content/fonti/fierezza-il-dio-che-e-in-noi.md` | Saggio di Wade Wyrm sulla spiritualità | Incompleto; usare con cautela |
 | `content/fonti/cio-che-sanno-i-draghieri.md` | Verità parziale (livello personaggio) | Prospettiva in-world, non cosmologica |
 | `content/fonti/cronistoria-versione-breve.md` | Cronistoria in-world (versione divulgativa) | **Canonico** |
-| `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa; ID frontmatter usato: `draghieri-spiegazione`, distinto dai riferimenti D3/D4 mancanti | **Canonico** |
+| `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa; identificatore di riferimento adottato nel catalogo e nei campi `fonti`: `draghieri-spiegazione` (il frontmatter del file non espone un campo `id`). È distinto dai riferimenti D3/D4 mancanti e non li sostituisce. | **Canonico** |
 
 ### Narrativa In-World
 
@@ -153,6 +153,8 @@ Le due fonti non sono presenti nel tree GitHub attuale con i vecchi percorsi `co
 - **Sirius**, in `Inktober 2018 #Flowing`: nome usato per chi ha fornito rocce nel I anno di Regno. Non esistono altre occorrenze nel repository; non va assimilato automaticamente a Syrus Salamander.
 - **Syrus e gli Annali dell'Artiglio di Fuoco:** `Inktober 2019 #Wild` attribuisce a Syrus un testo che menziona città costruite dall'Anno del Dominio, ma la cronologia e `#Bottle` collocano la sua morte prima dell'ascesa a Re Draco. Il documento integrale degli Annali non è reperito. L'identità di Sirius e la datazione/attribuzione del brano sono riunite nella domanda L19.
 - **Brienne/Brianne**: variante grafica risolta editorialmente a favore di Brienne, senza correggere i testi sorgente.
+
+- **Hile/Sun in `Inktober 2024`:** il racconto descrive un personaggio che ricorda di essere morto e tornato e non viene percepito dagli Umani, ma non menziona esplicitamente un Battesimo fallito né lo chiama Bruciato/Fiamma. Il collegamento resta un'ipotesi editoriale.
 
 ## Sistema di Potere: Schema Canonico
 
