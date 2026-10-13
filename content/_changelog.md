@@ -430,3 +430,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - 27/29 corpi fonte letti integralmente; le antologie 2018 e 2019 restano da completare. La verifica semantica delle pagine è ancora in corso.
 
 - Confrontati direttamente `bacche-emofaghe-fonte.md` e `Inktober 2018 #Drain`: quest'ultimo è una variante abbreviata e parzialmente riformulata della scheda tecnica, non un racconto narrativo/ambientale né una seconda attestazione indipendente. Corretta la classificazione D2 nel catalogo.
+
+
+## 2026-10-13 — Copertura Inktober 2018 e discrepanza Adryanne
+
+- Completata la lettura integrale di `Inktober 2018`; avanzamento fonti 28/29. Resta da completare `Inktober 2019`.
+- Registrata L20: `Inktober 2019 #Build` chiama Adryanne Achenius IX Draghiere, mentre `#Husky` e `Elenco Draghieri` riportano XII. La sintesi conserva XII senza modificare le citazioni originali.
