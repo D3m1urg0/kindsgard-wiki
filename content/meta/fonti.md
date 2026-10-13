@@ -154,6 +154,9 @@ Le due fonti non sono presenti nel tree GitHub attuale con i vecchi percorsi `co
 - **Syrus e gli Annali dell'Artiglio di Fuoco:** `Inktober 2019 #Wild` attribuisce a Syrus un testo che menziona città costruite dall'Anno del Dominio, ma la cronologia e `#Bottle` collocano la sua morte prima dell'ascesa a Re Draco. Il documento integrale degli Annali non è reperito. L'identità di Sirius e la datazione/attribuzione del brano sono riunite nella domanda L19.
 - **Adryanne Achenius/Achenium:** `Inktober 2019 #Build` riporta IX, mentre `#Husky` ed `Elenco Draghieri` riportano XII. La voce wiki mantiene XII, ma l'incongruenza della fonte è aperta in L20.
 - **Brienne/Brianne**: variante grafica risolta editorialmente a favore di Brienne, senza correggere i testi sorgente.
+- **`Giù nel Bosco` — variante di strofa:** `Canzoni degli Umani` riporta «Che con te lui vuol cenar», mentre `Inktober 2019 #Enchanted` cita «Via da me ti vuol portar». Entrambe le formulazioni sono attestate; il testo della raccolta canzoni resta la versione di riferimento e la variante narrativa non viene corretta.
+- **`Inktober 2019 #Ancient` — liane rosse non identificate:** il racconto descrive liane rosso vermiglio che parassitano un albero antico, ma non nomina la specie. Non identificarle automaticamente con Tentacolo Scarlatto per il solo colore; il riferimento alle Bacche Emofaghe è una supposizione del personaggio su un altro caso, non la diagnosi del fenomeno mostrato.
+- **`Inktober 2019 #Enchanted` — piccole Fiere alate:** il racconto mostra lucine alate che pungono Alison, senza nominarne la specie. Non assegnarle a Chiroptera o a un'altra Fiera nota senza ulteriori fonti.
 
 - **Hile/Sun in `Inktober 2024`:** il racconto descrive un personaggio che ricorda di essere morto e tornato e non viene percepito dagli Umani, ma non menziona esplicitamente un Battesimo fallito né lo chiama Bruciato/Fiamma. Il collegamento resta un'ipotesi editoriale.
 
