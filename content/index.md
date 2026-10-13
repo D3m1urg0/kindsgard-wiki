@@ -3,7 +3,7 @@ titolo: "Wiki del Kindsgard"
 categoria: "meta"
 tag: [index, panoramica]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 ---
 
 # Wiki del Kindsgard
@@ -34,6 +34,10 @@ Per ricaricare il contesto in una nuova sessione di lavoro, caricare sempre:
 ### Il Mondo
 - [[Cosmologia]] — Natura, Bisogno, Espediente, Fondamento, Spettri
 - [[Geografia]] — luoghi, regioni, strutture
+
+### Cultura
+- [[Religioni e Spiritualità]] — religione, Bisogno e prospettive dei Draghieri e delle Vere Fiere
+- [[Tradizioni, Canti e Motti]] — canti, formule, rituali e motti attestati
 
 ### Storia
 - [[Cronologia]] — timeline master degli eventi
