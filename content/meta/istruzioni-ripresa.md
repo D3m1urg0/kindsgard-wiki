@@ -274,3 +274,11 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - **Branch corrente:** `audit/source-fidelity-citations-2026-10-13`; inventario aggiornato a 31 branch totali, incluso `main` (30 non-main).
 
 - Il confronto diretto fra `content/fonti/bacche-emofaghe-fonte.md` e `Inktober 2018 #Drain` mostra che #Drain è una variante abbreviata e parzialmente riformulata della scheda tecnica, non una sezione narrativa/ambientale né una seconda attestazione indipendente. Aggiornata D2 nel catalogo: la scheda completa resta normativa e la variante è conservata senza prevalere su di essa.
+
+
+### Aggiornamento copertura e nuova discrepanza — 2026-10-13
+
+- La lettura diretta di `Inktober 2018` è completata; avanzamento: **28/29 corpi fonte letti integralmente**. Resta da completare la raccolta `Inktober 2019`, della quale sono già state lette sezioni mirate (#Build, #Husky, #Legend, #Wild, #Swing, #Pattern, #Dragon, #Overgrown, #Tread, #Treasure, #Tasty e altre).
+- Nuova discrepanza nominale/ordinale: `Inktober 2019 #Build` chiama Adryanne Achenius IX Draghiere del Soffione Uncinato; `#Husky` e `Elenco Draghieri` riportano XII. La sintesi mantiene XII, ma l'identità temporale non è risolvibile con le fonti attuali; registrata L20.
+- Il numero IX/XII non va confuso con la variante grafica Achenius/Achenium, che resta una variante testuale registrata in C8.
+- Il branch corrente `audit/adryanne-ordinal-and-coverage-2026-10-13` porta il conteggio a 32 branch totali, incluso `main` (31 non-main).
