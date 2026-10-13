@@ -405,5 +405,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 ## 2026-10-13 — Riallineamento delle pagine dopo la risoluzione L16
 
-- Rimosso il riferimento obsoleto a L16 da `content/fazioni/vere-fiere.md` e `content/storia/ere.md`: `Misfit` usa il passato per Wendy e Solomon e non contraddice il ritorno allo stato umano.
+- Rimosso il riferimento obsoleto a L16 da `content/fazioni/vere-fiere.md`, `content/storia/ere.md` e `content/personaggi/dominic-draco.md`: `Misfit` usa il passato per Wendy e Solomon e non contraddice il ritorno allo stato umano.
 - Aggiornata la voce Vere Fiere affinché non presenti come canonica la meccanica esterna delle Fiamme; rimando alla pagina in quarantena e alla domanda L13.
