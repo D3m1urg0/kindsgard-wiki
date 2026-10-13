@@ -272,3 +272,5 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - Corretto il catalogo: `draghieri-spiegazione` è l'identificatore di riferimento adottato, ma il file sorgente non espone un campo `id` nel proprio frontmatter.
 - Avanzamento fonti: **27/29 corpi letti integralmente**; restano da completare le antologie `Inktober 2018` e `Inktober 2019`. Tutti i 65 Markdown sotto `content/` sono stati inventariati e controllati a livello strutturale; l'audit semantico delle pagine e la riconciliazione delle fonti restano aperti.
 - **Branch corrente:** `audit/source-fidelity-citations-2026-10-13`; inventario aggiornato a 31 branch totali, incluso `main` (30 non-main).
+
+- Il confronto diretto fra `content/fonti/bacche-emofaghe-fonte.md` e `Inktober 2018 #Drain` mostra che #Drain è una variante abbreviata e parzialmente riformulata della scheda tecnica, non una sezione narrativa/ambientale né una seconda attestazione indipendente. Aggiornata D2 nel catalogo: la scheda completa resta normativa e la variante è conservata senza prevalere su di essa.
