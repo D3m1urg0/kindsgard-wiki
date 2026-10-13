@@ -407,3 +407,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Rimosso il riferimento obsoleto a L16 da `content/fazioni/vere-fiere.md`, `content/storia/ere.md` e `content/personaggi/dominic-draco.md`: `Misfit` usa il passato per Wendy e Solomon e non contraddice il ritorno allo stato umano.
 - Aggiornata la voce Vere Fiere affinché non presenti come canonica la meccanica esterna delle Fiamme; rimando alla pagina in quarantena e alla domanda L13.
+
+- Estesa la risoluzione L16 alle voci Wendy Wyrm e Solomon: il passato verbale di `Misfit` è ora riflesso nelle biografie e non restano riferimenti alla domanda chiusa.
