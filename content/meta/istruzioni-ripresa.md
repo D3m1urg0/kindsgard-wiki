@@ -261,3 +261,14 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 
 - Completata la lettura integrale di `content/fonti/inktober-2024.md` (218 righe). L'annotazione sul possibile Battesimo fallito in `#Hile/#Sun` resta un'ipotesi editoriale: il testo descrive un personaggio che ricorda di essere morto e tornato e che non viene percepito dagli Umani, ma non nomina esplicitamente un Battesimo né lo chiama Bruciato o Fiamma.
 - Avanzamento aggiornato: **27/29 corpi fonte letti integralmente in prima passata**. Restano da completare la lettura integrale delle raccolte `Inktober 2018` e `Inktober 2019`; per entrambe sono già stati letti l'indice e sezioni mirate rilevanti per le voci wiki.
+
+
+### Riconciliazione riferimenti fonte e precisione dei riepiloghi — 2026-10-13
+
+- Riletto integralmente `Inktober 2024`: l'indice rapido non deve trasformare il personaggio di `#Hile/#Sun` in un Bruciato né affermare che abbia superato un Battesimo fallito. La fonte dice che ricorda di essere morto e tornato e che non viene percepito dagli Umani; causa e identità restano non esplicitate. Indice e L13 sono stati corretti per separare testo e ipotesi.
+- L17 chiarisce che i tredici Draghieri schierati in `Inktober 2019 #Build` non sono automaticamente i tredici Guardiani descritti in `#Legend`; non sono gruppi da sovrapporre.
+- Il bestiario ora specifica che «Fiere Maggiori», «Fiere di Media Pericolosità» e «Fiere Minori» sono raggruppamenti editoriali, non una gerarchia canonica; «Fitofiera» resta una categoria attestata nelle fonti che la nominano.
+- Riconciliati i campi `fonti` delle pagine su Draghieri, Vere Fiere, Cronologia, Ere, Cosmologia, Fierezza/Maestà e Dominic, aggiungendo `draghieri-spiegazione` dove il testo usa direttamente la guida OOC e `Inktober_2019` dove supporta il contenuto. I riferimenti mancanti D3/D4 e `Copia_di_I_Draghieri_del_kindsgard` restano distinti e non sono sostituiti.
+- Corretto il catalogo: `draghieri-spiegazione` è l'identificatore di riferimento adottato, ma il file sorgente non espone un campo `id` nel proprio frontmatter.
+- Avanzamento fonti: **27/29 corpi letti integralmente**; restano da completare le antologie `Inktober 2018` e `Inktober 2019`. Tutti i 65 Markdown sotto `content/` sono stati inventariati e controllati a livello strutturale; l'audit semantico delle pagine e la riconciliazione delle fonti restano aperti.
+- **Branch corrente:** `audit/source-fidelity-citations-2026-10-13`; inventario aggiornato a 31 branch totali, incluso `main` (30 non-main).
