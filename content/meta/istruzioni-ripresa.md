@@ -242,5 +242,5 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 
 ### Riconciliazione delle pagine dipendenti da L16 — 2026-10-13
 
-- Aggiornate `content/fazioni/vere-fiere.md` e `content/storia/ere.md`: entrambe riportavano ancora L16 come aperta e interpretavano `Misfit` come se Wendy Wyrm e Solomon fossero presentati come Vere Fiere attive. La lettura diretta della fonte mostra il passato verbale («colei che fu Vera Viverna», «che fu la Vera Sfinge»); il riferimento a L16 è stato rimosso e la regola generale della cronologia mantenuta.
+- Aggiornate `content/fazioni/vere-fiere.md`, `content/storia/ere.md` e `content/personaggi/dominic-draco.md`: riportavano ancora L16 come aperta e interpretavano `Misfit` come se Wendy Wyrm e Solomon fossero presentati come Vere Fiere attive. La lettura diretta della fonte mostra il passato verbale («colei che fu Vera Viverna», «che fu la Vera Sfinge»); i riferimenti a L16 sono stati rimossi e la regola generale della cronologia mantenuta.
 - La voce Vere Fiere ora rinvia alle Fiamme come bozza in quarantena e non ne ripete come canonica la meccanica esterna.
