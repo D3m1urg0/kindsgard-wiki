@@ -380,3 +380,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Il saggio di Wade resta canonico ma incompleto; `Deflecte Cantum` mantiene due strofe marcate come errate. Nessuna riclassificazione senza ulteriori evidenze.
 - Inktober 2018 è stato recuperato ma l'output è stato troncato; non è classificato come letto integralmente. Inktober 2019 e 2024 restano da leggere per sezioni.
 - L'inventario semantico resta in corso: 9/29 corpi fonte verificati integralmente.
+
+
+## 2026-10-13 — L16 risolta mediante lettura diretta di Misfit
+
+- Verificato il corpo di `content/fonti/misfit.md`: Wendy Wyrm è indicata come «colei che fu Vera Viverna» e Solomon come «che fu la Vera Sfinge», coerentemente con il loro stato successivo alla perdita del potere.
+- Rimossa L16 dalla lista delle decisioni da sottoporre al proprietario e registrata fra le questioni risolte documentalmente. `Inktober 2018 #Precious` non è prova di mantenimento del potere: la forma umanoide non contraddice la fonte più esplicita.
+- La regola generale riportata dalla cronologia viene mantenuta, senza dichiarare dimostrata la sorte individuale di ogni Vera Fiera.
