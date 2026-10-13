@@ -23,10 +23,9 @@ Questa sezione separa le decisioni che richiedono una risposta umana dalle attiv
 3. **L13 — Fiamme nel Kindsgard:** le Fiamme esistono come fazione organizzata anche nel Kindsgard, oppure la fazione appartiene a Vilegis/Lunaria e i Bruciati sono soltanto il suo seme narrativo? Il legame già registrato fra Bruciati e Fiamme non è in discussione.
 4. **L14 — “Infiammati”:** il termine in Inktober 2018 #Flowing indica i Bruciati, un gruppo distinto o altro? La somiglianza lessicale non basta a identificarli.
 5. **L15 — Seymour Sandwurm / “ex Shai'Hulud”:** che cosa designa Shai'Hulud nella nota originale: un precedente nome personale, una specie/Fiera o altro?
-6. **L16 — Vere Fiere dopo l'ascesa di Re Draco:** la regola del ritorno allo stato umano è universale, oppure Wendy e/o Solomon costituiscono eccezioni? Prima della risposta va comunque completato il confronto cronologico fra le fonti già disponibili.
-7. **L17 — Tredici Guardiani:** esiste una lista canonica completa? Frederick Fenice apparteneva al gruppo dei tredici Guardiani collegati al Fondamento, oppure il tag `guardiano` nella sua voce ha un altro significato?
-8. **L11 — `Copia_di_I_Draghieri_del_kindsgard`:** il proprietario riconosce questo riferimento come un documento specifico e può fornire il file o identificarne la destinazione? Non sostituirlo automaticamente con `draghieri-spiegazione.md`.
-9. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
+6. **L17 — Tredici Guardiani:** esiste una lista canonica completa? Frederick Fenice apparteneva al gruppo dei tredici Guardiani collegati al Fondamento, oppure il tag `guardiano` nella sua voce ha un altro significato?
+7. **L11 — `Copia_di_I_Draghieri_del_kindsgard`:** il proprietario riconosce questo riferimento come un documento specifico e può fornire il file o identificarne la destinazione? Non sostituirlo automaticamente con `draghieri-spiegazione.md`.
+8. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
 
 ### Non richiedono una decisione umana in questa fase
 
@@ -54,7 +53,7 @@ Le decisioni seguenti sono state confermate nei registri canonici e nel changelo
 - **A4 — Fenice e Battesimo:** la Fenice esiste come Specie di Fiera, distinta dal Draghiere Frederick Fenice. Il Battesimo ha uno schema ordinario confermato, ma non è privo di eccezioni: `Risveglio del Drago` documenta il caso di Wade senza una Viverna uccisa; il meccanismo resta aperto in L4.
 - **L5 — Vilegis/Lunaria:** setting esterno, fuori scope, salvo intersezioni documentate.
 - **L6 — Stub delle Fiere:** la creazione iniziale degli stub è stata eseguita; resta il completamento e la verifica delle voci esistenti.
-- **L8 — Solomon:** non si assegna un numero progressivo alle Vere Fiere; la sua presenza narrativa nell’Era del Dominio è attestata, ma lo stato esatto dopo l'ascesa di Re Draco resta da chiarire (vedi L16).
+- **L8/L16 — Wendy Wyrm e Solomon dopo l'ascesa di Re Draco:** non si assegna un numero progressivo alle Vere Fiere. Il testo di `18___Misfit` parla di Wendy come «colei che fu Vera Viverna» e di Solomon come «che fu la Vera Sfinge»; il racconto e la sua nota li collocano dopo la perdita del potere, in forma umana. Non sono quindi attestati come eccezioni alla regola generale del ritorno allo stato umano. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, ma da solo non prova che conservi il potere. La regola generale resta quella dichiarata dalla cronologia; non è necessario chiedere al proprietario una decisione su Wendy/Solomon.
 - **L10 — Bruciati:** sono il seme narrativo della fazione delle Fiamme; restano da approfondire eventuali dettagli non confermati.
 
 ## 🟡 Ambiguità da Risolvere
@@ -159,9 +158,10 @@ Nel resoconto di Brienne Brood sul lavoro al Fiume Bianco si menziona un gruppo 
 `Elenco Draghieri` elenca **Seymour Sandwurm** con la nota “ex Shai'Hulud”, senza spiegare il rapporto tra i due nomi. Non è possibile stabilire se Shai'Hulud sia un nome precedente del personaggio, una denominazione della Fiera/specie o un riferimento di altro tipo.
 - → **Chiarimento documentale:** che cosa indica “ex Shai'Hulud” nella fonte originale? Fino alla conferma, conservare la formulazione della fonte senza espanderla nella biografia o nella tassonomia.
 
-### L16 — Sorte delle Vere Fiere dopo l'ascesa di Re Draco
-La cronologia generale afferma che, dopo l'assorbimento dei tredici vettori da parte di Re Draco, le Vere Fiere perdono il potere e tornano Umani. Tuttavia `18___Misfit`, collocato nell'Era del Dominio, presenta Wendy Wyrm e Solomon come Vere Fiere; `Inktober 2018 #Precious` mostra Solomon in forma umanoide, senza chiarire se abbia ancora il potere o sia già tornato Umano. La documentazione disponibile non consente di stabilire se si tratti di eccezioni, di una diversa sequenza temporale o di un'ambiguità narrativa.
-- → **Chiarimento canonico/documentale:** la perdita del potere riguarda tutte le Vere Fiere senza eccezioni, oppure alcuni individui mantengono identità o potere? Prima di risolvere, confrontare la cronologia esatta di `18___Misfit`, `#Precious` e l'ascesa di Re Draco.
+### L16 — Sorte di Wendy Wyrm e Solomon dopo l'ascesa di Re Draco — risolta documentalmente
+La lettura diretta di `content/fonti/misfit.md` risolve l'apparente conflitto: Wendy è chiamata «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge», al passato. Il racconto è ambientato nell'Era del Dominio e li mostra in forma umana dopo la perdita del potere; non costituiscono eccezioni documentate alla regola generale riportata dalla cronologia. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, ma non afferma che conservi il potere e quindi non contraddice `Misfit`.
+- **Esito:** rimossa dalle decisioni per il proprietario. La regola generale della cronologia è mantenuta; non si afferma che il corpus dimostri individualmente la sorte di ogni singola Vera Fiera oltre quanto attestato.
+- **Fonte verificata:** `content/fonti/misfit.md`. Nessuna modifica alla narrazione canonica.
 
 ### L17 — Identità dei tredici Guardiani
 La cosmologia e la cronologia attestano tredici individui/Guardiani legati ai vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. Le fonti attuali identificano esplicitamente solo una parte del gruppo: Bartholomew Brood, Samu'el Sphynx, Syrus Salamander, Mara Megalapterix e G. Gryffin. La voce di Frederick Fenice porta il tag `guardiano`, ma non spiega se appartenga a questo gruppo e l'Elenco Draghieri non lo marca come tale.
