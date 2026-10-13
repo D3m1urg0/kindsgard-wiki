@@ -3,7 +3,7 @@ titolo: "Glossario"
 categoria: "meta"
 tag: [glossario, termini, definizioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardiani","Echi","Kindsgard","Fiera","Mare Esterno","Mare Interno","Mondo Ancora","Fondamento","Istinto","Giardino","Nexus","Oltregiardino","Rovina","Spettro","Draghiere","Vera Fiera","Covata","Vilegis / Lunaria","Vilegis/Lunaria","Specie Fenice","Colture","Icaria"]
 ---
 
@@ -39,7 +39,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Fierezza** — Il nome con cui i [[Draghieri]] chiamano il principio cosmologico che li anima. Sinonimo di Maestà. → vedi [[Fierezza e Maestà]]
 
-**Fiamme** — Terza fazione del Kindsgard, evoluzione dei [[Bruciati]]. Documentazione incompleta. → vedi [[Fiamme]]
+**Fiamme** — Riferimento a una fazione esterna collegata narrativamente ai [[Bruciati]]; l'esistenza di una fazione organizzata delle Fiamme nel Kindsgard non è confermata. La voce [[Fiamme]] è in bozza e il materiale su Vilegis/Lunaria è quarantinato come non canonico Kindsgard.
 
 **Fitofiera** — Classificazione delle Fiere di natura vegetale. Include Soffioni Uncinati, Bacche Emofaghe, Sicomori Perenni, Dionee, ecc.
 
