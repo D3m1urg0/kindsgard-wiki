@@ -3,7 +3,7 @@ titolo: "Domande Aperte e Lacune"
 categoria: "meta"
 tag: [meta, lacune, ambiguità, domande]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-13"
 ---
 
 # Domande Aperte e Lacune
