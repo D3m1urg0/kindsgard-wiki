@@ -1,20 +1,28 @@
 ---
 titolo: "Fiamme"
 categoria: "fazioni"
-tag: [fiamme, fazione, bruciati, revenant, comunità, vilegis, casata-radiant, kindsgard, anomalia]
-status: "revisionato"
-ultima_modifica: "2025-09-08"
+tag: [fiamme, fazione, bruciati, revenant, comunità, vilegis, casata-radiant, anomalia, quarantena-audit]
+status: "bozza"
+ultima_modifica: "2026-10-13"
 fonti: ["Inktober_2018", "Deflecte_Cantum", "Solitudine", "*confermato in sessione*"]
 ---
 
 # Fiamme
 
-> *"Arsi ut ardeam" — Sono bruciato affinché possa ardere.*
-> *Variante corale: "Arsimus ut ardeamus" — Siamo bruciati affinché possiamo ardere.*
+## Stato della voce e ambito canonico
 
----
+> **BOZZA / QUARANTENA EDITORIALE.** La versione precedente mescolava il canone originario del Kindsgard con materiale e meccaniche di Vilegis/Lunaria, presentandoli come fatti del Kindsgard. Il contenuto esterno è conservato sotto una sezione esplicitamente non canonica, come traccia editoriale, ma non deve essere usato per completare il canone Kindsgard.
 
-## Panoramica
+Il corpus del Kindsgard attesta i **Bruciati** in `Inktober 2018 #Scorched (19-2)`: Umani che hanno tentato il Battesimo del Fuoco, sono sopravvissuti senza trasformarsi in Draghieri o Vere Fiere e restano menomati in modo permanente. La documentazione editoriale registra i Bruciati come **seme narrativo** delle Fiamme; ciò non dimostra che le Fiamme siano una fazione organizzata nel Kindsgard, né che tutti i Bruciati siano Fiamme.
+
+- **Stato canonico:** il legame narrativo Bruciati → Fiamme è confermato come seme narrativo; l'identità completa dei gruppi e l'esistenza di una fazione Fiamme nel Kindsgard restano non confermate (vedi L13 in `Domande Aperte e Lacune`).
+- **Uso editoriale:** non riportare nel canone Kindsgard le origini, le capacità, la cronologia o i meccanismi delle Fiamme descritti negli appunti esterni seguenti. Non usare fonti di Vilegis/Lunaria per colmare lacune del Kindsgard.
+
+## Materiale esterno conservato — Vilegis/Lunaria (NON CANONE KINDSGARD)
+
+Le sezioni seguenti sono conservate come archivio della precedente sintesi e per mantenere tracciabile il materiale relativo al setting esterno. Sono **fuori dal canone Kindsgard** fino a conferma esplicita del proprietario del canone. Le affermazioni che collegano eventi di Vilegis/Lunaria a meccaniche, personaggi o cronologia del Kindsgard sono ipotesi esterne e non fatti canonici.
+
+### Panoramica
 
 Le Fiamme sono la terza fazione del [[Kindsgard]]: individui **predestinati** a diventare [[Draghieri]] che sono morti durante il proprio [[Il Battesimo del Fuoco|Battesimo del Fuoco]] — non per debolezza, ma perché l'Istinto/Fierezza a loro destinato era **già incarnato altrove**, in un Draghiere ancora vivo. Grazie all'onda di Fierezza scatenata dalla crisi della specie Fenice su Vilegis, questi Battesimi interrotti non restano un fallimento definitivo: l'eroe torna in vita, con un **frammento** del potere che gli sarebbe spettato, completando così un Battesimo altrimenti impossibile.
 
@@ -24,7 +32,7 @@ Le Fiamme sono inoltre un'**anomalia cosmologica che nessun altro abitante del G
 
 ---
 
-## Origine — Il Silenzio dei Battesimi
+### Origine — Il Silenzio dei Battesimi
 
 Con l'ascesa di [[Re Draco]] e la protezione garantita dalle città del Dominio, il meccanismo classico del Battesimo del Fuoco predestinato ha smesso di funzionare come nell'Era della Rivalsa. Il fenomeno si è manifestato per gradi:
 
@@ -33,7 +41,7 @@ Con l'ascesa di [[Re Draco]] e la protezione garantita dalle città del Dominio,
 
 ---
 
-## La Crisi della Fenice — Vilegis, Solitudine, e l'Ondata
+### La Crisi della Fenice — Vilegis, Solitudine, e l'Ondata
 
 Su Vilegis, la **Casata Radiant** — il cui simbolo araldico è una fenice — ha sacrificato una Vera Fenice a un **Creatore**, con l'intento dichiarato di potenziare lo **Spettro del Bene**: uno dei 13 principi del sistema di Vilegis, che i Draghieri del Kindsgard identificano con la propria [[Fierezza e Maestà|Fierezza]]. L'atto ha **strappato via al Kindsgard l'Istinto della Fenice**, mettendo a rischio l'intera specie della Fiera Fenice sul Giardino.
 
@@ -45,7 +53,7 @@ La Casata Radiant credeva di star aiutando i Draghieri. Non poteva sapere che l'
 
 ---
 
-## Il Battesimo Interrotto e il Ritorno
+### Il Battesimo Interrotto e il Ritorno
 
 La meccanica specifica delle Fiamme:
 
@@ -58,7 +66,7 @@ Il risultato è un individuo che ha sperimentato letteralmente la morte come par
 
 ---
 
-## Identità e Istinto — I Draghieri della Comunità
+### Identità e Istinto — I Draghieri della Comunità
 
 A differenza dei [[Draghieri]] "pieni" — la cui personalità viene quasi interamente sovrascritta dall'Istinto della Fiera sconfitta — le Fiamme mantengono una quota molto più ampia della propria umanità originaria. Il frammento di potere che ricevono non è sufficiente a imporre lo stesso dominio totale dell'Istinto.
 
@@ -70,7 +78,7 @@ Questo si traduce in tratti distintivi rispetto ai Draghieri canonici:
 
 ---
 
-## L'Anomalia — Perché Nessuno le Conosce
+### L'Anomalia — Perché Nessuno le Conosce
 
 Le Fiamme costituiscono un'anomalia cosmologica troppo grande per essere razionalizzata dagli altri abitanti del Giardino. Chiunque interagisca con una Fiamma **dimentica** l'accaduto non appena l'interazione termina. Questo effetto è totale e non selettivo: non risparmia i Draghieri, non risparmia Re Draco stesso.
 
@@ -80,15 +88,7 @@ Di conseguenza, **nessun Draghiere sa dell'esistenza delle Fiamme**, nonostante 
 
 ---
 
-## I Bruciati (Inktober 2018)
-
-Il racconto `Inktober 2018 #Scorched (19-2)` descrive i **Bruciati**: Umani che hanno tentato il Battesimo del Fuoco, sono sopravvissuti ma non si sono trasformati né in Draghieri né in Vere Fiere, restando menomati in modo permanente. Vesti bianche, silenzio come regola comunitaria, strutture simili a lazzaretti per i nuovi arrivati.
-
-⚪ *Resta da confermare se questi specifici Bruciati di Inktober 2018 siano Fiamme a tutti gli effetti (raccontati prima che il meccanismo della resurrezione post-Fenice fosse reso esplicito) o un fenomeno storicamente precedente e distinto — un Battesimo fallito "puro", senza ritorno in vita, che la comparsa delle Fiamme potrebbe aver soppiantato o assorbito.*
-
----
-
-## Motto
+### Motto
 
 *"Arsi ut ardeam"* — Sono bruciato affinché possa ardere. Il perfetto (l'ustione, il Battesimo interrotto, la morte) si piega al congiuntivo di scopo (la fiamma che continua, il ritorno, il frammento di potere): non un potere concluso ma un processo aperto.
 
@@ -96,13 +96,13 @@ Variante corale, usata nei contesti di gruppo: *"Arsimus ut ardeamus"* — Siamo
 
 ---
 
-## Cronologia — Collocazione
+### Cronologia — Collocazione
 
 L'origine delle Fiamme si colloca durante il **Primo Secolo del Draco**, nel periodo in cui Dominic è Vero Draco (Vera Fiera) e prima della sua ascesa a Re Draco. La crisi della Fenice e l'ondata di Fierezza che ne consegue precedono quindi la Forgiatura di Espediente e l'assorbimento dei 13 Guardiani. Questo colloca la nascita delle Fiamme come fazione **prima** dell'Era del Dominio, sebbene la fazione continui a esistere e operare — invisibile a tutti — anche dopo l'ascesa di Re Draco.
 
 ---
 
-## Relazioni
+### Relazioni
 - Collegato a: [[Fierezza e Maestà]], [[Il Battesimo del Fuoco]], [[Draghieri]], [[Vere Fiere]]
 - Causato da: crisi della Fenice, Casata Radiant, [[Vilegis/Lunaria]]
 - Vedi anche: [[Dominic Draco]], [[Wendy Wyrm]], [[Frederick Fenice]] (da non confondere con la Specie Fenice), [[Domande Aperte e Lacune]]
