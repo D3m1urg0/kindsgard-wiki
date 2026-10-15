@@ -99,11 +99,13 @@ Principali:
 
 ---
 
-## Motto
+## Motti
 
-*"Ab Necessitate Excusi"* — Giustificati dalla Necessità.
-*"Dal Fuoco alla Vita"*
-*"Omnia praedae fieri Potest"* — Tutto può diventare preda. *(usato anche dalle Vere Fiere)*
+*"Ab Necessitate Excusi"* — Giustificati dalla Necessità. Formula attestata nelle fonti.
+
+*"Dal Fuoco alla Vita"* — Motto attribuito ai Draghieri dalla sintesi wiki; l'attestazione primaria non è stata rintracciata nelle fonti disponibili.
+
+*"Omnia praedae fieri Potest"* — Motto attribuito dalla sintesi wiki ai Draghieri e alle Vere Fiere; l'attestazione primaria non è stata rintracciata nelle fonti disponibili. Non trattare l'attribuzione come verificata finché non emerge una fonte.
 
 ---
 
