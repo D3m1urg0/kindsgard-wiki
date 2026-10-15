@@ -448,7 +448,7 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 ## 2026-10-15 — Prima passata semantica delle pagine wiki
 
 - Letti i corpi di 29 pagine tematiche (Cultura, Fazioni, Fiere, Mondo, Personaggi, Sistemi, Storia) e di `content/index.md` e `content/_glossario.md`. È una prima passata del testo delle pagine, non una certificazione che ogni affermazione sia stata confrontata con ogni fonte primaria.
-- Preparati sedici riallineamenti documentali: motivazione non dimostrata di Natura verso gli Umani (`cosmologia.md`); credenza umana sulla nascita di Bisogno/Espediente (`ere.md`); anatomia non attestata della Chimera (`caitlin-chimera.md`); generalizzazione non attestata sul Canto del Leviatano (`luther-leviathan.md`); graduazione non verificabile della forza presso la Maestà e rapporto fra eruzioni ed Echi (`maesta.md`); ambito canonico Kindsgard/Vilegis esplicitato nell'indice (`index.md`).
+- Preparati diciassette riallineamenti documentali: motivazione non dimostrata di Natura verso gli Umani (`cosmologia.md`); credenza umana sulla nascita di Bisogno/Espediente (`ere.md`); anatomia non attestata della Chimera (`caitlin-chimera.md`); generalizzazione non attestata sul Canto del Leviatano (`luther-leviathan.md`); graduazione non verificabile della forza presso la Maestà e rapporto fra eruzioni ed Echi (`maesta.md`); ambito canonico Kindsgard/Vilegis esplicitato nell'indice (`index.md`).
 - Nessuna fonte narrativa originale è stata modificata. I testi mancanti D3/D4 e gli altri identificatori legacy restano non reperiti e non vengono sostituiti per somiglianza.
 - Il punto 2 dell'audit resta aperto: serve ancora la verifica sistematica delle citazioni puntuali e dei riferimenti `fonti` per tutte le pagine, oltre alla validazione dei diff di questa tranche.
 
@@ -473,3 +473,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Riallineata la cronologia alla cautela già presente nella voce Frederick: il volto identico alla Giovane Fenice è riportato, ma la connessione cosmologica non è dichiarata completamente documentata dalle fonti narrative disponibili. Aggiunto `Elenco_Draghieri_Conosciuti` al campo `fonti` per il titolo Unica Fenice.
 
 - Corretta la panoramica di Dominic Draco: «detentore di tutto il Fondamento del Kindsgard» confondeva il potere raccolto dai tredici vettori manifestatisi nel Kindsgard con il Fondamento di Vilegis/Lunaria. La voce ora distingue i due sistemi, coerentemente con la nota già presente più avanti nella stessa pagina e nel registro canonico.
+
+- Qualificata nella voce Dominic la composizione dei tredici Guardiani: le fonti attestano il gruppo e il legame con i vettori, ma non autorizzano a presentare come certa la distribuzione fra Draghieri, Vere Fiere e Fiere effettive. La composizione completa resta aperta in L17.
