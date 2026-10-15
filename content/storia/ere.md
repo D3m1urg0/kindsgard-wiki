@@ -5,7 +5,7 @@ tag: [storia, ere, cronologia, armonia, conflitto, rivalsa, dominio]
 status: "revisionato"
 ultima_modifica: "2026-10-15"
 aliases: ["Era di Armonia"]
-fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "D4-guida-draghiere", "Inktober_2018", "Inktober_2019", "draghieri-spiegazione"]
+fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "D4-guida-draghiere", "Inktober_2018", "Inktober_2019", "draghieri-spiegazione", "La_natura_di_Natura"]
 ---
 
 # Le Ere del Kindsgard
