@@ -501,3 +501,5 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - Riletto `content/fiere/fiere-stub.md` e confrontato con le fonti narrative accessibili e con la ricerca testuale nel repository. La frase «ogni creatura è una Fiera» era troppo ampia perché include implicitamente gli Umani, che le fonti distinguono dalle Fiere; ora la definizione parla delle specie non umane del Giardino.
 - La distinzione Sensibili/Inerti compare nella sintesi wiki ma non è stata rintracciata nelle altre fonti disponibili; la guida D4 che potrebbe sostenerla non è reperibile. La classificazione è ora attribuita alla sintesi preesistente e non dichiarata verificata; nessuna specie è assegnata a una classe senza attestazione specifica.
 - Nessuna fonte originale è stata modificata. La voce resta bozza e il conteggio dei 26 profili non viene alterato.
+
+- Riconciliato anche il frontmatter di `content/fiere/fiere-stub.md`: aggiunti `Canzoni_degli_Umani` e `Fierezza`, già citati direttamente nel testo per Manticora, Sfinge, Chimera, Viverna e Cockatrice.
