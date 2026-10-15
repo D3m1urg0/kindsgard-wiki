@@ -16,7 +16,7 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artigli
 
 ## Panoramica
 
-Dominic Draco è il personaggio più centrale nella storia del [[Kindsgard]]: Primo [[Draghieri|Draghiere]], fondatore dell'[[Anello di Fuoco]], poi trasformato in [[Vere Fiere|Vera Fiera]] dalla [[Maestà]], poi ancora **Re Draco, Unico Guardiano** — entità unica che non appartiene più a nessuna delle due fazioni, detentrice di tutto il [[Fondamento]] del Kindsgard.
+Dominic Draco è il personaggio più centrale nella storia del [[Kindsgard]]: Primo [[Draghieri|Draghiere]], fondatore dell'[[Anello di Fuoco]], poi trasformato in [[Vere Fiere|Vera Fiera]] dalla [[Maestà]], poi ancora **Re Draco, Unico Guardiano** — entità unica che non appartiene più a nessuna delle due fazioni, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. Questo potere è collegato al [[Fondamento]], ma non equivale a possedere o assorbire il Fondamento di Vilegis/Lunaria.
 
 La sua storia attraversa tutte le ere del Kindsgard ed è il filo che le connette.
 
