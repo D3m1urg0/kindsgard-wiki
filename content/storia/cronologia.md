@@ -17,7 +17,7 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_An
 
 ## Note sulla Misurazione del Tempo
 
-Il tempo sul Kindsgard non è costante. Periodi di dilatazione temporale causati dagli Echi di [[Vilegis/Lunaria]] hanno fatto sì che in certi momenti storici un anno di Lunaria corrispondesse a cento anni del Kindsgard. Le date qui riportate usano la terminologia in-world (anno dell'Orso, anno del Draco, ecc.) quando disponibile, e riferimenti relativi negli altri casi.
+Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contrazioni associate agli Echi di [[Vilegis/Lunaria]]. La sintesi wiki riporta che in certi momenti storici un anno di Lunaria corrispondesse a cento anni del Kindsgard, ma questa proporzione 100:1 non è verificabile direttamente nel corpus disponibile: la Cronistoria OOC (D3), riferimento storico della ricostruzione, non è reperibile. Trattare il rapporto numerico come dato riportato dalla sintesi, non come misura confermata dalle fonti accessibili. Le date qui riportate usano la terminologia in-world (anno dell'Orso, anno del Draco, ecc.) quando disponibile, e riferimenti relativi negli altri casi.
 
 ---
 
