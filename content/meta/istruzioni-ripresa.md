@@ -482,3 +482,8 @@ La difficoltà di accesso e rifornimento della Città-Alveare è plausibile per 
 - Il run ha eliminato i due ultimi branch orfani (`audit/page-semantic-pass-2026-10-15` e `audit/quarantine-fiamme-and-sources-2026-10-13`) dopo confronto file per file, oltre al branch della PR #51. Il pruning aveva già eliminato i branch di PR merged con SHA invariato e i branch chiusi superseded esplicitamente verificati.
 - Rimossa dalla workflow l'allowlist one-shot ormai consumata; resta la pulizia generica sicura dei branch di PR merged, eseguita dopo ogni merge e su pianificazione giornaliera. La routine conserva i branch con head SHA diverso da quello della PR merged e non tocca il branch predefinito.
 - La riconciliazione dei branch è conclusa per il perimetro corrente. L'audit semantico della wiki non è concluso: restano le verifiche frase-per-frase e le lacune D3/D4, Annali, identificatori legacy e questioni canoniche già registrate.
+
+
+## Verifica semantica — Geografia e Colture, 2026-10-15
+
+Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso per coltivare le Fitofiere necessarie al sostentamento umano, quattro in totale, con Amaranthus Cruentus come la più importante. Non definisce le quattro specie come semplicemente commestibili e non dimostra che le Colture siano l'unico sistema alimentare del Kindsgard occidentale. La voce geografica e il glossario sono stati qualificati. È stata inoltre rimossa la generalizzazione «habitat dei Behemoth» per tutte le Catene Montuose Orientali: la fonte associa Bran alle zone montuose del Nord e alle Catene Orientali, ma non definisce l'intera catena come habitat esclusivo della specie.
