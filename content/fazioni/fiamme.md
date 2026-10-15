@@ -1,7 +1,7 @@
 ---
 titolo: "Fiamme"
 categoria: "fazioni"
-tag: [fiamme, fazione, bruciati, revenant, comunità, vilegis, casata-radiant, anomalia, quarantena-audit]
+tag: [fiamme, bruciati, vilegis, riferimento-esterno, quarantena-audit]
 status: "bozza"
 ultima_modifica: "2026-10-15"
 fonti: ["Inktober_2018", "Deflecte_Cantum", "Solitudine"]
