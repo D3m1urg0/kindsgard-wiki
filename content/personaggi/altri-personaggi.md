@@ -3,7 +3,7 @@ titolo: "Altri Personaggi"
 categoria: "personaggi"
 tag: [personaggi, stub, minori]
 status: "bozza"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-15"
 aliases: ["Axsar Aigokeros","Hycaro Hydra","Adalind Atrax","Razvan Roc","Gertrude Gorgon","Cornelius Cockatrix","Ember Everastes","Laerius Loch","Adryanne Achenius","Sef Sycamore","Angeline Aconitum","Lhars Leopterix"]
 fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Elenco_Draghieri_Conosciuti", "Prevedibilità__covata_"]
 ---
@@ -29,7 +29,7 @@ Draghiere della Gorgone, di stanza alle [[Colture]]. Ha condotto ricerche medich
 Draghiere della Cockatrice. Il racconto `Fierezza.docx` documenta il suo [[Il Battesimo del Fuoco|Battesimo del Fuoco]] — il più dettagliato nelle fonti. Porta una balestra e una piccola fionda-arco personale; i suoi quadrelli sono avvelenati con una sostanza che pietrifica progressivamente il sangue del colpito. Il suo sangue stesso, se ferito, pietrifica ciò che tocca. Appare anche in `Prevedibilità (covata)` nella battaglia alla Città-Alveare.
 
 ### Lhars Leopterix
-Draghiere del [[fiere/fiere-stub#leopterix|Leopterix]]. In `Inktober 2019 #Freeze` indossa un mantello di pelle e piume ricavato da una creatura che il testo descrive come un misto di rettile e volatile e che Lhars caccia abitualmente; il passaggio non nomina esplicitamente la specie, quindi l'identificazione con il Leopterix resta inferita dal contesto. Arciere di estrema precisione — *"lui è la freccia"*. Era scomparso e dato per estinto prima di riapparire nel nord glaciale durante la caccia al Drago con [[Bran Behemoth]] (`Inktober 2019 #Freeze, #Snow, #Dragon`). Numero nella sequenza non specificato.
+Draghiere del [[Fiere — Voci Stub#leopterix|Leopterix]]. In `Inktober 2019 #Freeze` indossa un mantello di pelle e piume ricavato da una creatura che il testo descrive come un misto di rettile e volatile e che Lhars caccia abitualmente; il passaggio non nomina esplicitamente la specie, quindi l'identificazione con il Leopterix resta inferita dal contesto. Arciere di estrema precisione — *"lui è la freccia"*. Era scomparso e dato per estinto prima di riapparire nel nord glaciale durante la caccia al Drago con [[Bran Behemoth]] (`Inktober 2019 #Freeze, #Snow, #Dragon`). Numero nella sequenza non specificato.
 
 ### Ember Everastes, IV Everastes
 Draghiere dell'[[fiere/fiere-stub#everastes|Everastes]]. `Inktober 2019 #Snow` lo descrive coperto di pellicce candide, mimetizzato nella neve e “fatto per stare in mezzo al gelo”; non afferma però un'immunità assoluta al freddo. Porta un martello da guerra di pietra grezza e opera nell'Artiglio delle Nevi e nelle zone glaciali del nord. Il suo stemma mostra una montagna al centro di un cerchio di fiamme, ma le fonti citate non dettagliano la meccanica del suo Istinto.
