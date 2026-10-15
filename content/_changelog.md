@@ -533,3 +533,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - PR #36 integrata con workflow Quartz `success`: le occorrenze puntuali del rapporto temporale 100:1 sono state allineate alla cautela già registrata nella nota generale.
 - Allineati i metadati `ultima_modifica` di `content/meta/istruzioni-ripresa.md` e `content/meta/domande-aperte.md` alla data delle revisioni effettive del 15 ottobre 2026.
+
+
+## 2026-10-15 — Identificatore legacy Draghieri/Vere Fiere
+
+- La scansione dei campi `fonti` ha rilevato `Draghieri_Vere_Fiere_del_Kindsgard` in tre pagine. È possibile che si riferisca al percorso legacy non reperito `content/fonti/draghieri-vere-fiere.md`, ma l'identità non è dimostrata.
+- Registrata la lacuna nel catalogo fonti e nella matrice di copertura. Il riferimento non è stato sostituito con `draghieri-spiegazione.md`, che resta solo una fonte OOC pertinente, non un sostituto confermato.
