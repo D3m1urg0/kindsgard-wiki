@@ -448,7 +448,7 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 ## 2026-10-15 — Prima passata semantica delle pagine wiki
 
 - Letti i corpi di 29 pagine tematiche (Cultura, Fazioni, Fiere, Mondo, Personaggi, Sistemi, Storia) e di `content/index.md` e `content/_glossario.md`. È una prima passata del testo delle pagine, non una certificazione che ogni affermazione sia stata confrontata con ogni fonte primaria.
-- Preparati tredici riallineamenti documentali: motivazione non dimostrata di Natura verso gli Umani (`cosmologia.md`); credenza umana sulla nascita di Bisogno/Espediente (`ere.md`); anatomia non attestata della Chimera (`caitlin-chimera.md`); generalizzazione non attestata sul Canto del Leviatano (`luther-leviathan.md`); graduazione non verificabile della forza presso la Maestà e rapporto fra eruzioni ed Echi (`maesta.md`); ambito canonico Kindsgard/Vilegis esplicitato nell'indice (`index.md`).
+- Preparati quattordici riallineamenti documentali: motivazione non dimostrata di Natura verso gli Umani (`cosmologia.md`); credenza umana sulla nascita di Bisogno/Espediente (`ere.md`); anatomia non attestata della Chimera (`caitlin-chimera.md`); generalizzazione non attestata sul Canto del Leviatano (`luther-leviathan.md`); graduazione non verificabile della forza presso la Maestà e rapporto fra eruzioni ed Echi (`maesta.md`); ambito canonico Kindsgard/Vilegis esplicitato nell'indice (`index.md`).
 - Nessuna fonte narrativa originale è stata modificata. I testi mancanti D3/D4 e gli altri identificatori legacy restano non reperiti e non vengono sostituiti per somiglianza.
 - Il punto 2 dell'audit resta aperto: serve ancora la verifica sistematica delle citazioni puntuali e dei riferimenti `fonti` per tutte le pagine, oltre alla validazione dei diff di questa tranche.
 
@@ -467,3 +467,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Aggiunto `Elenco_Draghieri_Conosciuti` ai campi `fonti` delle pagine che usano numeri progressivi o titoli di sequenza (Draghieri, Battesimo, Fierezza/Maestà, Dominic, Wade, Bran, Brood, Caitlin, Luther, Frederick e Soffione Uncinato). L'elenco è la fonte canonica per le numerazioni, distinta dalle fonti narrative che documentano gli eventi.
 
 - Creato `content/meta/audit-copertura-pagine.md`, registro persistente per i 31 file non fonte: per ciascuno distingue prima lettura, confronto diretto con fonti e residui. Il registro impedisce di confondere la lettura del corpo con una verifica completa delle affermazioni.
+
+- Allineati i campi `fonti` di Geografia, Maestà, Ere, Caitlin e Cronologia alle fonti effettivamente citate nel corpo: aggiunti i riferimenti pertinenti a `Cronistoria_versione_breve`, `cio-che-sanno-i-draghieri`, `La_natura_di_Natura` e `Canzoni_degli_Umani`.
