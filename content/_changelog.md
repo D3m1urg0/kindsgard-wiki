@@ -660,3 +660,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - In `Cosmologia`, la relazione con Mondo Ancora e la manifestazione dei tredici vettori/Guardiani restano nella ricostruzione wiki, ma sono esplicitamente marcate come non verificabili direttamente senza i testi D3/D4 mancanti.
 - La formulazione non è stata eliminata né sostituita con ipotesi esterne; nessuna fonte narrativa originale è stata modificata. Aggiornato il registro di copertura e il checkpoint operativo.
+
+
+## 2026-10-15 — Definizione generale e tassonomia delle Fiere
+
+- In `content/fiere/fiere-stub.md`, sostituita la generalizzazione «ogni creatura è una Fiera» con una formulazione riferita alle specie non umane del Giardino, evitando di includere gli Umani nella definizione.
+- La classificazione Sensibili/Inerti è qualificata come parte della sintesi wiki non verificabile direttamente senza la guida D4 mancante. Non sono state assegnate classi a specie specifiche né modificate fonti originali.
+
+- Riconciliato il campo `fonti` di `content/fiere/fiere-stub.md` con le citazioni effettive: aggiunti `Canzoni_degli_Umani` e `Fierezza`.

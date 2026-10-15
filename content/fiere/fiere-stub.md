@@ -5,7 +5,7 @@ tag: [fiere, stub, bestiario]
 status: "bozza"
 ultima_modifica: "2026-10-15"
 aliases: ["Fiere"]
-fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Prevedibilità__covata_", "Mostri", "Elenco_Draghieri_Conosciuti", "D4-guida-draghiere"]
+fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Canzoni_degli_Umani", "Fierezza", "Prevedibilità__covata_", "Mostri", "Elenco_Draghieri_Conosciuti", "D4-guida-draghiere"]
 ---
 
 # Fiere — Voci Stub
@@ -20,7 +20,7 @@ fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Prevedibilità__cova
 
 > **Nota editoriale:** le intestazioni «Fiere Maggiori», «Fiere di Media Pericolosità» e «Fiere Minori» sono raggruppamenti organizzativi di questo indice, non una gerarchia canonica né una scala ufficiale di pericolosità. «Fitofiera» è invece una categoria attestata nelle schede in cui la fonte la specifica.
 
-Nel Kindsgard non esistono animali nel senso convenzionale. Ogni creatura è una **Fiera**: un mostro mitologico enormemente pericoloso, dotato di capacità letali specifiche. Alcune Fiere sono **Fitofiere** (di natura vegetale). Le Fiere si dividono anche in **Sensibili** (dotate di terminazioni nervose, reagiscono agli stimoli muovendosi e attaccando) e **Inerti** (uccidono rilasciando veleno o spore, si nutrono per contatto o dal terreno).
+Nel lessico del corpus, le specie non umane del Giardino sono chiamate **Fiere**: creature pericolose con capacità specifiche, non animali nel senso convenzionale. Alcune sono **Fitofiere** (di natura vegetale), quando la fonte le classifica esplicitamente così. La sintesi wiki distingue inoltre Fiere **Sensibili** e **Inerti**; tuttavia, poiché la guida D4 citata per questa classificazione non è reperibile nel repository e la distinzione non è attestata in modo indipendente nelle altre fonti consultate, va trattata come classificazione riportata dalla sintesi esistente, non come tassonomia verificata in questa tranche. Non assegnare singole specie a una delle due classi senza una fonte specifica.
 
 ---
 
