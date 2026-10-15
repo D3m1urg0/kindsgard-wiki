@@ -5,7 +5,7 @@ tag: [fiere, stub, bestiario]
 status: "bozza"
 ultima_modifica: "2026-10-15"
 aliases: ["Fiere"]
-fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Canzoni_degli_Umani", "Fierezza", "Prevedibilità__covata_", "Mostri", "Elenco_Draghieri_Conosciuti", "D4-guida-draghiere"]
+fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Canzoni_degli_Umani", "Fierezza", "Prevedibilità__covata_", "Mostri", "Elenco_Draghieri_Conosciuti", "D4-guida-draghiere", "L_esodo", "Onda_bianca", "18___Misfit"]
 ---
 
 # Fiere — Voci Stub
