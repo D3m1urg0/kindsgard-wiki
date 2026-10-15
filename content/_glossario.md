@@ -63,7 +63,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Mare Interno** — Grande specchio d'acqua interno al Giardino. Navigabile nell'Era del Dominio.
 
-**Natura** — La divinità creatrice del Kindsgard, impazzita dopo la Rovina. Corpo e sangue del mondo stesso. → vedi [[Cosmologia]]
+**Natura** — La divinità creatrice del Kindsgard, alterata dal cataclisma dell'Era della Rovina (messo in parallelo con la Rovina di Vilegis/Lunaria). Corpo e sangue del mondo stesso. → vedi [[Cosmologia]]
 
 **Nexus** — Minaccia cosmica esterna, capace di attraversare il mare astrale. Ha spinto Draghieri e Vere Fiere alla collaborazione per forgiare Espediente. ⚪ *Documentazione limitata — setting Vilegis.*
 
