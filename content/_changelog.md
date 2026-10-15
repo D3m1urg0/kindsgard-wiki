@@ -484,3 +484,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - La matrice `content/meta/audit-copertura-pagine.md` è aggiornata; prosegue il confronto puntuale delle affermazioni e delle citazioni, soprattutto per le intersezioni Vilegis/Lunaria.
 
 - In `Religioni e Spiritualità`, aggiunti i riferimenti diretti a `Canzoni_degli_Umani` e `Riflessioni`; rimossa un'inferenza psicologica non dimostrata sull'incompletezza del saggio di Wade; distinta la conoscenza cosmologica di Dominic dal possesso del Fondamento esterno.
+
+- In `Città-Alveare`, rimossi «in tempi immemori» e l'attribuzione della fondazione ai Draghieri della Covata: le fonti elencate attestano il presidio di Bartholomew, ma non data né fondatori originari. La lacuna resta esplicita invece di essere colmata per inferenza.
