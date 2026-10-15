@@ -648,3 +648,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Rimossa l'allowlist one-shot, già eseguita con controlli SHA esatti e assenza di PR aperte. Resta la pulizia generica dei branch di PR merged dopo ogni merge e quotidianamente.
 - Aggiornata la matrice per i tre riferimenti recuperati dal branch Ishvard/Karsh: `Risveglio_del_Drago` in Fierezza e Maestà, `draghieri-spiegazione` nel Battesimo del Fuoco, `Elenco_Draghieri_Conosciuti` nelle Ere del Kindsgard.
 - La pulizia dei branch è completata nel perimetro verificato; l'audit semantico e le lacune di fonte restano aperti.
+
+
+## 2026-10-15 — Precisione semantica della Geografia
+
+- Corretto il profilo delle Colture in base a `Inktober 2024 #Exotic`: sistema chiuso per le Fitofiere necessarie al sostentamento, quattro individuate, Amaranthus Cruentus la più importante. Rimosse le generalizzazioni non provate «quattro specie commestibili» e «unico sistema organizzato di produzione alimentare».
+- Rimossa l'affermazione generale che le Catene Montuose Orientali siano habitat dei Behemoth; la presenza/attività di Bran Behemoth non prova da sola un habitat di specie esteso all'intera catena.

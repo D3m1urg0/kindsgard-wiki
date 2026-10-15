@@ -25,7 +25,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Città-Alveare** — L'Artiglio Sepolto delle Catene Montuose Orientali. La struttura difensiva più complessa del Kindsgard orientale. → vedi [[Geografia del Kindsgard]]
 
-**Colture** — Serre agricole a Sud, unico sistema organizzato di produzione alimentare per gli Umani del Kindsgard occidentale. → vedi [[Geografia del Kindsgard]]
+**Colture** — Serre agricole a Sud, sistema chiuso per coltivare le Fitofiere necessarie al sostentamento umano; `Inktober 2024 #Exotic` indica Amaranthus Cruentus come la più importante. Non è attestato che siano l'unico sistema di produzione alimentare. → vedi [[Geografia del Kindsgard]]
 
 **Covata** — Fiera insettiforme/alveare. L'Istinto del Draghiere della Covata è la pianificazione strategica e il controllo collettivo. → vedi [[Fiere]] (stub)
 

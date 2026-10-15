@@ -82,7 +82,7 @@ Distrutta parzialmente durante il Primo Secolo del Draco dall'attacco di [[Domin
 
 ### Le Colture
 
-Serre agricole situate a **Sud**, l'unico sistema organizzato di produzione alimentare per gli Umani del Kindsgard occidentale. Strutture in ferro-vetro che permettono la coltivazione controllata di quattro specie vegetali commestibili:
+Serre agricole situate a **Sud**, un sistema chiuso per coltivare le Fitofiere necessarie al sostentamento degli Umani (`Inktober 2024 #Exotic`). La fonte ne individua quattro, con Amaranthus Cruentus come la più importante; non sono semplicemente quattro specie commestibili, perché alcune sono pericolose e richiedono procedure specifiche. Le fonti disponibili non provano che le Colture siano l'unico sistema organizzato di produzione alimentare. Strutture in ferro-vetro che permettono la coltivazione controllata di quattro Fitofiere:
 
 - **Settore Ovest**: Dionee Mangiauomini
 - **Settore Nord**: Mandragore
@@ -121,7 +121,7 @@ Zona montuosa nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di
 
 ### Catene Montuose Orientali
 
-La catena che ospita l'Artiglio Sepolto (Città-Alveare). Area caratterizzata da caverne profonde, sottosuolo ricco di gallerie, clima freddo. Habitat dei Behemoth (Fiera).
+La catena ospita l'Artiglio Sepolto (Città-Alveare) e un sistema di caverne e gallerie. Bran Behemoth è associato alle zone montuose del Nord e alle Catene Montuose Orientali, ma questo non basta a definire l'intera catena come habitat della specie.
 
 ---
 
