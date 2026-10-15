@@ -465,3 +465,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Corretta una formulazione off-by-one in `Draghieri` e `Il Battesimo del Fuoco`: il numero progressivo indica la posizione nella sequenza della specie, non quanti predecessori esistono. La numerazione di Wade come 33° Viverna resta invariata.
 
 - Aggiunto `Elenco_Draghieri_Conosciuti` ai campi `fonti` delle pagine che usano numeri progressivi o titoli di sequenza (Draghieri, Battesimo, Fierezza/Maestà, Dominic, Wade, Bran, Brood, Caitlin, Luther, Frederick e Soffione Uncinato). L'elenco è la fonte canonica per le numerazioni, distinta dalle fonti narrative che documentano gli eventi.
+
+- Creato `content/meta/audit-copertura-pagine.md`, registro persistente per i 31 file non fonte: per ciascuno distingue prima lettura, confronto diretto con fonti e residui. Il registro impedisce di confondere la lettura del corpo con una verifica completa delle affermazioni.
