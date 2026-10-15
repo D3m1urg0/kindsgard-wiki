@@ -69,3 +69,8 @@ Questo registro distingue la **lettura della pagina**, il **confronto diretto co
 ### Riconciliazione Ishvard/Karsh — 2026-10-15
 
 Il confronto tra `content/storia/cronologia.md` e `content/storia/ere.md` ha rilevato una contraddizione interna: il caso era datato rispettivamente al Primo Secolo del Draco e al Primo Secolo dell'Orso. Le due date sono state rimosse dalle formulazioni assertive e la questione registrata in L4 come lacuna documentale, non come scelta per il proprietario. È stata inoltre rimossa la dichiarazione «unicum narrativo, non ripetibile»: una sola attestazione non prova l'impossibilità di ripetizione. Nessuna fonte originale è stata modificata.
+
+
+### Riconciliazione residua del branch Ishvard/Karsh — 2026-10-15
+
+Il confronto semantico del branch storico ha confermato che le sue modifiche narrative su Ishvard/Karsh sono superate da `main`, ma ha recuperato due omissioni di tracciabilità non dipendenti dalla ricostruzione cronologica: `Risveglio_del_Drago` è aggiunta alle fonti di `Fierezza e Maestà`, che descrive direttamente l'eccezione di Wade; `draghieri-spiegazione` è aggiunta alle fonti de `Il Battesimo del Fuoco`, che usa la guida per il quadro generale. Aggiunto inoltre `Elenco_Draghieri_Conosciuti` alle fonti di `Le Ere del Kindsgard` per la sequenza storica e ordinale dei Draghieri. Non è stata integrata la datazione obsoleta né l'affermazione di irripetibilità dal branch storico.
