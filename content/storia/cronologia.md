@@ -83,7 +83,7 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 **[Anno 1 del Draco]** — Dominic e i Draghieri scomparsi oltre l'Anello tornano dalla Maestà, trasformati in Vere Fiere. Per la prima volta compaiono le **Vere Fiere** sul Kindsgard in forma organizzata. Dominic guida l'attacco all'Anello come Vera Fiera.
 
-**[Anno 1 del Draco]** — Un incidente temporale rallenta il tempo sul Kindsgard: ogni anno di Lunaria corrisponde ora a **cento anni** del Kindsgard.
+**[Anno 1 del Draco]** — La sintesi wiki colloca in questo periodo un incidente temporale che avrebbe rallentato il tempo sul Kindsgard, riportando un rapporto di **cento anni del Kindsgard per un anno di Lunaria**. La proporzione non è verificabile direttamente senza la Cronistoria OOC (D3), non reperita; è conservata come dato della ricostruzione, non come misura confermata.
 
 **[Anno 1 del Draco]** — Ogni Draghiere caduto in quest'anno si risveglia come Vera Fiera nella sua nuova incarnazione. Anche i Draghieri su Vilegis vedono la loro essenza duplicata nelle proprie **Nemesi**. Questo non significa che in tutto l'Anno del Draco esistano soltanto Vere Fiere: i Draghieri ancora attivi restano presenti, e il fenomeno della duplicazione riguarda in particolare quelli che si trovano su Vilegis.
 

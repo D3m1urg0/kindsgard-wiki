@@ -371,3 +371,8 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - Branch da riconciliare semanticamente: `audit/ishvard-karsh-source-gap-2026-10-13` è in gran parte superato dalle PR #29/#31 e #35; `audit/cosmology-boundary-2026-10-15` ha prodotto la PR #33. I branch storici delle PR squash-merged non vanno considerati lavoro mancante solo perché i loro SHA non compaiono nella storia lineare di `main`.
 - **Blocco tecnico sulla cancellazione dei branch:** il repository ha `delete_branch_on_merge=false`; gli strumenti GitHub disponibili in questa sessione non espongono un'azione di cancellazione dei branch/ref. I merge sono verificati, ma non posso dichiarare cancellati i branch. Per evitare di ripetere questo problema, va abilitata la cancellazione automatica dei branch dopo il merge nelle impostazioni GitHub oppure va eseguita la cancellazione da un'interfaccia/API con permessi di scrittura.
 - Prossimo passo: verificare il residuo di PR #12/#14 file per file, classificare gli altri branch non associati a PR, aggiornare il checkpoint a ogni tranche e continuare la verifica semantica. L'audit complessivo non è ancora completato; D3/D4 restano non reperibili.
+
+
+## Verifica residua — rapporto temporale 100:1
+
+Nel controllo successivo al merge della PR #35 è stata rilevata una formulazione ancora assoluta del rapporto 100:1 nelle sezioni cronologiche puntuali, nonostante la nota generale lo qualificasse come non verificabile senza D3. La correzione è preparata nel branch `audit/temporal-ratio-qualification-2026-10-15` e va sottoposta a PR con workflow verificato. Questo è un rilievo emerso dal confronto interno tra nota generale e occorrenze specifiche; il corpus D3/D4 resta non reperibile.
