@@ -27,7 +27,7 @@ Ogni Draghiere è stato in passato un Umano che ha reagito con inaspettata forza
 
 I Draghieri non formano una gerarchia rigida né un ordine formale: si riconoscono tra loro per la divisa (colori araldici e simbolo della propria Fiera) e per l'Istinto condiviso. Il loro coordinamento avviene naturalmente, guidato dalla logica del Bisogno a cui rispondono.
 
-**Nome:** Ogni Draghiere porta un nome con la stessa iniziale della propria Fiera (es. Wade Wyrm, Caitlin Chimera, Bran Behemoth) e un numero progressivo che indica quanti Draghieri della stessa specie lo hanno preceduto.
+**Nome:** Ogni Draghiere porta un nome con la stessa iniziale della propria Fiera (es. Wade Wyrm, Caitlin Chimera, Bran Behemoth) e un numero progressivo che indica la sua posizione nella sequenza storica della propria specie.
 
 **Numero progressivo:** Il conteggio è per-specie, non globale. Il "33^ Viverna" significa che Wade è il trentatreesimo Draghiere della Viverna nella storia del Kindsgard.
 
