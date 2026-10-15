@@ -3,7 +3,7 @@ titolo: "Glossario"
 categoria: "meta"
 tag: [glossario, termini, definizioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-10-15"
 aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardiani","Echi","Kindsgard","Fiera","Mare Esterno","Mare Interno","Mondo Ancora","Fondamento","Istinto","Giardino","Nexus","Oltregiardino","Rovina","Spettro","Draghiere","Vera Fiera","Covata","Vilegis / Lunaria","Vilegis/Lunaria","Specie Fenice","Colture","Icaria"]
 ---
 
@@ -71,7 +71,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Re Draco** — Titolo di [[Dominic Draco]] dopo l'assorbimento dei 13 Guardiani. Entità unica, non più Draghiere né Vera Fiera. → vedi [[Dominic Draco]]
 
-**Rovina** — Il cataclisma cosmico che colpì il Kindsgard e impazzì Natura. Lo stesso evento che devastò altri mondi del multiverso.
+**Rovina** — Termine del setting Vilegis/Lunaria per un cataclisma che devastò altri mondi. Nella ricostruzione wiki è messo in parallelo con il cataclisma che alterò Natura sul Kindsgard; la fonte breve del Kindsgard descrive un cataclisma proveniente dall'esterno ma non lo nomina direttamente come Rovina. L'identità fra i due eventi resta una connessione interpretativa da verificare con D3/D4.
 
 **Spettro** — Termine del sistema di Vilegis/Lunaria per i 13 principi fondanti del multiverso. Analogo ma distinto dall'Espediente del Kindsgard. → vedi [[Cosmologia]]
 
