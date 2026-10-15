@@ -506,3 +506,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Registrato il confine in `content/meta/fonti.md` e nella matrice `content/meta/audit-copertura-pagine.md`. Nessuna fonte originale modificata.
 
 - Estesa a `Le Ere del Kindsgard` la distinzione fra il cataclisma cosmico attestato e la sua identificazione con la Rovina: la fonte breve non nomina direttamente la Rovina e D3/D4 non sono disponibili per confermare l'identità.
+
+
+## 2026-10-15 — Riconciliazione cronologica Ishvard/Karsh
+
+- Rilevata una contraddizione fra `Cronologia` (Primo Secolo del Draco) e `Le Ere del Kindsgard` (Primo Secolo dell'Orso) sulla collocazione di Ishvard/Karsh.
+- Neutralizzate entrambe le datazioni in attesa di una fonte primaria; D3/D4 non sono disponibili per dirimere il conflitto.
+- Rimossa la formula «unicum narrativo, non ripetibile»: il corpus documenta il caso, ma non prova che il meccanismo sia intrinsecamente irripetibile.
+- Aggiornati L4 e la matrice di copertura. Nessuna fonte narrativa originale è stata modificata.
