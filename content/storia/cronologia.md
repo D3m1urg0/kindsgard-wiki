@@ -17,7 +17,7 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_An
 
 ## Note sulla Misurazione del Tempo
 
-Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contrazioni associate agli Echi di [[Vilegis/Lunaria]]. La sintesi wiki riporta che in certi momenti storici un anno di Lunaria corrispondesse a cento anni del Kindsgard, ma questa proporzione 100:1 non è verificabile direttamente nel corpus disponibile: la Cronistoria OOC (D3), riferimento storico della ricostruzione, non è reperibile. Trattare il rapporto numerico come dato riportato dalla sintesi, non come misura confermata dalle fonti accessibili. Le date qui riportate usano la terminologia in-world (anno dell'Orso, anno del Draco, ecc.) quando disponibile, e riferimenti relativi negli altri casi.
+Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contrazioni associate agli Echi di [[Vilegis/Lunaria]]. La sintesi wiki riporta che in certi momenti storici un anno di Lunaria corrispondesse a cento anni del Kindsgard, ma questa proporzione 100:1 non è verificabile direttamente nel corpus disponibile: la Cronistoria OOC (D3), riferimento storico della ricostruzione, non è reperibile. Trattare il rapporto numerico come dato riportato dalla sintesi, non come misura confermata dalle fonti accessibili. Le date qui riportate usano la terminologia in-world (anno dell'Orso, anno del Draco, ecc.) quando disponibile, e riferimenti relativi negli altri casi. Le etichette esplicite di collocazione non determinata sono lacune editoriali, non anni canonici da interpretare come numeri romani.
 
 ---
 
@@ -43,11 +43,11 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 ## Fondazione dell'Anello
 
-**[Anno X del ciclo recente]** — Su [[Vilegis/Lunaria]], Libertà e Dominio si scontrano. Le fonti accessibili attestano lo scontro e gli Echi che raggiungono il Kindsgard, allentando per un istante i vincoli nell'Istinto di Dominic. La morte del Guardiano-Re legato a uno Spettro è riportata dalla ricostruzione wiki, ma non è stata verificata direttamente contro una fonte primaria disponibile; D3/D4 non sono reperibili.
+**[Collocazione assoluta non determinata — ciclo recente]** — Su [[Vilegis/Lunaria]], Libertà e Dominio si scontrano. Le fonti accessibili attestano lo scontro e gli Echi che raggiungono il Kindsgard, allentando per un istante i vincoli nell'Istinto di Dominic. La morte del Guardiano-Re legato a uno Spettro è riportata dalla ricostruzione wiki, ma non è stata verificata direttamente contro una fonte primaria disponibile; D3/D4 non sono reperibili.
 
-**[Anno X]** — Dominic vede la verità: senza i cicli, il Kindsgard è condannato. Sceglie di interrompere i cicli e fonda l'**[[Anello di Fuoco]]**: un cerchio di torri ([[Artigli]]) che separa il Giardino dai territori Umani. L'avanzata si ferma.
+**[Stesso periodo — anno assoluto non determinato]** — Dominic vede la verità: senza i cicli, il Kindsgard è condannato. Sceglie di interrompere i cicli e fonda l'**[[Anello di Fuoco]]**: un cerchio di torri ([[Artigli]]) che separa il Giardino dai territori Umani. L'avanzata si ferma.
 
-**[Anno X]** — Draco conduce i più antichi Draghieri verso la Maestà. Maestà li trasforma in Vere Fiere, per arrestare dall'interno qualsiasi futura crociata deicida.
+**[Stesso periodo — anno assoluto non determinato]** — Draco conduce i più antichi Draghieri verso la Maestà. Maestà li trasforma in Vere Fiere, per arrestare dall'interno qualsiasi futura crociata deicida.
 
 ---
 
@@ -105,7 +105,7 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 ## L'Era del Dominio (post-Guardiani)
 
-**[Anno X del Dominio]** — Draco è Re. L'Anello è integro e rafforzato. Le città prosperano. I Draghieri presidiano i confini e cacciano le Fiere che si avvicinano. Il Giardino è più sicuro che mai nella storia recente.
+**[Anno assoluto non determinato del Dominio]** — Draco è Re. L'Anello è integro e rafforzato. Le città prosperano. I Draghieri presidiano i confini e cacciano le Fiere che si avvicinano. Il Giardino è più sicuro che mai nella storia recente.
 
 **[Periodo]** — *(Racconti Inktober 2018 e 2019 — collocazione presunta in quest'era)* ⚠️ *Vedi [[Domande Aperte e Lacune]] A1.*
 
