@@ -334,3 +334,5 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 
 - `content/cultura/religioni.md`: aggiunti `Canzoni_degli_Umani` e `Riflessioni` al campo `fonti`, perché il corpo li cita direttamente. Rimossa l'inferenza non dimostrata secondo cui l'incompletezza del saggio di Wade proverebbe una difficoltà intrinseca dei Draghieri. Riallineata la frase su Dominic: detiene il potere dei tredici vettori manifestatisi nel Kindsgard, non il Fondamento di Vilegis/Lunaria.
 - La matrice `content/meta/audit-copertura-pagine.md` è aggiornata per questa voce. Il confronto diretto delle citazioni prosegue; non si dichiara completata la verifica integrale della pagina.
+
+- `content/mondo/citta-alveare.md`: rimosse la datazione «in tempi immemori» e l'attribuzione della fondazione ai Draghieri della Covata, non sostenute dalle fonti elencate nella voce. La presenza della struttura e il presidio di Bartholomew Brood sono attestati da `Prevedibilità (covata)`; la data e i fondatori originari restano ignoti nel corpus disponibile.
