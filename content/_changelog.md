@@ -705,3 +705,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Allineati i frontmatter di `Fiamme`, `Fiere — Voci Stub`, `Dominic Draco`, `Wade Wyrm`, `Caitlin Chimera` e `Altri Personaggi` alle fonti già citate direttamente nei rispettivi testi.
 - Nessuna modifica narrativa o canonica; registrato il perimetro limitato del controllo.
+
+- Esteso il controllo dei campi `fonti` anche a `Cronologia` e `Le Ere del Kindsgard`: aggiunto `18___Misfit`, già citato direttamente in entrambe le pagine.
