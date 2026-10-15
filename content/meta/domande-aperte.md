@@ -189,3 +189,9 @@ La cosmologia e la cronologia attestano tredici individui/Guardiani legati ai ve
 ### L18 — Riferimento alla Salamandra in `L'Esodo`
 In `L'Esodo`, Wade intende condurre i sopravvissuti all'Artiglio del Magma, dove “Salamandra saprà prendersi cura di loro”. La fonte non data con precisione il passaggio e non chiarisce se “Salamandra” indichi Syrus, Sebastian o la Fiera/fazione in senso più ampio. La scheda di Salamander non attribuisce la frase a uno dei due individui.
 - → **Attività residua:** mantenere l'ambiguità finché una collocazione cronologica dell'`Esodo` o un'altra fonte non la risolva; non scegliere un nome per inferenza.
+
+
+### L21 — “Sei vettori in tredici affondi” in `Deflecte Cantum`
+
+La canzone menziona sei vettori, tredici affondi e il Fondamento che fluisce verso il Giardino. La cosmologia originaria del Kindsgard definisce sette vettori; la connessione successiva con Vilegis/Lunaria introduce tredici vettori/Guardiani. Il testo della canzone non identifica i sei vettori né li equipara esplicitamente a uno dei due gruppi. La precedente nota wiki che interpretava la strofa come descrizione dell'assorbimento dei tredici Guardiani era più assertiva della fonte.
+- → **Chiarimento canonico/documentale:** i sei vettori sono un sottoinsieme dei sette originari, una formulazione riferita al Fondamento esterno, oppure un'altra struttura? Fino a una fonte o conferma del proprietario, mantenere separati sei, sette e tredici senza inventare una corrispondenza.
