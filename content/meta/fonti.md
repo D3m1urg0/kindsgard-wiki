@@ -258,3 +258,10 @@ I valori del campo `fonti` sono identificatori ereditati dalla conversione dei d
 
 Non sono assegnati a un file corrente finché non esiste una prova dell'identità: `D3-cronistoria-ooc`, `D4-guida-draghiere`, `Annali_dell_Artiglio_di_Fuoco`, `Draghieri_Vere_Fiere_del_Kindsgard` e `Copia_di_I_Draghieri_del_kindsgard`. Per gli Annali, mantenere inoltre distinta la citazione degli **Annali dell'Artiglio delle Sabbie** in `Inktober 2024 #Exotic`. Non sostituire questi identificatori con fonti simili solo per somiglianza del titolo.
 
+
+
+### Rilievo di tracciabilità — Motti non rintracciati nel corpus disponibile (2026-10-15)
+
+- `Ab Necessitate Excusi` è attestato in `Inktober 2018` e `Inktober 2019`.
+- `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest` sono presentati come motti canonici nelle voci sintetiche `Draghieri`, `Vere Fiere` e `Tradizioni, Canti e Motti`, ma non sono stati rintracciati nelle 29 fonti attualmente presenti nel repository con la ricerca testuale effettuata.
+- La loro provenienza potrebbe dipendere da D4 (`You Want to Be a Dragoner`) o dal riferimento legacy `Draghieri_Vere_Fiere_del_Kindsgard`, entrambi non reperiti; questa possibilità non è dimostrata. Fino al recupero della fonte, distinguere la presenza dei motti nella sintesi wiki dalla loro attestazione primaria.
