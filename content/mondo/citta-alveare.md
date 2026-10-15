@@ -40,7 +40,7 @@ Bocche da fuoco su ogni apertura. Sistemi di leve e contrappesi per le porte pri
 
 ## Storia
 
-**Fondazione:** Le fonti non indicano una data né i fondatori originari. `Inktober 2019 #Build` descrive l'Artiglio Sepolto come il dominio del Draghiere della Covata «da tempi immemori», ma questa formula non data la fondazione della struttura. Il primo presidio nominativamente attestato nel corpus è quello di Bartholomew Brood, XVI Draghiere della Covata, in `Prevedibilità (covata)`. La sua posizione nelle Catene Montuose la rende difficile da raggiungere ma anche da rifornire.
+**Fondazione:** Le fonti non indicano una data né i fondatori originari. `Inktober 2019 #Build` descrive l'Artiglio Sepolto come il dominio del Draghiere della Covata «da tempi immemori», ma questa formula non data la fondazione della struttura. Il primo presidio nominativamente attestato nel corpus è quello di Bartholomew Brood, XVI Draghiere della Covata, in `Prevedibilità (covata)`. La collocazione nelle Catene Montuose può rendere complessi accesso e rifornimenti; questa è una deduzione logistica dalla posizione, non un dettaglio dichiarato esplicitamente dalle fonti.
 
 **Caduta durante il Primo Secolo del Draco:** [[Dominic Draco]] come Vera Fiera attaccò la struttura con piena conoscenza dei suoi punti deboli — solo la profonda conoscenza della struttura poteva portare alla disfatta. [[Bartholomew Brood]] morì durante o dopo l'attacco.
 
