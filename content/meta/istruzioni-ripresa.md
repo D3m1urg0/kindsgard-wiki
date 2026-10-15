@@ -405,3 +405,8 @@ Nel confronto delle fonti Inktober la scheda definiva le Falenottere “insettif
 ## Verifica semantica — motti non attestati, 2026-10-15
 
 Il confronto fra `Tradizioni`, `Draghieri`, `Vere Fiere` e le fonti disponibili ha rilevato che `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest` erano presentati in forma assertiva nonostante non siano stati rintracciati nel corpus di 29 fonti. PR #39 è integrata con workflow Quartz `success`: i due motti sono qualificati come attribuzioni della sintesi wiki, senza promuoverli a fatti canonici; `Ab Necessitate Excusi` resta invece attestato in `Inktober 2019` come saluto a risposta identica.
+
+
+## Verifica semantica — sei, sette e tredici vettori, 2026-10-15
+
+Il confronto fra `Deflecte Cantum`, `Tradizioni` e `Cosmologia` ha rilevato un'equivalenza non dimostrata: la fonte dice “sei vettori in tredici affondi”, mentre il canone originario elenca sette vettori e la connessione successiva descrive tredici vettori/Guardiani. La nota della fonte attribuiva direttamente la strofa all'assorbimento dei tredici Guardiani senza che il testo lo esplicitasse. La formulazione è stata resa provvisoria e aggiunta L21 per una chiarificazione del proprietario o una fonte primaria.
