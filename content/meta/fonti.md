@@ -83,6 +83,8 @@ ultima_modifica: "2026-10-15"
 
 Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cita `Copia_di_I_Draghieri_del_kindsgard` nel campo `fonti`. Non esiste un file con questo nome nel tree corrente e il riferimento non è descritto nel catalogo. `content/fonti/draghieri-spiegazione.md` è una fonte OOC pertinente, ma non ci sono prove sufficienti per affermare che sia la stessa fonte o la conversione di quel documento. **Non sostituire il riferimento senza recuperare o identificare il sorgente.**
 
+Anche l'identificatore di frontmatter `Draghieri_Vere_Fiere_del_Kindsgard`, usato nelle pagine `Draghieri`, `Vere Fiere` e `Fierezza e Maestà`, non è riconciliato con certezza. Il nome potrebbe riferirsi al percorso legacy mancante `content/fonti/draghieri-vere-fiere.md`, ma non è dimostrato che l'identificatore e quel percorso rappresentino esattamente lo stesso documento; `draghieri-spiegazione.md` resta una fonte OOC pertinente ma non un sostituto confermato. Mantenere il riferimento e registrare l'identità come lacuna documentale.
+
 ## Decisioni di Canonizzazione
 
 ### 🔴 Contraddizioni Risolte
