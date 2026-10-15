@@ -4,7 +4,7 @@ categoria: "personaggi"
 tag: [luther-leviathan, draghieri, leviatano, personaggio]
 status: "revisionato"
 ultima_modifica: "2026-10-15"
-fonti: ["Inktober_2018", "L_ultima_notte_all_ombra_dell_Anello", "Onda_bianca"]
+fonti: ["Inktober_2018", "L_ultima_notte_all_ombra_dell_Anello", "Onda_bianca", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Luther Leviathan
