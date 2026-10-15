@@ -512,3 +512,10 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - Nessuna fonte originale è stata modificata; la correzione non aggiunge un nuovo fatto canonico.
 
 - Rimossa in `Religioni e Spiritualità` la valutazione comparativa non attestata secondo cui Axsar sarebbe il «teologo più lucido»; il testo descrive ora il ruolo documentato della sua testimonianza in `Inktober 2019 #Ornament` senza classificare i personaggi per lucidità.
+
+
+## Verifica semantica — morte del Guardiano-Re di Vilegis/Lunaria, 2026-10-15
+
+- Confrontate le occorrenze in `content/personaggi/dominic-draco.md`, `content/storia/cronologia.md` e `content/storia/ere.md` con `Cronistoria del Kindsgard (versione breve)`, `Inktober 2019 #Legend` e `draghieri-spiegazione.md`.
+- Le fonti accessibili attestano lo scontro tra Libertà e Dominio e gli Echi che incidono sul Kindsgard; non confermano direttamente la specifica affermazione sulla morte del Guardiano-Re legato a uno Spettro. Tale dettaglio è mantenuto come elemento della ricostruzione wiki preesistente e marcato come non verificato contro fonte primaria, in attesa dei testi D3/D4 mancanti.
+- Nessuna fonte originale è stata modificata e nessun contenuto esterno è stato aggiunto. Prossimo passo: continuare la verifica delle affermazioni dipendenti da D3/D4.
