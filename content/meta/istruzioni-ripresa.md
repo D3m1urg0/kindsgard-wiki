@@ -467,3 +467,10 @@ Il confronto diretto con `Prevedibilità (covata)` mostra che Bartholomew conta 
 ## Nota logistica — Città-Alveare, 2026-10-15
 
 La difficoltà di accesso e rifornimento della Città-Alveare è plausibile per la posizione montuosa e sotterranea, ma non è dichiarata direttamente nelle fonti. La sintesi ora la marca come deduzione logistica anziché fatto canonico.
+
+
+## Verifica del pruning e riconciliazione degli ultimi due branch — 2026-10-15
+
+- Dopo la correzione `--method GET`, il run `38724512069` della workflow `Delete merged and audited obsolete branches` è terminato `success`. La lista remota è scesa da 46 branch non-main a 2: sono stati rimossi i branch delle PR merged con head invariato e i sei branch esplicitamente allowlisted. Il branch della PR #50 è stato cancellato dal job diretto.
+- Restano due branch che non corrispondono all'head di una PR: `audit/page-semantic-pass-2026-10-15` e `audit/quarantine-fiamme-and-sources-2026-10-13`. Entrambi sono stati confrontati file per file con `main`. Il primo contiene versioni precedenti di pagine e registri, con formulazioni cosmologiche e cronologiche meno caute; le differenze utili sono già in `main`, incluse le fonti del Battesimo e le cautele su Ishvard/Karsh. Il secondo contiene versioni precedenti della quarantena Fiamme, della cronologia e delle note su Syrus/Sirius; i chiarimenti utili sono già in `main`, mentre le formulazioni assertive sono superate.
+- I due branch sono stati aggiunti alla allowlist con SHA esatto e verranno rimossi al prossimo merge, se i ref non sono cambiati e non hanno PR aperte. Fino alla verifica, non dichiarare il branch count finale completato.
