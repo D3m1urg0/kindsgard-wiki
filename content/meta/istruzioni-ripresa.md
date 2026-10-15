@@ -348,3 +348,14 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - `content/storia/cronologia.md`: qualificato il rapporto temporale 100:1 fra Lunaria e Kindsgard. È presente nella sintesi wiki, ma non è verificabile direttamente perché la Cronistoria OOC (D3) non è reperibile; resta un dato riportato dalla sintesi, non una misura confermata dalle fonti accessibili.
 
 - `content/mondo/geografia.md`: attribuita esplicitamente alla prospettiva collettiva in-world di `Ciò che sanno i Draghieri` la descrizione del Bordo come area in cui quasi nulla cresce o vive e come rifugio originario degli Umani. Il testo fonte non è stato modificato.
+
+
+### Confine cosmologico Kindsgard / Vilegis-Lunaria — 2026-10-15
+
+- Rilevata una fusione troppo assertiva fra il cataclisma che altera Natura e la `Rovina` di Vilegis/Lunaria. La `Cronistoria (versione breve)` descrive il cataclisma come un evento che altrove divise terra e materia, ma non lo nomina direttamente come Rovina; D3/D4 non sono reperibili.
+- Aggiornati `content/mondo/cosmologia.md`, `content/storia/cronologia.md` e `content/_glossario.md`: il cataclisma resta attestato, mentre l'identificazione nominale con la Rovina è presentata come parallelismo interpretativo non verificato da una fonte primaria disponibile. `content/meta/fonti.md` e la matrice di copertura registrano il confine.
+- Nessuna fonte narrativa originale è stata modificata. La distinzione segue il mandato di non fondere il canone originario Kindsgard con Vilegis/Lunaria senza una fonte primaria verificabile.
+- **Branch corrente:** `audit/cosmology-boundary-2026-10-15`, creato da `main` dopo il merge della PR #32.
+- **Prossimo passo:** validare questa tranche, poi proseguire il controllo delle affermazioni cosmologiche e delle intersezioni esplicite; mantenere aperte le questioni che dipendono da D3/D4.
+
+- Estesa la stessa cautela a `content/storia/ere.md`: il testo non assume più che il parallelismo con la Rovina autorizzi a importare nel Kindsgard altri elementi della cosmologia di Vilegis/Lunaria; la fonte breve chiama il periodo «Era della Rovina» e attesta un cataclisma con effetti altrove, mentre D3/D4 servirebbero a chiarire ulteriori dettagli. La matrice di copertura è aggiornata.

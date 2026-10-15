@@ -265,3 +265,10 @@ Non sono assegnati a un file corrente finché non esiste una prova dell'identit�
 - `Ab Necessitate Excusi` è attestato in `Inktober 2018` e `Inktober 2019`.
 - `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest` sono presentati come motti canonici nelle voci sintetiche `Draghieri`, `Vere Fiere` e `Tradizioni, Canti e Motti`, ma non sono stati rintracciati nelle 29 fonti attualmente presenti nel repository con la ricerca testuale effettuata.
 - La loro provenienza potrebbe dipendere da D4 (`You Want to Be a Dragoner`) o dal riferimento legacy `Draghieri_Vere_Fiere_del_Kindsgard`, entrambi non reperiti; questa possibilità non è dimostrata. Fino al recupero della fonte, distinguere la presenza dei motti nella sintesi wiki dalla loro attestazione primaria.
+
+
+### Confine di canone — cataclisma del Kindsgard e Rovina di Vilegis/Lunaria (2026-10-15)
+
+- La `Cronistoria (versione breve)` intitola il periodo «Era della Rovina» e descrive un cataclisma che «altrove» divise la terra e la materia. Questo attesta un parallelismo fra l'evento del Kindsgard e un evento esterno, ma non specifica da solo tutti i dettagli della relazione con la Rovina di Vilegis/Lunaria.
+- La ricostruzione wiki mette l'evento in parallelo con la Rovina di Vilegis/Lunaria. D3/D4 non sono reperibili per chiarire ulteriori dettagli della relazione; il parallelismo non autorizza a importare nel Kindsgard altre parti della cosmologia esterna.
+- Per evitare di fondere automaticamente i due canoni, il cataclisma del Kindsgard resta un evento attestato; l'identificazione nominale con la Rovina è classificata come parallelismo interpretativo non ancora verificato da una fonte primaria disponibile.
