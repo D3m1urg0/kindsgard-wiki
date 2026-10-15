@@ -415,3 +415,13 @@ Il confronto diretto con `Inktober 2019 #Ornament` ha rilevato che `Tradizioni` 
 ## Verifica semantica — sei, sette e tredici vettori, 2026-10-15
 
 Il confronto fra `Deflecte Cantum`, `Tradizioni` e `Cosmologia` ha rilevato un'equivalenza non dimostrata: la fonte dice “sei vettori in tredici affondi”, mentre il canone originario elenca sette vettori e la connessione successiva descrive tredici vettori/Guardiani. La nota della fonte attribuiva direttamente la strofa all'assorbimento dei tredici Guardiani senza che il testo lo esplicitasse; anche il termine «espedienti» non prova da solo che si parli dell'arma Espediente. La formulazione è stata resa provvisoria e aggiunta L21 per una chiarificazione del proprietario o una fonte primaria.
+
+
+## Checkpoint operativo — 2026-10-15, dopo PR #42
+
+- PR #42 (Deflecte Cantum) integrata con squash nel commit `0a6c23c6ecf009c7f21f8c272d2e19f64f37434d`; la workflow `Validate Quartz wiki` sul suo HEAD aveva esito `success`.
+- La nuova nota distingue il testo attestato (“sei vettori in tredici affondi”) dalle interpretazioni non dimostrate circa i sette vettori originari, i tredici Guardiani e l'arma Espediente; L21 resta aperta per una fonte primaria o chiarimento del proprietario.
+- Riconciliazione branch: `audit/ishvard-karsh-source-gap-2026-10-13` e `audit/cosmology-boundary-2026-10-15` non vanno mergiati nelle versioni correnti perché contengono formulazioni superate rispetto a `main`; le cautele sostanziali risultano già integrate nelle PR successive.
+- Il branch `audit/day-of-need-source-precision-2026-10-15` è ridondante rispetto a `main` e alle modifiche consolidate nella PR #40/#42.
+- **Pulizia branch ancora aperta:** l'impostazione GitHub `delete_branch_on_merge` risulta `false`. Gli strumenti GitHub disponibili in questa sessione non espongono un'operazione di cancellazione dei branch; quindi nessun branch è dichiarato eliminato. Per evitare falsi positivi, mantenere un elenco separato dei branch da eliminare manualmente o usare una connessione che consenta `DELETE /git/refs/heads/{branch}`.
+- Prossimo passo: verificare i branch rimanenti contro il contenuto corrente di `main`, aprire PR solo per differenze documentali effettive non ancora integrate e continuare l'audit semantico. Non mergiare branch storici sulla sola base dei conteggi ahead/behind dopo squash merge.
