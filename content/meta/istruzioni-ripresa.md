@@ -548,3 +548,11 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - Il controllo è un confronto di tracciabilità dei riferimenti espliciti, non una dichiarazione che tutte le affermazioni delle pagine siano semanticamente verificate.
 
 - Il controllo incrociato dei campi `fonti` ha rilevato altre due citazioni dirette non dichiarate nel frontmatter: `18___Misfit` in `Cronologia` e `Le Ere del Kindsgard`; entrambe sono state aggiunte. La verifica è di tracciabilità delle citazioni esplicite, non sostituisce il confronto semantico.
+
+
+## Verifica semantica — tredici Guardiani, scintille e vettori, 2026-10-15
+
+- Riletto integralmente `Inktober 2019 #Legend` e confrontato con `Cosmologia`, `Dominic Draco`, `Cronologia` e `Le Ere del Kindsgard`.
+- La fonte attesta direttamente tredici Guardiani, la loro distribuzione fra Draghieri, Fiere e Vere Fiere, l'uccisione tramite Espediente e la raccolta di tredici scintille di potere. Corrette le pagine che lasciavano incerta la composizione per categorie.
+- La canzone menziona anche «sei vettori in tredici affondi» e il Fondamento, ma non dichiara esplicitamente che queste espressioni siano equivalenti alle tredici scintille/Guardiani. Tale identificazione resta interpretativa e viene distinta dal fatto direttamente attestato. La relazione con Mondo Ancora resta non verificabile senza D3/D4.
+- Nessuna fonte originale modificata; nessun elemento esterno importato.
