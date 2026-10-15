@@ -448,7 +448,7 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 ## 2026-10-15 — Prima passata semantica delle pagine wiki
 
 - Letti i corpi di 29 pagine tematiche (Cultura, Fazioni, Fiere, Mondo, Personaggi, Sistemi, Storia) e di `content/index.md` e `content/_glossario.md`. È una prima passata del testo delle pagine, non una certificazione che ogni affermazione sia stata confrontata con ogni fonte primaria.
-- Preparati dodici riallineamenti documentali: motivazione non dimostrata di Natura verso gli Umani (`cosmologia.md`); credenza umana sulla nascita di Bisogno/Espediente (`ere.md`); anatomia non attestata della Chimera (`caitlin-chimera.md`); generalizzazione non attestata sul Canto del Leviatano (`luther-leviathan.md`); graduazione non verificabile della forza presso la Maestà e rapporto fra eruzioni ed Echi (`maesta.md`); ambito canonico Kindsgard/Vilegis esplicitato nell'indice (`index.md`).
+- Preparati tredici riallineamenti documentali: motivazione non dimostrata di Natura verso gli Umani (`cosmologia.md`); credenza umana sulla nascita di Bisogno/Espediente (`ere.md`); anatomia non attestata della Chimera (`caitlin-chimera.md`); generalizzazione non attestata sul Canto del Leviatano (`luther-leviathan.md`); graduazione non verificabile della forza presso la Maestà e rapporto fra eruzioni ed Echi (`maesta.md`); ambito canonico Kindsgard/Vilegis esplicitato nell'indice (`index.md`).
 - Nessuna fonte narrativa originale è stata modificata. I testi mancanti D3/D4 e gli altri identificatori legacy restano non reperiti e non vengono sostituiti per somiglianza.
 - Il punto 2 dell'audit resta aperto: serve ancora la verifica sistematica delle citazioni puntuali e dei riferimenti `fonti` per tutte le pagine, oltre alla validazione dei diff di questa tranche.
 
@@ -463,3 +463,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Rimossi dai tag di frontmatter della voce Fiamme i concetti specifici del materiale esterno in quarantena (`revenant`, `comunità`, `casata-radiant`, `anomalia`) e la classificazione generica `fazione`; mantenuti i tag che indicano Fiamme, Bruciati, Vilegis e quarantena editoriale.
 
 - Corretta una formulazione off-by-one in `Draghieri` e `Il Battesimo del Fuoco`: il numero progressivo indica la posizione nella sequenza della specie, non quanti predecessori esistono. La numerazione di Wade come 33° Viverna resta invariata.
+
+- Aggiunto `Elenco_Draghieri_Conosciuti` ai campi `fonti` delle pagine che usano numeri progressivi o titoli di sequenza (Draghieri, Battesimo, Dominic, Wade, Bran, Brood, Caitlin, Luther, Frederick e Soffione Uncinato). L'elenco è la fonte canonica per le numerazioni, distinta dalle fonti narrative che documentano gli eventi.
