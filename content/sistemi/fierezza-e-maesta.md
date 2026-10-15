@@ -5,7 +5,7 @@ tag: [fierezza, maestà, istinto, espediente, battesimo, draghieri, vere-fiere]
 status: "revisionato"
 ultima_modifica: "2026-10-15"
 aliases: ["Fierezza"]
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi", "draghieri-spiegazione", "Inktober_2018", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi", "draghieri-spiegazione", "Inktober_2018", "Inktober_2019", "Risveglio_del_Drago", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Fierezza e Maestà

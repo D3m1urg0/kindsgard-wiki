@@ -4,7 +4,7 @@ categoria: "sistemi"
 tag: [battesimo, fierezza, maestà, draghieri, vere-fiere, meccanica]
 status: "revisionato"
 ultima_modifica: "2026-10-15"
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Fierezza", "Cronistoria_versione_breve", "Inktober_2018", "Elenco_Draghieri_Conosciuti", "Risveglio_del_Drago"]
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Fierezza", "Cronistoria_versione_breve", "Inktober_2018", "draghieri-spiegazione", "Elenco_Draghieri_Conosciuti", "Risveglio_del_Drago"]
 ---
 
 # Il Battesimo del Fuoco

@@ -607,3 +607,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - La workflow `Delete merged pull request branches` (run `38722940799`) ha concluso `success` e il branch sorgente della PR #45 è stato verificato assente dall'elenco remoto dopo il run.
 - La routine schedulata quotidiana ripulirà i branch storici solo quando il ref coincide esattamente con l'head di una PR merged e non ci sono PR aperte. Il primo run schedulato resta da verificare.
 - `audit/ishvard-karsh-source-gap-2026-10-13` resta un branch orfano senza PR associata, con contenuto superato da `main`; non è coperto dalla pulizia automatica dei branch di PR merged.
+
+
+## 2026-10-15 — Recupero selettivo di tracciabilità dal branch Ishvard/Karsh
+
+- Confrontato il branch storico con `main`: le correzioni cronologiche e le cautele semantiche erano già state assorbite nelle PR successive, ma tre riferimenti diretti mancavano dai campi `fonti`.
+- Aggiunti `Risveglio_del_Drago` a `Fierezza e Maestà`, `draghieri-spiegazione` a `Il Battesimo del Fuoco` e `Elenco_Draghieri_Conosciuti` a `Le Ere del Kindsgard`. Nessun contenuto narrativo primario modificato.
