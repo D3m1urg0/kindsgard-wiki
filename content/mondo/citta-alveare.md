@@ -3,7 +3,7 @@ titolo: "Città-Alveare"
 categoria: "mondo"
 tag: [città-alveare, artiglio, geografia, covata, est]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-15"
 fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2024"]
 ---
 
@@ -15,7 +15,7 @@ fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2024"]
 
 ## Panoramica
 
-La Città-Alveare è il nome comune dell'**Artiglio Sepolto delle Catene Montuose Orientali**: la struttura difensiva più complessa e tecnologicamente avanzata del Kindsgard. Costruita dentro e attorno a un sistema di caverne naturali nelle Catene Montuose Orientali, è il dominio storico del Draghiere della [[Brood|Covata]] da tempi immemori.
+La Città-Alveare è il nome comune dell'**Artiglio Sepolto delle Catene Montuose Orientali**: una struttura difensiva complessa e tecnologicamente avanzata del Kindsgard. È costruita dentro e attorno a un sistema di caverne naturali nelle Catene Montuose Orientali. Le fonti disponibili la documentano come presidio della [[Brood|Covata]] al tempo di Bartholomew Brood, ma non attestano da quanto tempo esista né chi l'abbia fondata.
 
 ---
 
@@ -40,7 +40,7 @@ Bocche da fuoco su ogni apertura. Sistemi di leve e contrappesi per le porte pri
 
 ## Storia
 
-**Fondazione:** Costruita in tempi immemori dai Draghieri della Covata come presidio nell'est del Kindsgard. La sua posizione nelle Catene Montuose la rende difficile da raggiungere ma anche da rifornire.
+**Fondazione:** Le fonti disponibili non indicano la data né i fondatori originari. Il primo presidio attestato nel corpus è quello di Bartholomew Brood, XVI Draghiere della Covata, durante il racconto `Prevedibilità (covata)`. La sua posizione nelle Catene Montuose la rende difficile da raggiungere ma anche da rifornire.
 
 **Caduta durante il Primo Secolo del Draco:** [[Dominic Draco]] come Vera Fiera attaccò la struttura con piena conoscenza dei suoi punti deboli — solo la profonda conoscenza della struttura poteva portare alla disfatta. [[Bartholomew Brood]] morì durante o dopo l'attacco.
 
