@@ -76,7 +76,7 @@ Canzone dal punto di vista delle Vere Fiere. Narra la storia degli Umani come us
 
 ## Il Giorno del Bisogno
 
-Festività documentata nel racconto `Inktober 2019 #Ornament`. Gli Umani si radunano al tempio-rifugio di [[Axsar Aigokeros]] una volta all'anno per ricevere piccoli doni e soddisfare un desiderio minore — unica concessione controllata al desiderio, nel quadro di una dottrina che altrimenti lo reprime totalmente.
+Festività descritta nel racconto `Inktober 2019 #Ornament`. Nella scena gli Umani si radunano in piccoli gruppi al tempio-rifugio di [[Axsar Aigokeros]]; il Draghiere consente loro di fare un dono o soddisfare un piccolo desiderio in sicurezza, come eccezione controllata alla predica contro i desideri non essenziali. Il racconto colloca la scena durante la piena autunnale, ma non stabilisce esplicitamente la periodicità del Giorno del Bisogno; la piena è descritta come ricorrente ogni autunno.
 
 Il Draghiere usa l'occasione per rafforzare l'insegnamento: porta il corpo di una bambina morta per aver inseguito le luci nella foresta, ammonendo i presenti che il desiderio porta alla morte.
 
