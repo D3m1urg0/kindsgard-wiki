@@ -666,3 +666,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - In `content/fiere/fiere-stub.md`, sostituita la generalizzazione «ogni creatura è una Fiera» con una formulazione riferita alle specie non umane del Giardino, evitando di includere gli Umani nella definizione.
 - La classificazione Sensibili/Inerti è qualificata come parte della sintesi wiki non verificabile direttamente senza la guida D4 mancante. Non sono state assegnate classi a specie specifiche né modificate fonti originali.
+
+- Riconciliato il campo `fonti` di `content/fiere/fiere-stub.md` con le citazioni effettive: aggiunti `Canzoni_degli_Umani` e `Fierezza`.
