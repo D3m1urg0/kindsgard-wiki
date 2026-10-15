@@ -141,10 +141,15 @@ L’unica menzione trovata nel repository è `Una Missiva dall’Anello`: una be
 
 Queste sono scelte editoriali di titolo, non decisioni sul canone narrativo. Le fonti non vanno rinominate o eliminate finché la scelta non è confermata.
 
-### L11 — Riferimento sorgente non riconciliato: `Copia_di_I_Draghieri_del_kindsgard`
+### L11 — Riferimenti sorgente OOC non riconciliati
 
-Il frontmatter di `[[Cosmologia]]` cita `Copia_di_I_Draghieri_del_kindsgard`, ma nel tree corrente non esiste un file con questo nome e il riferimento non compare nel catalogo delle fonti. È disponibile `content/fonti/draghieri-spiegazione.md`, documento OOC sul tema, ma non è possibile dimostrare che coincida con il documento citato.
-- → **Chiarimento documentale:** se disponibile, recuperare il file originale o confermare a quale documento corrisponde il riferimento. Fino ad allora, non sostituire automaticamente la fonte nel frontmatter.
+Due identificatori richiedono ancora l'identificazione della fonte originale:
+
+- Il frontmatter di `[[Cosmologia]]` cita `Copia_di_I_Draghieri_del_kindsgard`, ma nel tree corrente non esiste un file con questo nome e il riferimento non compare nel catalogo delle fonti.
+- I frontmatter di `[[Draghieri]]`, `[[Vere Fiere]]` e `[[Fierezza e Maestà]]` citano `Draghieri_Vere_Fiere_del_Kindsgard`. Potrebbe riferirsi al percorso legacy mancante `content/fonti/draghieri-vere-fiere.md`, ma questa identità non è dimostrata.
+
+È disponibile `content/fonti/draghieri-spiegazione.md`, documento OOC pertinente, ma non ci sono prove sufficienti per sostituire con esso uno dei due riferimenti.
+- → **Chiarimento documentale:** se disponibili, recuperare i file originali o confermare a quale documento corrispondono i due identificatori. Fino ad allora, mantenerli distinti e non sostituire automaticamente i riferimenti nel frontmatter.
 
 ### L12 — Annali dell'Artiglio delle Sabbie
 `Inktober 2024 #Exotic` introduce una citazione attribuita agli **Annali dell'Artiglio delle Sabbie**. Il repository contiene invece un riferimento agli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V; il relativo file autonomo non è presente con il percorso catalogato. Non ci sono elementi sufficienti per trattare i due titoli come lo stesso documento.
