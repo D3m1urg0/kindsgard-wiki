@@ -3,13 +3,15 @@ titolo: "Vere Fiere"
 categoria: "fazioni"
 tag: [vere-fiere, fazione, maestà, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-10-15"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "L_Animale_Uomo", "Solitudine", "18___Misfit", "Inktober_2018", "draghieri-spiegazione", "Inktober_2019"]
 ---
 
 # Vere Fiere
 
 > *"Omnia praedae fieri Potest" — Tutto può diventare preda.*
+
+> **Nota di provenienza:** «Omnia praedae fieri Potest» è riportato nella sintesi wiki ma non è stato rintracciato nelle 29 fonti attualmente disponibili. La sua attestazione primaria resta da verificare; il riferimento legacy Draghieri/Vere Fiere non è reperibile.
 
 ---
 

@@ -475,3 +475,26 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Corretta la panoramica di Dominic Draco: «detentore di tutto il Fondamento del Kindsgard» confondeva il potere raccolto dai tredici vettori manifestatisi nel Kindsgard con il Fondamento di Vilegis/Lunaria. La voce ora distingue i due sistemi, coerentemente con la nota già presente più avanti nella stessa pagina e nel registro canonico.
 
 - Qualificata nella voce Dominic la composizione dei tredici Guardiani: le fonti attestano il gruppo e il legame con i vettori, ma non autorizzano a presentare come certa la distribuzione fra Draghieri, Vere Fiere e Fiere effettive. La composizione completa resta aperta in L17.
+
+
+## 2026-10-15 — Continuazione del confronto semantico
+
+- PR #31 integrata in `main` con merge commit `88df1c80929a391324a647d8a2f21737f5ca0b93`; il workflow `Validate Quartz wiki` sul HEAD della PR è riuscito. Non è stata restituita una run separata sul merge commit.
+- Avviata una tranche successiva in `audit/citation-crosscheck-2026-10-15`: la voce `Il Battesimo del Fuoco` ora descrive Ishvard/Karsh come eccezione documentata, senza dichiarare non ripetibile il meccanismo, e cita `Risveglio_del_Drago`. L4 resta aperta sulla causa e ripetibilità dell'evento.
+- La matrice `content/meta/audit-copertura-pagine.md` è aggiornata; prosegue il confronto puntuale delle affermazioni e delle citazioni, soprattutto per le intersezioni Vilegis/Lunaria.
+
+- In `Religioni e Spiritualità`, aggiunti i riferimenti diretti a `Canzoni_degli_Umani` e `Riflessioni`; rimossa un'inferenza psicologica non dimostrata sull'incompletezza del saggio di Wade; distinta la conoscenza cosmologica di Dominic dal possesso del Fondamento esterno.
+
+- In `Città-Alveare`, rimossi «in tempi immemori» e l'attribuzione della fondazione ai Draghieri della Covata: le fonti elencate attestano il presidio di Bartholomew, ma non data né fondatori originari. La lacuna resta esplicita invece di essere colmata per inferenza.
+
+- In `Città-Alveare`, corretta l'attribuzione dei tunnel allo Zaratan: `Inktober 2019 #Pattern` associa il profilo dei tunnel al carapace ma non afferma che la Fiera li abbia scavati. La formulazione ora conserva il dato e rimuove la causalità non attestata.
+
+- In `Città-Alveare`, rimosse la soglia non attestata «sciami di migliaia» e la frequenza assoluta «attacchi a ritmo costante». La voce conserva la funzione difensiva e gli attacchi ricorrenti documentati senza inventare misure o periodicità.
+
+- Registrata in `Fonti e Decisioni Canoniche` la lacuna di provenienza per `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest`: non rintracciati nelle 29 fonti attuali; possibile dipendenza da D4 o dal documento legacy Draghieri/Vere Fiere, non dimostrata. `Ab Necessitate Excusi` è invece attestato in Inktober 2018/2019.
+
+- Aggiunta una nota di provenienza in `Draghieri`, `Vere Fiere` e `Tradizioni, Canti e Motti`: `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest` restano motti riportati dalla sintesi wiki, ma la loro attestazione primaria non è stata rintracciata nel corpus corrente. Non sono stati rimossi né dichiarati non canonici.
+
+- In `Cronologia`, il rapporto 100:1 fra un anno di Lunaria e cento anni del Kindsgard è ora qualificato come dato presente nella sintesi ma non verificabile senza la Cronistoria OOC (D3), non reperita nel repository.
+
+- In `Geografia del Kindsgard`, la descrizione del Bordo è attribuita alla prospettiva collettiva in-world di `Ciò che sanno i Draghieri`, invece di essere presentata senza qualifiche come misura oggettiva della forza di Natura.

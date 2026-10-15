@@ -317,4 +317,34 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
   17. Nella stessa voce, qualificata come non verificata la composizione dei tredici Guardiani: il testo non li classifica più come gruppo certamente composto da Draghieri, Vere Fiere o Fiere effettive; la lista completa resta aperta in L17.
 - **Questioni che restano aperte dopo il confronto:** i testi D3/D4 e altri riferimenti legacy non reperiti; il tredicesimo Spettro storico; la mappa e i rapporti spaziali non esplicitati; i dettagli meccanici dell'eccezione in `Risveglio del Drago`; le identità degli Annali delle Sabbie/Artiglio di Fuoco; le Fiamme nel Kindsgard e il termine «Infiammati»; Seymour/Shai'Hulud; la lista dei tredici Guardiani; l'ambiguità «Salamandra» in `L'Esodo`; le discrepanze Sirius/Syrus e Adryanne IX/XII; le grafie Angeline e i titoli editoriali delle due fonti Fierezza. Le decisioni del proprietario sono già elencate in `content/meta/domande-aperte.md` e non vengono duplicate qui.
 - **Stato:** punto 1 (ricognizione repository/checkpoint) completato; punto 2 in avanzamento: inventario delle fonti e prima passata dei corpi sono documentati, ma la verifica puntuale di tutte le citazioni e la riconciliazione completa dei riferimenti legacy restano da chiudere.
-- **Prossimo passo:** controllare i diff delle correzioni, eseguire la validazione disponibile, integrare se i controlli passano; poi proseguire la verifica pagina-per-pagina delle citazioni e degli identificatori `fonti`.
+- **Esito della tranche:** PR #31 integrata in `main` con merge commit `88df1c80929a391324a647d8a2f21737f5ca0b93`. Il workflow `Validate Quartz wiki` sul suo HEAD `a6ed5dd403b2043bbcb28c74fad8d11cb4023e05` è terminato con successo (controllo wikilink e build Quartz); non è stata restituita una run separata sul merge commit. Il registro di copertura per file è `content/meta/audit-copertura-pagine.md`.
+- **Prossimo passo:** proseguire il confronto sistematico delle citazioni e delle eccezioni, mantenendo esplicite le lacune D3/D4 e i residui L4/L17.
+
+
+### Continuazione del confronto semantico — 2026-10-15
+
+- **HEAD di `main` dopo PR #31:** `88df1c80929a391324a647d8a2f21737f5ca0b93`. La PR #31 ha integrato le correzioni della prima passata, la matrice di copertura delle 31 pagine non fonte e gli aggiornamenti al registro delle decisioni. La validazione Quartz sul HEAD della PR è riuscita; nessuna run separata del merge commit è stata restituita.
+- **Nuova correzione in preparazione:** `content/sistemi/il-battesimo-del-fuoco.md` non presenta più Ishvard/Karsh come «unicum narrativo, non ripetibile». La fonte descrive un solo caso ma non ne spiega la ripetibilità; il testo ora lo tratta come eccezione documentata e rimanda a L4. Aggiunto `Risveglio_del_Drago` al campo `fonti`, perché la pagina usa direttamente il racconto.
+- **Registro aggiornato:** `content/meta/audit-copertura-pagine.md` annota la modifica e mantiene aperta la verifica del meccanismo. Nessuna fonte narrativa è stata modificata.
+- **Branch corrente:** `audit/citation-crosscheck-2026-10-15` (creato da `main` dopo PR #31); modifiche da integrare con PR separata dopo validazione.
+- **Prossimo passo:** continuare il controllo diretto dei corpi fonte rispetto alle pagine, in particolare geografia, cronologia, voci di personaggio e affermazioni relative alla connessione con Vilegis/Lunaria. Aggiornare la matrice per ogni rilievo verificato; non promuovere a canoniche le ipotesi che dipendono da D3/D4 mancanti.
+
+
+### Secondo passaggio di verifica delle citazioni — 2026-10-15
+
+- `content/cultura/religioni.md`: aggiunti `Canzoni_degli_Umani` e `Riflessioni` al campo `fonti`, perché il corpo li cita direttamente. Rimossa l'inferenza non dimostrata secondo cui l'incompletezza del saggio di Wade proverebbe una difficoltà intrinseca dei Draghieri. Riallineata la frase su Dominic: detiene il potere dei tredici vettori manifestatisi nel Kindsgard, non il Fondamento di Vilegis/Lunaria.
+- La matrice `content/meta/audit-copertura-pagine.md` è aggiornata per questa voce. Il confronto diretto delle citazioni prosegue; non si dichiara completata la verifica integrale della pagina.
+
+- `content/mondo/citta-alveare.md`: rimosse la datazione «in tempi immemori» e l'attribuzione della fondazione ai Draghieri della Covata, non sostenute dalle fonti elencate nella voce. La presenza della struttura e il presidio di Bartholomew Brood sono attestati da `Prevedibilità (covata)`; la data e i fondatori originari restano ignoti nel corpus disponibile.
+
+- `content/mondo/citta-alveare.md`: riallineata anche la descrizione delle gallerie a `Inktober 2019 #Pattern` e alla scheda Zaratan. La fonte associa la forma dei tunnel al carapace ma non dice che la Fiera li abbia scavati; rimossa l'attribuzione causale certa.
+
+- `content/mondo/citta-alveare.md`: qualificate anche due generalizzazioni non misurate: le difese sono predisposte a contrastare sciami, ma le fonti non fissano una soglia numerica di resistenza; gli attacchi sono ricorrenti nel corpus, ma non ne è stabilita una frequenza costante.
+
+- `content/meta/fonti.md`: registrato un rilievo di tracciabilità per i motti `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest`. La ricerca testuale non li ha rintracciati nelle 29 fonti presenti; la loro provenienza potrebbe dipendere da D4 o dal riferimento legacy Draghieri/Vere Fiere, ma ciò non è dimostrato. `Ab Necessitate Excusi` è invece attestato in Inktober 2018/2019. Non eliminare i motti né considerarli primariamente verificati finché la provenienza non è chiarita.
+
+- Per evitare che motti non rintracciati siano presentati come attestati da fonti primarie, aggiunta una nota di provenienza in `Draghieri`, `Vere Fiere` e `Tradizioni, Canti e Motti` per `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest`. Le formule restano riportate nella sintesi wiki, ma la fonte primaria non è stata trovata nelle 29 fonti disponibili; D4 e il riferimento legacy Draghieri/Vere Fiere restano non reperiti.
+
+- `content/storia/cronologia.md`: qualificato il rapporto temporale 100:1 fra Lunaria e Kindsgard. È presente nella sintesi wiki, ma non è verificabile direttamente perché la Cronistoria OOC (D3) non è reperibile; resta un dato riportato dalla sintesi, non una misura confermata dalle fonti accessibili.
+
+- `content/mondo/geografia.md`: attribuita esplicitamente alla prospettiva collettiva in-world di `Ciò che sanno i Draghieri` la descrizione del Bordo come area in cui quasi nulla cresce o vive e come rifugio originario degli Umani. Il testo fonte non è stato modificato.

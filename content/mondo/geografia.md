@@ -70,7 +70,7 @@ Le torri che compongono l'Anello di Fuoco. Strutture imponenti, costruite in pie
 
 ### Città-Alveare
 
-L'Artiglio Sepolto delle Catene Montuose Orientali, detto **Città-Alveare** — la struttura difensiva più complessa del Kindsgard orientale. Costruita dentro e attorno a un sistema di caverne naturali, con:
+L'Artiglio Sepolto delle Catene Montuose Orientali, detto **Città-Alveare** — la struttura difensiva più complessa del Kindsgard orientale. Sviluppata dentro e attorno a un sistema di caverne e gallerie, con:
 - L'**Occhio**: una vetrata semisferica al centro del versante esposto, postazione di comando
 - Un sistema di **1247 tubi di rame** che trasmettevano ordini in ogni settore
 - L'**Abisso**: la caverna principale interna, con muri tappezzati di bocche da fuoco
@@ -95,7 +95,7 @@ Cadute in abbandono durante la crisi. Riconquistate e ripopolate da [[Gertrude G
 
 ### Spiagge del Mare Esterno / Il Bordo
 
-I margini estremi del Giardino, le terre più lontane dalla Maestà. Qui la forza di Natura è così debole che quasi nulla cresce o vive. Fu il rifugio originario degli [[Umani]] prima che i Draghieri cominciassero a liberare territori interni.
+I margini estremi del Giardino, le terre più lontane dalla Maestà. Secondo la prospettiva collettiva dei Draghieri in *Ciò che sanno i Draghieri*, qui la forza di Natura è così debole che quasi nulla cresce o vive; la stessa fonte presenta queste spiagge come rifugio originario degli [[Umani]] prima che i Draghieri riconquistassero territori interni.
 
 ---
 
