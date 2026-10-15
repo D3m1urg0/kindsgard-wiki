@@ -668,3 +668,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - La classificazione Sensibili/Inerti è qualificata come parte della sintesi wiki non verificabile direttamente senza la guida D4 mancante. Non sono state assegnate classi a specie specifiche né modificate fonti originali.
 
 - Riconciliato il campo `fonti` di `content/fiere/fiere-stub.md` con le citazioni effettive: aggiunti `Canzoni_degli_Umani` e `Fierezza`.
+
+
+## 2026-10-15 — Coerenza redazionale in Religioni e Spiritualità
+
+- Risolta la contraddizione interna per cui `Religioni e Spiritualità` negava l'accessibilità della verità cosmologica a tutte le prospettive e subito dopo indicava Dominic Draco come eccezione. La formulazione distingue ora le prospettive ordinarie dall'eccezione documentata.
+- Nessuna fonte originale modificata; aggiornati matrice di copertura e checkpoint.
+
+- In `Religioni e Spiritualità`, la valutazione di Axsar come «teologo più lucido» è stata sostituita con una formulazione circoscritta alla testimonianza effettivamente presente in `Inktober 2019 #Ornament`.

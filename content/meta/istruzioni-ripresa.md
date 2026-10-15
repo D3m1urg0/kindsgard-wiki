@@ -503,3 +503,12 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - Nessuna fonte originale è stata modificata. La voce resta bozza e il conteggio dei 26 profili non viene alterato.
 
 - Riconciliato anche il frontmatter di `content/fiere/fiere-stub.md`: aggiunti `Canzoni_degli_Umani` e `Fierezza`, già citati direttamente nel testo per Manticora, Sfinge, Chimera, Viverna e Cockatrice.
+
+
+## Verifica semantica — Religioni e Spiritualità, 2026-10-15
+
+- Rilette `content/cultura/religioni.md`, `Riflessioni`, `L'Animale Uomo`, `Lamento di Wade` e `Fierezza: il Dio che è in noi`.
+- Corretto un conflitto interno di formulazione: il paragrafo dichiarava che la verità cosmologica non fosse accessibile a nessuna prospettiva, per poi indicare Dominic Draco come eccezione. Ora distingue le prospettive ordinarie di Umani, Draghieri e Vere Fiere dall'eccezione esplicitamente descritta.
+- Nessuna fonte originale è stata modificata; la correzione non aggiunge un nuovo fatto canonico.
+
+- Rimossa in `Religioni e Spiritualità` la valutazione comparativa non attestata secondo cui Axsar sarebbe il «teologo più lucido»; il testo descrive ora il ruolo documentato della sua testimonianza in `Inktober 2019 #Ornament` senza classificare i personaggi per lucidità.

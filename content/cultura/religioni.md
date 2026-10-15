@@ -50,7 +50,7 @@ Esistono figure religiose dedicate al culto di Bisogno — i **monaci** che abit
 
 I [[Draghieri]] non adorano Fierezza: la incarnano. La loro relazione con Fierezza non è devozionale ma strutturale — è ciò che sono, non ciò in cui credono. Wade Wyrm nel saggio "Fierezza: il Dio che è in noi" tenta di articolare questa relazione, ma il documento rimane incompiuto. Le fonti non permettono di stabilire se l'interruzione rifletta una difficoltà intrinseca del Draghiere a riflettere sulla propria natura o una semplice lacuna documentale.
 
-Il teologo più lucido tra i Draghieri è paradossalmente [[Axsar Aigokeros]], il cui approccio al tempio e agli Umani rivela una comprensione del sistema Bisogno/Espediente/Fierezza superiore alla media.
+La voce di [[Axsar Aigokeros]] è una delle testimonianze più esplicite disponibili sulla pratica religiosa degli Umani: il suo approccio al tempio e ai desideri essenziali è descritto in `Inktober 2019 #Ornament`. Definirlo «il più lucido» fra i Draghieri o attribuirgli una comprensione superiore alla media sarebbe un giudizio comparativo non dimostrato dal corpus.
 
 ---
 
@@ -72,7 +72,7 @@ Wendy critica esplicitamente il modo in cui gli Oltregiardini trattano la divini
 
 La contraddizione teologica centrale del Kindsgard è questa: gli Umani che invocano Bisogno, i Draghieri che servono Fierezza e le Vere Fiere che seguono Maestà credono, in generale, di adorare forze benigne o di obbedire a leggi giuste, senza conoscere lo scopo cosmologico complessivo: mantenere in vita Natura, mantenere l'equilibrio e impedire che il mondo si estingua. **Dominic Draco è l'eccezione documentata**: comprende il rischio dell'estinzione e sceglie consapevolmente di proteggere il Giardino.
 
-La verità cosmologica non è accessibile a nessuna di queste prospettive dall'interno. Solo [[Dominic Draco]] come Re Draco è descritto come eccezione consapevole del rischio d'estinzione e, dopo l'assorbimento dei tredici vettori manifestatisi nel Kindsgard, come portatore di una visione più ampia del sistema. Questo non equivale a detenere il Fondamento di Vilegis/Lunaria.
+La verità cosmologica non è accessibile alle prospettive ordinarie degli Umani, dei Draghieri e delle Vere Fiere dall'interno. [[Dominic Draco]] come Re Draco è l'eccezione descritta: comprende il rischio d'estinzione e, dopo l'assorbimento dei tredici vettori manifestatisi nel Kindsgard, dispone di una visione più ampia del sistema. Questo non equivale a detenere il Fondamento di Vilegis/Lunaria.
 
 ---
 
