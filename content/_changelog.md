@@ -613,3 +613,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Confrontato il branch storico con `main`: le correzioni cronologiche e le cautele semantiche erano già state assorbite nelle PR successive, ma tre riferimenti diretti mancavano dai campi `fonti`.
 - Aggiunti `Risveglio_del_Drago` a `Fierezza e Maestà`, `draghieri-spiegazione` a `Il Battesimo del Fuoco` e `Elenco_Draghieri_Conosciuti` a `Le Ere del Kindsgard`. Nessun contenuto narrativo primario modificato.
+
+
+## 2026-10-15 — Correzione semantica della Città-Alveare
+
+- Corretto il trasferimento del numero 1247: `Prevedibilità (covata)` conta le squadre in posizione, non i tubi. Rimosse dalla Città-Alveare e dalla Geografia l'affermazione di 1247 tubi e quella di un tubo numerato per ogni squadra; mantenuto il sistema di tubi di rame attestato dalle fonti.
+- Riallineata la nota sugli attacchi: `Inktober 2024 #Binoculars` descrive le ondate come susseguitesi a ritmo costante nei cinque anni dalla missione di ripopolamento, ma non ne quantifica la cadenza.
