@@ -295,6 +295,7 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 ### Seconda passata: confronto semantico delle pagine wiki — 2026-10-15
 
 - **Perimetro letto in questa passata:** i 29 file di contenuto non fonte delle categorie Cultura (2), Fazioni (3), Fiere (3), Mondo (5), Personaggi (12), Sistemi (2) e Storia (2), oltre a `content/index.md` e `content/_glossario.md`. La lettura diretta dei corpi di questi 31 file è completata per questa prima passata; non significa che ogni affermazione sia già stata verificata contro ogni fonte primaria.
+- **Registro dettagliato per pagina:** `[[Registro di copertura dell'audit]]` (`content/meta/audit-copertura-pagine.md`) elenca tutti i 31 file, distingue lettura, confronto diretto e verifica completa, e annota i residui noti.
 - **Inventario fonti:** il checkpoint precedente registra la lettura integrale in prima passata di 29/29 file in `content/fonti/`. In questo passaggio sono stati riaperti direttamente i testi pertinenti per le verifiche qui sotto; non si è ripetuta la lettura integrale di tutte le 29 fonti.
 - **Correzioni documentali preparate nel branch `audit/page-semantic-pass-2026-10-15`:**
   1. `content/mondo/cosmologia.md`: rimossa l'affermazione certa che Natura avrebbe deliberatamente voluto preservare gli Umani e che ciò l'avrebbe prosciugata; la causa viene ora indicata come non stabilita dalle fonti disponibili, distinguendo l'interpretazione in-world di Wendy dalla ricostruzione non reperibile D3.
