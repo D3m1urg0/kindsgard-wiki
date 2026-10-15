@@ -572,3 +572,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 ## 2026-10-15 — Merge PR #39
 
 - Integrata la PR #39 dopo esito positivo del workflow Quartz: `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest` sono qualificati nelle pagine Draghieri, Vere Fiere e Tradizioni come motti attribuiti dalla sintesi wiki, senza attestazione primaria verificata.
+
+
+## 2026-10-15 — Precisione sulla festività del Giorno del Bisogno
+
+- `Inktober 2019 #Ornament` descrive il raduno al tempio durante una piena autunnale e dice che la piena ricorre ogni autunno; non dichiara in modo esplicito la periodicità del Giorno del Bisogno stesso.
+- La pagina `Tradizioni` non presenta più la festività come annuale né gli Umani come destinatari di doni già ricevuti: il testo ora distingue il permesso di fare un dono/soddisfare un piccolo desiderio dalla cadenza non specificata della festività.

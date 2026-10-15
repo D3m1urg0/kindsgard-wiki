@@ -405,3 +405,8 @@ Nel confronto delle fonti Inktober la scheda definiva le Falenottere “insettif
 ## Verifica semantica — motti non attestati, 2026-10-15
 
 Il confronto fra `Tradizioni`, `Draghieri`, `Vere Fiere` e le fonti disponibili ha rilevato che `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest` erano presentati in forma assertiva nonostante non siano stati rintracciati nel corpus di 29 fonti. PR #39 è integrata con workflow Quartz `success`: i due motti sono qualificati come attribuzioni della sintesi wiki, senza promuoverli a fatti canonici; `Ab Necessitate Excusi` resta invece attestato in `Inktober 2019` come saluto a risposta identica.
+
+
+## Verifica semantica — Giorno del Bisogno, 2026-10-15
+
+Il confronto diretto con `Inktober 2019 #Ornament` ha rilevato che `Tradizioni` presentava come annuale la festività e diceva che gli Umani ricevevano piccoli doni. La fonte mostra il permesso di fare un dono o soddisfare un piccolo desiderio durante la scena, associata alla piena autunnale; la periodicità della festività non è esplicitamente attestata. La correzione è preparata nel branch `audit/day-of-need-source-precision-2026-10-15`.
