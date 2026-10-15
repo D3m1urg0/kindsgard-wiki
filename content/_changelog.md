@@ -556,3 +556,8 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 ## 2026-10-15 — Qualificazione morfologica delle Falenottere
 
 - La scheda chiamava le Falenottere “insettiformi”, ma `Inktober 2019 #Frail` descrive Fiere insettiformi in generale senza identificare esplicitamente la specie. La descrizione della Fiera alata minuta, della luce e del pungiglione resta sostenuta da `#Enchanted` e `Inktober 2018 #Drooling`; la morfologia insettiforme è stata rimossa come inferenza non confermata.
+
+
+## 2026-10-15 — Merge PR #38
+
+- Integrata la PR #38 dopo esito positivo del workflow Quartz: la scheda delle Falenottere non le definisce più “insettiformi” senza una fonte specifica; mantiene i tratti attestati in `Inktober 2018 #Drooling` e `Inktober 2019 #Enchanted`.
