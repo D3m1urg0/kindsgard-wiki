@@ -5,7 +5,7 @@ tag: [geografia, luoghi, artigli, anello, maestà, mare]
 status: "bozza"
 ultima_modifica: "2026-10-15"
 aliases: ["Spiagge del Mare Esterno","Valle dei Fulmini","Fiume Bianco"]
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Inktober_2018", "Inktober_2019", "Inktober_2024", "Cronistoria_versione_breve", "cio-che-sanno-i-draghieri"]
 ---
 
 # Geografia del Kindsgard
