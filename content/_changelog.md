@@ -584,3 +584,12 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - La fonte parla di “sei vettori in tredici affondi” e del Fondamento che fluisce verso il Giardino, ma non identifica i sei vettori né li equipara esplicitamente ai sette vettori originari del Kindsgard o ai tredici Guardiani successivi.
 - Qualificata la precedente interpretazione wiki come provvisoria e aggiunta L21 alle decisioni documentali da chiarire; nessuna corrispondenza è stata inventata. La parola «espedienti» non è stata trattata come attestazione certa della forgiatura dell'arma Espediente.
+
+
+## 2026-10-15 — Checkpoint dopo PR #42 e ricognizione branch
+
+- Integrata la PR #42 con squash dopo aver verificato l'esito `success` della workflow `Validate Quartz wiki` sul commit di testa.
+- La pagina `Deflecte Cantum` e i registri ora qualificano l'identificazione dei “sei vettori” come interpretazione non confermata; L21 resta aperta.
+- Confrontati con `main` i branch `audit/ishvard-karsh-source-gap-2026-10-13` e `audit/cosmology-boundary-2026-10-15`: entrambi contengono formulazioni superate e non vanno integrati così come sono. Le cautele sostanziali risultano già presenti in `main`.
+- La pulizia dei branch resta un'attività distinta: `delete_branch_on_merge=false` e la connessione GitHub disponibile non espone un'azione di cancellazione dei branch. Nessuna cancellazione viene dichiarata eseguita.
+- L'audit complessivo non è concluso: restano da verificare i branch non associati a PR, la copertura semantica delle pagine e le lacune che dipendono dal recupero di D3/D4 e di altre fonti non reperite.
