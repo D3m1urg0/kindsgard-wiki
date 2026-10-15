@@ -430,4 +430,4 @@ Il confronto fra `Deflecte Cantum`, `Tradizioni` e `Cosmologia` ha rilevato un'e
 ## Manutenzione branch dopo merge — 2026-10-15
 
 - La cancellazione automatica nativa di GitHub risulta disattivata e la connessione corrente non espone una mutazione per eliminare refs. Per applicare la regola richiesta alle PR future, è stata preparata la workflow `.github/workflows/delete-merged-branch.yml`: cancella il branch head solo dopo una PR merged, solo se appartiene allo stesso repository e non è il branch predefinito.
-- La workflow non rimuove retroattivamente i branch già presenti. Quelli storici restano da eliminare tramite un'interfaccia o una connessione con permesso di cancellazione; non dichiarare eseguita la pulizia finché non è verificata.
+- La workflow è stata estesa con una scansione giornaliera dei branch associati a PR merged: elimina solo se il branch esiste ancora allo stesso SHA della PR merged, non ha PR aperte, appartiene al repository e non è il branch predefinito. La pulizia arretrata resta da verificare dal primo run schedulato.
