@@ -18,7 +18,7 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "D4-guida-draghiere"
 
 ## Nota sul Tempo
 
-Il tempo sul Kindsgard non scorre linearmente rispetto a [[Vilegis/Lunaria]]. L'energia condensata che si propaga attraverso il mare astrale ha causato dilatazioni significative: in certi periodi, un anno di Lunaria corrisponde a cento anni del Kindsgard. Questo rende difficile qualsiasi corrispondenza cronologica precisa tra i due mondi.
+Il tempo sul Kindsgard è descritto come non lineare rispetto a [[Vilegis/Lunaria]]. La sintesi wiki riporta che, in certi periodi, un anno di Lunaria corrisponderebbe a cento anni del Kindsgard; la proporzione 100:1 non è però verificabile direttamente nel corpus disponibile perché la Cronistoria OOC (D3) non è reperibile. Va quindi trattata come dato riportato dalla ricostruzione, non come misura confermata. In ogni caso, le corrispondenze cronologiche precise fra i due mondi restano incerte.
 
 ---
 
