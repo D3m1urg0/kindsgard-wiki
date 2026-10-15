@@ -3,7 +3,7 @@ titolo: "Geografia del Kindsgard"
 categoria: "mondo"
 tag: [geografia, luoghi, artigli, anello, maestà, mare]
 status: "bozza"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-15"
 aliases: ["Spiagge del Mare Esterno","Valle dei Fulmini","Fiume Bianco"]
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
 ---
@@ -22,7 +22,7 @@ Il Kindsgard è un mondo-corpo: la sua divinità ([[Natura]]/[[Maestà]]) ne è 
 - Attorno alla Maestà si estende il **Giardino** — territorio selvaggio, incontrollato, popolato dalle [[Fiere]]
 - A distanza dalla Maestà si trova l'**[[Anello di Fuoco]]** — il perimetro difensivo dei [[Draghieri]]
 - Oltre l'Anello si estendono i **territori Umani** — liberati e messi in sicurezza nei secoli
-- Ai margini estremi del mondo si trovano le **[[mondo/geografia#spiagge-del-mare-esterno-il-bordo|Spiagge del Mare Esterno]]** — le terre più lontane dalla Maestà, dove la forza di Natura è più debole
+- Ai margini estremi del mondo si trovano le **[[Geografia del Kindsgard#spiagge-del-mare-esterno-il-bordo|Spiagge del Mare Esterno]]** — le terre più lontane dalla Maestà, dove la forza di Natura è più debole
 
 ---
 
