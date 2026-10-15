@@ -621,3 +621,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Riallineata la nota sugli attacchi: `Inktober 2024 #Binoculars` descrive le ondate come susseguitesi a ritmo costante nei cinque anni dalla missione di ripopolamento, ma non ne quantifica la cadenza.
 
 - Precisata anche la nota sulla fondazione: `Inktober 2019 #Build` attribuisce il dominio dell'Artiglio Sepolto alla Covata «da tempi immemori», ma non data la fondazione della struttura né ne identifica i fondatori.
+
+
+## 2026-10-15 — Pulizia arretrata dei branch superseded
+
+- La workflow elimina ora i branch di PR merged sia dopo un merge sia nel run giornaliero, con controllo dello SHA esatto e assenza di PR aperte.
+- Inserita una allowlist limitata ai branch delle PR #12, #14, #34 e #41 chiuse come superseded, al branch orfano Ishvard/Karsh dopo il recupero selettivo in PR #47 e al branch di checkpoint già contenuto nella storia di `main`. Ogni voce richiede ancora lo SHA esatto verificato e nessuna PR aperta; non è una regola generale per cancellare qualunque branch chiuso.
+- La verifica effettiva della pulizia arretrata avverrà al prossimo merge con la nuova versione della workflow oppure al run schedulato.

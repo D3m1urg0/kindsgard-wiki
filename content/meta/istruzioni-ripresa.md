@@ -451,3 +451,10 @@ Il branch `audit/ishvard-karsh-source-gap-2026-10-13` è stato confrontato file 
 Il confronto diretto con `Prevedibilità (covata)` mostra che Bartholomew conta le squadre in posizione numerandole da 1 a 1247; la fonte descrive tubi di rame ma non dice che siano 1247 né che ogni squadra abbia un tubo dedicato. Corrette `Città-Alveare` e la sintesi in `Geografia`. Il controllo di `Inktober 2024 #Binoculars` mostra inoltre che le ondate di Fiere sono descritte come susseguitesi a ritmo costante nei cinque anni dalla missione di ripopolamento: mantenuta questa affermazione circoscritta al periodo narrato, senza inventare una cadenza numerica.
 
 - Nota sulla fondazione della Città-Alveare: `Inktober 2019 #Build` dice che l'Artiglio Sepolto è il dominio della Covata «da tempi immemori», ma non identifica la data o i fondatori della struttura. La sintesi distingue ora la durata del dominio dalla datazione dell'edificio.
+
+
+## Pulizia dei branch superseded — 2026-10-15
+
+- La workflow di pulizia è stata estesa per eseguire la scansione sia dopo ogni merge sia su pianificazione giornaliera. Per ogni branch di PR merged elimina solo se il ref coincide esattamente con l'head della PR e non ci sono PR aperte.
+- Aggiunta una allowlist one-shot, con SHA attesi e controllo delle PR aperte, per i branch già verificati come superseded/orfani: PR #12 (`audit/source-inventory-and-baptism-consistency`), PR #14 (`audit/coerenza-battesimo-pagine-potere`), PR #34 (`audit/ishvard-karsh-chronology-reconcile-2026-10-15`), PR #41 (`audit/deflecte-cantum-vectors-2026-10-15`), il branch orfano Ishvard/Karsh (dopo recupero selettivo dei riferimenti in PR #47) e il branch di checkpoint `maintenance/auto-delete-merged-pr-branches-2026-10-15` già raggiunto dalla storia di `main`.
+- La cancellazione è vincolata allo SHA esaminato; se un branch è avanzato o ha una PR aperta, viene conservato. La prima esecuzione su un successivo merge va verificata prima di considerare la pulizia arretrata completata.
