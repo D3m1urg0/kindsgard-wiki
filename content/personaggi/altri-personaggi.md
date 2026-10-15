@@ -5,7 +5,7 @@ tag: [personaggi, stub, minori]
 status: "bozza"
 ultima_modifica: "2026-10-15"
 aliases: ["Axsar Aigokeros","Hycaro Hydra","Adalind Atrax","Razvan Roc","Gertrude Gorgon","Cornelius Cockatrix","Ember Everastes","Laerius Loch","Adryanne Achenius","Sef Sycamore","Angeline Aconitum","Lhars Leopterix"]
-fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Elenco_Draghieri_Conosciuti", "Prevedibilità__covata_"]
+fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Fierezza", "Elenco_Draghieri_Conosciuti", "Prevedibilità__covata_"]
 ---
 
 # Altri Personaggi
