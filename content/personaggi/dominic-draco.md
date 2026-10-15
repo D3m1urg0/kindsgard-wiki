@@ -16,7 +16,7 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artigli
 
 ## Panoramica
 
-Dominic Draco è il personaggio più centrale nella storia del [[Kindsgard]]: Primo [[Draghieri|Draghiere]], fondatore dell'[[Anello di Fuoco]], poi trasformato in [[Vere Fiere|Vera Fiera]] dalla [[Maestà]], poi ancora **Re Draco, Unico Guardiano** — entità unica che non appartiene più a nessuna delle due fazioni, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. Questo potere è collegato al [[Fondamento]], ma non equivale a possedere o assorbire il Fondamento di Vilegis/Lunaria.
+Dominic Draco è il personaggio più centrale nella storia del [[Kindsgard]]: Primo [[Draghieri|Draghiere]], fondatore dell'[[Anello di Fuoco]], poi trasformato in [[Vere Fiere|Vera Fiera]] dalla [[Maestà]], poi ancora **Re Draco, Unico Guardiano** — entità unica che non appartiene più a nessuna delle due fazioni, detentrice del potere raccolto dai tredici Guardiani. `Inktober 2019 #Legend` li descrive come tredici scintille di potere incarnate fra Draghieri, Fiere e Vere Fiere. La loro identificazione precisa con i «vettori» e con il Fondamento è un'interpretazione della ricostruzione wiki, non un'equivalenza dichiarata esplicitamente dalla canzone; in ogni caso non equivale a possedere o assorbire il Fondamento di Vilegis/Lunaria.
 
 La sua storia attraversa tutte le ere del Kindsgard ed è il filo che le connette.
 
@@ -62,9 +62,9 @@ Nel racconto `Solitudine`, la Vera Viverna lo descrive come capace di "pietà" �
 
 ## L'Ascesa a Re Draco
 
-Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi, Dominic la usò per uccidere i **13 Guardiani del Kindsgard**, individui collegati ai tredici vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. La composizione completa del gruppo e l'identità di tutti i Guardiani non sono ancora ricostruite dalle fonti disponibili (vedi L17); non è quindi confermato che appartenessero tutti alle categorie di Draghieri, Vere Fiere o Fiere effettive. Dominic ne assorbì i vettori uno per uno.
+Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi, Dominic la usò per uccidere i **13 Guardiani del Kindsgard**. `Inktober 2019 #Legend` attesta che erano incarnati fra Draghieri, Fiere e Vere Fiere; la composizione completa e l'identità di tutti i Guardiani restano aperte (L17). La fonte parla di tredici scintille di potere raccolte dall'arma. La loro identificazione puntuale con i vettori citati nella canzone e con il Fondamento è una lettura della ricostruzione wiki, non un'equivalenza esplicitata dal testo. Dominic ne assorbì il potere uno per uno.
 
-Con l'assorbimento del tredicesimo vettore, Dominic diventò **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard e collegati al Fondamento — e quindi di [[Fierezza e Maestà]] insieme. Questo non equivale a identificare il Fondamento di Vilegis/Lunaria con la cosmologia originaria del Kindsgard.
+Con l'assorbimento del tredicesimo potere, Dominic diventò **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice del potere raccolto dai tredici Guardiani descritti in `Inktober 2019 #Legend`. La lettura secondo cui questo potere coincide con i vettori legati al Fondamento resta interpretativa; non equivale a identificare il Fondamento di Vilegis/Lunaria con la cosmologia originaria del Kindsgard.
 
 ---
 
