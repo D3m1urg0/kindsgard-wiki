@@ -358,4 +358,4 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - **Branch corrente:** `audit/cosmology-boundary-2026-10-15`, creato da `main` dopo il merge della PR #32.
 - **Prossimo passo:** validare questa tranche, poi proseguire il controllo delle affermazioni cosmologiche e delle intersezioni esplicite; mantenere aperte le questioni che dipendono da D3/D4.
 
-- Estesa la stessa cautela a `content/storia/ere.md`: il testo non definisce più il cataclisma del Kindsgard come «lo stesso evento» chiamato Rovina altrove, ma come parallelismo interpretativo in attesa di D3/D4. La matrice di copertura è aggiornata.
+- Estesa la stessa cautela a `content/storia/ere.md`: il testo non assume più che il parallelismo con la Rovina autorizzi a importare nel Kindsgard altri elementi della cosmologia di Vilegis/Lunaria; la fonte breve chiama il periodo «Era della Rovina» e attesta un cataclisma con effetti altrove, mentre D3/D4 servirebbero a chiarire ulteriori dettagli. La matrice di copertura è aggiornata.
