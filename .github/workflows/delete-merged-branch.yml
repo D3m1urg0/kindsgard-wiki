@@ -60,7 +60,7 @@ jobs:
               if [[ -z "${current_sha}" || "${current_sha}" != "${expected_sha}" ]]; then
                 continue
               fi
-              open_prs="$(gh api "repos/${REPOSITORY}/pulls" -f state=open -f "head=${REPOSITORY}:${branch}" -f per_page=100 --jq 'length')"
+              open_prs="$(gh api --method GET "repos/${REPOSITORY}/pulls" -f state=open -f "head=${REPOSITORY}:${branch}" -f per_page=100 --jq 'length')"
               if [[ "${open_prs}" != "0" ]]; then
                 continue
               fi
@@ -82,7 +82,7 @@ jobs:
             if [[ -z "${current_sha}" || "${current_sha}" != "${expected_sha}" ]]; then
               continue
             fi
-            open_prs="$(gh api "repos/${REPOSITORY}/pulls" -f state=open -f "head=${REPOSITORY}:${branch}" -f per_page=100 --jq 'length')"
+            open_prs="$(gh api --method GET "repos/${REPOSITORY}/pulls" -f state=open -f "head=${REPOSITORY}:${branch}" -f per_page=100 --jq 'length')"
             if [[ "${open_prs}" != "0" ]]; then
               continue
             fi
