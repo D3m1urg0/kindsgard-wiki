@@ -628,3 +628,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - La workflow elimina ora i branch di PR merged sia dopo un merge sia nel run giornaliero, con controllo dello SHA esatto e assenza di PR aperte.
 - Inserita una allowlist limitata ai branch delle PR #12, #14, #34 e #41 chiuse come superseded, al branch orfano Ishvard/Karsh dopo il recupero selettivo in PR #47 e al branch di checkpoint già contenuto nella storia di `main`. Ogni voce richiede ancora lo SHA esatto verificato e nessuna PR aperta; non è una regola generale per cancellare qualunque branch chiuso.
 - La verifica effettiva della pulizia arretrata avverrà al prossimo merge con la nuova versione della workflow oppure al run schedulato.
+
+
+## 2026-10-15 — Correzione del pruning e qualificazione logistica
+
+- Il run `38724168648` della nuova workflow ha fallito nella scansione dei branch per una query alle PR aperte formulata con `gh api -f` senza `--method GET`; il job di cancellazione diretta del branch corrente è riuscito. Corretto il metodo della query e lasciata aperta la verifica del pruning al prossimo merge.
+- In `Città-Alveare`, la difficoltà di accesso e rifornimento dovuta alla posizione montuosa è ora esplicitamente una deduzione logistica, non un dettaglio attestato da fonte.
