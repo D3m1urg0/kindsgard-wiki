@@ -15,7 +15,7 @@ fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2024"]
 
 ## Panoramica
 
-La Città-Alveare è il nome comune dell'**Artiglio Sepolto delle Catene Montuose Orientali**: una struttura difensiva complessa e tecnologicamente avanzata del Kindsgard. È costruita dentro e attorno a un sistema di caverne naturali nelle Catene Montuose Orientali. Le fonti disponibili la documentano come presidio della [[Brood|Covata]] al tempo di Bartholomew Brood, ma non attestano da quanto tempo esista né chi l'abbia fondata.
+La Città-Alveare è il nome comune dell'**Artiglio Sepolto delle Catene Montuose Orientali**: una struttura difensiva complessa e tecnologicamente avanzata del Kindsgard. Si sviluppa dentro e attorno a un sistema di caverne e gallerie nelle Catene Montuose Orientali. Le fonti disponibili la documentano come presidio della [[Brood|Covata]] al tempo di Bartholomew Brood, ma non attestano da quanto tempo esista né chi l'abbia fondata.
 
 ---
 
