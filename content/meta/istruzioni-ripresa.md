@@ -357,3 +357,5 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - Nessuna fonte narrativa originale è stata modificata. La distinzione segue il mandato di non fondere il canone originario Kindsgard con Vilegis/Lunaria senza una fonte primaria verificabile.
 - **Branch corrente:** `audit/cosmology-boundary-2026-10-15`, creato da `main` dopo il merge della PR #32.
 - **Prossimo passo:** validare questa tranche, poi proseguire il controllo delle affermazioni cosmologiche e delle intersezioni esplicite; mantenere aperte le questioni che dipendono da D3/D4.
+
+- Estesa la stessa cautela a `content/storia/ere.md`: il testo non definisce più il cataclisma del Kindsgard come «lo stesso evento» chiamato Rovina altrove, ma come parallelismo interpretativo in attesa di D3/D4. La matrice di copertura è aggiornata.
