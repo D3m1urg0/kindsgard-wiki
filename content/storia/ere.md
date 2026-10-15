@@ -3,9 +3,9 @@ titolo: "Le Ere del Kindsgard"
 categoria: "storia"
 tag: [storia, ere, cronologia, armonia, conflitto, rivalsa, dominio]
 status: "revisionato"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-10-15"
 aliases: ["Era di Armonia"]
-fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "D4-guida-draghiere", "Inktober_2018", "Inktober_2019", "draghieri-spiegazione"]
+fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "D4-guida-draghiere", "Inktober_2018", "Inktober_2019", "draghieri-spiegazione", "La_natura_di_Natura"]
 ---
 
 # Le Ere del Kindsgard
@@ -49,7 +49,7 @@ Da questa devastazione nacquero nuove specie: non più le docili creature dell'E
 
 Le creature dell'Era di Armonia, inadatte al nuovo ordine, tornarono sul Kindsgard. Braccate e incapaci di difendersi, si rifugiarono ai margini estremi del Giardino, sulle spiagge del [[Mare Esterno]], dove la forza di Natura era più debole. Lì si chiamarono **Umani**.
 
-Disperate e senza futuro, queste creature riconobbero nel [[Bisogno]] il tema portante della propria esistenza e lo eressero a baluardo. Dal Bisogno nacque [[Espediente]], e i due principi si dimostrarono in qualche modo benevoli verso gli Umani.
+Disperate e senza futuro, queste creature riconobbero nel [[Bisogno]] il tema portante della propria esistenza e lo eressero a baluardo. La *Cronistoria (versione breve)* racconta, come memoria mitica degli Umani, che Bisogno nacque dalle loro preghiere e con lui prese vita [[Espediente]]. Questa è la credenza in-world, non la ricostruzione cosmologica: *La natura di Natura* afferma esplicitamente che Bisogno ed Espediente preesistevano agli Umani ed erano indifferenti a loro. Vedi [[Cosmologia]] e [[Fonti e Decisioni Canoniche]].
 
 *La natura Umana fu il Bisogno.*
 

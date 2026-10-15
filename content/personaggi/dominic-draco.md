@@ -3,9 +3,9 @@ titolo: "Dominic Draco"
 categoria: "personaggi"
 tag: [dominic-draco, draghieri, vere-fiere, re-draco, unico-guardiano, protagonista]
 status: "revisionato"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-10-15"
 aliases: ["Re Draco", "Unico Guardiano", "Re Draco, Unico Guardiano"]
-fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artiglio_di_Fuoco", "Solitudine", "18___Misfit", "Risveglio_del_Drago", "Inktober_2019", "Deflecte_Cantum", "L_Animale_Uomo", "draghieri-spiegazione"]
+fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artiglio_di_Fuoco", "Solitudine", "18___Misfit", "Risveglio_del_Drago", "Inktober_2019", "Deflecte_Cantum", "L_Animale_Uomo", "draghieri-spiegazione", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Dominic Draco
@@ -16,7 +16,7 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artigli
 
 ## Panoramica
 
-Dominic Draco è il personaggio più centrale nella storia del [[Kindsgard]]: Primo [[Draghieri|Draghiere]], fondatore dell'[[Anello di Fuoco]], poi trasformato in [[Vere Fiere|Vera Fiera]] dalla [[Maestà]], poi ancora **Re Draco, Unico Guardiano** — entità unica che non appartiene più a nessuna delle due fazioni, detentrice di tutto il [[Fondamento]] del Kindsgard.
+Dominic Draco è il personaggio più centrale nella storia del [[Kindsgard]]: Primo [[Draghieri|Draghiere]], fondatore dell'[[Anello di Fuoco]], poi trasformato in [[Vere Fiere|Vera Fiera]] dalla [[Maestà]], poi ancora **Re Draco, Unico Guardiano** — entità unica che non appartiene più a nessuna delle due fazioni, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. Questo potere è collegato al [[Fondamento]], ma non equivale a possedere o assorbire il Fondamento di Vilegis/Lunaria.
 
 La sua storia attraversa tutte le ere del Kindsgard ed è il filo che le connette.
 
@@ -62,7 +62,7 @@ Nel racconto `Solitudine`, la Vera Viverna lo descrive come capace di "pietà" �
 
 ## L'Ascesa a Re Draco
 
-Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi, Dominic la usò per uccidere i **13 Guardiani del Kindsgard** — individui (Draghieri, Vere Fiere o Fiere effettive) che, dopo la connessione con Vilegis/Lunaria, incarnavano inconsapevolmente i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento — assorbendone i vettori uno per uno.
+Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi, Dominic la usò per uccidere i **13 Guardiani del Kindsgard**, individui collegati ai tredici vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria. La composizione completa del gruppo e l'identità di tutti i Guardiani non sono ancora ricostruite dalle fonti disponibili (vedi L17); non è quindi confermato che appartenessero tutti alle categorie di Draghieri, Vere Fiere o Fiere effettive. Dominic ne assorbì i vettori uno per uno.
 
 Con l'assorbimento del tredicesimo vettore, Dominic diventò **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard e collegati al Fondamento — e quindi di [[Fierezza e Maestà]] insieme. Questo non equivale a identificare il Fondamento di Vilegis/Lunaria con la cosmologia originaria del Kindsgard.
 

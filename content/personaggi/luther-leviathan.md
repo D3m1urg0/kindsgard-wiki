@@ -3,8 +3,8 @@ titolo: "Luther Leviathan"
 categoria: "personaggi"
 tag: [luther-leviathan, draghieri, leviatano, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-12"
-fonti: ["Inktober_2018", "L_ultima_notte_all_ombra_dell_Anello", "Onda_bianca"]
+ultima_modifica: "2026-10-15"
+fonti: ["Inktober_2018", "L_ultima_notte_all_ombra_dell_Anello", "Onda_bianca", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Luther Leviathan
@@ -21,7 +21,7 @@ Luther Leviathan è il **XVIII Draghiere del Leviatano** del Kindsgard. Opera pr
 
 ## Identità e Istinto
 
-Il Leviatano è la grande Fiera delle profondità marine: enorme, silenziosa, letale. Il suo potere distintivo è il **Canto** — un'emissione sonora che genera onde di energia devastanti, capaci di uccidere le Fiere marine e alterare il corso delle acque.
+Il Leviatano è una Fiera marina che si muove nelle profondità del Mare Interno. Il suo potere distintivo è il **Canto**, un'emissione sonora. In `Inktober 2018 #Whale`, il Canto di un Leviatano genera un'onda che distrugge un altro esemplare e scaraventa la scialuppa a circa venti metri; le fonti disponibili non stabiliscono che ogni Canto uccida altre Fiere marine o alteri in generale il corso delle acque.
 
 L'Istinto di Luther è quello del predatore delle profondità: pazienza, precisione, capacità di operare in ambienti ostili dove nessun altro potrebbe sopravvivere. Non guida gli Umani con la parola ma con la posizione: è sempre dove deve essere, fa sempre la cosa che deve essere fatta, senza spiegazioni superflue.
 

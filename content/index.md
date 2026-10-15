@@ -3,11 +3,11 @@ titolo: "Wiki del Kindsgard"
 categoria: "meta"
 tag: [index, panoramica]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-10-15"
 ---
 
 # Wiki del Kindsgard
-*Giardino delle Specie — Archivio Canonico per Battle for Vilegis*
+*Giardino delle Specie — Archivio del canone Kindsgard, con intersezioni Vilegis/Lunaria tenute distinte*
 
 > Il Kindsgard è un mondo selvaggio governato da una divinità creatrice impazzita chiamata [[Natura]]. È il teatro di una guerra millenaria tra i [[Draghieri]] — eroi infusi del potere delle Fiere, vincolati alla protezione degli Umani — e le [[Vere Fiere]], loro nemesi fedeli alla legge del più forte. Al centro di tutto, un vulcano grande quanto il mondo: la [[Maestà]].
 
@@ -33,7 +33,7 @@ Per ricaricare il contesto in una nuova sessione di lavoro, caricare sempre:
 
 ### Il Mondo
 - [[Cosmologia]] — Natura, Bisogno, Espediente, Fondamento, Spettri
-- [[Geografia]] — luoghi, regioni, strutture
+- [[Geografia del Kindsgard]] — luoghi, regioni, strutture
 
 ### Cultura
 - [[Religioni e Spiritualità]] — religione, Bisogno e prospettive dei Draghieri e delle Vere Fiere

@@ -3,7 +3,7 @@ titolo: "Fonti e Decisioni Canoniche"
 categoria: "meta"
 tag: [meta, fonti, canonizzazione, sessioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-10-15"
 ---
 
 # Fonti e Decisioni Canoniche
@@ -25,6 +25,8 @@ ultima_modifica: "2026-10-13"
 | `content/fonti/cio-che-sanno-i-draghieri.md` | Verità parziale (livello personaggio) | Prospettiva in-world, non cosmologica |
 | `content/fonti/cronistoria-versione-breve.md` | Cronistoria in-world (versione divulgativa) | **Canonico** |
 | `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa; identificatore di riferimento adottato nel catalogo e nei campi `fonti`: `draghieri-spiegazione` (il frontmatter del file non espone un campo `id`). È distinto dai riferimenti D3/D4 mancanti e non li sostituisce. | **Canonico** |
+
+**Identificatore di riferimento adottato:** `cio-che-sanno-i-draghieri` → `content/fonti/cio-che-sanno-i-draghieri.md`. È un ID operativo usato nel campo `fonti` della voce `Anello di Fuoco` perché la fonte sostiene direttamente la formulazione sul luogo scelto da Draco; non è una dichiarazione sul nome del file originale.
 
 ### Narrativa In-World
 
@@ -122,6 +124,11 @@ Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cit
 **C8 — Varianti del nome Brienne/Brianne**
 - La forma canonica è **Brienne Brood**, sostenuta da `Elenco Draghieri`, dalla voce personaggio e dalla maggior parte delle occorrenze in `Inktober 2018/2019/2024`.
 - `Inktober 2019 #Build` e `Inktober 2024 #Binoculars` contengono alcune occorrenze di **Brianne**; non emerge un secondo personaggio. Le fonti sono mantenute inalterate e le voci sintetiche usano Brienne. `Inktober 2019 #Husky` usa inoltre «Adryanne Achenium», mentre `#Build`, `Elenco Draghieri` e le voci wiki usano «Adryanne Achenius»; la forma sintetica adottata resta Achenius. La numerazione resta invece discordante: `#Build` dice IX, mentre `#Husky` ed `Elenco Draghieri` dicono XII; la questione è registrata come L20 e non è normalizzata automaticamente.
+
+**C9 — Bruciati come seme narrativo delle Fiamme**
+- **Decisione registrata:** i Bruciati sono il seme narrativo della fazione delle Fiamme.
+- Questa decisione non conferma che una fazione organizzata delle Fiamme esista nel Kindsgard, né che ogni Bruciato ne faccia parte. Le meccaniche e la cronologia delle Fiamme provenienti da Vilegis/Lunaria restano fuori dal canone Kindsgard finché non confermate separatamente.
+- Evidenza nel corpus: `Inktober 2018 #Scorched` attesta i Bruciati; il collegamento Bruciati → Fiamme è una decisione editoriale confermata nelle sessioni di lavoro, non una citazione autonoma delle fonti narrative.
 
 ### 🟠 Duplicazioni Risolte
 

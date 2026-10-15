@@ -3,8 +3,8 @@ titolo: "Draghieri"
 categoria: "fazioni"
 tag: [draghieri, fazione, fierezza, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2026-10-13"
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuoco", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi", "draghieri-spiegazione", "Inktober_2019"]
+ultima_modifica: "2026-10-15"
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuoco", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi", "draghieri-spiegazione", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Draghieri
@@ -27,7 +27,7 @@ Ogni Draghiere è stato in passato un Umano che ha reagito con inaspettata forza
 
 I Draghieri non formano una gerarchia rigida né un ordine formale: si riconoscono tra loro per la divisa (colori araldici e simbolo della propria Fiera) e per l'Istinto condiviso. Il loro coordinamento avviene naturalmente, guidato dalla logica del Bisogno a cui rispondono.
 
-**Nome:** Ogni Draghiere porta un nome con la stessa iniziale della propria Fiera (es. Wade Wyrm, Caitlin Chimera, Bran Behemoth) e un numero progressivo che indica quanti Draghieri della stessa specie lo hanno preceduto.
+**Nome:** Ogni Draghiere porta un nome con la stessa iniziale della propria Fiera (es. Wade Wyrm, Caitlin Chimera, Bran Behemoth) e un numero progressivo che indica la sua posizione nella sequenza storica della propria specie.
 
 **Numero progressivo:** Il conteggio è per-specie, non globale. Il "33^ Viverna" significa che Wade è il trentatreesimo Draghiere della Viverna nella storia del Kindsgard.
 
@@ -58,7 +58,7 @@ Ogni Draghiere ottiene con il Battesimo:
 - **Forza e resistenza sovrumane**: base comune a tutti i Draghieri
 - **Espediente specifico della Fiera**: capacità uniche (resistenza al fuoco, veleno, pelle di pietra, volo, ecc.)
 
-Su [[Vilegis/Lunaria]], i Draghieri abitano corpi calibrati per essere pari agli altri giocatori: niente magia innata, niente dimensioni eccessive. L'Istinto però non scompare — diventa semplicemente fallibile.
+**Nota OOC — rappresentazione su Vilegis/Lunaria (fuori dal canone originario del Kindsgard):** nella rappresentazione di gioco su Vilegis, i Draghieri abitano corpi calibrati per essere pari agli altri giocatori: niente magia innata, niente dimensioni eccessive. L'Istinto però non scompare — diventa semplicemente fallibile. Questa nota descrive l'intersezione esterna e non va usata per inferire proprietà dei Draghieri nel Kindsgard.
 
 ---
 

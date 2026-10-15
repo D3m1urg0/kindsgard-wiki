@@ -3,7 +3,7 @@ titolo: "Cosmologia"
 categoria: "mondo"
 tag: [cosmologia, natura, bisogno, espediente, fondamento, spettri]
 status: "revisionato"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-10-15"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Cronistoria_versione_breve", "Copia_di_I_Draghieri_del_kindsgard", "draghieri-spiegazione", "Inktober_2019"]
 ---
 
@@ -21,7 +21,7 @@ Natura non è sempre stata crudele. Nell'[[Era di Armonia]] era una madre amorev
 
 Un cataclisma cosmico proveniente dall'esterno — identificato come eco della [[Rovina]] che devastò altri mondi — colpì il Kindsgard e alterò irrimediabilmente Natura. Incapace di trattenere il proprio potere sotto l'influsso di quelle violente energie esterne, Natura perse ogni identità coerente e divenne manifestazione pura di forza creatrice e distruttrice, abbandonata agli eccessi: terremoti, eruzioni, inondazioni, piogge di fuoco, laghi di acido.
 
-Nella sua follia, Natura compì un atto che la condannò ulteriormente: volle preservare gli [[Umani]] — creature dell'era perduta, inadatte al nuovo ordine — decretando contro ogni legge naturale che sopravvivessero. Quest'ultimo atto di volontà cosciente la prosciugò definitivamente. Da quel momento in poi, ad amministrare il Giardino al suo posto subentrarono [[Bisogno]] ed [[Espediente]].
+Il ritorno degli [[Umani]] — creature dell'era perduta, inadatte al nuovo ordine — introdusse un'ulteriore contraddizione nel sistema del Giardino. Le fonti attualmente reperibili non stabiliscono con certezza se Natura abbia deliberatamente voluto preservarli né se questo l'abbia prosciugata. In *La natura di Natura*, Wendy Wyrm interpreta invece l'ingresso degli Umani come un vincolo imposto alla Dea e una condizione di Bisogno insostenibile che sollecitò l'[[Espediente]]. La Cronistoria OOC (D3), che potrebbe chiarire la ricostruzione, non è reperibile nel repository: la motivazione di Natura resta quindi non confermata.
 
 Dal punto di vista delle [[Vere Fiere]], Natura è l'unica vera divinità del Giardino: indifferente, crudele, capricciosa, ma assolutamente reale e onnipresente. La sua legge — uccidi o muori — è l'unica legge valida.
 

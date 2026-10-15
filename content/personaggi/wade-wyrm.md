@@ -3,8 +3,8 @@ titolo: "Wade Wyrm"
 categoria: "personaggi"
 tag: [wade-wyrm, draghieri, viverna, personaggio]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
-fonti: ["Fierezza__il_Dio_che_è_in_noi", "Una_Missiva_dall_Anello", "L_esodo", "Risveglio_del_Drago", "L_ultima_notte_all_ombra_dell_Anello", "Inktober_2018", "Inktober_2019", "Onda_bianca"]
+ultima_modifica: "2026-10-15"
+fonti: ["Fierezza__il_Dio_che_è_in_noi", "Una_Missiva_dall_Anello", "L_esodo", "Risveglio_del_Drago", "L_ultima_notte_all_ombra_dell_Anello", "Inktober_2018", "Inktober_2019", "Onda_bianca", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Wade Wyrm

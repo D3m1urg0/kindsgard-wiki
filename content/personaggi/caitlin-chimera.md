@@ -3,8 +3,8 @@ titolo: "Caitlin Chimera"
 categoria: "personaggi"
 tag: [caitlin-chimera, draghieri, chimera, personaggio]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
-fonti: ["Pezzo_del_rituale_-_Chimera", "Riflessioni", "Onda_bianca", "Inktober_2019", "Inktober_2018"]
+ultima_modifica: "2026-10-15"
+fonti: ["Pezzo_del_rituale_-_Chimera", "Riflessioni", "Onda_bianca", "Inktober_2019", "Inktober_2018", "Elenco_Draghieri_Conosciuti", "Canzoni_degli_Umani"]
 ---
 
 # Caitlin Chimera
@@ -21,7 +21,7 @@ Caitlin Chimera è la **II Chimera** dei [[Draghieri]] del Kindsgard — la seco
 
 ## Identità e Istinto
 
-La Chimera è una Fiera a tre teste (capra, leone, serpente) con ali di drago e il potere del fuoco. L'Istinto di Caitlin riflette questa natura: è capace di affrontare ogni problema da più angolazioni simultaneamente, usa il fuoco come strumento primario, e ha un senso del dovere assoluto. Come Draghiere del Numero II, ha alle spalle una storia lunghissima — abbastanza da aver sviluppato quelle "cattive abitudini" che lei stessa cita in `Riflessioni`: la tendenza a spiegare l'importanza delle cose, segno di troppo tempo trascorso con gli Umani.
+La Chimera è una Fiera descritta nella canzone degli Umani con tre teste e tre bocche, scaglie, piume e criniera; `Inktober 2018 #Poisonous` conferma le ali di drago e le sacche di gas molto infiammabile vicino allo stomaco. Le fonti disponibili non specificano che le teste siano di capra, leone e serpente. L'Istinto di Caitlin riflette la natura della Fiera: è capace di affrontare ogni problema da più angolazioni simultaneamente, usa il fuoco come strumento primario, e ha un senso del dovere assoluto. Come Draghiere del Numero II, ha alle spalle una storia lunghissima — abbastanza da aver sviluppato quelle "cattive abitudini" che lei stessa cita in `Riflessioni`: la tendenza a spiegare l'importanza delle cose, segno di troppo tempo trascorso con gli Umani.
 
 ---
 
