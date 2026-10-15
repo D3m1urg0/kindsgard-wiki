@@ -361,9 +361,9 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - Estesa la stessa cautela a `content/storia/ere.md`: il testo non assume più che il parallelismo con la Rovina autorizzi a importare nel Kindsgard altri elementi della cosmologia di Vilegis/Lunaria; la fonte breve chiama il periodo «Era della Rovina» e attesta un cataclisma con effetti altrove, mentre D3/D4 servirebbero a chiarire ulteriori dettagli. La matrice di copertura è aggiornata.
 
 
-## Checkpoint operativo — 2026-10-15, dopo PR #35
+## Checkpoint operativo — 2026-10-15, dopo PR #36
 
-- `main` è avanzato al commit `bd36bd920a73ae5bc54d6d4714ec3d2d6e171841`.
+- `main` è avanzato al commit `c7dc86bca6dedb26f28d58c46edf8d03437b85aa` dopo l'aggiornamento del changelog e del checkpoint successivi alla PR #36.
 - **PR #33 integrata** nel commit `498e5a91f7956da9d409c818cb585fc6d6bd921f`; workflow Quartz sul commit della PR: `success`. Confine Kindsgard/Vilegis-Lunaria chiarito, rapporto temporale 100:1 qualificato come non verificabile direttamente.
 - **PR #35 integrata** nel commit `bd36bd920a73ae5bc54d6d4714ec3d2d6e171841`; workflow Quartz sul commit finale della PR: `success`. Datazione di Ishvard/Karsh sospesa per conflitto interno e affermazione di irripetibilità rimossa.
 - PR #34 chiusa come superseded dalla #35; nessun contenuto documentale è stato scartato nella ricostruzione su base aggiornata.
