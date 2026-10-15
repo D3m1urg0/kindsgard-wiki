@@ -530,3 +530,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Nessuna fonte originale è stata modificata.
 
 - PR #36 integrata con workflow Quartz `success`: le occorrenze puntuali del rapporto temporale 100:1 sono state allineate alla cautela già registrata nella nota generale.
+
+- Allineati i metadati `ultima_modifica` di `content/meta/istruzioni-ripresa.md` e `content/meta/domande-aperte.md` alla data delle revisioni effettive del 15 ottobre 2026.
