@@ -95,7 +95,7 @@ Cadute in abbandono durante la crisi. Riconquistate e ripopolate da [[Gertrude G
 
 ### Spiagge del Mare Esterno / Il Bordo
 
-I margini estremi del Giardino, le terre più lontane dalla Maestà. Qui la forza di Natura è così debole che quasi nulla cresce o vive. Fu il rifugio originario degli [[Umani]] prima che i Draghieri cominciassero a liberare territori interni.
+I margini estremi del Giardino, le terre più lontane dalla Maestà. Secondo la prospettiva collettiva dei Draghieri in *Ciò che sanno i Draghieri*, qui la forza di Natura è così debole che quasi nulla cresce o vive; la stessa fonte presenta queste spiagge come rifugio originario degli [[Umani]] prima che i Draghieri riconquistassero territori interni.
 
 ---
 
