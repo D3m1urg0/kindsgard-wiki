@@ -79,9 +79,9 @@ I dodici Spettri identificati nelle fonti attualmente disponibili sono: Bene, Ma
 
 ### La connessione successiva e i tredici Guardiani
 
-Il Kindsgard è stato collegato come **Mondo Ancora**; i Mondi Ancora riflettono la struttura del Fondamento. Questa relazione appartiene alla fase successiva alla cosmologia originaria del Kindsgard e non rende i due setting intercambiabili.
+La ricostruzione wiki attualmente disponibile riferisce che il Kindsgard sia stato collegato come **Mondo Ancora** e che i Mondi Ancora riflettano la struttura del Fondamento. Poiché i testi integrali D3/D4 non sono disponibili nel repository consultato, questa formulazione non è verificabile direttamente contro le fonti originarie in questo audit. Va conservata come elemento della ricostruzione esistente, senza usarla da sola per importare altre regole cosmologiche di Vilegis/Lunaria.
 
-La connessione con Vilegis/Lunaria ha comportato la manifestazione nel Kindsgard di **tredici vettori/Guardiani** collegati al Fondamento. Ogni vettore era inconsapevolmente incarnato da un individuo — Draghiere, Vera Fiera o Fiera effettiva — detto **Guardiano**. Questo evento successivo non va confuso né con i sette vettori originari del Kindsgard né con una semplice rinomina dei tredici Spettri.
+La stessa ricostruzione riferisce che la connessione con Vilegis/Lunaria abbia comportato la manifestazione nel Kindsgard di **tredici vettori/Guardiani** collegati al Fondamento. Ogni vettore sarebbe stato inconsapevolmente incarnato da un individuo — Draghiere, Vera Fiera o Fiera effettiva — detto **Guardiano**. In assenza dei testi D3/D4, l'audit non può verificare direttamente la formulazione e tutti i dettagli di questa relazione; il contenuto viene mantenuto come ricostruzione già presente, senza inferire identità mancanti né confonderlo con i sette vettori originari del Kindsgard o con una semplice rinomina dei tredici Spettri.
 
 Quando [[Dominic Draco]] uccise i tredici Guardiani con l'arma **Espediente**, forgiata nel procedimento in sette processi, ne assorbì i vettori e divenne **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice del potere così raccolto nel Kindsgard.
 
