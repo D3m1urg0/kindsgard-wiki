@@ -488,3 +488,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - In `Città-Alveare`, rimossi «in tempi immemori» e l'attribuzione della fondazione ai Draghieri della Covata: le fonti elencate attestano il presidio di Bartholomew, ma non data né fondatori originari. La lacuna resta esplicita invece di essere colmata per inferenza.
 
 - In `Città-Alveare`, corretta l'attribuzione dei tunnel allo Zaratan: `Inktober 2019 #Pattern` associa il profilo dei tunnel al carapace ma non afferma che la Fiera li abbia scavati. La formulazione ora conserva il dato e rimuove la causalità non attestata.
+
+- In `Città-Alveare`, rimosse la soglia non attestata «sciami di migliaia» e la frequenza assoluta «attacchi a ritmo costante». La voce conserva la funzione difensiva e gli attacchi ricorrenti documentati senza inventare misure o periodicità.
