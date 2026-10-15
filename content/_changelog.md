@@ -496,3 +496,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Aggiunta una nota di provenienza in `Draghieri`, `Vere Fiere` e `Tradizioni, Canti e Motti`: `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest` restano motti riportati dalla sintesi wiki, ma la loro attestazione primaria non è stata rintracciata nel corpus corrente. Non sono stati rimossi né dichiarati non canonici.
 
 - In `Cronologia`, il rapporto 100:1 fra un anno di Lunaria e cento anni del Kindsgard è ora qualificato come dato presente nella sintesi ma non verificabile senza la Cronistoria OOC (D3), non reperita nel repository.
+
+- In `Geografia del Kindsgard`, la descrizione del Bordo è attribuita alla prospettiva collettiva in-world di `Ciò che sanno i Draghieri`, invece di essere presentata senza qualifiche come misura oggettiva della forza di Natura.
