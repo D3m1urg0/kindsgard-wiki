@@ -482,3 +482,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - PR #31 integrata in `main` con merge commit `88df1c80929a391324a647d8a2f21737f5ca0b93`; il workflow `Validate Quartz wiki` sul HEAD della PR è riuscito. Non è stata restituita una run separata sul merge commit.
 - Avviata una tranche successiva in `audit/citation-crosscheck-2026-10-15`: la voce `Il Battesimo del Fuoco` ora descrive Ishvard/Karsh come eccezione documentata, senza dichiarare non ripetibile il meccanismo, e cita `Risveglio_del_Drago`. L4 resta aperta sulla causa e ripetibilità dell'evento.
 - La matrice `content/meta/audit-copertura-pagine.md` è aggiornata; prosegue il confronto puntuale delle affermazioni e delle citazioni, soprattutto per le intersezioni Vilegis/Lunaria.
+
+- In `Religioni e Spiritualità`, aggiunti i riferimenti diretti a `Canzoni_degli_Umani` e `Riflessioni`; rimossa un'inferenza psicologica non dimostrata sull'incompletezza del saggio di Wade; distinta la conoscenza cosmologica di Dominic dal possesso del Fondamento esterno.
