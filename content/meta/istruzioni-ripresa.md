@@ -375,4 +375,4 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 
 ## Verifica residua — rapporto temporale 100:1
 
-Nel controllo successivo al merge della PR #35 è stata rilevata una formulazione ancora assoluta del rapporto 100:1 nelle sezioni cronologiche puntuali, nonostante la nota generale lo qualificasse come non verificabile senza D3. La correzione è preparata nel branch `audit/temporal-ratio-qualification-2026-10-15` e va sottoposta a PR con workflow verificato. Questo è un rilievo emerso dal confronto interno tra nota generale e occorrenze specifiche; il corpus D3/D4 resta non reperibile.
+La PR #36 è stata integrata nel commit `06be257a31ff3691e73cef8fb623d1ab8463028b`; il workflow Quartz sul commit finale della PR ha esito `success`. Le occorrenze puntuali in `Cronologia` e `Le Ere del Kindsgard` sono ora coerenti con la nota generale: 100:1 è un rapporto riportato dalla sintesi, non una misura confermata senza D3.
