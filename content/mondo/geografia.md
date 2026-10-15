@@ -70,7 +70,7 @@ Le torri che compongono l'Anello di Fuoco. Strutture imponenti, costruite in pie
 
 ### Città-Alveare
 
-L'Artiglio Sepolto delle Catene Montuose Orientali, detto **Città-Alveare** — la struttura difensiva più complessa del Kindsgard orientale. Costruita dentro e attorno a un sistema di caverne naturali, con:
+L'Artiglio Sepolto delle Catene Montuose Orientali, detto **Città-Alveare** — la struttura difensiva più complessa del Kindsgard orientale. Sviluppata dentro e attorno a un sistema di caverne e gallerie, con:
 - L'**Occhio**: una vetrata semisferica al centro del versante esposto, postazione di comando
 - Un sistema di **1247 tubi di rame** che trasmettevano ordini in ogni settore
 - L'**Abisso**: la caverna principale interna, con muri tappezzati di bocche da fuoco
