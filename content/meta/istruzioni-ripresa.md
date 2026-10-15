@@ -525,3 +525,10 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 
 - In `content/storia/cronologia.md`, sostituite le etichette editoriali «Anno X» con formulazioni esplicite di collocazione assoluta non determinata. Le voci non assegnano date nuove e mantengono l'ordine relativo già descritto.
 - Aggiornata la nota metodologica e la matrice. Nessuna fonte originale è stata modificata; il segnaposto non va interpretato come anno canonico o numero romano.
+
+
+## Verifica semantica — regole del Battesimo dipendenti da D4, 2026-10-15
+
+- Riletto `content/sistemi/fierezza-e-maesta.md` e confrontato il passaggio sulle regole del Battesimo con `La natura di Natura`, `Cronistoria (versione breve)` e `Risveglio del Drago`.
+- Le fonti accessibili sostengono la distinzione fra Fierezza e Maestà e documentano l'eccezione di Wade; non confermano direttamente la regola di un solo Battesimo per specie in un dato periodo né tutti i dettagli dell'orientamento dipendente dagli Spettri di Vilegis. La guida D4 non è reperibile. Le regole restano nella ricostruzione wiki ma sono qualificate come non verificate direttamente, senza essere cancellate né estese.
+- Nessuna fonte originale modificata. Prossimo passo: continuare il confronto delle affermazioni di sistema che dipendono da D3/D4.
