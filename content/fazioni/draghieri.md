@@ -4,7 +4,7 @@ categoria: "fazioni"
 tag: [draghieri, fazione, fierezza, battesimo, kindsgard]
 status: "revisionato"
 ultima_modifica: "2026-10-15"
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuoco", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi", "draghieri-spiegazione", "Inktober_2019"]
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuoco", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi", "draghieri-spiegazione", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Draghieri
