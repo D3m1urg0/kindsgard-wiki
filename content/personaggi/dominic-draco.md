@@ -42,7 +42,7 @@ Fu il primo a raggiungere la Maestà ripetutamente. Fu il primo a sperimentare l
 
 ## La Fondazione dell'Anello
 
-Quando gli Echi di [[Vilegis/Lunaria]] — lo scontro tra Libertà e Dominio — raggiunsero il Kindsgard, i vincoli nell'Istinto di Dominic si allentarono per un istante. In quell'istante vide la verità che nessun altro Draghiere era capace di vedere: gli eventi esterni, e in particolare la morte del Guardiano-Re di Vilegis/Lunaria legato a uno Spettro, aprivano un rischio che il ciclo tradizionale non poteva più contenere. Senza un'alternanza stabile, qualsiasi punto estremo avrebbe potuto significare la fine del Kindsgard.
+Quando gli Echi di [[Vilegis/Lunaria]] — lo scontro tra Libertà e Dominio — raggiunsero il Kindsgard, i vincoli nell'Istinto di Dominic si allentarono per un istante. In quell'istante vide la verità che nessun altro Draghiere era capace di vedere: gli eventi esterni aprivano un rischio che il ciclo tradizionale non poteva più contenere. La ricostruzione wiki collega questo evento anche alla morte del Guardiano-Re di Vilegis/Lunaria legato a uno Spettro; le fonti accessibili attestano lo scontro e gli Echi, ma non confermano direttamente quel dettaglio. I testi integrali D3/D4 non sono reperibili nel repository consultato. Senza un'alternanza stabile, qualsiasi punto estremo avrebbe potuto significare la fine del Kindsgard.
 
 Scelse di condannare sé stesso e i suoi compagni a una guerra eterna. Fondò l'**[[Anello di Fuoco]]**: un perimetro di torri ([[Artigli]]) che separava per sempre il Giardino dai territori Umani, interrompendo i cicli.
 
