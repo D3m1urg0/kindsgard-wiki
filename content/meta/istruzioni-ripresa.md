@@ -399,3 +399,8 @@ La verifica diretta ha rilevato e corretto la negazione non corretta nella sched
 ## Verifica semantica — Falenottere, 2026-10-15
 
 Nel confronto delle fonti Inktober la scheda definiva le Falenottere “insettiformi”, ma `Inktober 2019 #Frail` parla di Fiere insettiformi in generale senza attribuire direttamente quella morfologia alle Falenottere. PR #38 è integrata con workflow Quartz `success`; luce, piccole dimensioni, ali e pungiglione restano descritti sulla base di `#Enchanted` e `Inktober 2018 #Drooling`.
+
+
+## Verifica semantica — motti non attestati, 2026-10-15
+
+Il confronto fra `Tradizioni`, `Draghieri`, `Vere Fiere` e le fonti disponibili ha rilevato che `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest` erano presentati in forma assertiva nonostante non siano stati rintracciati nel corpus di 29 fonti. La modifica nel branch `audit/motto-provenance-qualification-2026-10-15` li qualifica come attribuzioni della sintesi wiki, senza promuoverli a fatti canonici; `Ab Necessitate Excusi` resta invece attestato in `Inktober 2019` come saluto a risposta identica.
