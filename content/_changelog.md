@@ -640,3 +640,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - La workflow corretta ha concluso con successo il run `38724512069`; il repository è passato da 46 branch non-main a 2, cancellando i branch merged con head invariato e quelli superseded/orfani esplicitamente verificati.
 - Confrontati file per file i due branch rimasti senza PR associata: `audit/page-semantic-pass-2026-10-15` e `audit/quarantine-fiamme-and-sources-2026-10-13`. Non contengono correzioni narrative uniche da integrare; sono versioni precedenti di contenuti ora più accurati in `main`. Aggiunti alla allowlist one-shot con SHA verificato, per rimozione al prossimo merge se non modificati e senza PR aperte.
+
+
+## 2026-10-15 — Chiusura della pulizia branch
+
+- La workflow `Delete merged and audited obsolete branches` ha concluso con successo il run `38725386057`; la verifica successiva restituisce solo `main` (zero branch non-main).
+- Rimossa l'allowlist one-shot, già eseguita con controlli SHA esatti e assenza di PR aperte. Resta la pulizia generica dei branch di PR merged dopo ogni merge e quotidianamente.
+- Aggiornata la matrice per i tre riferimenti recuperati dal branch Ishvard/Karsh: `Risveglio_del_Drago` in Fierezza e Maestà, `draghieri-spiegazione` nel Battesimo del Fuoco, `Elenco_Draghieri_Conosciuti` nelle Ere del Kindsgard.
+- La pulizia dei branch è completata nel perimetro verificato; l'audit semantico e le lacune di fonte restano aperti.
