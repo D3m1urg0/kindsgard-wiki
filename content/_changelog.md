@@ -443,3 +443,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Completata la lettura integrale di tutte le 29 fonti catalogate (29/29). Restano aperti il confronto semantico sistematico con le pagine wiki, la verifica puntuale delle citazioni e la riconciliazione dei riferimenti legacy.
 - Registrata la variante della strofa di `Giù nel Bosco` in `Inktober 2019 #Enchanted`; la versione della raccolta `Canzoni degli Umani` resta il riferimento, senza alterare la citazione narrativa.
 - Chiarito che le liane rosse di `#Ancient` e le piccole Fiere alate di `#Enchanted` non sono identificate per specie e non vanno assimilate a specie note per somiglianza.
+
+
+## 2026-10-15 — Prima passata semantica delle pagine wiki
+
+- Letti i corpi di 29 pagine tematiche (Cultura, Fazioni, Fiere, Mondo, Personaggi, Sistemi, Storia) e di `content/index.md` e `content/_glossario.md`. È una prima passata del testo delle pagine, non una certificazione che ogni affermazione sia stata confrontata con ogni fonte primaria.
+- Preparati sei riallineamenti documentali: motivazione non dimostrata di Natura verso gli Umani (`cosmologia.md`); credenza umana sulla nascita di Bisogno/Espediente (`ere.md`); anatomia non attestata della Chimera (`caitlin-chimera.md`); generalizzazione non attestata sul Canto del Leviatano (`luther-leviathan.md`); causalità non verificabile fra eruzioni ed Echi (`maesta.md`); ambito canonico Kindsgard/Vilegis esplicitato nell'indice (`index.md`).
+- Nessuna fonte narrativa originale è stata modificata. I testi mancanti D3/D4 e gli altri identificatori legacy restano non reperiti e non vengono sostituiti per somiglianza.
+- Il punto 2 dell'audit resta aperto: serve ancora la verifica sistematica delle citazioni puntuali e dei riferimenti `fonti` per tutte le pagine, oltre alla validazione dei diff di questa tranche.
