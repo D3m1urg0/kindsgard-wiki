@@ -26,6 +26,8 @@ ultima_modifica: "2026-10-15"
 | `content/fonti/cronistoria-versione-breve.md` | Cronistoria in-world (versione divulgativa) | **Canonico** |
 | `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa; identificatore di riferimento adottato nel catalogo e nei campi `fonti`: `draghieri-spiegazione` (il frontmatter del file non espone un campo `id`). È distinto dai riferimenti D3/D4 mancanti e non li sostituisce. | **Canonico** |
 
+**Identificatore di riferimento adottato:** `cio-che-sanno-i-draghieri` → `content/fonti/cio-che-sanno-i-draghieri.md`. È un ID operativo usato nel campo `fonti` della voce `Anello di Fuoco` perché la fonte sostiene direttamente la formulazione sul luogo scelto da Draco; non è una dichiarazione sul nome del file originale.
+
 ### Narrativa In-World
 
 | File | Contenuto | Note |
