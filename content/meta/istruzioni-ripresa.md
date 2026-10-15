@@ -425,3 +425,9 @@ Il confronto fra `Deflecte Cantum`, `Tradizioni` e `Cosmologia` ha rilevato un'e
 - Il branch `audit/day-of-need-source-precision-2026-10-15` è ridondante rispetto a `main` e alle modifiche consolidate nella PR #40/#42.
 - **Pulizia branch ancora aperta:** l'impostazione GitHub `delete_branch_on_merge` risulta `false`. Gli strumenti GitHub disponibili in questa sessione non espongono un'operazione di cancellazione dei branch; quindi nessun branch è dichiarato eliminato. Per evitare falsi positivi, mantenere un elenco separato dei branch da eliminare manualmente o usare una connessione che consenta `DELETE /git/refs/heads/{branch}`.
 - Prossimo passo: verificare i branch rimanenti contro il contenuto corrente di `main`, aprire PR solo per differenze documentali effettive non ancora integrate e continuare l'audit semantico. Non mergiare branch storici sulla sola base dei conteggi ahead/behind dopo squash merge.
+
+
+## Manutenzione branch dopo merge — 2026-10-15
+
+- La cancellazione automatica nativa di GitHub risulta disattivata e la connessione corrente non espone una mutazione per eliminare refs. Per applicare la regola richiesta alle PR future, è stata preparata la workflow `.github/workflows/delete-merged-branch.yml`: cancella il branch head solo dopo una PR merged, solo se appartiene allo stesso repository e non è il branch predefinito.
+- La workflow non rimuove retroattivamente i branch già presenti. Quelli storici restano da eliminare tramite un'interfaccia o una connessione con permesso di cancellazione; non dichiarare eseguita la pulizia finché non è verificata.
