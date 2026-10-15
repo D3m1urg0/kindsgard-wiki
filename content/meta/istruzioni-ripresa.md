@@ -328,3 +328,9 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - **Registro aggiornato:** `content/meta/audit-copertura-pagine.md` annota la modifica e mantiene aperta la verifica del meccanismo. Nessuna fonte narrativa è stata modificata.
 - **Branch corrente:** `audit/citation-crosscheck-2026-10-15` (creato da `main` dopo PR #31); modifiche da integrare con PR separata dopo validazione.
 - **Prossimo passo:** continuare il controllo diretto dei corpi fonte rispetto alle pagine, in particolare geografia, cronologia, voci di personaggio e affermazioni relative alla connessione con Vilegis/Lunaria. Aggiornare la matrice per ogni rilievo verificato; non promuovere a canoniche le ipotesi che dipendono da D3/D4 mancanti.
+
+
+### Secondo passaggio di verifica delle citazioni — 2026-10-15
+
+- `content/cultura/religioni.md`: aggiunti `Canzoni_degli_Umani` e `Riflessioni` al campo `fonti`, perché il corpo li cita direttamente. Rimossa l'inferenza non dimostrata secondo cui l'incompletezza del saggio di Wade proverebbe una difficoltà intrinseca dei Draghieri. Riallineata la frase su Dominic: detiene il potere dei tredici vettori manifestatisi nel Kindsgard, non il Fondamento di Vilegis/Lunaria.
+- La matrice `content/meta/audit-copertura-pagine.md` è aggiornata per questa voce. Il confronto diretto delle citazioni prosegue; non si dichiara completata la verifica integrale della pagina.
