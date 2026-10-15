@@ -3,7 +3,7 @@ titolo: "Draghieri"
 categoria: "fazioni"
 tag: [draghieri, fazione, fierezza, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-10-15"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuoco", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi", "draghieri-spiegazione", "Inktober_2019"]
 ---
 
@@ -58,7 +58,7 @@ Ogni Draghiere ottiene con il Battesimo:
 - **Forza e resistenza sovrumane**: base comune a tutti i Draghieri
 - **Espediente specifico della Fiera**: capacità uniche (resistenza al fuoco, veleno, pelle di pietra, volo, ecc.)
 
-Su [[Vilegis/Lunaria]], i Draghieri abitano corpi calibrati per essere pari agli altri giocatori: niente magia innata, niente dimensioni eccessive. L'Istinto però non scompare — diventa semplicemente fallibile.
+**Nota OOC — rappresentazione su Vilegis/Lunaria (fuori dal canone originario del Kindsgard):** nella rappresentazione di gioco su Vilegis, i Draghieri abitano corpi calibrati per essere pari agli altri giocatori: niente magia innata, niente dimensioni eccessive. L'Istinto però non scompare — diventa semplicemente fallibile. Questa nota descrive l'intersezione esterna e non va usata per inferire proprietà dei Draghieri nel Kindsgard.
 
 ---
 
