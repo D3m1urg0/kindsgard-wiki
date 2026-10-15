@@ -31,7 +31,7 @@ Un sistema di **1247 tubi di rame** che spuntano da soffitti e pareti permette d
 La caverna principale interna — uno spazio immenso i cui muri sono tappezzati di bocche da fuoco di ogni genere (per annegare, bruciare, coprire d'acido, simulare qualsiasi arma). La sua sommità è così alta da perdersi nell'oscurità. È diventata un immenso nido di [[Fiere — Voci Stub|Atrax]] dopo la caduta di [[Bartholomew Brood|Bartholomew]].
 
 ### Le Gallerie
-Un reticolo di tunnel sotterranei si estende per miglia attorno alla struttura. Alcuni sono stati scavati dalla Fiera [[Fiere — Voci Stub|Zaratan]] — il bordo a metà altezza dei tunnel corrisponde alla forma del suo carapace. Il sottosuolo è territorio incontrollato, ricco di insidie.
+Un reticolo di tunnel sotterranei si estende per miglia attorno alla struttura. In alcuni incroci, il bordo a metà altezza dei tunnel corrisponde alla forma del carapace dello [[Fiere — Voci Stub|Zaratan]]; la fonte suggerisce un'associazione, ma non afferma che la Fiera abbia scavato i tunnel. Il sottosuolo è territorio incontrollato, ricco di insidie.
 
 ### Le Difese Esterne
 Bocche da fuoco su ogni apertura. Sistemi di leve e contrappesi per le porte principali. Sacchi di sostanze incendiarie e feromoni. Cannoni (distrutti durante l'attacco di Draco). La struttura era progettata per resistere a sciami di migliaia di Fiere insettiformi.
