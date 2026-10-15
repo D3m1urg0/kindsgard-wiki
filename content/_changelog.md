@@ -504,3 +504,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - La `Cronistoria (versione breve)` attesta un cataclisma cosmico che colpisce il Kindsgard, ma non lo nomina direttamente come Rovina. L'identificazione con la Rovina di Vilegis/Lunaria è stata riclassificata come parallelismo interpretativo in `Cosmologia`, `Cronologia` e `Glossario` perché D3/D4 non sono reperibili per verificare l'identità.
 - Registrato il confine in `content/meta/fonti.md` e nella matrice `content/meta/audit-copertura-pagine.md`. Nessuna fonte originale modificata.
+
+- Estesa a `Le Ere del Kindsgard` la distinzione fra il cataclisma cosmico attestato e la sua identificazione con la Rovina: la fonte breve non nomina direttamente la Rovina e D3/D4 non sono disponibili per confermare l'identità.
