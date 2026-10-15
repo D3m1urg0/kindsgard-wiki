@@ -487,3 +487,10 @@ La difficoltà di accesso e rifornimento della Città-Alveare è plausibile per 
 ## Verifica semantica — Geografia e Colture, 2026-10-15
 
 Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso per coltivare le Fitofiere necessarie al sostentamento umano, quattro in totale, con Amaranthus Cruentus come la più importante. Non definisce le quattro specie come semplicemente commestibili e non dimostra che le Colture siano l'unico sistema alimentare del Kindsgard occidentale. La voce geografica e il glossario sono stati qualificati. È stata inoltre rimossa la generalizzazione «habitat dei Behemoth» per tutte le Catene Montuose Orientali: la fonte associa Bran alle zone montuose del Nord e alle Catene Orientali, ma non definisce l'intera catena come habitat esclusivo della specie.
+
+
+## Verifica semantica — Mondo Ancora e tredici Guardiani, 2026-10-15
+
+- Rilette le sezioni pertinenti di `content/mondo/cosmologia.md` e confrontate con `content/fonti/la-natura-di-natura.md` e `content/fonti/cronistoria-versione-breve.md`.
+- Le fonti accessibili attestano l'analogia fra Essenze e Spettri e gli effetti di eventi esterni sul Giardino; non consentono da sole di verificare direttamente tutti i dettagli della formulazione wiki su Mondo Ancora e tredici Guardiani. La formulazione viene conservata come ricostruzione preesistente, qualificata esplicitamente come non verificabile contro D3/D4 mancanti.
+- Nessuna fonte originale è stata modificata; nessun elemento esterno è stato aggiunto al canone. Prossimo passo: continuare il confronto semantico delle pagine non ancora verificate frase per frase.
