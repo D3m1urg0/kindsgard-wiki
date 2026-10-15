@@ -521,3 +521,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Integrata la PR #33 dopo esito positivo del workflow Quartz: il cataclisma del Kindsgard resta attestato, ma l'identificazione con la Rovina di Vilegis/Lunaria non è promossa a fatto certo; il rapporto 100:1 resta non verificabile direttamente senza D3.
 - Integrata la PR #35 dopo esito positivo del workflow Quartz: la datazione di Ishvard/Karsh è stata neutralizzata per la contraddizione fra Cronologia ed Ere, e rimossa la formula «unicum narrativo, non ripetibile» non dimostrata dalle fonti.
 - Aggiornato il checkpoint operativo. Le fonti narrative originali non sono state modificate.
+
+
+## 2026-10-15 — Coerenza del rapporto temporale 100:1
+
+- Il rapporto 100:1 fra Lunaria e Kindsgard era già qualificato come non verificabile nella nota generale di `Cronologia`, ma restava formulato come fatto certo nel singolo evento e nella nota sul tempo di `Le Ere del Kindsgard`.
+- Allineate le tre formulazioni: il rapporto resta un dato riportato dalla sintesi wiki, non una misura confermata finché D3 non è reperita.
+- Nessuna fonte originale è stata modificata.
