@@ -699,3 +699,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Aggiunti al frontmatter di `Geografia` i riferimenti diretti `Solitudine` e `Prevedibilità__covata_`; aggiunto `Deflecte_Cantum` al frontmatter di `Anello di Fuoco`.
 - Nessuna modifica al testo delle fonti o alle affermazioni narrative; registrata la correzione di tracciabilità.
+
+
+## 2026-10-15 — Riconciliazione dei campi fonte nelle pagine di Fiere e personaggi
+
+- Allineati i frontmatter di `Fiamme`, `Fiere — Voci Stub`, `Dominic Draco`, `Wade Wyrm`, `Caitlin Chimera` e `Altri Personaggi` alle fonti già citate direttamente nei rispettivi testi.
+- Nessuna modifica narrativa o canonica; registrato il perimetro limitato del controllo.
