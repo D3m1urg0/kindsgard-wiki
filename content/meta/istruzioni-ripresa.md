@@ -410,3 +410,8 @@ Il confronto fra `Tradizioni`, `Draghieri`, `Vere Fiere` e le fonti disponibili 
 ## Verifica semantica — Giorno del Bisogno, 2026-10-15
 
 Il confronto diretto con `Inktober 2019 #Ornament` ha rilevato che `Tradizioni` presentava come annuale la festività e diceva che gli Umani ricevevano piccoli doni. La fonte mostra il permesso di fare un dono o soddisfare un piccolo desiderio durante la scena, associata alla piena autunnale; la periodicità della festività non è esplicitamente attestata. La correzione è preparata nel branch `audit/day-of-need-source-precision-2026-10-15`.
+
+
+## Verifica semantica — sei, sette e tredici vettori, 2026-10-15
+
+Il confronto fra `Deflecte Cantum`, `Tradizioni` e `Cosmologia` ha rilevato un'equivalenza non dimostrata: la fonte dice “sei vettori in tredici affondi”, mentre il canone originario elenca sette vettori e la connessione successiva descrive tredici vettori/Guardiani. La nota della fonte attribuiva direttamente la strofa all'assorbimento dei tredici Guardiani senza che il testo lo esplicitasse. La formulazione è stata resa provvisoria e aggiunta L21 per una chiarificazione del proprietario o una fonte primaria.
