@@ -4,7 +4,7 @@ categoria: "mondo"
 tag: [anello-di-fuoco, artigli, geografia, storia, draghieri]
 status: "revisionato"
 ultima_modifica: "2026-10-15"
-fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Inktober_2019", "Annali_dell_Artiglio_di_Fuoco", "cio-che-sanno-i-draghieri"]
+fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Inktober_2019", "Annali_dell_Artiglio_di_Fuoco", "cio-che-sanno-i-draghieri"]
 ---
 
 # Anello di Fuoco
