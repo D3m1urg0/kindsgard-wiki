@@ -119,8 +119,8 @@ I Draghieri si schierano con Onofrius ma la vittoria va all'Orso. La forza di Na
 ### Il Primo Secolo del Draco
 Dominic e i Draghieri scomparsi oltre l'Anello tornano dalla Maestà, trasformati in **Vere Fiere**. Per la prima volta compaiono le Vere Fiere sul Kindsgard. Ogni Draghiere caduto in quest'anno si risveglia come Vera Fiera. Un incidente temporale fa sì che ogni anno di Lunaria corrisponda a cento anni del Kindsgard.
 
-### Il Primo Secolo dell'Orso — Ishvard e Karsh
-Il mutaforma Ishvard, incapace di liberarsi dalla creatura ferale che lo controlla, chiede ai Draghieri di ucciderlo. Il trasferimento separa Umano e Fiera: Ishvard diventa Draghiere della Manticora, la sua controparte ferale diventa la Vera Manticora. Unicum narrativo, non ripetibile.
+### Ishvard e Karsh — collocazione cronologica da verificare
+`Inktober 2018 #Roasted` e `#Chicken` attestano Karsh e il legame narrativo con Ishvard. La sintesi che descrive il trasferimento e la separazione dell'Umano dalla controparte ferale è presente nella wiki, ma la collocazione è discordante: `Cronologia` lo colloca nel Primo Secolo del Draco, mentre questa sezione lo associava al Primo Secolo dell'Orso. D3/D4 non sono reperibili per risolvere il conflitto; nessuna delle due date va trattata come canonica finché non emerge una fonte primaria. Il racconto documenta un caso, non dimostra che il meccanismo sia non ripetibile.
 
 ### La Forgiatura di Espediente e l'Ascesa di Re Draco
 Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** per proteggere il Kindsgard dalla minaccia del Nexus. Viene forgiata l'arma **Espediente**. Draco la usa per uccidere i **13 Guardiani del Kindsgard** — individui che, dopo la connessione con Vilegis/Lunaria, incarnavano inconsapevolmente i tredici vettori manifestatisi nel Kindsgard in relazione al Fondamento — diventando **Unico Guardiano, Re Draco**: entità autonoma, non più Draghiere né Vera Fiera, detentrice del potere così raccolto.
