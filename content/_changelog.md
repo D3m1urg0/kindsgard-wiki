@@ -498,3 +498,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - In `Cronologia`, il rapporto 100:1 fra un anno di Lunaria e cento anni del Kindsgard è ora qualificato come dato presente nella sintesi ma non verificabile senza la Cronistoria OOC (D3), non reperita nel repository.
 
 - In `Geografia del Kindsgard`, la descrizione del Bordo è attribuita alla prospettiva collettiva in-world di `Ciò che sanno i Draghieri`, invece di essere presentata senza qualifiche come misura oggettiva della forza di Natura.
+
+
+## 2026-10-15 — Distinzione fra cataclisma del Kindsgard e Rovina
+
+- La `Cronistoria (versione breve)` attesta un cataclisma cosmico che colpisce il Kindsgard, ma non lo nomina direttamente come Rovina. L'identificazione con la Rovina di Vilegis/Lunaria è stata riclassificata come parallelismo interpretativo in `Cosmologia`, `Cronologia` e `Glossario` perché D3/D4 non sono reperibili per verificare l'identità.
+- Registrato il confine in `content/meta/fonti.md` e nella matrice `content/meta/audit-copertura-pagine.md`. Nessuna fonte originale modificata.
