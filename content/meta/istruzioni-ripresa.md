@@ -361,11 +361,13 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - Estesa la stessa cautela a `content/storia/ere.md`: il testo non assume più che il parallelismo con la Rovina autorizzi a importare nel Kindsgard altri elementi della cosmologia di Vilegis/Lunaria; la fonte breve chiama il periodo «Era della Rovina» e attesta un cataclisma con effetti altrove, mentre D3/D4 servirebbero a chiarire ulteriori dettagli. La matrice di copertura è aggiornata.
 
 
-## Checkpoint operativo — 2026-10-15
+## Checkpoint operativo — 2026-10-15, dopo PR #35
 
-- `main` è avanzato con la PR #33, integrata con successo nel commit `498e5a91f7956da9d409c818cb585fc6d6bd921f` dopo esito `success` del workflow Quartz sul commit della PR.
-- PR #34 è stata preparata su una base precedente a #33 e ha richiesto una ricostruzione su una branch fresca; non integrare la branch originaria se la nuova PR sostitutiva viene aperta.
-- Riconciliazione Ishvard/Karsh preparata nel branch `audit/ishvard-karsh-chronology-reconcile-v2-2026-10-15`: la cronologia e la pagina delle Ere davano due date differenti; entrambe sono state neutralizzate, e la frase «unicum narrativo, non ripetibile» rimossa perché non provata da una singola attestazione. D3/D4 restano non reperibili.
-- Le PR #29 e #31 sono verificate come merged; i loro interventi di fedeltà delle fonti e passata semantica sono già in `main`.
-- Vincolo di manutenzione: dopo ogni merge, eliminare il branch di lavoro solo dopo aver verificato il merge su `main`; per branch storici senza PR, prima confrontare semanticamente e registrare se il contenuto è già superato o va recuperato. L'integrazione via squash non rende automaticamente utili o inutili i branch storici.
-- Prossimo passo: aprire la PR sostitutiva per Ishvard/Karsh, verificare i workflow sul commit finale, integrare solo se passano; poi riconciliare PR #12/#14 e continuare l'audit semantico.
+- `main` è avanzato al commit `bd36bd920a73ae5bc54d6d4714ec3d2d6e171841`.
+- **PR #33 integrata** nel commit `498e5a91f7956da9d409c818cb585fc6d6bd921f`; workflow Quartz sul commit della PR: `success`. Confine Kindsgard/Vilegis-Lunaria chiarito, rapporto temporale 100:1 qualificato come non verificabile direttamente.
+- **PR #35 integrata** nel commit `bd36bd920a73ae5bc54d6d4714ec3d2d6e171841`; workflow Quartz sul commit finale della PR: `success`. Datazione di Ishvard/Karsh sospesa per conflitto interno e affermazione di irripetibilità rimossa.
+- PR #34 chiusa come superseded dalla #35; nessun contenuto documentale è stato scartato nella ricostruzione su base aggiornata.
+- Le PR #29 e #31 risultano merged e i loro contenuti sono già in `main`. L'ispezione della PR #12 ha mostrato che le sue principali correzioni sulle fonti, sulle Fiere, sui Bruciati, su Dominic e sulle due vie per diventare Vera Fiera sono già presenti in `main`; i riferimenti obsoleti a L16 sono stati successivamente risolti con `Misfit`. Non mergiare la PR #12 o #14 in blocco: sono tranche storiche superate.
+- Branch da riconciliare semanticamente: `audit/ishvard-karsh-source-gap-2026-10-13` è in gran parte superato dalle PR #29/#31 e #35; `audit/cosmology-boundary-2026-10-15` ha prodotto la PR #33. I branch storici delle PR squash-merged non vanno considerati lavoro mancante solo perché i loro SHA non compaiono nella storia lineare di `main`.
+- **Blocco tecnico sulla cancellazione dei branch:** il repository ha `delete_branch_on_merge=false`; gli strumenti GitHub disponibili in questa sessione non espongono un'azione di cancellazione dei branch/ref. I merge sono verificati, ma non posso dichiarare cancellati i branch. Per evitare di ripetere questo problema, va abilitata la cancellazione automatica dei branch dopo il merge nelle impostazioni GitHub oppure va eseguita la cancellazione da un'interfaccia/API con permessi di scrittura.
+- Prossimo passo: verificare il residuo di PR #12/#14 file per file, classificare gli altri branch non associati a PR, aggiornare il checkpoint a ogni tranche e continuare la verifica semantica. L'audit complessivo non è ancora completato; D3/D4 restano non reperibili.
