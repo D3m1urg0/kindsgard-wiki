@@ -431,3 +431,11 @@ Il confronto fra `Deflecte Cantum`, `Tradizioni` e `Cosmologia` ha rilevato un'e
 
 - La cancellazione automatica nativa di GitHub risulta disattivata e la connessione corrente non espone una mutazione per eliminare refs. Per applicare la regola richiesta alle PR future, è stata preparata la workflow `.github/workflows/delete-merged-branch.yml`: cancella il branch head solo dopo una PR merged, solo se appartiene allo stesso repository e non è il branch predefinito.
 - La workflow è stata estesa con una scansione giornaliera dei branch associati a PR merged: elimina solo se il branch esiste ancora allo stesso SHA della PR merged, non ha PR aperte, appartiene al repository e non è il branch predefinito. La pulizia arretrata resta da verificare dal primo run schedulato.
+
+
+## Verifica pulizia branch — 2026-10-15, dopo PR #45
+
+- PR #45 è stata integrata con squash; la workflow `Validate Quartz wiki` sul branch PR ha concluso `success`.
+- Verifica effettiva della workflow `Delete merged pull request branches`: run `38722940799` concluso `success`; il branch `maintenance/prune-merged-branch-backlog-2026-10-15` non compare più nell'elenco dei branch remoti dopo il run. La cancellazione automatica post-merge è quindi verificata almeno su questo caso.
+- Il job schedulato giornaliero è stato aggiunto per ripulire i branch storici delle PR merged, ma il primo run schedulato non è ancora avvenuto. I branch delle PR #42–#44 che sono rimasti dopo i rispettivi merge devono essere ricontrollati dopo il primo run.
+- Resta un branch senza PR associata, `audit/ishvard-karsh-source-gap-2026-10-13`: il contenuto è superato da `main`, ma non verrà cancellato dalla routine che elimina solo branch corrispondenti esattamente all'head di una PR merged. La sua pulizia richiede un'azione esplicita tramite un'interfaccia con permessi di cancellazione.
