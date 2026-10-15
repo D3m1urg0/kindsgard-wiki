@@ -68,33 +68,3 @@ jobs:
               gh api --method DELETE "repos/${REPOSITORY}/git/refs/heads/${branch}"
             done
 
-          # One-time allowlist: these closed/superseded or orphaned branches were
-          # reviewed against main; their useful changes are already integrated or
-          # their content is explicitly obsolete. Delete only if the ref is still
-          # exactly at the reviewed SHA and no open PR uses it.
-          while read -r branch expected_sha; do
-            [[ -n "${branch}" ]] || continue
-            [[ "${branch}" == "${DEFAULT_BRANCH}" ]] && continue
-            if [[ "${branch}" == "${CURRENT_BRANCH}" ]]; then
-              continue
-            fi
-            current_sha="$(gh api "repos/${REPOSITORY}/git/ref/heads/${branch}" --jq '.object.sha' 2>/dev/null || true)"
-            if [[ -z "${current_sha}" || "${current_sha}" != "${expected_sha}" ]]; then
-              continue
-            fi
-            open_prs="$(gh api --method GET "repos/${REPOSITORY}/pulls" -f state=open -f "head=${REPOSITORY}:${branch}" -f per_page=100 --jq 'length')"
-            if [[ "${open_prs}" != "0" ]]; then
-              continue
-            fi
-            echo "Deleting explicitly audited obsolete branch ${branch} (head ${expected_sha})"
-            gh api --method DELETE "repos/${REPOSITORY}/git/refs/heads/${branch}"
-          done <<'EOF'
-          audit/source-inventory-and-baptism-consistency 8cb9aa509ae08aca8497cca9de858de22c38135b
-          audit/coerenza-battesimo-pagine-potere ddc4da80ebc7bdd61e952c25d9c1e41f66dab89b
-          audit/ishvard-karsh-chronology-reconcile-2026-10-15 df033a2c9e9b9781aace76d41a18476ba1705dc5
-          audit/deflecte-cantum-vectors-2026-10-15 59ab21728306928a4400e51627bfee35ee01c360
-          audit/ishvard-karsh-source-gap-2026-10-13 931c48514443ed4e7a21c2cf5a9db07495bdc0d6
-          maintenance/auto-delete-merged-pr-branches-2026-10-15 41bae02a1305886a1a5fb6290eda36d3e2883860
-          audit/page-semantic-pass-2026-10-15 beefd8e6cd36132cda870d20c6fa8e4be3cb2a7a
-          audit/quarantine-fiamme-and-sources-2026-10-13 09b432ac75ab99d3d733188134ad18e78f3e3d83
-          EOF
