@@ -682,3 +682,8 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - In `Dominic Draco`, `Cronologia` e `Le Ere del Kindsgard`, distinta la relazione verificabile tra lo scontro Libertà/Dominio e gli Echi dalla specifica affermazione sulla morte del Guardiano-Re legato a uno Spettro. Quest'ultima resta nella ricostruzione wiki, ma non è verificabile direttamente contro le fonti accessibili perché D3/D4 non sono reperibili.
 - Nessuna fonte originale modificata; aggiornata la tracciabilità della matrice e del checkpoint.
+
+
+## 2026-10-15 — Chiarezza dei segnaposto cronologici
+
+- Sostituite in `Cronologia` le etichette «Anno X» con diciture che esplicitano l'assenza di una data assoluta verificata. Nessun anno è stato inventato e la sequenza relativa degli eventi resta invariata.

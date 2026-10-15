@@ -519,3 +519,9 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - Confrontate le occorrenze in `content/personaggi/dominic-draco.md`, `content/storia/cronologia.md` e `content/storia/ere.md` con `Cronistoria del Kindsgard (versione breve)`, `Inktober 2019 #Legend` e `draghieri-spiegazione.md`.
 - Le fonti accessibili attestano lo scontro tra Libertà e Dominio e gli Echi che incidono sul Kindsgard; non confermano direttamente la specifica affermazione sulla morte del Guardiano-Re legato a uno Spettro. Tale dettaglio è mantenuto come elemento della ricostruzione wiki preesistente e marcato come non verificato contro fonte primaria, in attesa dei testi D3/D4 mancanti.
 - Nessuna fonte originale è stata modificata e nessun contenuto esterno è stato aggiunto. Prossimo passo: continuare la verifica delle affermazioni dipendenti da D3/D4.
+
+
+## Verifica redazionale — segnaposto cronologici, 2026-10-15
+
+- In `content/storia/cronologia.md`, sostituite le etichette editoriali «Anno X» con formulazioni esplicite di collocazione assoluta non determinata. Le voci non assegnano date nuove e mantengono l'ordine relativo già descritto.
+- Aggiornata la nota metodologica e la matrice. Nessuna fonte originale è stata modificata; il segnaposto non va interpretato come anno canonico o numero romano.
