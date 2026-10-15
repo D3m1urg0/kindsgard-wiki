@@ -11,6 +11,8 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuo
 
 > *"Ab Necessitate Excusi" — Giustificati dalla Necessità. Dal Fuoco alla Vita.*
 
+> **Nota di provenienza:** «Dal Fuoco alla Vita» è riportato nella sintesi wiki ma non è stato rintracciato nelle 29 fonti attualmente disponibili. La sua attestazione primaria resta da verificare; D4 e il riferimento legacy Draghieri/Vere Fiere non sono reperibili.
+
 ---
 
 ## Panoramica
