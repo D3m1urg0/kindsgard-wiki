@@ -492,3 +492,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - In `Città-Alveare`, rimosse la soglia non attestata «sciami di migliaia» e la frequenza assoluta «attacchi a ritmo costante». La voce conserva la funzione difensiva e gli attacchi ricorrenti documentati senza inventare misure o periodicità.
 
 - Registrata in `Fonti e Decisioni Canoniche` la lacuna di provenienza per `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest`: non rintracciati nelle 29 fonti attuali; possibile dipendenza da D4 o dal documento legacy Draghieri/Vere Fiere, non dimostrata. `Ab Necessitate Excusi` è invece attestato in Inktober 2018/2019.
+
+- Aggiunta una nota di provenienza in `Draghieri`, `Vere Fiere` e `Tradizioni, Canti e Motti`: `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest` restano motti riportati dalla sintesi wiki, ma la loro attestazione primaria non è stata rintracciata nel corpus corrente. Non sono stati rimossi né dichiarati non canonici.
