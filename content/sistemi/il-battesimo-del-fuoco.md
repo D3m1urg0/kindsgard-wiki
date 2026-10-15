@@ -3,7 +3,7 @@ titolo: "Il Battesimo del Fuoco"
 categoria: "sistemi"
 tag: [battesimo, fierezza, maestà, draghieri, vere-fiere, meccanica]
 status: "revisionato"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-15"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Fierezza", "Cronistoria_versione_breve", "Inktober_2018"]
 ---
 
@@ -46,7 +46,7 @@ La trasformazione sovrascrive quasi interamente la personalità originaria dell'
 
 ### Il Nome e il Numero
 
-Ogni Draghiere porta un nome con la stessa iniziale della propria Fiera (es. **W**ade **W**yrm, **C**aitlin **C**himera, **B**ran **B**ehemoth). Il numero progressivo indica quanti Draghieri della stessa specie lo hanno preceduto nella storia del Kindsgard.
+Ogni Draghiere porta un nome con la stessa iniziale della propria Fiera (es. **W**ade **W**yrm, **C**aitlin **C**himera, **B**ran **B**ehemoth). Il numero progressivo indica la posizione del Draghiere nella sequenza storica della propria specie.
 
 Il conteggio è **per-specie**, non globale. Wade Wyrm è il 33° Draghiere della Viverna, non il 33° Draghiere in assoluto.
 
