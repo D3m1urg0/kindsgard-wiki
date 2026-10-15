@@ -3,7 +3,7 @@ titolo: "Frederick Fenice"
 categoria: "personaggi"
 tag: [frederick-fenice, draghieri, fenice, guardiano, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-10-15"
 fonti: ["D3-cronistoria-ooc", "Una_Missiva_dall_Anello", "Risveglio_del_Drago", "Solitudine"]
 ---
 
@@ -49,4 +49,4 @@ La grafia canonica è **Frederick Fenice**. Le varianti "Frederic" e "Friederich
 
 ## Relazioni
 - Compagni documentati: [[Wade Wyrm]], [[Dominic Draco]]
-- Vedi anche: [[Specie Fenice]], [[storia/ere#il-primo-anno-della-fenice|Le Ere del Kindsgard — Primo Anno della Fenice]]
+- Vedi anche: [[Specie Fenice]], [[Le Ere del Kindsgard#il-primo-anno-della-fenice|Le Ere del Kindsgard — Primo Anno della Fenice]]
