@@ -11,7 +11,7 @@ voci-wiki-collegate: ["Tradizioni, Canti e Motti", "Dominic Draco", "Frederick F
 
 # Deflecte Cantum (il ritorno dei Draghieri)
 
-> *Canzone che celebra il ritorno dei Draghieri su Vilegis dopo la collaborazione con le Vere Fiere, la forgiatura di Espediente e l'ascesa di Re Draco. Alcune strofe contengono note di Pietro Caruso che le marcano come errate o da ignorare — segnalate nel testo.*
+> *La sintesi wiki associa questa canzone al ritorno dei Draghieri su Vilegis, alla collaborazione con le Vere Fiere e all'ascesa di Re Draco. Il testo menziona il Fondamento e «sei vettori in tredici affondi»; non esplicita da solo se «espedienti» indichi l'arma Espediente o il termine comune. Alcune strofe sono marcate da Pietro Caruso come errate o da ignorare.*
 
 ---
 
