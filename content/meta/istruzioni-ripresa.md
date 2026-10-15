@@ -346,3 +346,5 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - Per evitare che motti non rintracciati siano presentati come attestati da fonti primarie, aggiunta una nota di provenienza in `Draghieri`, `Vere Fiere` e `Tradizioni, Canti e Motti` per `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest`. Le formule restano riportate nella sintesi wiki, ma la fonte primaria non è stata trovata nelle 29 fonti disponibili; D4 e il riferimento legacy Draghieri/Vere Fiere restano non reperiti.
 
 - `content/storia/cronologia.md`: qualificato il rapporto temporale 100:1 fra Lunaria e Kindsgard. È presente nella sintesi wiki, ma non è verificabile direttamente perché la Cronistoria OOC (D3) non è reperibile; resta un dato riportato dalla sintesi, non una misura confermata dalle fonti accessibili.
+
+- `content/mondo/geografia.md`: attribuita esplicitamente alla prospettiva collettiva in-world di `Ciò che sanno i Draghieri` la descrizione del Bordo come area in cui quasi nulla cresce o vive e come rifugio originario degli Umani. Il testo fonte non è stato modificato.
