@@ -340,3 +340,5 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - `content/mondo/citta-alveare.md`: riallineata anche la descrizione delle gallerie a `Inktober 2019 #Pattern` e alla scheda Zaratan. La fonte associa la forma dei tunnel al carapace ma non dice che la Fiera li abbia scavati; rimossa l'attribuzione causale certa.
 
 - `content/mondo/citta-alveare.md`: qualificate anche due generalizzazioni non misurate: le difese sono predisposte a contrastare sciami, ma le fonti non fissano una soglia numerica di resistenza; gli attacchi sono ricorrenti nel corpus, ma non ne è stabilita una frequenza costante.
+
+- `content/meta/fonti.md`: registrato un rilievo di tracciabilità per i motti `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest`. La ricerca testuale non li ha rintracciati nelle 29 fonti presenti; la loro provenienza potrebbe dipendere da D4 o dal riferimento legacy Draghieri/Vere Fiere, ma ciò non è dimostrato. `Ab Necessitate Excusi` è invece attestato in Inktober 2018/2019. Non eliminare i motti né considerarli primariamente verificati finché la provenienza non è chiarita.
