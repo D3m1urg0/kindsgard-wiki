@@ -634,3 +634,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Il run `38724168648` della nuova workflow ha fallito nella scansione dei branch per una query alle PR aperte formulata con `gh api -f` senza `--method GET`; il job di cancellazione diretta del branch corrente è riuscito. Corretto il metodo della query e lasciata aperta la verifica del pruning al prossimo merge.
 - In `Città-Alveare`, la difficoltà di accesso e rifornimento dovuta alla posizione montuosa è ora esplicitamente una deduzione logistica, non un dettaglio attestato da fonte.
+
+
+## 2026-10-15 — Pruning riuscito e riconciliazione degli ultimi branch
+
+- La workflow corretta ha concluso con successo il run `38724512069`; il repository è passato da 46 branch non-main a 2, cancellando i branch merged con head invariato e quelli superseded/orfani esplicitamente verificati.
+- Confrontati file per file i due branch rimasti senza PR associata: `audit/page-semantic-pass-2026-10-15` e `audit/quarantine-fiamme-and-sources-2026-10-13`. Non contengono correzioni narrative uniche da integrare; sono versioni precedenti di contenuti ora più accurati in `main`. Aggiunti alla allowlist one-shot con SHA verificato, per rimozione al prossimo merge se non modificati e senza PR aperte.
