@@ -687,3 +687,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 ## 2026-10-15 — Chiarezza dei segnaposto cronologici
 
 - Sostituite in `Cronologia` le etichette «Anno X» con diciture che esplicitano l'assenza di una data assoluta verificata. Nessun anno è stato inventato e la sequenza relativa degli eventi resta invariata.
+
+
+## 2026-10-15 — Qualificazione delle regole del Battesimo dipendenti da D4
+
+- In `Fierezza e Maestà`, la regola di un solo Battesimo per specie in un dato periodo e il ruolo dello Spettro nell'orientamento dell'infusione sono mantenuti come elementi della ricostruzione wiki, ma qualificati come non verificabili direttamente finché D4 non è reperita.
+- Distinta questa lacuna dalla documentazione diretta dell'eccezione di Wade in `Risveglio del Drago`. Nessuna fonte originale modificata.
