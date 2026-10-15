@@ -654,3 +654,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Corretto il profilo delle Colture in base a `Inktober 2024 #Exotic`: sistema chiuso per le Fitofiere necessarie al sostentamento, quattro individuate, Amaranthus Cruentus la più importante. Rimosse le generalizzazioni non provate «quattro specie commestibili» e «unico sistema organizzato di produzione alimentare».
 - Rimossa l'affermazione generale che le Catene Montuose Orientali siano habitat dei Behemoth; la presenza/attività di Bran Behemoth non prova da sola un habitat di specie esteso all'intera catena.
+
+
+## 2026-10-15 — Qualificazione documentale di Mondo Ancora e Guardiani
+
+- In `Cosmologia`, la relazione con Mondo Ancora e la manifestazione dei tredici vettori/Guardiani restano nella ricostruzione wiki, ma sono esplicitamente marcate come non verificabili direttamente senza i testi D3/D4 mancanti.
+- La formulazione non è stata eliminata né sostituita con ipotesi esterne; nessuna fonte narrativa originale è stata modificata. Aggiornato il registro di copertura e il checkpoint operativo.
