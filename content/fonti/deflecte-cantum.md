@@ -11,7 +11,7 @@ voci-wiki-collegate: ["Tradizioni, Canti e Motti", "Dominic Draco", "Frederick F
 
 # Deflecte Cantum (il ritorno dei Draghieri)
 
-> *Canzone che celebra il ritorno dei Draghieri su Vilegis dopo la collaborazione con le Vere Fiere, la forgiatura di Espediente e l'ascesa di Re Draco. Alcune strofe contengono note di Pietro Caruso che le marcano come errate o da ignorare — segnalate nel testo.*
+> *La sintesi wiki associa questa canzone al ritorno dei Draghieri su Vilegis, alla collaborazione con le Vere Fiere e all'ascesa di Re Draco. Il testo menziona il Fondamento e «sei vettori in tredici affondi»; non esplicita da solo se «espedienti» indichi l'arma Espediente o il termine comune. Alcune strofe sono marcate da Pietro Caruso come errate o da ignorare.*
 
 ---
 
@@ -107,4 +107,4 @@ La canzone narra in sequenza: caduta dell'Anello durante il Primo Secolo del Dra
 - *"Tema i suoi figli la dea"* — marcata come errata da Pietro Caruso.
 - Strofa *"Stretta nel pugno la lancia possente"* — marcata come errata da Pietro Caruso ("ignoratele per ora"). Potrebbe riferirsi alla meccanica della forgiatura dell'arma Espediente in modo impreciso.
 
-Le strofe non marcate sono canoniche. I "sei vettori che in tredici affondi il Primo Eroe dovrà unir" descrive il procedimento dell'assorbimento dei 13 Guardiani da parte di [[Dominic Draco]] tramite l'arma [[Fierezza e Maestà|Espediente]].
+Le strofe non marcate sono canoniche, fatta salva la cautela delle note esplicite di Pietro Caruso. Il testo menziona "sei vettori in tredici affondi" e il Fondamento che deve fluire verso il Giardino, ma non identifica i sei vettori né li equipara esplicitamente ai sette vettori originari del Kindsgard o ai tredici Guardiani. La lettura secondo cui la strofa descriva l'assorbimento dei tredici Guardiani da parte di [[Dominic Draco]] tramite l'arma [[Fierezza e Maestà|Espediente]] è un'interpretazione wiki plausibile, non una dichiarazione diretta della canzone; mantenerla provvisoria finché una fonte o il proprietario non chiarisce il rapporto.

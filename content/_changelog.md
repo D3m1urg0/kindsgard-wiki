@@ -578,3 +578,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - `Inktober 2019 #Ornament` descrive il raduno al tempio durante una piena autunnale e dice che la piena ricorre ogni autunno; non dichiara in modo esplicito la periodicità del Giorno del Bisogno stesso.
 - La pagina `Tradizioni` non presenta più la festività come annuale né gli Umani come destinatari di doni già ricevuti: il testo ora distingue il permesso di fare un dono/soddisfare un piccolo desiderio dalla cadenza non specificata della festività.
+
+
+## 2026-10-15 — Ambiguità sui sei vettori di `Deflecte Cantum`
+
+- La fonte parla di “sei vettori in tredici affondi” e del Fondamento che fluisce verso il Giardino, ma non identifica i sei vettori né li equipara esplicitamente ai sette vettori originari del Kindsgard o ai tredici Guardiani successivi.
+- Qualificata la precedente interpretazione wiki come provvisoria e aggiunta L21 alle decisioni documentali da chiarire; nessuna corrispondenza è stata inventata. La parola «espedienti» non è stata trattata come attestazione certa della forgiatura dell'arma Espediente.
