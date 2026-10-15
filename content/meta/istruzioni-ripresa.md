@@ -336,3 +336,5 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - La matrice `content/meta/audit-copertura-pagine.md` è aggiornata per questa voce. Il confronto diretto delle citazioni prosegue; non si dichiara completata la verifica integrale della pagina.
 
 - `content/mondo/citta-alveare.md`: rimosse la datazione «in tempi immemori» e l'attribuzione della fondazione ai Draghieri della Covata, non sostenute dalle fonti elencate nella voce. La presenza della struttura e il presidio di Bartholomew Brood sono attestati da `Prevedibilità (covata)`; la data e i fondatori originari restano ignoti nel corpus disponibile.
+
+- `content/mondo/citta-alveare.md`: riallineata anche la descrizione delle gallerie a `Inktober 2019 #Pattern` e alla scheda Zaratan. La fonte associa la forma dei tunnel al carapace ma non dice che la Fiera li abbia scavati; rimossa l'attribuzione causale certa.
