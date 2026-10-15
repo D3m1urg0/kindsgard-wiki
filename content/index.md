@@ -33,7 +33,7 @@ Per ricaricare il contesto in una nuova sessione di lavoro, caricare sempre:
 
 ### Il Mondo
 - [[Cosmologia]] — Natura, Bisogno, Espediente, Fondamento, Spettri
-- [[Geografia]] — luoghi, regioni, strutture
+- [[Geografia del Kindsgard]] — luoghi, regioni, strutture
 
 ### Cultura
 - [[Religioni e Spiritualità]] — religione, Bisogno e prospettive dei Draghieri e delle Vere Fiere
