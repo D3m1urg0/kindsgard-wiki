@@ -545,3 +545,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Il confronto diretto con `Inktober 2019 #Snow` ha mostrato che la scheda della Loccia negava erroneamente la presenza di un habitat glaciale e non registrava la dentatura, benché la fonte descriva una bestia acquatica piena di denti nei ghiacciai perenni del Nord.
 - Corretta la scheda e mantenuta distinta la questione lessicale fra “Lochs” in `Inktober 2018 #Flowing` e “Loccia” in `#Snow`, che le fonti non equiparano esplicitamente.
+
+
+## 2026-10-15 — Merge PR #37 e consolidamento L11
+
+- Integrata la PR #37 dopo esito positivo del workflow Quartz: la scheda della Loccia ora riflette la descrizione esplicita di `Inktober 2019 #Snow` (bestia acquatica, dentatura, ghiacciai perenni del Nord, sorgenti dei fiumi). Resta aperta la relazione terminologica con “Lochs” in `Inktober 2018 #Flowing`.
+- Consolidata L11 per raccogliere i due identificatori OOC non riconciliati: `Copia_di_I_Draghieri_del_kindsgard` e `Draghieri_Vere_Fiere_del_Kindsgard`. Nessuna fonte originale è stata modificata o sostituita.
