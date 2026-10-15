@@ -348,3 +348,13 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - `content/storia/cronologia.md`: qualificato il rapporto temporale 100:1 fra Lunaria e Kindsgard. È presente nella sintesi wiki, ma non è verificabile direttamente perché la Cronistoria OOC (D3) non è reperibile; resta un dato riportato dalla sintesi, non una misura confermata dalle fonti accessibili.
 
 - `content/mondo/geografia.md`: attribuita esplicitamente alla prospettiva collettiva in-world di `Ciò che sanno i Draghieri` la descrizione del Bordo come area in cui quasi nulla cresce o vive e come rifugio originario degli Umani. Il testo fonte non è stato modificato.
+
+
+## Checkpoint operativo — 2026-10-15
+
+- `main` di riferimento all'avvio della tranche: `b154afd63e4c2734806931ad81249120f7cce94f`.
+- PR #33 aperta dal branch `audit/cosmology-boundary-2026-10-15`: separa il cataclisma attestato del Kindsgard dall'identificazione non verificata con la Rovina esterna e qualifica il rapporto temporale 100:1. Non considerarla integrata finché workflow e merge non sono verificati.
+- Riconciliazione Ishvard/Karsh preparata nel branch `audit/ishvard-karsh-chronology-reconcile-2026-10-15`: la cronologia e la pagina delle Ere davano due date differenti; entrambe sono state neutralizzate, e la frase «unicum narrativo, non ripetibile» rimossa perché non provata da una singola attestazione. La PR va aperta dopo un controllo del diff e dei controlli automatici.
+- Le PR #29 e #31 sono verificate come merged; i loro interventi di fedeltà delle fonti e passata semantica sono già in `main`.
+- Vincolo di manutenzione: dopo ogni merge, eliminare il branch di lavoro solo dopo aver verificato il merge su `main`; per branch storici senza PR, prima confrontare semanticamente e registrare se il contenuto è già superato o va recuperato. L'integrazione via squash non rende automaticamente utili o inutili i branch storici.
+- Prossimo passo: aprire PR per Ishvard/Karsh, attendere i workflow di #33 e della nuova PR, integrare solo se i controlli passano; poi confrontare PR #12/#14 e continuare l'audit semantico.
