@@ -34,7 +34,7 @@ La caverna principale interna — uno spazio immenso i cui muri sono tappezzati 
 Un reticolo di tunnel sotterranei si estende per miglia attorno alla struttura. In alcuni incroci, il bordo a metà altezza dei tunnel corrisponde alla forma del carapace dello [[Fiere — Voci Stub|Zaratan]]; la fonte suggerisce un'associazione, ma non afferma che la Fiera abbia scavato i tunnel. Il sottosuolo è territorio incontrollato, ricco di insidie.
 
 ### Le Difese Esterne
-Bocche da fuoco su ogni apertura. Sistemi di leve e contrappesi per le porte principali. Sacchi di sostanze incendiarie e feromoni. Cannoni (distrutti durante l'attacco di Draco). La struttura era progettata per resistere a sciami di migliaia di Fiere insettiformi.
+Bocche da fuoco su ogni apertura. Sistemi di leve e contrappesi per le porte principali. Sacchi di sostanze incendiarie e feromoni. Cannoni (distrutti durante l'attacco di Draco). Le difese sono predisposte a contrastare attacchi di sciami; le fonti non fissano una capacità numerica standard di resistenza.
 
 ---
 
@@ -52,7 +52,7 @@ Bocche da fuoco su ogni apertura. Sistemi di leve e contrappesi per le porte pri
 
 ## Note Operative
 
-La Città-Alveare è un **faro nell'est del Kindsgard** ma anche un **vaso di miele**: il suo odore e la presenza Umana attraggono Fiere continuamente. Le ondate di attacchi si susseguono a ritmo costante. La difesa richiede la presenza permanente di Draghieri specializzati nella coordinazione di sciami.
+La Città-Alveare è un **faro nell'est del Kindsgard** ma anche un **vaso di miele**: le fonti la presentano come un presidio che attira Fiere. Gli attacchi ricorrenti sono documentati, ma il corpus non ne stabilisce una frequenza costante o una misura standard. La difesa richiede la presenza di Draghieri specializzati nella coordinazione di sciami.
 
 ---
 
