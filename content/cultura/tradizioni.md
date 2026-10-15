@@ -3,7 +3,7 @@ titolo: "Tradizioni, Canti e Motti"
 categoria: "cultura"
 tag: [cultura, tradizioni, canti, motti, rituali]
 status: "revisionato"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-10-15"
 fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_Wade", "Annali_dell_Artiglio_di_Fuoco", "Pezzo_del_rituale_-_Chimera", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
 ---
 
@@ -20,6 +20,8 @@ fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_
 **"Dal Fuoco alla Vita"** — Secondo motto, spesso usato insieme al primo. Richiama il [[Il Battesimo del Fuoco|Battesimo del Fuoco]] come atto fondante.
 
 **"Omnia praedae fieri Potest"** — *Tutto può diventare preda.* Motto condiviso con le [[Vere Fiere]], che lo interpretano letteralmente come diritto di predare.
+
+**Nota di provenienza:** anche «Dal Fuoco alla Vita» e «Omnia praedae fieri Potest» compaiono nella sintesi wiki, ma non sono stati rintracciati nelle 29 fonti disponibili. Restano motti riportati dalla documentazione secondaria, con attestazione primaria da verificare; D4 e il riferimento legacy Draghieri/Vere Fiere non sono reperibili.
 
 **"Deflecte Cantum"** — *Devia il Canto.* Motto usato specificamente nel contesto di Vilegis, richiama la capacità di resistere e ridirigere le forze avverse. Usato come saluto/augurio tra i Draghieri su Vilegis: *"Deflecte Cantum, Dani. Resisti."* (`Inktober 2024 #Passport`).
 
