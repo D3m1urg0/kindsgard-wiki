@@ -3,7 +3,7 @@ titolo: "Caitlin Chimera"
 categoria: "personaggi"
 tag: [caitlin-chimera, draghieri, chimera, personaggio]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-10-15"
 fonti: ["Pezzo_del_rituale_-_Chimera", "Riflessioni", "Onda_bianca", "Inktober_2019", "Inktober_2018"]
 ---
 
