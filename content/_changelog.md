@@ -713,3 +713,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - La lettura integrale di `Inktober 2019 #Legend` conferma direttamente tredici Guardiani, la loro distribuzione fra Draghieri, Fiere e Vere Fiere, e le tredici scintille raccolte da Espediente. Aggiornate le pagine cosmologiche e storiche che lasciavano incerta la composizione per categorie.
 - Distinta questa attestazione dall'interpretazione che identifica le scintille con i «vettori» collegati al Fondamento: la canzone non dichiara esplicitamente tale equivalenza. Il riferimento a Mondo Ancora resta una ricostruzione non verificabile senza D3/D4.
+
+- Aggiornata L17 in `Domande Aperte e Lacune` per separare il fatto direttamente attestato dei tredici Guardiani dalla lettura interpretativa che li identifica con i vettori collegati al Fondamento.
