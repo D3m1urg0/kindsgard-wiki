@@ -439,3 +439,8 @@ Il confronto fra `Deflecte Cantum`, `Tradizioni` e `Cosmologia` ha rilevato un'e
 - Verifica effettiva della workflow `Delete merged pull request branches`: run `38722940799` concluso `success`; il branch `maintenance/prune-merged-branch-backlog-2026-10-15` non compare più nell'elenco dei branch remoti dopo il run. La cancellazione automatica post-merge è quindi verificata almeno su questo caso.
 - Il job schedulato giornaliero è stato aggiunto per ripulire i branch storici delle PR merged, ma il primo run schedulato non è ancora avvenuto. I branch delle PR #42–#44 che sono rimasti dopo i rispettivi merge devono essere ricontrollati dopo il primo run.
 - Resta un branch senza PR associata, `audit/ishvard-karsh-source-gap-2026-10-13`: il contenuto è superato da `main`, ma non verrà cancellato dalla routine che elimina solo branch corrispondenti esattamente all'head di una PR merged. La sua pulizia richiede un'azione esplicita tramite un'interfaccia con permessi di cancellazione.
+
+
+## Riconciliazione finale del branch Ishvard/Karsh — 2026-10-15
+
+Il branch `audit/ishvard-karsh-source-gap-2026-10-13` è stato confrontato file per file con `main`. Le sue formulazioni su Ishvard/Karsh non vanno recuperate perché `main` ha già neutralizzato la datazione discordante e rimosso l'inferenza di irripetibilità. Il confronto ha però evidenziato omissioni di tracciabilità nei campi `fonti`: `Risveglio_del_Drago` mancava da `Fierezza e Maestà`, `draghieri-spiegazione` mancava da `Il Battesimo del Fuoco` e `Elenco_Draghieri_Conosciuti` mancava da `Le Ere del Kindsgard`. Queste sole aggiunte sono state riapplicate su un branch pulito basato su `main`.
