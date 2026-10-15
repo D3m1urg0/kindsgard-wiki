@@ -393,3 +393,8 @@ La PR #36 è stata integrata nel commit `06be257a31ff3691e73cef8fb623d1ab8463028
 ## Verifica semantica — Loccia, 2026-10-15
 
 La verifica diretta ha rilevato e corretto la negazione non corretta nella scheda della Loccia: `Inktober 2019 #Snow` attesta bestia acquatica, dentatura, ghiacciai perenni del Nord e sorgenti dei fiumi. PR #37 è integrata con workflow Quartz `success`. Resta non esplicitata nelle fonti l'equivalenza terminologica fra “Lochs” e “Loccia”.
+
+
+## Verifica semantica — Falenottere, 2026-10-15
+
+Nel confronto delle fonti Inktober la scheda definiva le Falenottere “insettiformi”, ma `Inktober 2019 #Frail` parla di Fiere insettiformi in generale senza attribuire direttamente quella morfologia alle Falenottere. La scheda è stata resa più prudente nel branch `audit/falenottere-morphology-source-check-2026-10-15`; luce, piccole dimensioni, ali e pungiglione restano descritti sulla base di `#Enchanted` e `Inktober 2018 #Drooling`.
