@@ -674,3 +674,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Risolta la contraddizione interna per cui `Religioni e Spiritualità` negava l'accessibilità della verità cosmologica a tutte le prospettive e subito dopo indicava Dominic Draco come eccezione. La formulazione distingue ora le prospettive ordinarie dall'eccezione documentata.
 - Nessuna fonte originale modificata; aggiornati matrice di copertura e checkpoint.
+
+- In `Religioni e Spiritualità`, la valutazione di Axsar come «teologo più lucido» è stata sostituita con una formulazione circoscritta alla testimonianza effettivamente presente in `Inktober 2019 #Ornament`.
