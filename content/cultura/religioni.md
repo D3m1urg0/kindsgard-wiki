@@ -50,7 +50,7 @@ Esistono figure religiose dedicate al culto di Bisogno — i **monaci** che abit
 
 I [[Draghieri]] non adorano Fierezza: la incarnano. La loro relazione con Fierezza non è devozionale ma strutturale — è ciò che sono, non ciò in cui credono. Wade Wyrm nel saggio "Fierezza: il Dio che è in noi" tenta di articolare questa relazione, ma il documento rimane incompiuto. Le fonti non permettono di stabilire se l'interruzione rifletta una difficoltà intrinseca del Draghiere a riflettere sulla propria natura o una semplice lacuna documentale.
 
-Il teologo più lucido tra i Draghieri è paradossalmente [[Axsar Aigokeros]], il cui approccio al tempio e agli Umani rivela una comprensione del sistema Bisogno/Espediente/Fierezza superiore alla media.
+La voce di [[Axsar Aigokeros]] è una delle testimonianze più esplicite disponibili sulla pratica religiosa degli Umani: il suo approccio al tempio e ai desideri essenziali è descritto in `Inktober 2019 #Ornament`. Definirlo «il più lucido» fra i Draghieri o attribuirgli una comprensione superiore alla media sarebbe un giudizio comparativo non dimostrato dal corpus.
 
 ---
 
