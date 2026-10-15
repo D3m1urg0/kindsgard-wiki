@@ -104,6 +104,8 @@ Lo schema ordinario e alcuni dettagli sono stati chiariti dall'utente e non vann
 
 Restano invece aperti i fattori che determinano l'esito individuale del Battesimo, i dettagli dei Bruciati e il meccanismo dell'evento eccezionale narrato in `Risveglio del Drago`: Wade si reincarna come Vera Viverna senza uccidere una Viverna e mentre il suo sé umano è ancora vivo su Vilegis. Il testo documenta l'evento, ma non ne spiega completamente la causa.
 
+La collocazione cronologica di Ishvard/Karsh è inoltre discordante nelle due sintesi wiki: `Cronologia` lo collocava nel Primo Secolo del Draco, mentre `Le Ere del Kindsgard` lo collocava nel Primo Secolo dell'Orso. Entrambe le datazioni sono state neutralizzate in attesa di una fonte primaria. Non è una domanda per il proprietario finché D3/D4 restano non reperibili.
+
 La documentazione residua da recuperare riguarda anche la formulazione esatta in D3/D4, i cui file originali non sono disponibili nel repository consultato.
 
 
