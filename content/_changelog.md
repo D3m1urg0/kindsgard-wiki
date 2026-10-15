@@ -599,3 +599,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Preparata la workflow `.github/workflows/delete-merged-branch.yml` per eliminare automaticamente il branch interno associato a una PR dopo il merge, con guardie per escludere branch esterni e branch predefinito.
 - La workflow è stata estesa con una scansione giornaliera per ripulire anche i branch storici associati a PR merged, solo quando il loro SHA corrente coincide con l'head della PR, non ci sono PR aperte e il branch è interno e non predefinito. Il primo run schedulato deve essere verificato.
+
+
+## 2026-10-15 — Verifica della pulizia automatica branch
+
+- PR #45 integrata; la validazione Quartz sul branch PR ha concluso `success`.
+- La workflow `Delete merged pull request branches` (run `38722940799`) ha concluso `success` e il branch sorgente della PR #45 è stato verificato assente dall'elenco remoto dopo il run.
+- La routine schedulata quotidiana ripulirà i branch storici solo quando il ref coincide esattamente con l'head di una PR merged e non ci sono PR aperte. Il primo run schedulato resta da verificare.
+- `audit/ishvard-karsh-source-gap-2026-10-13` resta un branch orfano senza PR associata, con contenuto superato da `main`; non è coperto dalla pulizia automatica dei branch di PR merged.
