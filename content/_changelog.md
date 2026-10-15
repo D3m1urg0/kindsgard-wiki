@@ -593,3 +593,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Confrontati con `main` i branch `audit/ishvard-karsh-source-gap-2026-10-13` e `audit/cosmology-boundary-2026-10-15`: entrambi contengono formulazioni superate e non vanno integrati così come sono. Le cautele sostanziali risultano già presenti in `main`.
 - La pulizia dei branch resta un'attività distinta: `delete_branch_on_merge=false` e la connessione GitHub disponibile non espone un'azione di cancellazione dei branch. Nessuna cancellazione viene dichiarata eseguita.
 - L'audit complessivo non è concluso: restano da verificare i branch non associati a PR, la copertura semantica delle pagine e le lacune che dipendono dal recupero di D3/D4 e di altre fonti non reperite.
+
+
+## 2026-10-15 — Automazione della pulizia dei branch
+
+- Preparata la workflow `.github/workflows/delete-merged-branch.yml` per eliminare automaticamente il branch interno associato a una PR dopo il merge, con guardie per escludere branch esterni e branch predefinito.
+- La workflow non elimina retroattivamente i branch storici già presenti. La pulizia arretrata resta aperta perché l'impostazione GitHub è disattivata e la connessione attuale non consente la cancellazione diretta dei refs.
