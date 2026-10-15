@@ -558,3 +558,5 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - Nessuna fonte originale modificata; nessun elemento esterno importato.
 
 - Aggiornato L17 dopo la lettura integrale di `Inktober 2019 #Legend`: l'esistenza e la distribuzione dei tredici Guardiani sono attestate direttamente; la loro equivalenza con i vettori collegati al Fondamento resta una questione interpretativa distinta. L'identità completa del gruppo e l'eventuale appartenenza di Frederick Fenice restano aperte.
+
+- Aggiornata anche L21: la distinzione fra sette vettori originari, tredici Guardiani/scintille e la formula «sei vettori in tredici affondi» è ora esplicita; l'identificazione delle tredici scintille con tredici vettori del Fondamento resta interpretativa.
