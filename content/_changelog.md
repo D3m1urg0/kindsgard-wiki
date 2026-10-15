@@ -715,3 +715,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Distinta questa attestazione dall'interpretazione che identifica le scintille con i «vettori» collegati al Fondamento: la canzone non dichiara esplicitamente tale equivalenza. Il riferimento a Mondo Ancora resta una ricostruzione non verificabile senza D3/D4.
 
 - Aggiornata L17 in `Domande Aperte e Lacune` per separare il fatto direttamente attestato dei tredici Guardiani dalla lettura interpretativa che li identifica con i vettori collegati al Fondamento.
+
+- Aggiornata L21 in `Domande Aperte e Lacune` per non trattare come fatto confermato l'equivalenza fra le tredici scintille/Guardiani di `Inktober 2019 #Legend` e tredici vettori collegati al Fondamento.
