@@ -3,7 +3,7 @@ titolo: "Fiere — Voci Stub"
 categoria: "fiere"
 tag: [fiere, stub, bestiario]
 status: "bozza"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-10-15"
 aliases: ["Fiere"]
 fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Prevedibilità__covata_", "Mostri", "Elenco_Draghieri_Conosciuti", "D4-guida-draghiere"]
 ---
@@ -64,7 +64,7 @@ Fiera aracniforme che caccia intrappolando le prede in tele complesse di fili bi
 Grande Fiera simile a un pipistrello, alta circa due volte e mezzo un Umano, ali escluse. In `Inktober 2018 #Angular` una Chiroptera viene trovata morta all'Artiglio con le ali rotte e una ferita penetrante al torace; il racconto non determina con certezza la causa della morte né l'origine del sangue nerastro. `Prevedibilità` descrive la cupola della Città-Alveare infestata da Chiroptera. Le fonti citate non attestano vulnerabilità specifiche al fuoco o alla luce, echolocalizzazione o caratteristiche dei giovani.
 
 ### Loccia
-Fiera associata a Laerius Loch, XV Draghiere della Loccia (`Elenco Draghieri`). In `Inktober 2018 #Flowing`, Brienne riferisce che una rete metallica caricata dai fulmini tiene lontane dalle dighe le creature chiamate nel racconto “Lochs” e le mantiene intorpidite. La fonte non descrive morfologia o dentatura e non stabilisce un habitat glaciale; il contesto è quello delle dighe e del Fiume Bianco.
+Fiera associata a Laerius Loch, XV Draghiere della Loccia (`Elenco Draghieri`). `Inktober 2019 #Snow` descrive direttamente la Loccia come una bestia d'acqua piena di denti, che vive nei ghiacciai perenni del Nord e infesta le sorgenti dei fiumi. In `Inktober 2018 #Flowing`, Brienne riferisce che una rete metallica caricata dai fulmini tiene lontane dalle dighe le creature chiamate nel racconto “Lochs” e le mantiene intorpidite. La relazione fra il termine “Lochs” e il nome di specie “Loccia” non è spiegata esplicitamente; non inferire altre caratteristiche oltre a quelle attestate.
 
 ### Alicanto
 Fiera alata. In `Inktober 2019 #Treasure`, un Umano entra in una caverna contenente un grande accumulo di oggetti metallici e incontra un Alicanto, riconoscendolo da una piuma lucente che riflette la luce del sole. Il racconto attesta la tana e il tesoro, ma non dice che la Fiera produca luce propria o accumuli intenzionalmente gli oggetti per attirare le prede; l'incontro è presentato come una minaccia mortale.

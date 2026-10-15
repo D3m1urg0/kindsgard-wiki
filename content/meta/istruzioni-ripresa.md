@@ -387,3 +387,8 @@ La PR #36 è stata integrata nel commit `06be257a31ff3691e73cef8fb623d1ab8463028
 - Registrato un ulteriore identificatore non riconciliato: `Draghieri_Vere_Fiere_del_Kindsgard`, usato nelle pagine Draghieri, Vere Fiere e Fierezza/Maestà. Potrebbe riferirsi al percorso mancante `content/fonti/draghieri-vere-fiere.md`, ma l'identità non è dimostrata; il riferimento è stato conservato e il dubbio aggiunto a `content/meta/fonti.md` e alla matrice.
 - I riferimenti D3/D4, gli Annali e `Copia_di_I_Draghieri_del_kindsgard` restano lacune documentali già registrate. Nessun riferimento è stato sostituito per inferenza.
 - Prossimo passo: proseguire la verifica semantica delle affermazioni delle pagine, mantenendo distinti i controlli di frontmatter, i confronti diretti con fonti e la verifica integrale di ogni affermazione. Il perimetro non è ancora chiuso.
+
+
+## Verifica semantica — Loccia, 2026-10-15
+
+Il confronto diretto fra `content/fiere/fiere-stub.md`, `Inktober 2018 #Flowing` e `Inktober 2019 #Snow` ha trovato una negazione non corretta: la scheda diceva che l'habitat glaciale non era attestato, mentre `#Snow` descrive la Loccia come bestia acquatica piena di denti che vive nei ghiacciai perenni del Nord e infesta le sorgenti. La correzione è preparata nel branch `audit/loccia-source-crosscheck-2026-10-15`; resta non esplicitata nelle fonti l'equivalenza terminologica fra “Lochs” e “Loccia”.
