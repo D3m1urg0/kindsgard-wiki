@@ -9,7 +9,9 @@ fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_
 
 # Tradizioni, Canti e Motti
 
-> *"Ab Necessitate Excusi — Dal Fuoco alla Vita."*
+> *"Ab Necessitate Excusi" — Giustificati dalla Necessità.*
+>
+> *"Dal Fuoco alla Vita"* — motto attribuito dalla sintesi wiki; attestazione primaria non verificata.
 
 ---
 
@@ -17,9 +19,9 @@ fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_
 
 **"Ab Necessitate Excusi"** — *Giustificati dalla Necessità.* Il motto principale dei [[Draghieri]]. Riassume la loro origine e il loro mandato: esistono perché il Bisogno li ha resi necessari, e da quella necessità traggono la loro legittimità.
 
-**"Dal Fuoco alla Vita"** — Secondo motto, spesso usato insieme al primo. Richiama il [[Il Battesimo del Fuoco|Battesimo del Fuoco]] come atto fondante.
+**"Dal Fuoco alla Vita"** — Secondo motto attribuito ai Draghieri dalla sintesi wiki; la sua provenienza primaria non è stata verificata. Il collegamento con il [[Il Battesimo del Fuoco|Battesimo del Fuoco]] è un'interpretazione coerente con la formula, non una spiegazione attestata da una fonte primaria.
 
-**"Omnia praedae fieri Potest"** — *Tutto può diventare preda.* Motto condiviso con le [[Vere Fiere]], che lo interpretano letteralmente come diritto di predare.
+**"Omnia praedae fieri Potest"** — *Tutto può diventare preda.* Motto attribuito dalla sintesi wiki ai Draghieri e alle [[Vere Fiere]], ma non rintracciato nelle fonti primarie disponibili. Non presentare l'attribuzione condivisa come verificata.
 
 **Nota di provenienza:** anche «Dal Fuoco alla Vita» e «Omnia praedae fieri Potest» compaiono nella sintesi wiki, ma non sono stati rintracciati nelle 29 fonti disponibili. Restano motti riportati dalla documentazione secondaria, con attestazione primaria da verificare; D4 e il riferimento legacy Draghieri/Vere Fiere non sono reperibili.
 

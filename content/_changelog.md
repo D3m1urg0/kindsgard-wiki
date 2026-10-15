@@ -561,3 +561,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 ## 2026-10-15 — Merge PR #38
 
 - Integrata la PR #38 dopo esito positivo del workflow Quartz: la scheda delle Falenottere non le definisce più “insettiformi” senza una fonte specifica; mantiene i tratti attestati in `Inktober 2018 #Drooling` e `Inktober 2019 #Enchanted`.
+
+
+## 2026-10-15 — Qualificazione della provenienza dei motti
+
+- `Dal Fuoco alla Vita` e `Omnia praedae fieri Potest` non sono stati rintracciati nelle 29 fonti disponibili. Le pagine `Draghieri`, `Vere Fiere` e `Tradizioni` ora li presentano come motti attribuiti dalla sintesi wiki, non come attestazioni primarie verificate; è stata rimossa anche l'affermazione non supportata che la spiegazione d'origine del primo sia documentata.
+- `Ab Necessitate Excusi` resta distinto: la formula è attestata nei testi narrativi disponibili, incluso il saluto con risposta identica in `Inktober 2019`.

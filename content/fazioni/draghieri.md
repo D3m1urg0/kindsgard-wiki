@@ -9,7 +9,9 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuo
 
 # Draghieri
 
-> *"Ab Necessitate Excusi" — Giustificati dalla Necessità. Dal Fuoco alla Vita.*
+> *"Ab Necessitate Excusi" — Giustificati dalla Necessità.*
+>
+> *"Dal Fuoco alla Vita"* — motto attribuito dalla sintesi wiki; attestazione primaria non verificata.
 
 > **Nota di provenienza:** «Dal Fuoco alla Vita» è riportato nella sintesi wiki ma non è stato rintracciato nelle 29 fonti attualmente disponibili. La sua attestazione primaria resta da verificare; D4 e il riferimento legacy Draghieri/Vere Fiere non sono reperibili.
 
@@ -99,11 +101,13 @@ Principali:
 
 ---
 
-## Motto
+## Motti
 
-*"Ab Necessitate Excusi"* — Giustificati dalla Necessità.
-*"Dal Fuoco alla Vita"*
-*"Omnia praedae fieri Potest"* — Tutto può diventare preda. *(usato anche dalle Vere Fiere)*
+*"Ab Necessitate Excusi"* — Giustificati dalla Necessità. Formula attestata nelle fonti.
+
+*"Dal Fuoco alla Vita"* — Motto attribuito ai Draghieri dalla sintesi wiki; l'attestazione primaria non è stata rintracciata nelle fonti disponibili.
+
+*"Omnia praedae fieri Potest"* — Motto attribuito dalla sintesi wiki ai Draghieri e alle Vere Fiere; l'attestazione primaria non è stata rintracciata nelle fonti disponibili. Non trattare l'attribuzione come verificata finché non emerge una fonte.
 
 ---
 
