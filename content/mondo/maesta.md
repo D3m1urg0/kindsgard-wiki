@@ -3,7 +3,7 @@ titolo: "Maestà"
 categoria: "mondo"
 tag: [maestà, natura, vulcano, geografia, cosmologia]
 status: "revisionato"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-10-15"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Solitudine", "Annali_dell_Artiglio_di_Fuoco", "Cronistoria_versione_breve", "Inktober_2019"]
 ---
 
