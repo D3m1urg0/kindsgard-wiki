@@ -43,7 +43,7 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 ## Fondazione dell'Anello
 
-**[Anno X del ciclo recente]** — Su [[Vilegis/Lunaria]], Libertà e Dominio si scontrano; gli eventi esterni comprendono la morte del Guardiano-Re legato a uno Spettro. Gli Echi raggiungono il Kindsgard e i vincoli nell'Istinto di Dominic si allentano per un istante.
+**[Anno X del ciclo recente]** — Su [[Vilegis/Lunaria]], Libertà e Dominio si scontrano. Le fonti accessibili attestano lo scontro e gli Echi che raggiungono il Kindsgard, allentando per un istante i vincoli nell'Istinto di Dominic. La morte del Guardiano-Re legato a uno Spettro è riportata dalla ricostruzione wiki, ma non è stata verificata direttamente contro una fonte primaria disponibile; D3/D4 non sono reperibili.
 
 **[Anno X]** — Dominic vede la verità: senza i cicli, il Kindsgard è condannato. Sceglie di interrompere i cicli e fonda l'**[[Anello di Fuoco]]**: un cerchio di torri ([[Artigli]]) che separa il Giardino dai territori Umani. L'avanzata si ferma.
 

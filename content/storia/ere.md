@@ -84,7 +84,7 @@ Ma la storia vera era più complessa: il ciclo si ripeteva. Quando i Draghieri r
 
 Durante il più recente ciclo della Rivalsa, l'equilibrio si sfalda a causa di eventi esterni: su [[Vilegis/Lunaria]], **Libertà** e **Dominio** si scontrano con esiti non ancora chiari. Gli Echi di quegli eventi raggiungono il Kindsgard e per un istante interrompono il flusso che tiene vincolato Dominic al suo Istinto.
 
-In quell'istante, Dominic vede la verità: la morte del Guardiano-Re di Vilegis/Lunaria legato a uno Spettro e gli altri eventi esterni mettono in pericolo l'equilibrio che i cicli avevano garantito. Senza un'alternanza stabile, qualsiasi punto estremo potrebbe significare la fine del Kindsgard. Sceglie di condannare sé stesso e i suoi compagni a una guerra eterna: fonda l'**[[Anello di Fuoco]]** e interrompe i cicli.
+In quell'istante, Dominic vede la verità: gli eventi esterni mettono in pericolo l'equilibrio che i cicli avevano garantito. La ricostruzione wiki collega questo evento alla morte del Guardiano-Re di Vilegis/Lunaria legato a uno Spettro, ma le fonti accessibili attestano lo scontro tra Libertà e Dominio e gli Echi, non confermano direttamente quel dettaglio. D3/D4 non sono reperibili nel repository consultato. Senza un'alternanza stabile, qualsiasi punto estremo potrebbe significare la fine del Kindsgard. Sceglie di condannare sé stesso e i suoi compagni a una guerra eterna: fonda l'**[[Anello di Fuoco]]** e interrompe i cicli.
 
 ---
 
