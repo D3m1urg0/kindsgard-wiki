@@ -475,3 +475,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Corretta la panoramica di Dominic Draco: «detentore di tutto il Fondamento del Kindsgard» confondeva il potere raccolto dai tredici vettori manifestatisi nel Kindsgard con il Fondamento di Vilegis/Lunaria. La voce ora distingue i due sistemi, coerentemente con la nota già presente più avanti nella stessa pagina e nel registro canonico.
 
 - Qualificata nella voce Dominic la composizione dei tredici Guardiani: le fonti attestano il gruppo e il legame con i vettori, ma non autorizzano a presentare come certa la distribuzione fra Draghieri, Vere Fiere e Fiere effettive. La composizione completa resta aperta in L17.
+
+
+## 2026-10-15 — Continuazione del confronto semantico
+
+- PR #31 integrata in `main` con merge commit `88df1c80929a391324a647d8a2f21737f5ca0b93`; il workflow `Validate Quartz wiki` sul HEAD della PR è riuscito. Non è stata restituita una run separata sul merge commit.
+- Avviata una tranche successiva in `audit/citation-crosscheck-2026-10-15`: la voce `Il Battesimo del Fuoco` ora descrive Ishvard/Karsh come eccezione documentata, senza dichiarare non ripetibile il meccanismo, e cita `Risveglio_del_Drago`. L4 resta aperta sulla causa e ripetibilità dell'evento.
+- La matrice `content/meta/audit-copertura-pagine.md` è aggiornata; prosegue il confronto puntuale delle affermazioni e delle citazioni, soprattutto per le intersezioni Vilegis/Lunaria.
