@@ -363,9 +363,10 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 
 ## Checkpoint operativo — 2026-10-15, dopo PR #36
 
-- `main` è avanzato al commit `c7dc86bca6dedb26f28d58c46edf8d03437b85aa` dopo l'aggiornamento del changelog e del checkpoint successivi alla PR #36.
+- `main` è avanzato al commit `6bada44768ca657d7f2663ce237e17e5ca11e929` dopo l'aggiornamento del checkpoint successivo alla PR #36.
 - **PR #33 integrata** nel commit `498e5a91f7956da9d409c818cb585fc6d6bd921f`; workflow Quartz sul commit della PR: `success`. Confine Kindsgard/Vilegis-Lunaria chiarito, rapporto temporale 100:1 qualificato come non verificabile direttamente.
 - **PR #35 integrata** nel commit `bd36bd920a73ae5bc54d6d4714ec3d2d6e171841`; workflow Quartz sul commit finale della PR: `success`. Datazione di Ishvard/Karsh sospesa per conflitto interno e affermazione di irripetibilità rimossa.
+- **PR #36 integrata** nel commit `06be257a31ff3691e73cef8fb623d1ab8463028b`; workflow Quartz: `success`. Tutte le occorrenze puntuali del rapporto 100:1 sono qualificate come dato riportato dalla sintesi, non verificabile direttamente senza D3.
 - PR #34 chiusa come superseded dalla #35; nessun contenuto documentale è stato scartato nella ricostruzione su base aggiornata.
 - Le PR #29 e #31 risultano merged e i loro contenuti sono già in `main`. L'ispezione della PR #12 ha mostrato che le sue principali correzioni sulle fonti, sulle Fiere, sui Bruciati, su Dominic e sulle due vie per diventare Vera Fiera sono già presenti in `main`; i riferimenti obsoleti a L16 sono stati successivamente risolti con `Misfit`. Non mergiare la PR #12 o #14 in blocco: sono tranche storiche superate.
 - Branch da riconciliare semanticamente: `audit/ishvard-karsh-source-gap-2026-10-13` è in gran parte superato dalle PR #29/#31 e #35; `audit/cosmology-boundary-2026-10-15` ha prodotto la PR #33. I branch storici delle PR squash-merged non vanno considerati lavoro mancante solo perché i loro SHA non compaiono nella storia lineare di `main`.
