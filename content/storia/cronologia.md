@@ -87,7 +87,7 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 **[Anno 1 del Draco]** — Ogni Draghiere caduto in quest'anno si risveglia come Vera Fiera nella sua nuova incarnazione. Anche i Draghieri su Vilegis vedono la loro essenza duplicata nelle proprie **Nemesi**. Questo non significa che in tutto l'Anno del Draco esistano soltanto Vere Fiere: i Draghieri ancora attivi restano presenti, e il fenomeno della duplicazione riguarda in particolare quelli che si trovano su Vilegis.
 
-**[Primo Secolo del Draco — periodo]** — Ishvard, mutaforma di Vilegis, viene trasferito sul Kindsgard. L'umano Ishvard e la Fiera Karsh vengono separati. Doppio Battesimo del Fuoco: Ishvard diventa Draghiere della Manticora, Karsh diventa Vera Manticora. *Unicum narrativo, non ripetibile.*
+**[Periodo — collocazione da verificare]** — Ishvard, mutaforma di Vilegis, viene trasferito sul Kindsgard. L'umano Ishvard e la Fiera Karsh vengono separati: Ishvard diventa Draghiere della Manticora e Karsh Vera Manticora. La collocazione cronologica è discordante nelle sintesi wiki: questa cronologia lo collocava nel Primo Secolo del Draco, mentre `Le Ere del Kindsgard` lo colloca nel Primo Secolo dell'Orso. D3/D4 non sono disponibili per dirimere il conflitto. Il caso è documentato, ma le fonti non dimostrano che il meccanismo sia intrinsecamente irripetibile.
 
 **[Primo Secolo del Draco — tardo]** — Le Vere Fiere scoprono l'esistenza di Vilegis attraverso i ricordi di Karsh.
 
