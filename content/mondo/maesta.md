@@ -33,7 +33,7 @@ Alla sua vetta si trova una caldera in costante attività. Le nubi di piogge aci
 
 ## Ruolo Cosmologico
 
-La Maestà è il punto di massima concentrazione della forza di [[Natura]]. Più ci si avvicina, più la forza creatrice e distruttrice è intensa. Le [[Fiere]] nelle vicinanze sono le più potenti e imprevedibili. Le eruzioni periodiche inviano onde di energia ([[Echi]]) che alterano gli equilibri di tutto il Giardino.
+La Maestà è il punto di massima concentrazione della forza di [[Natura]]. Più ci si avvicina, più la forza creatrice e distruttrice è intensa. Le [[Fiere]] nelle vicinanze sono le più potenti e imprevedibili. La relazione fra le eruzioni della Maestà e gli [[Echi]] è riportata nelle sintesi cosmologiche, ma non è verificabile direttamente sugli originali D3/D4, non reperiti nel repository. Va quindi trattata come ricostruzione non confermata nei dettagli, non come meccanica pienamente documentata.
 
 È qui che, secondo la ricostruzione del ciclo storico, i [[Draghieri]] che raggiungono la vetta vengono trasformati in [[Vere Fiere]] da Maestà. Le fonti descrivono questo passaggio come un rovesciamento dell'orientamento del portatore; non ne chiariscono ogni dettaglio meccanico.
 
