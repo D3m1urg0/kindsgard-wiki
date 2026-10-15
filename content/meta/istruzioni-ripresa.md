@@ -539,3 +539,10 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - Rilette le citazioni dirette in `content/mondo/geografia.md`: aggiunti `Solitudine` per il sacrificio della Fenice e `Prevedibilità__covata_` per il conteggio delle squadre in posizione alla Città-Alveare.
 - In `content/mondo/anello-di-fuoco.md` aggiunto `Deflecte_Cantum`, citato direttamente nella sezione sul ripristino dell'Anello.
 - Si tratta di correzioni di tracciabilità: nessuna formulazione narrativa o canonica è stata modificata. Aggiornati matrice e changelog.
+
+
+## Verifica dei campi `fonti` — citazioni dirette, 2026-10-15
+
+- Riconciliati i campi fonte di `Fiamme`, `Fiere — Voci Stub`, `Dominic Draco`, `Wade Wyrm`, `Caitlin Chimera` e `Altri Personaggi` con le citazioni dirette già presenti nel corpo delle pagine.
+- Aggiunti soltanto riferimenti già utilizzati nel testo: `18___Misfit`, `L_esodo`, `Onda_bianca`, `Inktober_2018`, `Solitudine`, `Lamento_di_Wade` e `Fierezza`. Nessuna affermazione narrativa è stata modificata.
+- Il controllo è un confronto di tracciabilità dei riferimenti espliciti, non una dichiarazione che tutte le affermazioni delle pagine siano semanticamente verificate.
