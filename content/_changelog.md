@@ -583,4 +583,4 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 ## 2026-10-15 — Ambiguità sui sei vettori di `Deflecte Cantum`
 
 - La fonte parla di “sei vettori in tredici affondi” e del Fondamento che fluisce verso il Giardino, ma non identifica i sei vettori né li equipara esplicitamente ai sette vettori originari del Kindsgard o ai tredici Guardiani successivi.
-- Qualificata la precedente interpretazione wiki come provvisoria e aggiunta L21 alle decisioni documentali da chiarire; nessuna corrispondenza è stata inventata.
+- Qualificata la precedente interpretazione wiki come provvisoria e aggiunta L21 alle decisioni documentali da chiarire; nessuna corrispondenza è stata inventata. La parola «espedienti» non è stata trattata come attestazione certa della forgiatura dell'arma Espediente.
