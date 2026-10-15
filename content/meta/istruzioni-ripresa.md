@@ -359,3 +359,13 @@ Valutazione dei 17 branch storici rispetto al contenuto corrente di `main`. Esit
 - **Prossimo passo:** validare questa tranche, poi proseguire il controllo delle affermazioni cosmologiche e delle intersezioni esplicite; mantenere aperte le questioni che dipendono da D3/D4.
 
 - Estesa la stessa cautela a `content/storia/ere.md`: il testo non assume più che il parallelismo con la Rovina autorizzi a importare nel Kindsgard altri elementi della cosmologia di Vilegis/Lunaria; la fonte breve chiama il periodo «Era della Rovina» e attesta un cataclisma con effetti altrove, mentre D3/D4 servirebbero a chiarire ulteriori dettagli. La matrice di copertura è aggiornata.
+
+
+## Checkpoint operativo — 2026-10-15
+
+- `main` è avanzato con la PR #33, integrata con successo nel commit `498e5a91f7956da9d409c818cb585fc6d6bd921f` dopo esito `success` del workflow Quartz sul commit della PR.
+- PR #34 è stata preparata su una base precedente a #33 e ha richiesto una ricostruzione su una branch fresca; non integrare la branch originaria se la nuova PR sostitutiva viene aperta.
+- Riconciliazione Ishvard/Karsh preparata nel branch `audit/ishvard-karsh-chronology-reconcile-v2-2026-10-15`: la cronologia e la pagina delle Ere davano due date differenti; entrambe sono state neutralizzate, e la frase «unicum narrativo, non ripetibile» rimossa perché non provata da una singola attestazione. D3/D4 restano non reperibili.
+- Le PR #29 e #31 sono verificate come merged; i loro interventi di fedeltà delle fonti e passata semantica sono già in `main`.
+- Vincolo di manutenzione: dopo ogni merge, eliminare il branch di lavoro solo dopo aver verificato il merge su `main`; per branch storici senza PR, prima confrontare semanticamente e registrare se il contenuto è già superato o va recuperato. L'integrazione via squash non rende automaticamente utili o inutili i branch storici.
+- Prossimo passo: aprire la PR sostitutiva per Ishvard/Karsh, verificare i workflow sul commit finale, integrare solo se passano; poi riconciliare PR #12/#14 e continuare l'audit semantico.
