@@ -3,8 +3,8 @@ titolo: "Anello di Fuoco"
 categoria: "mondo"
 tag: [anello-di-fuoco, artigli, geografia, storia, draghieri]
 status: "revisionato"
-ultima_modifica: "2025-06-13"
-fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Inktober_2019", "Annali_dell_Artiglio_di_Fuoco"]
+ultima_modifica: "2026-10-15"
+fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Inktober_2019", "Annali_dell_Artiglio_di_Fuoco", "cio-che-sanno-i-draghieri"]
 ---
 
 # Anello di Fuoco
@@ -26,7 +26,7 @@ Fu fondato da [[Dominic Draco]] come decisione consapevole per **interrompere i 
 
 Quando gli Echi di [[Vilegis/Lunaria]] — lo scontro tra Libertà e Dominio — raggiunsero il Kindsgard e allentarono per un istante i vincoli nell'Istinto di Dominic, egli vide la verità: senza i cicli, qualsiasi punto estremo avrebbe potuto significare la fine. Scelse quindi di imporre una linea immobile.
 
-Draco pose l'Anello nel luogo in cui *"la forza selvaggia del nucleo rigenera più velocemente del tempo necessario a contenerla"* — il confine naturale oltre il quale l'avanzata diventa insostenibile a lungo termine.
+Secondo la prospettiva in-world di *Ciò che sanno i Draghieri*, Draco pose l'Anello nel luogo in cui *"la forza selvaggia del nucleo rigenera più velocemente del tempo necessario a contenerla"* — il confine naturale oltre il quale l'avanzata diventa insostenibile a lungo termine.
 
 ---
 
