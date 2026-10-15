@@ -4,7 +4,7 @@ categoria: "fazioni"
 tag: [fiamme, bruciati, vilegis, riferimento-esterno, quarantena-audit]
 status: "bozza"
 ultima_modifica: "2026-10-15"
-fonti: ["Inktober_2018", "Deflecte_Cantum", "Solitudine"]
+fonti: ["Inktober_2018", "Deflecte_Cantum", "Solitudine", "18___Misfit"]
 ---
 
 # Fiamme
