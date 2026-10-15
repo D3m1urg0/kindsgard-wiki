@@ -556,3 +556,5 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - La fonte attesta direttamente tredici Guardiani, la loro distribuzione fra Draghieri, Fiere e Vere Fiere, l'uccisione tramite Espediente e la raccolta di tredici scintille di potere. Corrette le pagine che lasciavano incerta la composizione per categorie.
 - La canzone menziona anche «sei vettori in tredici affondi» e il Fondamento, ma non dichiara esplicitamente che queste espressioni siano equivalenti alle tredici scintille/Guardiani. Tale identificazione resta interpretativa e viene distinta dal fatto direttamente attestato. La relazione con Mondo Ancora resta non verificabile senza D3/D4.
 - Nessuna fonte originale modificata; nessun elemento esterno importato.
+
+- Aggiornato L17 dopo la lettura integrale di `Inktober 2019 #Legend`: l'esistenza e la distribuzione dei tredici Guardiani sono attestate direttamente; la loro equivalenza con i vettori collegati al Fondamento resta una questione interpretativa distinta. L'identità completa del gruppo e l'eventuale appartenenza di Frederick Fenice restano aperte.
