@@ -539,3 +539,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - La scansione dei campi `fonti` ha rilevato `Draghieri_Vere_Fiere_del_Kindsgard` in tre pagine. È possibile che si riferisca al percorso legacy non reperito `content/fonti/draghieri-vere-fiere.md`, ma l'identità non è dimostrata.
 - Registrata la lacuna nel catalogo fonti e nella matrice di copertura. Il riferimento non è stato sostituito con `draghieri-spiegazione.md`, che resta solo una fonte OOC pertinente, non un sostituto confermato.
+
+
+## 2026-10-15 — Correzione della scheda Loccia
+
+- Il confronto diretto con `Inktober 2019 #Snow` ha mostrato che la scheda della Loccia negava erroneamente la presenza di un habitat glaciale e non registrava la dentatura, benché la fonte descriva una bestia acquatica piena di denti nei ghiacciai perenni del Nord.
+- Corretta la scheda e mantenuta distinta la questione lessicale fra “Lochs” in `Inktober 2018 #Flowing` e “Loccia” in `#Snow`, che le fonti non equiparano esplicitamente.
