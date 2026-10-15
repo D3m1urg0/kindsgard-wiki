@@ -449,3 +449,5 @@ Il branch `audit/ishvard-karsh-source-gap-2026-10-13` è stato confrontato file 
 ## Verifica semantica — Città-Alveare e numero 1247, 2026-10-15
 
 Il confronto diretto con `Prevedibilità (covata)` mostra che Bartholomew conta le squadre in posizione numerandole da 1 a 1247; la fonte descrive tubi di rame ma non dice che siano 1247 né che ogni squadra abbia un tubo dedicato. Corrette `Città-Alveare` e la sintesi in `Geografia`. Il controllo di `Inktober 2024 #Binoculars` mostra inoltre che le ondate di Fiere sono descritte come susseguitesi a ritmo costante nei cinque anni dalla missione di ripopolamento: mantenuta questa affermazione circoscritta al periodo narrato, senza inventare una cadenza numerica.
+
+- Nota sulla fondazione della Città-Alveare: `Inktober 2019 #Build` dice che l'Artiglio Sepolto è il dominio della Covata «da tempi immemori», ma non identifica la data o i fondatori della struttura. La sintesi distingue ora la durata del dominio dalla datazione dell'edificio.
