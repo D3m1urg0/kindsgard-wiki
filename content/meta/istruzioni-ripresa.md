@@ -444,3 +444,8 @@ Il confronto fra `Deflecte Cantum`, `Tradizioni` e `Cosmologia` ha rilevato un'e
 ## Riconciliazione finale del branch Ishvard/Karsh — 2026-10-15
 
 Il branch `audit/ishvard-karsh-source-gap-2026-10-13` è stato confrontato file per file con `main`. Le sue formulazioni su Ishvard/Karsh non vanno recuperate perché `main` ha già neutralizzato la datazione discordante e rimosso l'inferenza di irripetibilità. Il confronto ha però evidenziato omissioni di tracciabilità nei campi `fonti`: `Risveglio_del_Drago` mancava da `Fierezza e Maestà`, `draghieri-spiegazione` mancava da `Il Battesimo del Fuoco` e `Elenco_Draghieri_Conosciuti` mancava da `Le Ere del Kindsgard`. Queste sole aggiunte sono state riapplicate su un branch pulito basato su `main`.
+
+
+## Verifica semantica — Città-Alveare e numero 1247, 2026-10-15
+
+Il confronto diretto con `Prevedibilità (covata)` mostra che Bartholomew conta le squadre in posizione numerandole da 1 a 1247; la fonte descrive tubi di rame ma non dice che siano 1247 né che ogni squadra abbia un tubo dedicato. Corrette `Città-Alveare` e la sintesi in `Geografia`. Il controllo di `Inktober 2024 #Binoculars` mostra inoltre che le ondate di Fiere sono descritte come susseguitesi a ritmo costante nei cinque anni dalla missione di ripopolamento: mantenuta questa affermazione circoscritta al periodo narrato, senza inventare una cadenza numerica.
