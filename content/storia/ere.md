@@ -36,7 +36,7 @@ Questa era è così remota che neppure le canzoni o i ricordi più antichi riesc
 ## Il Conflitto — Era della Rovina
 *Parallelismo con Lunaria: Rovina*
 
-Un cataclisma cosmico proveniente dall'esterno — lo stesso evento che altrove fu chiamato la **Rovina** — attraversò spazio e tempo e si abbatté sull'equilibrio perfetto del Kindsgard. Natura impazzì. Il suo potere sfuggì al suo controllo e si abbatté sul Giardino in forma di terremoti, eruzioni, inondazioni, piogge di fuoco e laghi di acido.
+Un cataclisma cosmico proveniente dall'esterno attraversò spazio e tempo e si abbatté sull'equilibrio perfetto del Kindsgard. La ricostruzione wiki lo mette in parallelo con la Rovina di Vilegis/Lunaria, ma la *Cronistoria (versione breve)* non lo nomina direttamente come Rovina e la relazione resta interpretativa finché D3/D4 non sono reperibili. Natura impazzì: il suo potere sfuggì al controllo e si abbatté sul Giardino in forma di terremoti, eruzioni, inondazioni, piogge di fuoco e laghi di acido.
 
 Da questa devastazione nacquero nuove specie: non più le docili creature dell'Era di Armonia, ma violente [[Fiere]] abbandonate al mattatoio dell'esistenza, formate per sopravvivere all'inferno del nuovo Giardino. La legge del Giardino divenne semplice: per sopravvivere, bisogna uccidere.
 
