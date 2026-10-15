@@ -9,7 +9,7 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Drag
 
 # Vere Fiere
 
-> *"Omnia praedae fieri Potest" — Tutto può diventare preda.*
+> *"Omnia praedae fieri Potest" — Tutto può diventare preda.* *(motto attribuito nella sintesi wiki; attestazione primaria non verificata)*
 
 > **Nota di provenienza:** «Omnia praedae fieri Potest» è riportato nella sintesi wiki ma non è stato rintracciato nelle 29 fonti attualmente disponibili. La sua attestazione primaria resta da verificare; il riferimento legacy Draghieri/Vere Fiere non è reperibile.
 
