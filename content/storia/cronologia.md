@@ -25,7 +25,7 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 **[Tempo immemorabile]** — [[Era di Armonia|Era di Armonia]]: Natura è madre amorevole. Nessuna lotta, nessun Bisogno. Le creature dell'era vivono in un paradiso naturale.
 
-**[Tempo immemorabile]** — Un cataclisma cosmico raggiunge il Kindsgard e altera Natura; inizia l'Era del Conflitto e compaiono le [[Fiere]]. La ricostruzione wiki mette l'evento in parallelo con la Rovina di Vilegis/Lunaria, ma la *Cronistoria (versione breve)* non lo nomina direttamente come Rovina e la Cronistoria OOC (D3) non è reperibile.
+**[Tempo immemorabile]** — Un cataclisma cosmico raggiunge il Kindsgard e altera Natura; inizia l'Era del Conflitto e compaiono le [[Fiere]]. La *Cronistoria (versione breve)* chiama questo periodo «Era della Rovina» e descrive un cataclisma che altrove divise terra e materia; la wiki lo mette in parallelo con la Rovina di Vilegis/Lunaria. D3 non è reperibile per chiarire ulteriori dettagli, e il parallelismo non autorizza a importare nel Kindsgard altri elementi del canone esterno.
 
 **[Tempo immemorabile]** — Gli [[Umani]] — creature dell'Era di Armonia — tornano sul Kindsgard. Inadatti, si rifugiano ai margini del Giardino sulle spiagge del [[Mare Esterno]].
 
