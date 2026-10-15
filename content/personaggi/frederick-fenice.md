@@ -4,7 +4,7 @@ categoria: "personaggi"
 tag: [frederick-fenice, draghieri, fenice, guardiano, personaggio]
 status: "revisionato"
 ultima_modifica: "2026-10-15"
-fonti: ["D3-cronistoria-ooc", "Una_Missiva_dall_Anello", "Risveglio_del_Drago", "Solitudine"]
+fonti: ["D3-cronistoria-ooc", "Una_Missiva_dall_Anello", "Risveglio_del_Drago", "Solitudine", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Frederick Fenice
