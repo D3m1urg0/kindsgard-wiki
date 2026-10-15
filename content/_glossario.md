@@ -71,7 +71,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Re Draco** — Titolo di [[Dominic Draco]] dopo l'assorbimento dei 13 Guardiani. Entità unica, non più Draghiere né Vera Fiera. → vedi [[Dominic Draco]]
 
-**Rovina** — Termine del setting Vilegis/Lunaria per un cataclisma che devastò altri mondi. Nella ricostruzione wiki è messo in parallelo con il cataclisma che alterò Natura sul Kindsgard; la fonte breve del Kindsgard descrive un cataclisma proveniente dall'esterno ma non lo nomina direttamente come Rovina. L'identità fra i due eventi resta una connessione interpretativa da verificare con D3/D4.
+**Rovina** — Cataclisma del setting Vilegis/Lunaria. La *Cronistoria (versione breve)* del Kindsgard intitola il periodo corrispondente «Era della Rovina» e descrive un cataclisma che altrove divise terra e materia: il parallelismo fra gli eventi è attestato a questo livello. D3/D4 non sono reperibili per chiarire ulteriori dettagli; la connessione non autorizza a importare nel Kindsgard tutta la cosmologia o le vicende esterne di Vilegis/Lunaria.
 
 **Spettro** — Termine del sistema di Vilegis/Lunaria per i 13 principi fondanti del multiverso. Analogo ma distinto dall'Espediente del Kindsgard. → vedi [[Cosmologia]]
 
