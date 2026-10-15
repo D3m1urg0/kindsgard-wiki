@@ -532,3 +532,10 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - Riletto `content/sistemi/fierezza-e-maesta.md` e confrontato il passaggio sulle regole del Battesimo con `La natura di Natura`, `Cronistoria (versione breve)` e `Risveglio del Drago`.
 - Le fonti accessibili sostengono la distinzione fra Fierezza e Maestà e documentano l'eccezione di Wade; non confermano direttamente la regola di un solo Battesimo per specie in un dato periodo né tutti i dettagli dell'orientamento dipendente dagli Spettri di Vilegis. La guida D4 non è reperibile. Le regole restano nella ricostruzione wiki ma sono qualificate come non verificate direttamente, senza essere cancellate né estese.
 - Nessuna fonte originale modificata. Prossimo passo: continuare il confronto delle affermazioni di sistema che dipendono da D3/D4.
+
+
+## Verifica dei campi `fonti` — Geografia e Anello di Fuoco, 2026-10-15
+
+- Rilette le citazioni dirette in `content/mondo/geografia.md`: aggiunti `Solitudine` per il sacrificio della Fenice e `Prevedibilità__covata_` per il conteggio delle squadre in posizione alla Città-Alveare.
+- In `content/mondo/anello-di-fuoco.md` aggiunto `Deflecte_Cantum`, citato direttamente nella sezione sul ripristino dell'Anello.
+- Si tratta di correzioni di tracciabilità: nessuna formulazione narrativa o canonica è stata modificata. Aggiornati matrice e changelog.
