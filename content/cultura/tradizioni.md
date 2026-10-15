@@ -9,7 +9,9 @@ fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_
 
 # Tradizioni, Canti e Motti
 
-> *"Ab Necessitate Excusi — Dal Fuoco alla Vita."*
+> *"Ab Necessitate Excusi" — Giustificati dalla Necessità.*
+>
+> *"Dal Fuoco alla Vita"* — motto attribuito dalla sintesi wiki; attestazione primaria non verificata.
 
 ---
 
