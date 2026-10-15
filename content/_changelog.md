@@ -693,3 +693,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - In `Fierezza e Maestà`, la regola di un solo Battesimo per specie in un dato periodo e il ruolo dello Spettro nell'orientamento dell'infusione sono mantenuti come elementi della ricostruzione wiki, ma qualificati come non verificabili direttamente finché D4 non è reperita.
 - Distinta questa lacuna dalla documentazione diretta dell'eccezione di Wade in `Risveglio del Drago`. Nessuna fonte originale modificata.
+
+
+## 2026-10-15 — Riconciliazione dei campi fonte in Geografia e Anello
+
+- Aggiunti al frontmatter di `Geografia` i riferimenti diretti `Solitudine` e `Prevedibilità__covata_`; aggiunto `Deflecte_Cantum` al frontmatter di `Anello di Fuoco`.
+- Nessuna modifica al testo delle fonti o alle affermazioni narrative; registrata la correzione di tracciabilità.
