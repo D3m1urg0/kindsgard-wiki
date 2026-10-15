@@ -546,3 +546,5 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - Riconciliati i campi fonte di `Fiamme`, `Fiere — Voci Stub`, `Dominic Draco`, `Wade Wyrm`, `Caitlin Chimera` e `Altri Personaggi` con le citazioni dirette già presenti nel corpo delle pagine.
 - Aggiunti soltanto riferimenti già utilizzati nel testo: `18___Misfit`, `L_esodo`, `Onda_bianca`, `Inktober_2018`, `Solitudine`, `Lamento_di_Wade` e `Fierezza`. Nessuna affermazione narrativa è stata modificata.
 - Il controllo è un confronto di tracciabilità dei riferimenti espliciti, non una dichiarazione che tutte le affermazioni delle pagine siano semanticamente verificate.
+
+- Il controllo incrociato dei campi `fonti` ha rilevato altre due citazioni dirette non dichiarate nel frontmatter: `18___Misfit` in `Cronologia` e `Le Ere del Kindsgard`; entrambe sono state aggiunte. La verifica è di tracciabilità delle citazioni esplicite, non sostituisce il confronto semantico.
