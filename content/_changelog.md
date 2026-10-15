@@ -514,3 +514,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Neutralizzate entrambe le datazioni in attesa di una fonte primaria; D3/D4 non sono disponibili per dirimere il conflitto.
 - Rimossa la formula «unicum narrativo, non ripetibile»: il corpus documenta il caso, ma non prova che il meccanismo sia intrinsecamente irripetibile.
 - Aggiornati L4 e la matrice di copertura. Nessuna fonte narrativa originale è stata modificata.
+
+
+## 2026-10-15 — Merge PR #33 e PR #35
+
+- Integrata la PR #33 dopo esito positivo del workflow Quartz: il cataclisma del Kindsgard resta attestato, ma l'identificazione con la Rovina di Vilegis/Lunaria non è promossa a fatto certo; il rapporto 100:1 resta non verificabile direttamente senza D3.
+- Integrata la PR #35 dopo esito positivo del workflow Quartz: la datazione di Ishvard/Karsh è stata neutralizzata per la contraddizione fra Cronologia ed Ere, e rimossa la formula «unicum narrativo, non ripetibile» non dimostrata dalle fonti.
+- Aggiornato il checkpoint operativo. Le fonti narrative originali non sono state modificate.
