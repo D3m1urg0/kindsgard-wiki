@@ -458,3 +458,12 @@ Il confronto diretto con `Prevedibilità (covata)` mostra che Bartholomew conta 
 - La workflow di pulizia è stata estesa per eseguire la scansione sia dopo ogni merge sia su pianificazione giornaliera. Per ogni branch di PR merged elimina solo se il ref coincide esattamente con l'head della PR e non ci sono PR aperte.
 - Aggiunta una allowlist one-shot, con SHA attesi e controllo delle PR aperte, per i branch già verificati come superseded/orfani: PR #12 (`audit/source-inventory-and-baptism-consistency`), PR #14 (`audit/coerenza-battesimo-pagine-potere`), PR #34 (`audit/ishvard-karsh-chronology-reconcile-2026-10-15`), PR #41 (`audit/deflecte-cantum-vectors-2026-10-15`), il branch orfano Ishvard/Karsh (dopo recupero selettivo dei riferimenti in PR #47) e il branch di checkpoint `maintenance/auto-delete-merged-pr-branches-2026-10-15` già raggiunto dalla storia di `main`.
 - La cancellazione è vincolata allo SHA esaminato; se un branch è avanzato o ha una PR aperta, viene conservato. La prima esecuzione su un successivo merge va verificata prima di considerare la pulizia arretrata completata.
+
+
+## Correzione della workflow di pulizia — 2026-10-15
+
+- Il primo run della workflow aggiornata (`38724168648`) ha fallito nel job di pruning con `Resource not accessible by integration`; il job separato di cancellazione del branch della PR è invece riuscito. La causa è l'uso di `gh api -f ...` senza `--method GET`, che può selezionare il metodo POST. La query delle PR aperte è stata corretta per dichiarare esplicitamente GET; la verifica finale resta da eseguire al prossimo merge.
+
+## Nota logistica — Città-Alveare, 2026-10-15
+
+La difficoltà di accesso e rifornimento della Città-Alveare è plausibile per la posizione montuosa e sotterranea, ma non è dichiarata direttamente nelle fonti. La sintesi ora la marca come deduzione logistica anziché fatto canonico.
