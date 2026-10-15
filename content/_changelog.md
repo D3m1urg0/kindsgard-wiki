@@ -551,3 +551,8 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Integrata la PR #37 dopo esito positivo del workflow Quartz: la scheda della Loccia ora riflette la descrizione esplicita di `Inktober 2019 #Snow` (bestia acquatica, dentatura, ghiacciai perenni del Nord, sorgenti dei fiumi). Resta aperta la relazione terminologica con “Lochs” in `Inktober 2018 #Flowing`.
 - Consolidata L11 per raccogliere i due identificatori OOC non riconciliati: `Copia_di_I_Draghieri_del_kindsgard` e `Draghieri_Vere_Fiere_del_Kindsgard`. Nessuna fonte originale è stata modificata o sostituita.
+
+
+## 2026-10-15 — Qualificazione morfologica delle Falenottere
+
+- La scheda chiamava le Falenottere “insettiformi”, ma `Inktober 2019 #Frail` descrive Fiere insettiformi in generale senza identificare esplicitamente la specie. La descrizione della Fiera alata minuta, della luce e del pungiglione resta sostenuta da `#Enchanted` e `Inktober 2018 #Drooling`; la morfologia insettiforme è stata rimossa come inferenza non confermata.
