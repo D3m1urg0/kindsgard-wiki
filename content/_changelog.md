@@ -619,3 +619,5 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Corretto il trasferimento del numero 1247: `Prevedibilità (covata)` conta le squadre in posizione, non i tubi. Rimosse dalla Città-Alveare e dalla Geografia l'affermazione di 1247 tubi e quella di un tubo numerato per ogni squadra; mantenuto il sistema di tubi di rame attestato dalle fonti.
 - Riallineata la nota sugli attacchi: `Inktober 2024 #Binoculars` descrive le ondate come susseguitesi a ritmo costante nei cinque anni dalla missione di ripopolamento, ma non ne quantifica la cadenza.
+
+- Precisata anche la nota sulla fondazione: `Inktober 2019 #Build` attribuisce il dominio dell'Artiglio Sepolto alla Covata «da tempi immemori», ma non data la fondazione della struttura né ne identifica i fondatori.
