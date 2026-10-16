@@ -707,3 +707,13 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Nessuna modifica narrativa o canonica; registrato il perimetro limitato del controllo.
 
 - Esteso il controllo dei campi `fonti` anche a `Cronologia` e `Le Ere del Kindsgard`: aggiunto `18___Misfit`, già citato direttamente in entrambe le pagine.
+
+
+## 2026-10-15 — Distinzione fra tredici Guardiani e interpretazione dei vettori
+
+- La lettura integrale di `Inktober 2019 #Legend` conferma direttamente tredici Guardiani, la loro distribuzione fra Draghieri, Fiere e Vere Fiere, e le tredici scintille raccolte da Espediente. Aggiornate le pagine cosmologiche e storiche che lasciavano incerta la composizione per categorie.
+- Distinta questa attestazione dall'interpretazione che identifica le scintille con i «vettori» collegati al Fondamento: la canzone non dichiara esplicitamente tale equivalenza. Il riferimento a Mondo Ancora resta una ricostruzione non verificabile senza D3/D4.
+
+- Aggiornata L17 in `Domande Aperte e Lacune` per separare il fatto direttamente attestato dei tredici Guardiani dalla lettura interpretativa che li identifica con i vettori collegati al Fondamento.
+
+- Aggiornata L21 in `Domande Aperte e Lacune` per non trattare come fatto confermato l'equivalenza fra le tredici scintille/Guardiani di `Inktober 2019 #Legend` e tredici vettori collegati al Fondamento.
