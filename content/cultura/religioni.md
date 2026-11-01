@@ -3,7 +3,7 @@ titolo: "Religioni e Spiritualità"
 categoria: "cultura"
 tag: [religioni, spiritualità, bisogno, fierezza, natura, umani]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 fonti: ["Fierezza__il_Dio_che_è_in_noi", "La_natura_di_Natura", "Cronistoria_versione_breve", "D3-cronistoria-ooc", "Inktober_2019", "Canzoni_degli_Umani", "Riflessioni"]
 ---
 
@@ -72,7 +72,7 @@ Wendy critica esplicitamente il modo in cui gli Oltregiardini trattano la divini
 
 La contraddizione teologica centrale del Kindsgard è questa: gli Umani che invocano Bisogno, i Draghieri che servono Fierezza e le Vere Fiere che seguono Maestà credono, in generale, di adorare forze benigne o di obbedire a leggi giuste, senza conoscere lo scopo cosmologico complessivo: mantenere in vita Natura, mantenere l'equilibrio e impedire che il mondo si estingua. **Dominic Draco è l'eccezione documentata**: comprende il rischio dell'estinzione e sceglie consapevolmente di proteggere il Giardino.
 
-La verità cosmologica non è accessibile alle prospettive ordinarie degli Umani, dei Draghieri e delle Vere Fiere dall'interno. [[Dominic Draco]] come Re Draco è l'eccezione descritta: comprende il rischio d'estinzione e, dopo l'assorbimento dei tredici vettori manifestatisi nel Kindsgard, dispone di una visione più ampia del sistema. Questo non equivale a detenere il Fondamento di Vilegis/Lunaria.
+La verità cosmologica non è accessibile alle prospettive ordinarie degli Umani, dei Draghieri e delle Vere Fiere dall'interno. [[Dominic Draco]] come Re Draco è l'eccezione descritta: comprende il rischio d'estinzione e, dopo aver raccolto il potere delle tredici **scintille dei Guardiani** attestate da `Inktober 2019 #Legend`, dispone di una visione più ampia del sistema. L'identificazione puntuale di queste scintille con vettori del Fondamento rimane interpretativa e non equivale a detenere il Fondamento di Vilegis/Lunaria.
 
 ---
 

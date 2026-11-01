@@ -3,7 +3,7 @@ titolo: "Deflecte Cantum (il ritorno dei Draghieri)"
 categoria: "fonti"
 tag: [canzone, in-world, draghieri, dominic-draco, guardiani, espediente, re-draco]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-11-01"
 tipo: "canzone"
 autore: "anonimo (prospettiva Draghieri)"
 voci-wiki-collegate: ["Tradizioni, Canti e Motti", "Dominic Draco", "Frederick Fenice", "Anello di Fuoco", "Cronologia", "Fierezza e Maestà"]
@@ -101,10 +101,10 @@ Porsi a difesa è il più sacro dover
 
 ## Note
 
-La canzone narra in sequenza: caduta dell'Anello durante il Primo Secolo del Draco → estinzione della specie Fenice → risposta degli Umani infusi di Fierezza (i Bruciati, "eroi per poco, bruciati a milioni") → la collaborazione → la forgiatura dei "sei vettori in tredici affondi" → l'ascesa di Re Draco → il suo regno sulla Maestà.
+La canzone presenta una sequenza poetica: caduta dell'Anello, riferimento alla crisi della specie Fenice, risposta di Fierezza negli Umani («eroi per poco, bruciati a milioni»), marcia all'Anello, versi sui «sei vettori in tredici affondi» e sul Fondamento, infine la figura di Re Draco. **Il testo non identifica esplicitamente gli Umani «bruciati a milioni» con i Bruciati documentati in `Inktober 2018 #Scorched (19-2)`**, né dimostra l'estinzione compiuta della specie Fenice, la natura precisa dei sei vettori o che quelle strofe descrivano direttamente la forgiatura dell'arma Espediente. Tali associazioni restano interpretazioni narrative della sintesi wiki, non equivalenze certe tratte dai versi.
 
 **Strofe da trattare con cautela:**
 - *"Tema i suoi figli la dea"* — marcata come errata da Pietro Caruso.
 - Strofa *"Stretta nel pugno la lancia possente"* — marcata come errata da Pietro Caruso ("ignoratele per ora"). Potrebbe riferirsi alla meccanica della forgiatura dell'arma Espediente in modo impreciso.
 
-Le strofe non marcate sono canoniche, fatta salva la cautela delle note esplicite di Pietro Caruso. Il testo menziona "sei vettori in tredici affondi" e il Fondamento che deve fluire verso il Giardino, ma non identifica i sei vettori né li equipara esplicitamente ai sette vettori originari del Kindsgard o ai tredici Guardiani. La lettura secondo cui la strofa descriva l'assorbimento dei tredici Guardiani da parte di [[Dominic Draco]] tramite l'arma [[Fierezza e Maestà|Espediente]] è un'interpretazione wiki plausibile, non una dichiarazione diretta della canzone; mantenerla provvisoria finché una fonte o il proprietario non chiarisce il rapporto.
+Le strofe non marcate appartengono al testo tramandato e non vanno corrette per inferenza, ma la loro **interpretazione narrativa** deve comunque essere verificata: l'assenza di una nota di correzione non dimostra da sola tutte le ricostruzioni storiche attribuite ai versi. Il testo menziona "sei vettori in tredici affondi" e il Fondamento che deve fluire verso il Giardino, ma non identifica i sei vettori né li equipara esplicitamente ai sette vettori originari del Kindsgard o ai tredici Guardiani. La lettura secondo cui la strofa descriva l'assorbimento dei tredici Guardiani da parte di [[Dominic Draco]] tramite l'arma [[Fierezza e Maestà|Espediente]] è un'interpretazione wiki plausibile, non una dichiarazione diretta della canzone; mantenerla provvisoria finché una fonte o il proprietario non chiarisce il rapporto.

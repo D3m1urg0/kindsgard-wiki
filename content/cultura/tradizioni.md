@@ -3,7 +3,7 @@ titolo: "Tradizioni, Canti e Motti"
 categoria: "cultura"
 tag: [cultura, tradizioni, canti, motti, rituali]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_Wade", "Annali_dell_Artiglio_di_Fuoco", "Pezzo_del_rituale_-_Chimera", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
 ---
 
@@ -45,7 +45,7 @@ Il saluto/congedo è reciproco e simmetrico. Non è un augurio ma una dichiarazi
 ### Canto dei Draghieri
 Il canto più importante nella tradizione Umana. Narra la storia della creazione dei Draghieri dal punto di vista degli Umani: il Bisogno come Re, l'Espediente come dono, Dominic come primo Eroe. È una cosmogonia cantata, tramandata oralmente.
 
-*"Dalla cenere alla vittoria"* è l'incipit della sezione finale — motto citato da [[Frederick Fenice]] nella lettera di [[Wade Wyrm]].
+La formula *«Dalla cenere alla vittoria»* **non compare nel testo del Canto dei Draghieri**: è la conclusione della lettera `Una Missiva dall'Anello` **scritta da Wade Wyrm**, subito dopo la frase attribuita a [[Frederick Fenice]]. La lettera la presenta come richiamo al **motto del casato destinatario**, senza dichiarare che Frederick pronunci quella formula.
 
 ### Giù nel Bosco
 Filastrocca didattica per i bambini Umani. Descrive le Fiere del Giardino (Viverna, Chimera, Behemoth, Leviatano, Sfinge, Manticora, Hydra, Atrax, Aigokeros) come pericoli da evitare, poi conclude con il rassicurante arrivo del Draghiere — e con il finale alternativo che rivela il rovescio della medaglia: *"Giù nel bosco ci sta un mostro, del Draghiere il volto ha: la Maestà gli è scesa indosso, delle Fiere il gioco fa."*
