@@ -709,3 +709,9 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 
 - `Inktober 2018 #Whale` mostra che Luther **devia** il Canto di un Leviatano e la sua onda contro la Fiera, dopo che l'onda originaria ha ucciso un Siaka. L'onda riflessa dilania il Leviatano. La fonte non attesta l'amplificazione del Canto da parte di Luther né una morte per distruzione dall'interno; rettificate entrambe le espressioni nella biografia.
 - Fonte narrativa preservata. Confronto mirato, non audit integrale della scheda.
+
+
+## Checkpoint — Onda Bianca non certifica realtà alternative (2026-11-01)
+
+- La fonte narrativa `Onda Bianca` rappresenta un'onda cosmologica di oblio e due scene con memoria/ambiente percepito differente, ma non spiega se i protagonisti siano stati trasferiti in una realtà alternativa. La nota editoriale preesistente presentava tale ipotesi come fatto; rettificata nella sola sezione **Note** della fonte.
+- Non modificare il testo narrativo; mantenere separati evento, effetti soggettivi e interpretazioni cosmologiche. Confronto mirato, senza chiudere problemi generali sul meccanismo degli Echi.
