@@ -105,7 +105,7 @@ Anche l'identificatore di frontmatter `Draghieri_Vere_Fiere_del_Kindsgard`, usat
 
 **C4 — Frederic/Friedrich Fenice — RISOLTA**
 - Le grafie "Frederic" (attribuita nella documentazione storica alla Cronistoria OOC, il cui testo sorgente non è ancora disponibile qui) e "Friederich" (`Una Missiva`) potrebbero riferirsi allo stesso personaggio; la grafia canonica Frederick Fenice è comunque già confermata.
-- **Grafia canonica confermata:** Frederick Fenice. Le varianti presenti nelle fonti sono storiche e non vanno propagate nelle nuove voci sintetiche.
+- **Grafia canonica confermata:** Frederick Fenice. Le varianti riferite al **Draghiere del Kindsgard** non vanno propagate nelle nuove voci sintetiche. La battuta «Frederich di Vilegis» in `Solitudine` non attesta di per sé un alias di Frederick Fenice: distinguere i referenti fino a prova dell'identità.
 - **Meccanica canonica confermata:** Frederick Fenice resuscita sempre nel proprio corpo, non si reincarna in un nuovo corpo.
 - Decisione registrata nel changelog del 2025-06-13.
 

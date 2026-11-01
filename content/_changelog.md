@@ -831,3 +831,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Corretto l'apparato editoriale iniziale di `Elenco Draghieri Conosciuti`: gli individui GUARDIANO sono attestati come marcati nella lista; il rapporto con le tredici scintille di `Inktober 2019 #Legend` non prova l'identità puntuale con i vettori del Fondamento. Nomi, titoli, marcature e numerazioni dell'elenco restano invariati.
 - `Vere Fiere`: sostituita la falsa equivalenza diretta «tredici vettori» con le tredici scintille dei Guardiani e caveat esplicito sulla lettura del Fondamento.
 - Aggiornati matrice, checkpoint e changelog; decisioni canoniche L17/L21 non anticipate.
+
+
+## 2026-11-01 — Disambiguazione dei personaggi di Risveglio e Solitudine
+
+- `Risveglio del Drago`: corrette note di provenienza che **invertivano Kindsgard e Vilegis** nella duplicazione dell'essenza di Wade. Wade-Draghiere resta vivo a Vilegis; la Vera Viverna nasce sul Kindsgard. Il ritorno è opera della **Giovane Fenice**, non documentata come Frederick Fenice. «Onofrius!» è un nome invocato nel racconto, non attestazione diretta dell'identità di Onofrius con la giovane Fenice.
+- `Solitudine`: corretto il sommario da Dominic «come Re» a **Vero Draco** prima dell'incoronazione; chiarito l'uso generico di «guardiani del Giardino» senza equipararlo ai tredici Guardiani delle scintille. «Frederich di Vilegis» non è corretto automaticamente in Frederick Fenice: il nome canonico del Draghiere del Kindsgard resta invece confermato da C4.
+- `Frederick Fenice` e registro C4: qualificate le affermazioni sul volto identico della Giovane Fenice e sulle varianti di nomi di personaggi di Vilegis.
+- Modificati solo i cappelli e apparati editoriali delle due fonti (racconti preservati), la pagina biografica, la matrice di fonti, audit, checkpoint e changelog.

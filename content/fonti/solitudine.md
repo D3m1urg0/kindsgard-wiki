@@ -3,7 +3,7 @@ titolo: "Solitudine"
 categoria: "fonti"
 tag: [dominic-draco, wendy-wyrm, racconto, in-world, maestà, fenice, vere-fiere]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-11-01"
 tipo: "racconto"
 autore: "Stefania Ricco"
 voci-wiki-collegate: ["Dominic Draco", "Wendy Wyrm", "Maestà", "Frederick Fenice", "Fiere — Voci Stub", "Vere Fiere", "Draghieri"]
@@ -11,7 +11,7 @@ voci-wiki-collegate: ["Dominic Draco", "Wendy Wyrm", "Maestà", "Frederick Fenic
 
 # Solitudine
 
-> *Dialogo alla bocca della Maestà tra Dominic Draco (come Re) e la Vera Viverna. L'ultima grande Fenice viene sacrificata alla caldera.*
+> *Dialogo alla bocca della Maestà fra **Vero Draco, ancora Vera Fiera e non ancora Re Draco**, e Wendy Wyrm, Vera Viverna. L'ultima grande Fenice viene sacrificata alla caldera.*
 
 ---
 
@@ -142,6 +142,6 @@ Draco sospirò.
 Il racconto documenta tre fatti canonici fondamentali:
 1. **Il sacrificio dell'ultima Fenice**: le Vere Fiere la spingono nella caldera della Maestà perché bruci eternamente — non per crudeltà ma per preservare la specie dall'estinzione quando l'Espediente della Fenice è esaurito.
 2. **La consapevolezza di Draco**: unico essere nel Kindsgard capace di vedere il quadro completo, compresa la propria condanna. La "pietà" — emozione incomprensibile per la Vera Viverna — è la sua firma.
-3. **Il meccanismo dell'oblio**: Wade Wyrm *("la viverna non scrive")* e tutti i Guardiani tranne Draco lasciano defluire le verità scomode. Sul Giardino questo non è un'abitudine — è una legge.
+3. **Il meccanismo dell'oblio, nel racconto:** la massima «la Viverna non scrive» caratterizza Wade; il narratore dice che i «guardiani del Giardino» **tranne Draco** lasciano svanire ricordi e verità scomode, e che sul Giardino ciò opera come un editto dell'Istinto. **«Guardiani del Giardino» è qui una descrizione narrativa generica**, non prova che tutti e soli i **tredici Guardiani delle scintille** di `Inktober 2019 #Legend` condividano esattamente questa proprietà.
 
-Il riferimento al "Frederich di Vilegis" è la grafia errata — grafia canonica **Frederick Fenice**.
+La battuta «**il Frederich di Vilegis**» è preservata letteralmente. La decisione canonica sulla grafia **Frederick Fenice** riguarda il **Draghiere del Kindsgard**; questo passaggio non dimostra che il personaggio nominato su Vilegis coincida con lui o che il suo nome nella battuta sia semplicemente un refuso. Non unificare le identità dei due contesti senza un'altra fonte.
