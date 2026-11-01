@@ -755,3 +755,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Fiere — Voci Stub`: `Prevedibilità (covata)` documenta operai, schiusa stimata e vulnerabilità tattica dello sciame senza di essi, ma non una casta biologica denominata «soldati» o gerarchia complessa; eliminata la generalizzazione non supportata.
 - Il confronto con `Inktober 2019 #Dragon` ha qualificato «predatore supremo» come valutazione possibile, non fatto oggettivo gerarchico.
 - Aggiornati registro di copertura e checkpoint; nessuna modifica alle fonti originali.
+
+
+## 2026-11-01 — Verifica Atrax e classificazione Fabalo Spinato
+
+- `Fiere — Voci Stub`: riallineata la descrizione delle tele degli Atrax a `Inktober 2019 #Swing` (fili biancastri e disegni complessi), distinta da `#Pattern` (combattimento e incendio). Rimosso «geometrici», non espresso nella fonte.
+- Indicata come provvisoria l'inclusione di Fabalo Spinato tra le Fitofiere: `18___Misfit` documenta la pianta ma non la classifica espressamente come Fitofiera.
+- Aggiornati matrice e checkpoint; fonti narrative inalterate.

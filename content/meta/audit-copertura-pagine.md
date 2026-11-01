@@ -128,3 +128,10 @@ Il confronto semantico del branch storico ha confermato che le sue modifiche nar
 - **Covata:** riletto `content/fonti/prevedibilita-covata.md`: distingue bozzoli operai, loro ruolo nell'apertura dei varchi, stima di schiusa anticipata da Bartholomew e fallimento delle schiere contro le difese in assenza di operai. Non menziona una casta di «soldati» distinta o una gerarchia biologica definita. La scheda `content/fiere/fiere-stub.md` generalizzava oltre la fonte; rimossi i due attributi e limitata la debolezza all'episodio. **Confronto della specifica affermazione completato**, senza dedurre una tassonomia della specie.
 - **Drago:** riletto `Inktober 2019 #Dragon`, che formula l'idea del predatore supremo come ipotesi comparativa («se ci fosse… probabilmente»). La scheda era più assoluta; riformulata come valutazione possibile anziché rango canonico oggettivo.
 - **Limite:** questi confronti riguardano specifiche proposizioni, non l'intero corpus né la verifica esaustiva delle 26 schede. Nessuna fonte originale modificata in questa tranche.
+
+
+### Confronto mirato — Atrax e Fabalo Spinato (2026-11-01)
+
+- **Atrax:** in `Inktober 2019 #Swing` sono attestati fili biancastri, bozzoli di cibo e intrecci complessi nell'Abisso; `#Pattern` documenta gli Atrax in battaglia e le tele che bruciano. `Inktober 2018 #Guarded` attesta giovani velenosi ma non tessitori. La scheda attribuiva a `#Pattern` tutta la descrizione visuale e trasformava «disegni complessi» in «pattern geometrici»; corretti il locator e la formulazione, senza inventare geometrie specifiche.
+- **Fabalo Spinato:** `18___Misfit` documenta una radice di un cespuglio pericoloso che deve essere consumata dopo trattamento entro 72 ore, ma non usa nel passaggio il termine **Fitofiera**. L'inclusione sotto la sezione Fitofiere è ora qualificata come classificazione editoriale provvisoria, non attestazione espressa dal testo. Non trasferita in altra categoria per inferenza.
+- **Perimetro:** confronto delle affermazioni nominate; non verifica definitiva frase-per-frase dell'intero bestiario. Nessuna fonte originale modificata.
