@@ -785,3 +785,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Solomon`: eliminata la falsa affermazione che avveleni la folla, sostituita con la trappola attestata contro Sartuk, testa di cera e spore; esplicitato che il ragazzo non è documentato morto e che Solomon ne prevede il risveglio con conseguenze permanenti alla voce.
 - `Solomon` e `Wendy Wyrm`: per gli Umani gli ornamenti sono privi di significato, mentre i Draghieri non li notano; la presunta superiorità intellettuale di Solomon è la sua percezione, non giudizio oggettivo. Primo timore esplicito solo per Solomon; Wendy riconosce lo sguardo di Draco già visto alla Maestà.
 - In `misfit.md` corretti solo i paragrafi delle note editoriali finali; l'ultima scena non mostra l'azione conseguente al sollevamento di Espediente. Racconti originali non modificati. Aggiornate matrice e istruzioni di ripresa.
+
+
+## 2026-11-01 — Confronto Leviatano, Sfinge e terminologia dei Guardiani
+
+- `Luther Leviathan`: `Inktober 2018 #Whale` documenta **Siaka** ucciso dal Canto del Leviatano e poi **lo stesso Leviatano** ucciso dal proprio Canto riflesso da Luther, non due Leviatani. Resa prudente la scomparsa del Capitano (ritrovata solo fascia insanguinata, Maicol lo sostituisce); non presunte rotte commerciali regolari o una responsabilità primaria comparativa non attestata. `L'ultima notte` dice che Luther si dissolve, non ne dimostra una morte ordinaria.
+- `Samu'el Sphynx`: il volto sepolto nella sabbia visto da Wade in `L'ultima notte` non è identificato con certezza con Samu'el; eliminati gli esiti di ferite/risveglio/sopravvivenza inventati.
+- `Samu'el Sphynx`, `Salamander`, `Draghieri`: allineata la terminologia Guardiani/scintille all'interpretazione prudente già adottata nel `Glossario` e in `Cosmologia`; il rapporto con i vettori del Fondamento resta interpretativo.
+- Aggiornati matrice e checkpoint, nessuna fonte narrativa alterata.
