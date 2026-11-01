@@ -96,3 +96,10 @@ Il confronto semantico del branch storico ha confermato che le sue modifiche nar
 | `content/meta/audit-copertura-pagine.md` | Presente; allineato al tree e all'ultimo merge | È un registro operativo, non una certificazione di audit semantico completo. |
 
 **Stato globale:** inventario dei file presenti verificato; 31/31 pagine di contenuto elencate nel registro storico, ma con gradi differenti di verifica; audit semantico integrale ancora **aperto**. Quattro percorsi sorgente assenti e gli identificatori legacy restano non riconciliati. Nessuna decisione canonica aggiunta in questa tranche.
+
+
+### Verifica diretta — Falenottere e Fiere alate non identificate (2026-11-01)
+
+- **Pagina:** `content/fiere/fiere-stub.md`, sezione «Falenottere». **Fonti primarie effettivamente rilette:** `content/fonti/inktober-2018.md`, episodio `#Drooling (6) & Exhausted (7)`; `content/fonti/inktober-2019.md`, episodi `#Enchanted (7)` e `#Frail (8)`.
+- **Rilievo:** `#Drooling` nomina esplicitamente le Falenottere e le descrive ciascuna grande quanto la testa dei protagonisti. `#Enchanted` descrive Fiere alate minuscole e luminose, ma non le nomina: la scheda le collegava implicitamente alla specie senza prova. `#Frail` menziona Fiere insettiformi in generale, senza identificare la specie. In `#Drooling` la permanenza della coscienza durante il nutrimento è riportata come voce tramandata («i racconti dicevano»), non come osservazione verificata.
+- **Correzione:** mantenuti i tratti direttamente attribuiti alle Falenottere; distinto l'episodio con specie non identificata e qualificata la testimonianza indiretta. Nessuna fonte originale alterata; nessuna specie o nuova capacità canonizzata. **Stato:** confronto mirato completato per questo rilievo, non audit esaustivo delle 26 schede.
