@@ -277,3 +277,15 @@ Fonti **lette direttamente**: `Prevedibilità (covata)` (racconto e apparato edi
 - Letta direttamente la fonte narrativa `content/fonti/onda-bianca.md` e la relativa nota editoriale. Il testo mostra un'onda di oblio proveniente dalla direzione della Maestà e, nella scena seguente, personaggi con ricordi discontinui e percezione di un paesaggio cambiato. La narrazione **non afferma che si trovino in un diverso universo o in una realtà alternativa**.
 - La nota conclusiva della fonte descriveva come fatto un «risveglio in una realtà alternata». Rimossa tale identificazione e documentati i tre livelli da distinguere: evento osservato (onda/oblio), effetto narrato (ricordi e contesto apparente mutati), spiegazione cosmologica ancora non determinata.
 - **Edit effettuato solo nella nota editoriale**, e data di frontmatter; **nessuna riga del racconto originale modificata**. La riclassificazione non chiude una questione cosmologica né importa elementi di Vilegis/Lunaria.
+
+
+## Confronto diretto trasversale — biografia Wade Wyrm (2026-11-01)
+
+- **Baseline verificata:** `main` commit `d7e5de50cda5c0b6df34664657b507347ca5699f`, dopo PR #82. Verificati direttamente i corpi narrativi di `Risveglio del Drago`, `Riflessioni`, `L'Esodo`, `L'Ultima Notte all'Ombra dell'Anello` e `Onda Bianca` con la voce `content/personaggi/wade-wyrm.md`.
+- **`Risveglio del Drago`:** l'aiutante di Wade è una *Giovane Fenice* su Vilegis; non è identificata espressamente come Frederick Fenice. L'attribuzione certa nella biografia contraddiceva la disambiguazione già registrata in PR #77–78. Corretta.
+- **`Riflessioni`:** la fonte è firmata da **Caitlin Chimera**, che menziona l'«esempio della Viverna»; la biografia di Wade riportava l'opera come propria apparizione senza distinguere la menzione indiretta. Corretta attribuzione dell'autore.
+- **`L'Esodo`:** Wade descrive 47 superstiti e l'obiettivo di raggiungere l'Artiglio del Magma dove operi «Salamandra», senza attribuirlo a Syrus o Sebastian. Corretto; resta aperta L18.
+- **`L'Ultima Notte`:** Wade avvista una figura sepolta e formula un dubbio condizionale su Samu'el, non un'identificazione; nel poema Fenice lo richiama. Corretto il passaggio della biografia.
+- **`Onda Bianca`:** Wade e Luther risultano **assenti** dal gruppo che osserva l'onda, secondo il dialogo degli astanti. Corretta la precedente presenza erronea di Wade nella biografia; non inferita la loro destinazione.
+- **Cronologia successiva:** il numero ordinale 33 documenta i predecessori, non permette di affermare con certezza che vi saranno successori.
+- **Stato:** sei proposizioni corrette e ricontrollate sulle fonti citate; confronto mirato completo **per queste affermazioni**, non certificazione totale della biografia né di tutti i 29 sorgenti. Fonti originali lasciate immutate.
