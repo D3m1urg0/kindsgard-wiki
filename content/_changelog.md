@@ -817,3 +817,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Soffione Uncinato`: dati morfologici, ciclo e gestione confrontati con `Soffioni Uncinati (scheda tecnica originale)`; nella nota narrativa corretta l'attribuzione della guida della fuga da Adryanne a Brienne Brood, con Razvan geniere e Adryanne difesa/scudo (Inktober 2019 #Build/#Husky). Conservata la discordanza Achenius/IX — Achenium/XII come L20.
 - `Bacca Emofaga`: confrontata integralmente con `Bacche Emofaghe (scheda tecnica originale)`; qualificati i metodi contro la Fitofiera come **neutralizzazione che distrugge anche l'ospite**, non guarigione; mantenuta la cautela specifica per varietà bianca. `L'esodo` riletto: differenziati germogliamento, fioritura e probabilità di contagio degli esposti; corretta la falsa impressione che tutti i sopravvissuti fossero infetti.
 - Fonti primarie non modificate, aggiornati registro e checkpoint. La verifica delle due schede complete è diretta, non certifica gli altri stub delle specie.
+
+
+## 2026-11-01 — Inventario di cinque specie citate fuori dal bestiario selettivo
+
+- `Fiere — Voci Stub`: esplicitato che le 26 voci preliminari **non costituiscono inventario completo** delle specie. Aggiunte **solo come menzioni** Siaka (`Inktober 2018 #Whale`), Eteree (`#Flowing`), Salamandra (`#Swollen`), Idra e Aigokeros (`Canzoni degli Umani`), tutte con locator e limiti espliciti. Le menzioni extra passano da tre a otto senza alterare le 26 voci categorizzate.
+- `content/fonti/list.md`: corretto il commento editoriale che assegnava all'inidentificata foresta di `Inktober 2019 #Mindless` la specie Sicomoro Perenne. I due spunti narrativi originali e i dodici nomi OOC di `Mostri` restano invariati.
+- Aggiornati matrice e checkpoint; l'inventario globale delle specie richiede una verifica più ampia e non viene dichiarato concluso.
