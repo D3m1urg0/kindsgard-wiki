@@ -3,7 +3,7 @@ titolo: "Fiere — Voci Stub"
 categoria: "fiere"
 tag: [fiere, stub, bestiario]
 status: "bozza"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 aliases: ["Fiere"]
 fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Canzoni_degli_Umani", "Fierezza", "Prevedibilità__covata_", "Mostri", "Elenco_Draghieri_Conosciuti", "D4-guida-draghiere", "L_esodo", "Onda_bianca", "18___Misfit"]
 ---
@@ -73,7 +73,7 @@ Fiera alata. In `Inktober 2019 #Treasure`, un Umano entra in una caverna contene
 Fiera menzionata in `Prevedibilità (covata)`: uno Zaratan di terra è associato a gallerie nel sottosuolo della Città-Alveare; la forma del carapace corrisponde al profilo di alcuni tunnel. In `Inktober 2018 #Cruel`, il Draghiere Zachary Zaratan porta uno scudo rotondo fatto di carapace, ma il testo non dice che provenga da uno Zaratan. Non sono documentati qui habitat marino, lentezza, quasi-impenetrabilità o sangue tossico; non dedurre varianti o fisiologia oltre i dati attestati.
 
 ### Falenottere
-Fiera alata di piccole dimensioni, attratta dalla luce e dotata di pungiglione paralizzante. In `Inktober 2019 #Enchanted`, la creatura è descritta come una Fiera alata piccolissima che si posa sul dito di Alison e punge; `Inktober 2018 #Drooling` attesta che le Falenottere sono attratte dalla luce, hanno becchi appuntiti e un pungiglione che paralizza la preda, cosciente mentre la Fiera si nutre. `Inktober 2019 #Frail` parla genericamente di Fiere insettiformi, ma non identifica esplicitamente le Falenottere come appartenenti a quella morfologia; il tratto resta non confermato.
+Fiere alate descritte in `Inktober 2018 #Drooling` come grandi circa quanto una testa umana, attratte dalla luce e provviste di becchi appuntiti e pungiglione paralizzante. Il racconto riferisce come credenza tramandata che la vittima rimanga cosciente durante il nutrimento; non lo accerta direttamente. `Inktober 2019 #Enchanted` descrive minuscole Fiere alate luminose che pungono Alison, ma **non le identifica come Falenottere**: non attribuire a questa specie né la taglia minuscola né la luminescenza sulla sola base di quell'episodio. `Inktober 2019 #Frail` menziona genericamente Fiere insettiformi senza assegnare esplicitamente tale morfologia alle Falenottere.
 
 ### Covata
 Fiera insettiforme/alveare. Si muove in sciami con unità specializzate: operai (scavano varchi), soldati (combattono), e una struttura gerarchica complessa. I bozzoli operai si schiudono a intervalli prevedibili — il Draghiere della Covata può anticipare i cicli. Punto debole: senza operai, le schiere soldato non possono aprire varchi e vengono respinte dalle difese (`Prevedibilità`).

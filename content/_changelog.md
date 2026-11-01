@@ -3,7 +3,7 @@ titolo: "Changelog"
 categoria: "meta"
 tag: [meta, changelog, modifiche]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-11-01"
 ---
 
 # Changelog
@@ -717,3 +717,18 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Aggiornata L17 in `Domande Aperte e Lacune` per separare il fatto direttamente attestato dei tredici Guardiani dalla lettura interpretativa che li identifica con i vettori collegati al Fondamento.
 
 - Aggiornata L21 in `Domande Aperte e Lacune` per non trattare come fatto confermato l'equivalenza fra le tredici scintille/Guardiani di `Inktober 2019 #Legend` e tredici vettori collegati al Fondamento.
+
+
+## 2026-11-01 — Ripresa dell'audit e riconciliazione del registro
+
+- Verificato direttamente il tree ricorsivo al commit `c5622003`: 29 fonti, 31 pagine di contenuto/indici e 6 registri meta, totale 66 Markdown sotto `content/`. Nessun branch remoto diverso da `main`, nessuna PR aperta prima della nuova tranche.
+- Verificati l'esito positivo del deploy GitHub Pages (run `41184112272`) e del workflow di pulizia branch (run `41272713997`) relativi al commit di partenza; le verifiche CI di questa nuova tranche devono essere registrate separatamente.
+- In `content/meta/audit-copertura-pagine.md`, aggiunti inventario e classificazione dei sei registri meta, perimetro della verifica odierna e prossimo passo aggiornato. Non dichiarata verificata semanticamente l'intera wiki.
+- In `content/meta/convenzioni.md`, distinta la nomenclatura degli indici meta alla radice da quella dei registri sotto `content/meta/`, correggendo una convenzione troppo generica.
+- In `content/meta/istruzioni-ripresa.md`, aggiunto checkpoint riutilizzabile. Non modificate fonti narrative né introdotti nuovi fatti canonici.
+
+
+## 2026-11-01 — Correzione di attribuzione nel bestiario (Falenottere)
+
+- Confrontata la sezione «Falenottere» di `content/fiere/fiere-stub.md` con `Inktober 2018 #Drooling`, `Inktober 2019 #Enchanted` e `#Frail`. `#Enchanted` non identifica le minuscole Fiere luminose come Falenottere, mentre `#Drooling` dà dimensioni circa pari a una testa umana per le Falenottere nominate.
+- Rimossa l'identificazione implicita fra i due episodi; qualificata come tradizione riferita, non osservazione diretta, la permanenza della coscienza delle vittime. Evidenza e limiti registrati nella matrice di copertura; fonti originali inalterate.

@@ -3,7 +3,7 @@ titolo: "Registro di copertura dell'audit"
 categoria: "meta"
 tag: [meta, audit, copertura, tracciabilità]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 ---
 
 # Registro di copertura dell'audit
@@ -58,12 +58,12 @@ Questo registro distingue la **lettura della pagina**, il **confronto diretto co
 - La PR di questa tranche esegue il workflow `Validate Quartz wiki`, che controlla i wikilink e costruisce Quartz. L'esito da associare al **commit finale della PR** va registrato prima del merge; gli esiti su commit precedenti non certificano il commit finale.
 - Le fonti narrative originali non sono state modificate. Gli interventi sono limitati a voci sintetiche, campi di riferimento, registri e classificazioni editoriali.
 
-## Prossimo passo
+## Prossimo passo — aggiornato al 2026-11-01
 
-1. Attendere e verificare il workflow sul commit finale della tranche, quindi integrare le modifiche se il controllo passa.
-2. Continuare il confronto sistematico fra affermazioni sintetiche e fonti, registrando per ogni discrepanza la fonte e il passaggio di supporto.
-3. Completare la riconciliazione dei riferimenti legacy e la verifica dei registri editoriali.
-4. Aggiornare questo registro man mano che una pagina passa da "prima passata letta" a "confronto diretto" o "verificata", senza confondere questi stati.
+1. Proseguire il confronto sistematico fra affermazioni sintetiche e fonti, con priorità alle 26 schede preliminari delle Fiere e alle pagine segnate come sola prima passata. Per ciascun rilievo annotare la fonte e il passaggio di supporto.
+2. Riconciliare i riferimenti legacy senza identificare arbitrariamente originali mancanti: D3, D4, Annali, `Draghieri_Vere_Fiere_del_Kindsgard`, `Copia_di_I_Draghieri_del_kindsgard`. Mantenere distinti testo assente, identità incerta e decisione editoriale.
+3. Allineare le verifiche registrate in questa matrice ai registri delle fonti, delle domande e al changelog, distinguendo i fatti verificati dalle ipotesi e dalle decisioni dell'autore.
+4. Dopo ogni modifica verificare il commit finale della PR con la validazione Quartz; soltanto dopo l'esito registrare il merge. Nessun esito CI precedente certifica automaticamente modifiche successive.
 
 
 ### Riconciliazione Ishvard/Karsh — 2026-10-15
@@ -74,3 +74,32 @@ Il confronto tra `content/storia/cronologia.md` e `content/storia/ere.md` ha ril
 ### Riconciliazione residua del branch Ishvard/Karsh — 2026-10-15
 
 Il confronto semantico del branch storico ha confermato che le sue modifiche narrative su Ishvard/Karsh sono superate da `main`, ma ha recuperato due omissioni di tracciabilità non dipendenti dalla ricostruzione cronologica: `Risveglio_del_Drago` è aggiunta alle fonti di `Fierezza e Maestà`, che descrive direttamente l'eccezione di Wade; `draghieri-spiegazione` è aggiunta alle fonti de `Il Battesimo del Fuoco`, che usa la guida per il quadro generale. Aggiunto inoltre `Elenco_Draghieri_Conosciuti` alle fonti di `Le Ere del Kindsgard` per la sequenza storica e ordinale dei Draghieri. Non è stata integrata la datazione obsoleta né l'affermazione di irripetibilità dal branch storico.
+
+
+## Checkpoint di ripresa — 2026-11-01
+
+- **Verifica effettiva del repository:** tree ricorsivo di `main` al commit `c56220033dfe96e277f7bd163a4dbc8e75fb7727` (PR #63, integrata 2026-10-31). Il tree non è troncato. Risultano **29 fonti** e **37 file Markdown non fonte**, di cui **31 pagine di contenuto/indici** elencate nella tabella sopra e **6 registri meta** elencati sotto: **66 file Markdown** complessivi sotto `content/`.
+- **Stato dei branch:** l'endpoint GitHub elenca unicamente `main`; seconda pagina vuota; zero PR aperte prima dell'avvio della presente tranche. La pulizia è conclusa, non è più una fase da riaprire.
+- **Controlli sul commit precedente:** deploy GitHub Pages `41184112272` riuscito sul commit `c5622003`; workflow schedulato di pulizia branch `41272713997` riuscito il 2026-11-01 sullo stesso commit. Questi run non verificano eventuali commit successivi.
+- **Fonte del giudizio di copertura:** la lettura integrale delle 29 fonti è attestata dal checkpoint del 13 ottobre; in questa ripresa sono stati ricontrollati tree, inventario, registri e parti dei checkpoint. **Non è stata ripetuta** la lettura integrale delle 29 fonti né verificata frase per frase l'intera wiki.
+- **Disallineamenti corretti in questa tranche:** la vecchia istruzione «attendere il workflow della tranche precedente» era superata; i sei registri meta erano presenti nel tree ma non inventariati esplicitamente qui. La convenzione dei file meta era troppo generica: gli indici `content/_*.md` e i registri `content/meta/*.md` seguono schemi diversi.
+
+### Registri meta — verifica di presenza e perimetro
+
+| File | Stato in questa ripresa | Residui |
+|---|---|---|
+| `content/_changelog.md` | Presente; intestazione e sezioni recenti consultate | Lo storico non certifica da solo le verifiche narrative. |
+| `content/meta/convenzioni.md` | Letto; convenzione dei nomi meta allineata alla struttura effettiva | Altre regole stilistiche non ricertificate sull'intero corpus. |
+| `content/meta/fonti.md` | Presente; inventario e note sui sorgenti mancanti esaminati | Identificativi legacy e originali mancanti ancora irrisolti. |
+| `content/meta/domande-aperte.md` | Presente; sintesi consultata e aggiornamento PR #63 riscontrato | Le decisioni umane restano distinte dall'audit documentale. |
+| `content/meta/istruzioni-ripresa.md` | Presente; checkpoint e conclusioni dei passaggi precedenti consultati | La cronaca storica non equivale a verifica indipendente del corpus. |
+| `content/meta/audit-copertura-pagine.md` | Presente; allineato al tree e all'ultimo merge | È un registro operativo, non una certificazione di audit semantico completo. |
+
+**Stato globale:** inventario dei file presenti verificato; 31/31 pagine di contenuto elencate nel registro storico, ma con gradi differenti di verifica; audit semantico integrale ancora **aperto**. Quattro percorsi sorgente assenti e gli identificatori legacy restano non riconciliati. Nessuna decisione canonica aggiunta in questa tranche.
+
+
+### Verifica diretta — Falenottere e Fiere alate non identificate (2026-11-01)
+
+- **Pagina:** `content/fiere/fiere-stub.md`, sezione «Falenottere». **Fonti primarie effettivamente rilette:** `content/fonti/inktober-2018.md`, episodio `#Drooling (6) & Exhausted (7)`; `content/fonti/inktober-2019.md`, episodi `#Enchanted (7)` e `#Frail (8)`.
+- **Rilievo:** `#Drooling` nomina esplicitamente le Falenottere e le descrive ciascuna grande quanto la testa dei protagonisti. `#Enchanted` descrive Fiere alate minuscole e luminose, ma non le nomina: la scheda le collegava implicitamente alla specie senza prova. `#Frail` menziona Fiere insettiformi in generale, senza identificare la specie. In `#Drooling` la permanenza della coscienza durante il nutrimento è riportata come voce tramandata («i racconti dicevano»), non come osservazione verificata.
+- **Correzione:** mantenuti i tratti direttamente attribuiti alle Falenottere; distinto l'episodio con specie non identificata e qualificata la testimonianza indiretta. Nessuna fonte originale alterata; nessuna specie o nuova capacità canonizzata. **Stato:** confronto mirato completato per questo rilievo, non audit esaustivo delle 26 schede.

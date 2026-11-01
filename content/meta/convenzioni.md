@@ -3,7 +3,7 @@ titolo: "Convenzioni della Wiki"
 categoria: "meta"
 tag: [meta, convenzioni, stile, naming]
 status: "canonico"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-11-01"
 ---
 
 # Convenzioni della Wiki
@@ -22,7 +22,8 @@ ultima_modifica: "2026-10-11"
 | Fazione | `nome-fazione.md` | `draghieri.md`, `vere-fiere.md` |
 | Sistema | `nome-sistema.md` | `fierezza-e-maesta.md` |
 | Fiera | `nome-fiera.md` | `soffione-uncinato.md` |
-| File meta | `_nome.md` (prefisso underscore) | `_index.md`, `_glossario.md` |
+| Indici e pagine meta alla radice di `content/` | `_nome.md` (prefisso underscore, dove adottato) | `_glossario.md`, `_changelog.md` |
+| Registri in `content/meta/` | `nome-descrittivo.md` (minuscolo e trattini) | `fonti.md`, `domande-aperte.md` |
 
 ---
 
