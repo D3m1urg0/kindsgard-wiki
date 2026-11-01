@@ -873,3 +873,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - `fonti/onda-bianca.md`: l'ultima nota redazionale presentava la scena dopo l'onda come «risveglio in una realtà alternata». La fonte mostra oblio e discrepanze fra scene, ma non dimostra il trasferimento in una realtà diversa. Corretta la sola interpretazione editoriale, non il racconto originale.
 - Registrata l'evidenza e mantenuto aperto il meccanismo cosmologico; aggiornati copertura e checkpoint.
+
+
+## 2026-11-01 — Audit diretto di cinque fonti nella biografia Wade Wyrm
+
+- Corrette sei proposizioni non conformi in `content/personaggi/wade-wyrm.md`: Giovane Fenice non identificata con Frederick; `Riflessioni` scritto da Caitlin, con Wade soltanto menzionato; `L'Esodo` non chiarisce l'identità del Draghiere «Salamandra» (L18); Samu'el è soltanto ipotizzato dalla figura sepolta nell'ultima notte; `Onda Bianca` mostra Wade assente dagli osservatori; il futuro di successori del 33° Wade non è documentato.
+- Confrontate direttamente le cinque fonti primarie. Registro di copertura e istruzioni di ripresa aggiornati. Nessuna fonte narrativa modificata, nessuna domanda canonica nuova.

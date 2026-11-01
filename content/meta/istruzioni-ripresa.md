@@ -715,3 +715,12 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 
 - La fonte narrativa `Onda Bianca` rappresenta un'onda cosmologica di oblio e due scene con memoria/ambiente percepito differente, ma non spiega se i protagonisti siano stati trasferiti in una realtà alternativa. La nota editoriale preesistente presentava tale ipotesi come fatto; rettificata nella sola sezione **Note** della fonte.
 - Non modificare il testo narrativo; mantenere separati evento, effetti soggettivi e interpretazioni cosmologiche. Confronto mirato, senza chiudere problemi generali sul meccanismo degli Echi.
+
+
+## Checkpoint — verifica dei riferimenti di Wade Wyrm (2026-11-01)
+
+- Al commit di base `d7e5de50cda5c0b6df34664657b507347ca5699f` erano già integrate le PR #69–82. Rilette direttamente le fonti pertinenti `Risveglio del Drago`, `Riflessioni`, `L'Esodo`, `L'Ultima Notte all'Ombra dell'Anello`, `Onda Bianca` e la biografia di Wade.
+- La Giovane Fenice di Vilegis non è identificata come **Frederick Fenice** del Kindsgard. `Riflessioni` è un testo di **Caitlin Chimera** con menzione indiretta di Wade, non di Wade stesso.
+- `L'Esodo` dice «Salamandra» all'Artiglio del Magma, senza scegliere Syrus/Sebastian (L18). `L'Ultima Notte` non conferma che l'uomo sepolto sia Samu'el: Wade lo ipotizza. `Onda Bianca` colloca Wade e Luther **assenti**, non fra gli osservatori.
+- Rimossa anche la previsione non attestata di successori dopo Wade; resta il numero storico 33. Corretta la sola biografia e registrate evidenze e limiti nella matrice/changelog. Nessun racconto modificato.
+- **Ripresa:** aggiornare lo stato operativo in base alla PR di questa tranche; proseguire con gli altri profili e le relazioni inferite, preservando le decisioni pregresse e senza dichiarare l'intero audit concluso.
