@@ -3,7 +3,7 @@ titolo: "Altri Personaggi"
 categoria: "personaggi"
 tag: [personaggi, stub, minori]
 status: "bozza"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 aliases: ["Axsar Aigokeros","Hycaro Hydra","Adalind Atrax","Razvan Roc","Gertrude Gorgon","Cornelius Cockatrix","Ember Everastes","Laerius Loch","Adryanne Achenius","Sef Sycamore","Angeline Aconitum","Lhars Leopterix"]
 fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Fierezza", "Elenco_Draghieri_Conosciuti", "Prevedibilità__covata_"]
 ---
@@ -26,7 +26,7 @@ Draghiere dell'Atrax (ragno). Vesti argentate, lunghe gonne, corona di fili d'ar
 Draghiere della Gorgone, di stanza alle [[Colture]]. Ha condotto ricerche mediche sull'uso di parti di Fiera, collaborando con [[Syrus Salamander]] (appunti in inchiostro verde nel laboratorio). Porta una bipenne a due mani. Quando le Colture cadono, è l'unica Draghiere rimasta sul posto — trova una sopravvissuta umana chiamata Daisy (`Inktober 2018 #Bottle`). Coordina la riconquista e bonifica delle Colture (`Inktober 2019 #Overgrown`).
 
 ### Cornelius Cockatrix, XIII Cockatrice
-Draghiere della Cockatrice. Il racconto `Fierezza.docx` documenta il suo [[Il Battesimo del Fuoco|Battesimo del Fuoco]] — il più dettagliato nelle fonti. Porta una balestra e una piccola fionda-arco personale; i suoi quadrelli sono avvelenati con una sostanza che pietrifica progressivamente il sangue del colpito. Il suo sangue stesso, se ferito, pietrifica ciò che tocca. Appare anche in `Prevedibilità (covata)` nella battaglia alla Città-Alveare.
+Draghiere della Cockatrice. Il racconto `content/fonti/fierezza-battesimo-cornelius.md` (originale `Fierezza.docx`) documenta il suo [[Il Battesimo del Fuoco|Battesimo del Fuoco]] — il più dettagliato nelle fonti. In `Inktober 2019 #Sling` usa una balestra e una piccola arma simile a una fionda-arco; i dardi di quest'ultima pietrificano i Grifoni colpiti, e anche il sangue del Draghiere pietrifica il terreno e la sua cappa. L'episodio **non** documenta un veleno che pietrifichi progressivamente il sangue del bersaglio. Appare anche in `Prevedibilità (covata)` nella battaglia alla Città-Alveare.
 
 ### Lhars Leopterix
 Draghiere del [[Fiere — Voci Stub#leopterix|Leopterix]]. In `Inktober 2019 #Freeze` indossa un mantello di pelle e piume ricavato da una creatura che il testo descrive come un misto di rettile e volatile e che Lhars caccia abitualmente; il passaggio non nomina esplicitamente la specie, quindi l'identificazione con il Leopterix resta inferita dal contesto. Arciere di estrema precisione — *"lui è la freccia"*. Era scomparso e dato per estinto prima di riapparire nel nord glaciale durante la caccia al Drago con [[Bran Behemoth]] (`Inktober 2019 #Freeze, #Snow, #Dragon`). Numero nella sequenza non specificato.
@@ -35,7 +35,7 @@ Draghiere del [[Fiere — Voci Stub#leopterix|Leopterix]]. In `Inktober 2019 #Fr
 Draghiere dell'[[Fiere — Voci Stub#everastes|Everastes]]. `Inktober 2019 #Snow` lo descrive coperto di pellicce candide, mimetizzato nella neve e “fatto per stare in mezzo al gelo”; non afferma però un'immunità assoluta al freddo. Porta un martello da guerra di pietra grezza e opera nell'Artiglio delle Nevi e nelle zone glaciali del nord. Il suo stemma mostra una montagna al centro di un cerchio di fiamme, ma le fonti citate non dettagliano la meccanica del suo Istinto.
 
 ### Laerius Loch, XV Loccia
-Draghiere della Loccia. In `Inktober 2019 #Snow` veste blu e bianco, con un farsetto imbottito che sembra fatto di scaglie, e combatte con arpioni leggeri a cui possono essere legate corde. Collabora con [[Bran Behemoth]] ed [[Ember Everastes]] nella caccia al Drago. Le fonti citate non attestano un habitat glaciale della Fiera, la capacità di restare immerso a lungo o una tattica abituale di attacco dall'acqua.
+Draghiere della Loccia. In `Inktober 2019 #Snow` veste blu e bianco, con un farsetto imbottito che sembra fatto di scaglie, e combatte con arpioni leggeri a cui possono essere legate corde. Collabora con [[Bran Behemoth]] ed [[Ember Everastes]] nella caccia al Drago. `Inktober 2019 #Snow` attesta per la **Fiera Loccia** i ghiacciai perenni del Nord e le sorgenti dei fiumi come habitat; non prova invece che **Laerius**, il Draghiere, possa restare immerso a lungo o adotti abitualmente attacchi dall'acqua.
 
 ### Sef Sycamore, XIII Sicomoro Perenne
 Draghiere del Sicomoro Perenne — una Fitofiera. Opera nelle zone boschive. Porta un corno aggrovigliato di Aigokeros. Coordina la bonifica della Foresta ambulante nelle Brughiere (`Inktober 2019 #Mindless`, `Inktober 2019 #Ash`).
