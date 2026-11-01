@@ -732,3 +732,19 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Confrontata la sezione «Falenottere» di `content/fiere/fiere-stub.md` con `Inktober 2018 #Drooling`, `Inktober 2019 #Enchanted` e `#Frail`. `#Enchanted` non identifica le minuscole Fiere luminose come Falenottere, mentre `#Drooling` dà dimensioni circa pari a una testa umana per le Falenottere nominate.
 - Rimossa l'identificazione implicita fra i due episodi; qualificata come tradizione riferita, non osservazione diretta, la permanenza della coscienza delle vittime. Evidenza e limiti registrati nella matrice di copertura; fonti originali inalterate.
+
+
+## 2026-11-01 — Correzione semantica di Viverna/Cockatrice e classificazione Fitofiere
+
+- `Fiere — Voci Stub`: la fonte `Inktober 2018 #Poisonous` attribuisce il veleno alla Viverna, mentre Wade non è velenoso; `Inktober 2019 #Sling` attribuisce il sangue pietrificante a Cornelius Cockatrix. Rimosse le attribuzioni erronee. `#Chicken` descrive una Cockatrice alta quanto un Umano e non il doppio; distinta la pietrificazione per sguardo della Fiera dal sangue e dai dardi di Cornelius.
+- `Inktober 2019 #Overgrown` attesta direttamente le classi Sensibili/Inerti **delle Fitofiere** e assegna il Chayote Strangolatore alle Sensibili. Corretto il precedente giudizio di classificazione non verificata senza D4, che resta comunque assente.
+- `Wade Wyrm`: eliminata l'attribuzione falsa di sangue velenoso/pietrificante. `Altri Personaggi`: rettificata la descrizione dei dardi di Cornelius e il riferimento all'habitat glaciale della Loccia attestato da `#Snow`. `Il Battesimo del Fuoco`: reso esplicito il percorso attuale del racconto di Cornelius (originariamente `Fierezza.docx`), senza rinominare fonti.
+- Aggiornati registro di copertura e checkpoint. Le fonti narrative primarie non sono state modificate; l'audit integrale delle 26 voci resta aperto.
+
+
+## 2026-11-01 — Correzioni di attribuzione: foresta mobile, Zaratan e indice Inktober
+
+- `Fiere — Voci Stub`: `Inktober 2019 #Mindless` non identifica la foresta mobile con il Sicomoro Perenne; le proprietà dei Sicomori Perenni direttamente attestate in `#Sling` sono riportate separatamente. `#Swing`, non `Prevedibilità`, descrive il confronto fra il carapace di uno Zaratan di terra e la forma di alcune gallerie, senza stabilire chi le abbia scavate.
+- `Altri Personaggi`: Sef Sycamore partecipa alla bonifica, ma `#Mindless` attribuisce la guida al Draghiere della Salamandra. Corretto il ruolo senza modificare la storia.
+- `content/fonti/inktober-2019.md`: modificate **esclusivamente due righe dell'indice rapido redazionale** per `#Mindless` e `#Enchanted`, eliminando identificazioni di specie non sostenute dal racconto. I testi narrativi non sono stati alterati.
+- Registrati confronto e limiti nella matrice di copertura e nel checkpoint.

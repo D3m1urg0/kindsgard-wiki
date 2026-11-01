@@ -3,7 +3,7 @@ titolo: "Wade Wyrm"
 categoria: "personaggi"
 tag: [wade-wyrm, draghieri, viverna, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 fonti: ["Fierezza__il_Dio_che_è_in_noi", "Una_Missiva_dall_Anello", "L_esodo", "Risveglio_del_Drago", "L_ultima_notte_all_ombra_dell_Anello", "Inktober_2018", "Inktober_2019", "Onda_bianca", "Solitudine", "Elenco_Draghieri_Conosciuti"]
 ---
 
@@ -23,9 +23,9 @@ La sua controparte Vera Fiera è [[Wendy Wyrm]], la Vera Viverna.
 
 ## Identità e Istinto
 
-Come Draghiere della Viverna, Wade incarna l'Istinto di quel rettile volante: veleno, agilità, e una mente che opera per sintesi rapide piuttosto che per analisi approfondite. Il suo motto implicito — "se dimentico una cosa non è importante" — è sia un tratto caratteriale che un meccanismo di difesa contro le verità scomode che il suo Istinto non sa gestire.
+Come Draghiere della Viverna, Wade incarna l'Istinto della Fiera, con un comportamento agile e una mente che opera per sintesi rapide piuttosto che per analisi approfondite. `Inktober 2018 #Poisonous` specifica che le Viverne sono velenose ma **Wade non lo è**. Il suo motto implicito — "se dimentico una cosa non è importante" — è sia un tratto caratteriale che un meccanismo di difesa contro le verità scomode che il suo Istinto non sa gestire.
 
-Sul [[Kindsgard]] Wade porta l'arma chiamata **Colpo di Coda**, lancia dalla punta avvelenata. Il suo sangue, se ferito, è esso stesso velenoso e pietrifica ciò che tocca (come mostrato in `Inktober 2019 #Sling`).
+Sul [[Kindsgard]] Wade porta l'arma chiamata **Colpo di Coda**, lancia impiegata contro le Viverne. `Inktober 2018 #Poisonous` attribuisce il veleno che ne minaccia la lama alla **Viverna cacciata**, non al sangue di Wade. La pietrificazione del sangue e dei dardi narrata in `Inktober 2019 #Sling` appartiene a **Cornelius Cockatrix**, non a Wade.
 
 ---
 

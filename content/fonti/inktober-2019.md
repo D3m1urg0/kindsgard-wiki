@@ -3,7 +3,7 @@ titolo: "Inktober 2019 — Racconti del Kindsgard 2"
 categoria: "fonti"
 tag: [inktober, racconti, antologia, in-world, era-del-dominio]
 status: "canonico"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-11-01"
 aliases: ["Inktober 2019"]
 tipo: "racconto"
 autore: "Stefania Ricco"
@@ -12,11 +12,11 @@ voci-wiki-collegate: ["Le Ere del Kindsgard", "Draghieri", "Caitlin Chimera", "B
 
 > **Indice rapido dei racconti e voci wiki principali toccate:**
 > - #1 Ring — Caitlin Chimera di guardia all'Artiglio delle Brughiere, canto del Lamento di Wade → [[Caitlin Chimera]], [[Anello di Fuoco]]
-> - #2 Mindless — bonifica della Foresta ambulante (Sicomoro Perenne) → [[Fiere — Voci Stub]]
+> - #2 Mindless — bonifica della Foresta ambulante, specie arborea non identificata; partecipa Sef Sycamore → [[Fiere — Voci Stub]]
 > - #3/4 Bait/Freeze — Bran Behemoth all'Artiglio delle Nevi, incontro con Lhars Leopterix → [[Bran Behemoth]], [[Altri Personaggi]]
 > - #5 Build — Brienne Brood e i Draghieri marciano verso la Città-Alveare in rovina → [[Brood]], [[Città-Alveare]]
 > - #6 Husky — morte di un Umano colpito da un Soffione Uncinato → [[Soffione Uncinato]]
-> - #7 Enchanted — la bambina Alison e le Falenottere → [[Fiere — Voci Stub]]
+> - #7 Enchanted — la bambina Alison e piccole Fiere alate non identificate → [[Fiere — Voci Stub]]
 > - #8 Frail — meditazione sulla fragilità universale nel Kindsgard
 > - #9 Swing — i Draghieri esplorano le gallerie della Città-Alveare → [[Città-Alveare]]
 > - #10 Pattern — battaglia nell'Abisso contro gli Atrax, intervento di Adalind Atrax → [[Brood]], [[Altri Personaggi]]
