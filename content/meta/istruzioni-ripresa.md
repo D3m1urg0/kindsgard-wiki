@@ -703,3 +703,9 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - `Inktober 2019 #Bait` collega Bran alla «sua Valle dei Tuoni»; `#Dragon` attribuisce all'opera di Bran Schiacciastelle e la propria armatura, forgiate in ferro nero della Valle dei Fulmini. La relazione fra i due toponimi non è determinata (L3).
 - La presenza di Bran nella Città-Alveare (`Prevedibilità (covata)`) non equivale a un presidio abituale di tutte le Catene Montuose Orientali. Rettificato il profilo geografico.
 - Non assimilare l'armatura a una pelle naturalmente impenetrabile e non aggiungere attività da fabbro non attestate nelle fonti consultate (riparazioni abituali, trappole). Scheda, copertura e changelog aggiornati; i racconti sono invariati.
+
+
+## Checkpoint — Canto di Luther Leviathan (2026-11-01)
+
+- `Inktober 2018 #Whale` mostra che Luther **devia** il Canto di un Leviatano e la sua onda contro la Fiera, dopo che l'onda originaria ha ucciso un Siaka. L'onda riflessa dilania il Leviatano. La fonte non attesta l'amplificazione del Canto da parte di Luther né una morte per distruzione dall'interno; rettificate entrambe le espressioni nella biografia.
+- Fonte narrativa preservata. Confronto mirato, non audit integrale della scheda.
