@@ -732,3 +732,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Confrontata la sezione «Falenottere» di `content/fiere/fiere-stub.md` con `Inktober 2018 #Drooling`, `Inktober 2019 #Enchanted` e `#Frail`. `#Enchanted` non identifica le minuscole Fiere luminose come Falenottere, mentre `#Drooling` dà dimensioni circa pari a una testa umana per le Falenottere nominate.
 - Rimossa l'identificazione implicita fra i due episodi; qualificata come tradizione riferita, non osservazione diretta, la permanenza della coscienza delle vittime. Evidenza e limiti registrati nella matrice di copertura; fonti originali inalterate.
+
+
+## 2026-11-01 — Correzione semantica di Viverna/Cockatrice e classificazione Fitofiere
+
+- `Fiere — Voci Stub`: la fonte `Inktober 2018 #Poisonous` attribuisce il veleno alla Viverna, mentre Wade non è velenoso; `Inktober 2019 #Sling` attribuisce il sangue pietrificante a Cornelius Cockatrix. Rimosse le attribuzioni erronee. `#Chicken` descrive una Cockatrice alta quanto un Umano e non il doppio; distinta la pietrificazione per sguardo della Fiera dal sangue e dai dardi di Cornelius.
+- `Inktober 2019 #Overgrown` attesta direttamente le classi Sensibili/Inerti **delle Fitofiere** e assegna il Chayote Strangolatore alle Sensibili. Corretto il precedente giudizio di classificazione non verificata senza D4, che resta comunque assente.
+- `Wade Wyrm`: eliminata l'attribuzione falsa di sangue velenoso/pietrificante. `Altri Personaggi`: rettificata la descrizione dei dardi di Cornelius e il riferimento all'habitat glaciale della Loccia attestato da `#Snow`. `Il Battesimo del Fuoco`: reso esplicito il percorso attuale del racconto di Cornelius (originariamente `Fierezza.docx`), senza rinominare fonti.
+- Aggiornati registro di copertura e checkpoint. Le fonti narrative primarie non sono state modificate; l'audit integrale delle 26 voci resta aperto.
