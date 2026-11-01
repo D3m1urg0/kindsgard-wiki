@@ -11,9 +11,9 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuo
 
 > *"Ab Necessitate Excusi" — Giustificati dalla Necessità.*
 >
-> *"Dal Fuoco alla Vita"* — motto attribuito dalla sintesi wiki; attestazione primaria non verificata.
+> *"Dal Fuoco alla Vita"* — formula attestata nella copia recuperata degli *Annali dell'Artiglio di Fuoco - Intro* (archivio collegato; non ancora pubblicata in GitHub).
 
-> **Nota di provenienza:** «Dal Fuoco alla Vita» è riportato nella sintesi wiki ma non è stato rintracciato nelle 29 fonti attualmente disponibili. La sua attestazione primaria resta da verificare; D4 e il riferimento legacy Draghieri/Vere Fiere non sono reperibili.
+> **Nota di provenienza:** il testo degli *Annali dell'Artiglio di Fuoco - Intro*, recuperato da Google Drive e firmato da Syrus Salamander V, contiene «Dal Fuoco alla Vita». Il file fonte Markdown non è ancora presente in GitHub e la firma non attesta l'uso universale del motto. Il riferimento legacy Draghieri/Vere Fiere rimane non identificato.
 
 ---
 
@@ -105,7 +105,7 @@ Principali:
 
 *"Ab Necessitate Excusi"* — Giustificati dalla Necessità. Formula attestata nelle fonti.
 
-*"Dal Fuoco alla Vita"* — Motto attribuito ai Draghieri dalla sintesi wiki; l'attestazione primaria non è stata rintracciata nelle fonti disponibili.
+*"Dal Fuoco alla Vita"* — Formula attestata nella copia degli *Annali dell'Artiglio di Fuoco - Intro*, sottoscritta da Syrus Salamander V; uso universale presso tutti i Draghieri non attestato.
 
 *"Omnia praedae fieri Potest"* — Motto attribuito dalla sintesi wiki ai Draghieri e alle Vere Fiere; l'attestazione primaria non è stata rintracciata nelle fonti disponibili. Non trattare l'attribuzione come verificata finché non emerge una fonte.
 
