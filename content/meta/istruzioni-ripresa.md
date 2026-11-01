@@ -643,3 +643,12 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - `Le Ere`: le Vere Fiere sono presenti ciclicamente già prima del Primo Secolo del Draco; la frase «per la prima volta» relativa a quel secolo è stata qualificata come **nuova comparsa organizzata**, non nascita assoluta. La proporzione temporale 100:1 resta registrata ma non verificata su D3, e il caveat è stato portato anche nel paragrafo locale.
 - `Cronologia`: il potere assorbito da Draco dopo l'uccisione dei Guardiani è descritto come **tredici scintille** attestate da `Inktober 2019 #Legend`; l'equivalenza con i vettori del Fondamento è lasciata interpretativa.
 - Modificati soltanto `Le Ere`, `Cronologia`, audit, checkpoint e changelog. La revisione integrale della timeline non è certificata; D3/D4 e identità Guardiani rimangono lacune.
+
+
+## Checkpoint — confronto canti e religioni (2026-11-01)
+
+- Verificato `Canto dei Draghieri` in `Canzoni degli Umani`: **non** contiene «Dalla cenere alla vittoria», espressione scritta **da Wade** al termine di `Una Missiva dall'Anello` dopo parole di Frederick. Corretta la falsa attribuzione in `Tradizioni`.
+- `Deflecte Cantum`: il verso poetico «eroi per poco, bruciati a milioni» **non equipara esplicitamente** quelle figure ai Bruciati di `Inktober 2018 #Scorched (19-2)`. La nota redazionale della canzone è stata qualificata; non trasferire il canone Bruciati/Fiamme senza L13. Le note originali di Pietro Caruso e la canzone restano inalterate.
+- Le note della `Ninna Nanna` davano per avvenuta la morte del bambino, mentre il testo conclude con l'abbandono del ferito; eliminata la certezza non documentata. `Religioni` riallineata all'uso prudente di «tredici scintille» dei Guardiani in luogo dell'equivalenza assunta dei vettori del Fondamento.
+- `Inktober 2019 #Ornament` verifica sacerdoti, monaci e loro invecchiamento; `Pezzo del Rituale — Chimera` sostiene l'imperativo della preghiera, quindi nessun cambio ulteriore su quei passaggi.
+- File redazionali modificati: `Tradizioni`, `Religioni`, **solo le note finali** di `Deflecte Cantum` e `Canzoni degli Umani`, registri/changelog. Non modificate strofe, testo originale né le note originarie di Pietro Caruso. Verificare CI finale e merge GitHub prima di classificarle integrate.
