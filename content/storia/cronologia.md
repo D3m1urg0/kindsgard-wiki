@@ -3,7 +3,7 @@ titolo: "Cronologia"
 categoria: "storia"
 tag: [cronologia, timeline, storia]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Risveglio_del_Drago", "Inktober_2018", "Inktober_2019", "Inktober_2024", "18___Misfit", "draghieri-spiegazione", "cio-che-sanno-i-draghieri", "Elenco_Draghieri_Conosciuti"]
 ---
 
@@ -99,7 +99,7 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 **[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard**. `Inktober 2019 #Legend` attesta che i tredici erano incarnati fra Draghieri, Fiere e Vere Fiere e che l'arma raccoglieva le loro scintille di potere. La loro identificazione precisa con i vettori collegati al Fondamento è una lettura interpretativa della canzone, non un'equivalenza esplicita.
 
-**[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice del potere raccolto dai tredici vettori manifestatisi nel Kindsgard, non più Draghiere né Vera Fiera. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli e regna sul Giardino con i Draghieri. La fondazione delle città infrange la legge del Giardino secondo cui tutto deve combattere: è un problema generato dalla scelta di Draco, che il potere ormai concentrato in lui gli impedisce di vedere pienamente. `18___Misfit` è coerente con la regola generale: Wendy Wyrm è chiamata «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge», al passato. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, ma non afferma che conservi il potere; L16 è stata risolta documentalmente.
+**[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice del potere delle tredici **scintille associate ai Guardiani** attestate in `Inktober 2019 #Legend`, non più Draghiere né Vera Fiera. L'equivalenza puntuale di quelle scintille con «vettori» legati al Fondamento resta un'interpretazione della ricostruzione wiki. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli e regna sul Giardino con i Draghieri. La fondazione delle città infrange la legge del Giardino secondo cui tutto deve combattere: è un problema generato dalla scelta di Draco, che il potere ormai concentrato in lui gli impedisce di vedere pienamente. `18___Misfit` è coerente con la regola generale: Wendy Wyrm è chiamata «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge», al passato. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, ma non afferma che conservi il potere; L16 è stata risolta documentalmente.
 
 ---
 
