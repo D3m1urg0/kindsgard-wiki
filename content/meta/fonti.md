@@ -294,3 +294,10 @@ I valori del campo `fonti` sono identificatori ereditati dalla conversione dei d
 ### Rettifica successiva dei motti — 2026-11-01
 
 Il giudizio storico «Dal Fuoco alla Vita non rintracciato fra le 29 fonti GitHub» resta corretto **per GitHub**, ma è superato nell'**inventario esteso**: la formula compare direttamente nell'introduzione degli Annali dell'Artiglio di Fuoco letta da Google Drive, con la firma di Syrus Salamander V. Non si può dedurre dalla sola firma che sia un motto universale di tutti i Draghieri. Per «Omnia praedae fieri Potest» non è stata trovata un'attestazione primaria sufficiente. Nessuna fonte privata è stata importata nel repository.
+
+
+### Incroci aggiuntivi fra documenti OOC esterni (2026-11-01)
+
+- Due versioni della cronistoria OOC (una redazione 2014 e una precedente): entrambe attestano testualmente **l'intenzione di Natura di preservare gli Umani** prima della perdita di autocoscienza e la regola di **un solo Draghiere per Fiera** con successione dopo la morte. Sono affermazioni verificabili **nelle copie recuperate**, ma la priorità della versione rispetto al legacy D3 rimane da chiarire. La cosmologia della wiki registra queste testimonianze come OOC candidate senza importare automaticamente il contesto Vilegis/Lunaria.
+- Nel documento OOC Dropbox *Draghieri.paper*, letto direttamente, compare la voce dedicata **Seymour Shai Ulud**; l'Elenco presente su GitHub usa **Seymour Sandwurm (ex Shai'Hulud)**. La denominazione precedente del personaggio è perciò documentata, ma l'effetto del cambio sulla denominazione della specie/Fiera non è stabilito. L15 aggiornata, senza modificare l'Elenco.
+- Materiale esterno e varianti **non pubblicati** sul repository. Continuano a valere i criteri di canone e le decisioni storiche già documentate.

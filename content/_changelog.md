@@ -887,3 +887,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Due copie Drive identiche della fonte *Ciò che sanno i Draghieri* riconciliano `Copia_di_I_Draghieri_del_kindsgard` con `content/fonti/cio-che-sanno-i-draghieri.md` e aggiornano `Cosmologia`.
 - Recuperate due versioni candidate della cronistoria OOC (D3) e due della guida ai Draghieri (D4); contenuti non identici, versioni da certificare. `Draghieri_Vere_Fiere_del_Kindsgard` e Annali delle Sabbie ancora non recuperati.
 - Allineato `Riflessioni` al campo `fonti` della scheda Wade e registrati perimetro e limiti. **Nessun documento esterno privato importato nel repository GitHub.**
+
+
+## 2026-11-01 — Riscontro D3 OOC e nome storico di Seymour
+
+- Controllate direttamente due redazioni esterne della cronistoria OOC: entrambe attestano la scelta di Natura di preservare gli Umani e l'esistenza di un solo Draghiere per Fiera con successione dopo la morte. Riformulate `Cosmologia` e `Fierezza e Maestà` per distinguere attestazione effettiva, identità non certificata del vecchio file D3 e regole più ampie non dimostrate.
+- `Draghieri.paper` dell'archivio collegato contiene `Seymour Shai Ulud`, confrontato con la fonte `Elenco Draghieri` `Seymour Sandwurm (ex Shai'Hulud)`. L15 qualificata come precedente denominazione di Seymour, lasciando aperta l'eventuale variazione della Fiera/specie.
+- Aggiornati fonte, domande, matrice, checkpoint. Nessun originale esterno pubblicato nel repository e nessun canone Vilegis importato automaticamente.
