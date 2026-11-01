@@ -861,3 +861,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `personaggi/bran-behemoth.md`: distinta la Valle dei Tuoni, toponimo personale attestato in `#Bait`, dalla Valle dei Fulmini attestata in `#Dragon`; la presenza alla Città-Alveare non prova un presidio abituale nelle Catene Montuose Orientali.
 - Distinta l'armatura forgiata da Bran dalla sua pelle naturale, la cui impenetrabilità non è attestata nei racconti confrontati. Rimossi dalla prosa assertiva lavori abituali su equipaggiamenti altrui e trappole, non documentati da `#Snow/#Dragon`.
 - Aggiornati matrice di copertura e checkpoint. Fonti narrative originarie invariate; L3 non risolta.
+
+
+## 2026-11-01 — Correzione della descrizione del Canto di Luther
+
+- `personaggi/luther-leviathan.md`: confrontato `Inktober 2018 #Whale` e sostituita la presunta capacità di amplificare il Canto con la **deviazione** attestata dell'onda del Leviatano. Rimossa l'attribuzione di distruzione «dall'interno» non presente nel racconto; la Fiera viene dilaniata dall'onda riflessa.
+- Aggiornati audit e checkpoint, senza modifiche alla fonte primaria.
