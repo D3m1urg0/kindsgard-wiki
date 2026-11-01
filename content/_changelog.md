@@ -854,3 +854,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `personaggi/samuel-sphynx.md`: rimossa la tag `guardiano` e qualificata l'appartenenza ai tredici come non documentata esplicitamente dalle fonti disponibili (`Inktober 2018 #Tranquil`, `Inktober 2019 #Legend`, `Elenco Draghieri`), senza negarne la possibilità.
 - La custodia dei progetti delle Serre appartiene alla collocazione all'Artiglio delle Sabbie (`#Bottle`); non è attribuita personalmente a Samu'el in modo dimostrato. Corretto il riferimento e aggiunto `Inktober_2019` al campo fonti.
 - Aggiornati audit e checkpoint; L17 rimane aperta. Non modificato alcun racconto originale.
+
+
+## 2026-11-01 — Verifica mirata di Bran Behemoth
+
+- `personaggi/bran-behemoth.md`: distinta la Valle dei Tuoni, toponimo personale attestato in `#Bait`, dalla Valle dei Fulmini attestata in `#Dragon`; la presenza alla Città-Alveare non prova un presidio abituale nelle Catene Montuose Orientali.
+- Distinta l'armatura forgiata da Bran dalla sua pelle naturale, la cui impenetrabilità non è attestata nei racconti confrontati. Rimossi dalla prosa assertiva lavori abituali su equipaggiamenti altrui e trappole, non documentati da `#Snow/#Dragon`.
+- Aggiornati matrice di copertura e checkpoint. Fonti narrative originarie invariate; L3 non risolta.
