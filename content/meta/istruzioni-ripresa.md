@@ -696,3 +696,10 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - La scheda Samu'el presentava il titolo di Guardiano come accertato, ma `Elenco Draghieri` non lo marca GUARDIANO; `Inktober 2018 #Tranquil` allude a un Guardiano anonimo come istruttore del Bibliotecario precedente, e `Inktober 2019 #Legend` non identifica Samu'el fra i tredici. L17 resta aperta.
 - `Inktober 2018 #Bottle` colloca all'Artiglio delle Sabbie i **progetti delle Serre**, senza affermare che Samu'el li custodisse personalmente. Corrette la biografia, la tag `guardiano` e la fonte `Inktober_2019` in metadata; non eliminati fatti narrativi accertati.
 - Continuare la verifica degli altri ruoli e relazioni derivati indirettamente dalle menzioni di classe o di luogo. Nessuna decisione canonica è stata presa.
+
+
+## Checkpoint — verifica specifica Bran Behemoth (2026-11-01)
+
+- `Inktober 2019 #Bait` collega Bran alla «sua Valle dei Tuoni»; `#Dragon` attribuisce all'opera di Bran Schiacciastelle e la propria armatura, forgiate in ferro nero della Valle dei Fulmini. La relazione fra i due toponimi non è determinata (L3).
+- La presenza di Bran nella Città-Alveare (`Prevedibilità (covata)`) non equivale a un presidio abituale di tutte le Catene Montuose Orientali. Rettificato il profilo geografico.
+- Non assimilare l'armatura a una pelle naturalmente impenetrabile e non aggiungere attività da fabbro non attestate nelle fonti consultate (riparazioni abituali, trappole). Scheda, copertura e changelog aggiornati; i racconti sono invariati.
