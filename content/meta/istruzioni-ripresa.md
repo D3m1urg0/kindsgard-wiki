@@ -667,3 +667,10 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - `content/fonti/list.md` non descrive come «Sicomoro Perenne» la foresta mobile di `Inktober 2019 #Mindless`: rettificata la nota finale non il contenuto di brainstorming. `content/fonti/mostri.md` conserva dodici nomi OOC non canonici, tutti separati.
 - Conteggio attuale menzioni supplementari in `Fiere — Voci Stub`: **8** (precedenti Kyrin, Sliss, Tentacolo Purpureo + nuovi cinque). Non equivale ad inventario esaustivo delle Fiere; per completarlo occorre ricontrollare ogni fonte e tutti i nomi in `Elenco Draghieri` senza equiparare automaticamente un Draghiere a una scheda di specie.
 - Modificati file bestiario, sola nota editoriale di `#List`, matrice e changelog. Il testo originale degli spunti rimane invariato. Proseguire sui controlli trasversali e sullo stato effettivo delle restanti pagine.
+
+
+## Checkpoint — Guardiani in Elenco e Vere Fiere (2026-11-01)
+
+- Allineato l'**apparato editoriale** dell'Elenco Draghieri al rapporto probatorio: `Inktober 2019 #Legend` attesta tredici Guardiani/scintille, **non** l'equivalenza puntuale con vettori del Fondamento. L'elenco nomina come GUARDIANO direttamente solo tre Draghieri (Mara, Bartholomew, G. Gryffin); altri nomi seguono fonti diverse e alcuni restano aperti (L17).
+- La voce `Vere Fiere` dopo l'ascesa di Re Draco descrive ora tredici **scintille** col caveat sui vettori, non più «tredici vettori» come fatto accertato.
+- L'Elenco originale, i numeri dei Draghieri e i titoli GUARDIANO sono invariati; è modificato solo il frontmatter e la presentazione editoriale iniziale, oltre a `Vere Fiere` e registri di controllo. Non chiudere L17/L21 per inferenza.
