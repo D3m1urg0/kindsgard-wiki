@@ -3,7 +3,7 @@ titolo: "Risveglio del Drago"
 categoria: "fonti"
 tag: [wade-wyrm, dominic-draco, frederick-fenice, vilegis, racconto, in-world, anno-del-draco]
 status: "canonico"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-11-01"
 tipo: "racconto"
 autore: "Stefania Ricco"
 voci-wiki-collegate: ["Wade Wyrm", "Dominic Draco", "Frederick Fenice", "Vilegis / Lunaria", "Vere Fiere", "Cronologia"]
@@ -11,7 +11,7 @@ voci-wiki-collegate: ["Wade Wyrm", "Dominic Draco", "Frederick Fenice", "Vilegis
 
 # Risveglio del Drago
 
-> *Wade Wyrm a Vilegis durante l'inizio del Primo Anno del Draco. Assiste alla condanna del proprio sé umano e viene riportato al Kindsgard da Frederick Fenice, scoprendo che Dominic Draco è diventato Vera Fiera.*
+> *Wade Wyrm è su Vilegis all'inizio del Primo Anno del Draco: la sua essenza produce una **Vera Viverna nel Kindsgard** mentre il Draghiere Wade è ancora vivo su Vilegis. Una Giovane Fenice presente su Vilegis lo aiuta a tornare sul Kindsgard, dove scopre il ritorno di Dominic Draco come Vera Fiera.*
 
 ---
 
@@ -86,8 +86,8 @@ Il Draghiere della Viverna tornò al Kindsgard, sul Giardino era già l'inferno.
 
 ## Note
 
-Racconto chiave per il Primo Secolo del Draco: documenta in tempo reale la duplicazione dell'essenza di Wade in una Nemesi (la Vera Viverna che agisce su Vilegis) mentre Wade-Draghiere è ancora vivo e attivo sul Kindsgard — fenomeno descritto in [[Fonti e Decisioni Canoniche|D3 — fonte non reperita]] come "duplicazione nelle proprie Nemesi" per i Draghieri presenti su Vilegis durante l'inizio dell'Anno del Draco.
+Racconto chiave per il Primo Secolo del Draco: **Wade-Draghiere è vivo su Vilegis** quando la sua essenza vi si separa e una **Vera Viverna nasce sul Kindsgard** tramite un nuovo Battesimo senza uccidere una Viverna. Il corpo del Draghiere resta su Vilegis finché viene riportato al Kindsgard dalla **Giovane Fenice**. La precedente nota editoriale **invertiva i due luoghi**. Il collegamento alla «duplicazione nelle proprie Nemesi» è una ricostruzione che richiama D3, **il cui originale non è reperito**; il racconto documenta direttamente il singolo caso Wade, non ogni meccanica o identità dei personaggi dell'Oltregiardino.
 
 Il racconto descrive anche **Dominic Draco senza elmo per la prima volta nella storia** — momento di rivelazione totale della sua trasformazione in Vera Fiera, il "sorriso di liberazione".
 
-Personaggi/termini introdotti senza altra documentazione: **Moebius** (mago, presumibilmente un Guardiano di Vilegis), **Onofrius** (la "Giovane Fenice" — diversa da Frederick Fenice, ma dal volto identico secondo [[Cronologia]]), il **Dracomagno**, la **Tribù**. Questi sono elementi del setting Vilegis, fuori scope salvo intersezioni dirette con il Kindsgard.
+Il racconto nomina **Moebius** (il maestro che pronuncia il discorso), registra il grido «**Onofrius!**» di Wade e poco dopo descrive una **Giovane Fenice** che lo tocca sulla fronte, permettendone il ritorno. Il testo **non identifica espressamente Onofrius con la Giovane Fenice**, né dimostra che quest'ultima sia **Frederick Fenice** del Kindsgard o abbia un volto identico al suo. Cita inoltre **Dracomagno** e **Tribù**, termini di Vilegis/Lunaria: non importarli nel canone del Kindsgard in assenza di un'intersezione documentata.
