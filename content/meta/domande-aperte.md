@@ -24,7 +24,7 @@ Questa sezione separa le decisioni che richiedono una risposta umana dalle attiv
 4. **L14 — “Infiammati”:** il termine in Inktober 2018 #Flowing indica i Bruciati, un gruppo distinto o altro? La somiglianza lessicale non basta a identificarli.
 5. **L19 — Identità e cronologia di Sirius/Syrus:** `Inktober 2018 #Flowing` nomina Sirius come fornitore di rocce nel I anno di Regno; `Inktober 2019 #Wild` attribuisce a Syrus Salamander un testo che parla di città dell'Anno del Dominio, mentre `#Bottle` e la cronologia collocano la sua morte prima dell'ascesa di Re Draco. Chiarire se Sirius è distinto da Syrus e se il testo degli Annali è una compilazione postuma, un'attribuzione errata o una discrepanza cronologica. Non correggere le fonti per inferenza.
 6. **L20 — Adryanne Achenius/Achenium, IX/XII:** `Inktober 2019 #Build` la chiama IX Draghiere del Soffione Uncinato; `#Husky` e `Elenco Draghieri` riportano XII. Chiarire se IX è un refuso, una diversa collocazione temporale o una persona distinta; conservare le citazioni originali.
-7. **L15 — Seymour Sandwurm / “ex Shai'Hulud”:** che cosa designa Shai'Hulud nella nota originale: un precedente nome personale, una specie/Fiera o altro?
+7. **L15 — Seymour Sandwurm / “ex Shai’Hulud”:** un outline OOC ritrovato in Dropbox intitola una scheda **“Seymour Shai Ulud”**, attestando che il nome fu usato direttamente per Seymour; l’Elenco Draghieri usa poi “Seymour Sandwurm (ex Shai’Hulud)”. Resta da chiarire se il cambio riguarda solo il cognome del personaggio oppure anche la denominazione della Fiera/specie, e quale nome si debba usare per riferimenti storici.
 8. **L17 — Tredici Guardiani:** esiste una lista canonica completa? `Inktober 2019 #Legend` attesta tredici Guardiani e tredici scintille di potere; la loro identificazione precisa con i vettori collegati al Fondamento resta interpretativa. Frederick Fenice apparteneva al gruppo, oppure il tag `guardiano` nella sua voce ha un altro significato?
 9. **L21 — Sei vettori e tredici affondi:** `Deflecte Cantum` menziona sei vettori e tredici affondi, mentre la cosmologia originaria ne identifica sette e `Inktober 2019 #Legend` attesta tredici Guardiani/scintille. Chiarire se i sei siano un sottoinsieme dei sette, una struttura del Fondamento esterno o altro; non equiparare i conteggi senza una fonte. 
 10. **L11 — `Draghieri_Vere_Fiere_del_Kindsgard`:** è rimasto non identificato il documento omonimo che giustifica questo ID legacy. La **parte `Copia_di_I_Draghieri_del_kindsgard` è stata risolta** verificando due copie Drive e il contenuto di `cio-che-sanno-i-draghieri.md`; non chiede più un chiarimento umano. Non equiparare il riferimento residuo ad altri documenti OOC per analogia.
@@ -174,9 +174,11 @@ Nel resoconto di Brienne Brood sul lavoro al Fiume Bianco si menziona un gruppo 
 - → **Chiarimento documentale/canonico:** IX in `#Build` è un errore, indica una diversa fase della successione o si riferisce a un'altra Adryanne? Conservare le citazioni originali; la sintesi wiki mantiene XII in base all'Elenco Draghieri e a `#Husky` fino a eventuale chiarimento.
 
 
-### L15 — Seymour Sandwurm e “ex Shai'Hulud”
-`Elenco Draghieri` elenca **Seymour Sandwurm** con la nota “ex Shai'Hulud”, senza spiegare il rapporto tra i due nomi. Non è possibile stabilire se Shai'Hulud sia un nome precedente del personaggio, una denominazione della Fiera/specie o un riferimento di altro tipo.
-- → **Chiarimento documentale:** che cosa indica “ex Shai'Hulud” nella fonte originale? Fino alla conferma, conservare la formulazione della fonte senza espanderla nella biografia o nella tassonomia.
+### L15 — Seymour Sandwurm e “ex Shai'Hulud” — nuova prova documentale
+
+L'`Elenco Draghieri` riporta **Seymour Sandwurm** con la nota “ex Shai'Hulud”. Il documento di lavoro OOC *Draghieri.paper*, recuperato e letto in un archivio Dropbox collegato, contiene una sezione dedicata al personaggio intitolata **“Seymour Shai Ulud”**, con campi per carattere, ruolo e concept non compilati. **Fatto documentato:** la forma *Seymour Shai Ulud* è stata davvero usata come denominazione personale in una bozza/OOC. Il confronto con l'Elenco sostiene la lettura di un **cambio di nome**, ma non dice da solo se sia cambiata anche la specie/Fiera cui il Draghiere è associato, quale fosse la grafia storica normativa, né quando avvenne il passaggio.
+
+- → **Domanda residua ristretta:** il passaggio a *Sandwurm* fu solo rinomina del personaggio o anche aggiornamento della specie/Fiera? Quale grafia usare per gli eventuali riferimenti alle versioni storiche? Non alterare il nome dell'Elenco o creare una specie nuova senza ulteriore evidenza.
 
 ### L16 — Sorte di Wendy Wyrm e Solomon dopo l'ascesa di Re Draco — risolta documentalmente
 La lettura diretta di `content/fonti/misfit.md` risolve l'apparente conflitto: Wendy è chiamata «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge», al passato. Il racconto è ambientato nell'Era del Dominio e li mostra in forma umana dopo la perdita del potere; non costituiscono eccezioni documentate alla regola generale riportata dalla cronologia. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, ma non afferma che conservi il potere e quindi non contraddice `Misfit`.
@@ -204,3 +206,13 @@ La canzone menziona sei vettori, tredici affondi e il Fondamento che fluisce ver
 - **Annali:** reperito fuori da GitHub il documento *Annali dell'Artiglio di Fuoco - Intro*, firmato Syrus Salamander V e contenente `Dal Fuoco alla Vita`. La fonte di Fuoco è distinta dall'Annale delle Sabbie ancora non recuperato (L12).
 - **D3/D4:** reperite e lette due versioni della cronistoria OOC e due della guida Draghiere in Google Drive/Dropbox; non è ancora dimostrato quale corrisponda esattamente al riferimento storico e a quale revisione. La mancata presenza **in GitHub** resta vera; la precedente formula «non reperiti» non è più valida per l'insieme degli archivi collegati.
 - **Riservatezza e canone:** nessun testo privato importato; non attribuire il canone originario Kindsgard alla parte di cronistoria adattata a Vilegis/Lunaria senza corrispondente prova.
+
+
+## Riscontri aggiuntivi dalle cronistorie OOC candidate — 2026-11-01
+
+Le due redazioni OOC *Draghieri FULL OOC PIETRO* (redazione 2014) e *SPIEGAZIONE COMPLETA OOC DELL'AMBIENTAZIONE DRAGHIERI* (bozza precedente), lette direttamente nell'archivio collegato, contengono entrambe due affermazioni **esplicite e concordanti**:
+
+- Natura **decreta la preservazione degli Umani** prima di perdere definitivamente la propria autocoscienza; Bisogno ed Espediente cercano successivamente di attuare quel comando. Si tratta di un'affermazione delle redazioni OOC candidate e non di una formula della `Cronistoria (versione breve)` o del saggio in-world di Wendy Wyrm. Fintanto che non è chiarita la priorità canonica della redazione D3, registrare la testimonianza e non riscrivere retroattivamente la cosmologia originaria come certezza non qualificata.
+- È attestata la regola **un solo Draghiere per Fiera**, con successione dopo la morte del predecessore. Questa formulazione non risolve automaticamente la convivenza con le Vere Fiere, i casi di duplicazione del risveglio né le eccezioni delle Chiamate su Vilegis; L4 resta parzialmente aperta.
+
+La presenza di questi testi **supera** le note storiche «non rintracciabile direttamente» che erano corrette solo rispetto alle 29 fonti GitHub. Non è stata importata alcuna versione dei documenti privati, né attribuita loro la sigla D3 con certezza editoriale.
