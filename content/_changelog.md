@@ -824,3 +824,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Fiere — Voci Stub`: esplicitato che le 26 voci preliminari **non costituiscono inventario completo** delle specie. Aggiunte **solo come menzioni** Siaka (`Inktober 2018 #Whale`), Eteree (`#Flowing`), Salamandra (`#Swollen`), Idra e Aigokeros (`Canzoni degli Umani`), tutte con locator e limiti espliciti. Le menzioni extra passano da tre a otto senza alterare le 26 voci categorizzate.
 - `content/fonti/list.md`: corretto il commento editoriale che assegnava all'inidentificata foresta di `Inktober 2019 #Mindless` la specie Sicomoro Perenne. I due spunti narrativi originali e i dodici nomi OOC di `Mostri` restano invariati.
 - Aggiornati matrice e checkpoint; l'inventario globale delle specie richiede una verifica più ampia e non viene dichiarato concluso.
+
+
+## 2026-11-01 — Riconciliazione dei Guardiani in Elenco e Vere Fiere
+
+- Corretto l'apparato editoriale iniziale di `Elenco Draghieri Conosciuti`: gli individui GUARDIANO sono attestati come marcati nella lista; il rapporto con le tredici scintille di `Inktober 2019 #Legend` non prova l'identità puntuale con i vettori del Fondamento. Nomi, titoli, marcature e numerazioni dell'elenco restano invariati.
+- `Vere Fiere`: sostituita la falsa equivalenza diretta «tredici vettori» con le tredici scintille dei Guardiani e caveat esplicito sulla lettura del Fondamento.
+- Aggiornati matrice, checkpoint e changelog; decisioni canoniche L17/L21 non anticipate.

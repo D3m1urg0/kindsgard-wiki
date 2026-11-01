@@ -3,14 +3,14 @@ titolo: "Elenco Draghieri Conosciuti"
 categoria: "fonti"
 tag: [draghieri, elenco, liste, canonico]
 status: "canonico"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-11-01"
 tipo: "lista"
 voci-wiki-collegate: ["Draghieri", "Dominic Draco", "Wade Wyrm", "Caitlin Chimera", "Frederick Fenice", "Bran Behemoth", "Luther Leviathan", "Samu'el Sphynx", "Brood", "Salamander", "Altri Personaggi"]
 ---
 
 # Elenco Draghieri Conosciuti
 
-> *Lista nominativa dei Draghieri del Kindsgard con numero progressivo e Fiera di riferimento. I nomi in **grassetto** indicano personaggi giocati attivamente. La marcatura GUARDIANO indica individui identificati come parte del gruppo dei tredici vettori manifestatisi nel Kindsgard dopo la connessione con Vilegis/Lunaria; non implica che i sette vettori originari del Kindsgard coincidano con gli Spettri del Fondamento.*
+> *Lista nominativa dei Draghieri del Kindsgard con numero progressivo e Fiera di riferimento. I nomi in **grassetto** indicano personaggi giocati attivamente. La marcatura GUARDIANO indica i personaggi segnati come tali nell'elenco originale. `Inktober 2019 #Legend` descrive i tredici Guardiani e **tredici scintille** di potere; la corrispondenza puntuale con vettori del Fondamento è una **lettura interpretativa della ricostruzione wiki**, distinta dai sette vettori originari del Kindsgard. La marcatura nell'elenco **non garantisce da sola** l'identificazione dei dieci Guardiani non contrassegnati.*
 
 ---
 
