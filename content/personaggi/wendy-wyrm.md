@@ -3,7 +3,7 @@ titolo: "Wendy Wyrm"
 categoria: "personaggi"
 tag: [wendy-wyrm, vere-fiere, vera-viverna, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-11-01"
 fonti: ["La_natura_di_Natura", "Solitudine", "18___Misfit", "Il_Trattato"]
 ---
 
@@ -35,7 +35,7 @@ Nel racconto `Il Trattato (Wendy Wyrm)` è descritta mentre tenta con metodi spi
 
 **"Solitudine"** — Dialogo alla bocca della Maestà tra Draco e la Vera Viverna. Wendy assiste al sacrificio dell'ultima Fenice (la Specie, non il Draghiere) e interagisce con Draco in un raro momento di scambio tra le due nature. Non comprende la "pietà" che Draco dichiara di provare — il concetto è fuori dal suo Istinto.
 
-**"18___Misfit"** — Sugli spalti dell'Artiglio, Wendy e [[Solomon]] (Vera Sfinge) osservano Draco pattugliare le mura. Il racconto rivela che le due Vere Fiere si trovano nell'area Umana, non riconosciute dai Draghieri. Wendy percepisce "per la prima volta lo sguardo stanco, pieno di rammarico" di Draco.
+**"18___Misfit"** — Sugli spalti dell'Artiglio, Wendy e [[Solomon]] (Vera Sfinge) osservano Draco pattugliare le mura. Il racconto mostra le **due ex-Vere Fiere**, già tornate umane, nell'area degli Umani: i loro ornamenti sono privi di significato per gli Umani, mentre l'Istinto dei Draghieri impedisce di coglierne il significato. Wendy riconosce nello sguardo stanco e pieno di rammarico di Draco **l'espressione già incrociata alla Maestà** durante il sacrificio della Fenice; la fonte non dice che la noti per la prima volta in assoluto.
 
 ---
 

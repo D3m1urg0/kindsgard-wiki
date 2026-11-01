@@ -620,3 +620,10 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - `Inktober 2018 #Flowing` è internamente discordante su Brienne (XVII nella testata, VI nella firma); l'Elenco canonico sostiene XVII. La fonte è rimasta intatta, la discordanza resta tracciata. In `L'ultima notte`, Bran è sconfitto ma non esplicitamente morto. In `#Pattern`, non `#Build`, Brienne riconosce Adalind. Lo Zaratan e i tunnel sono in `#Swing`.
 - Corretti i quattro articoli (`Bran`, `Brood`, `Altri Personaggi`, `Città-Alveare`), le sole tre note redazionali finali di `Prevedibilità`, la matrice e il changelog. **Il corpo narrativo di Prevedibilità è stato verificato invariato**, come il racconto `#Flowing`.
 - Non dichiarare chiuso l'audit delle 31 pagine/29 fonti per questi confronti puntuali. Proseguire su altre voci personaggi e sul controllo dei registri meta; attendere validazione wikilink/Quartz sul commit finale prima del merge.
+
+
+## Checkpoint — verifica Solomon/Wendy/Misfit, 2026-11-01
+
+- Riletto `Inktober 2018 #Precious` e confrontato integralmente il corpo di `18___Misfit` con `Solomon` e `Wendy Wyrm`. Il primo racconta una **trappola a Sartuk**, non l'avvelenamento della folla: Solomon conta sul possibile risveglio del ragazzo, lasciando danno permanente alla voce. Non attestato il decesso.
+- `Misfit`: gli ornamenti sono privi di significato per gli Umani, non invisibili; i Draghieri non li notano. Solomon si compiace della propria presunta superiorità; il suo timore è dichiarato primo, quello di Wendy no. Wendy riconosce lo sguardo già visto alla Maestà; il gesto di Draco con Espediente non specifica un'aggressione effettiva.
+- Corrette voci, apparato editoriale finale di Misfit, matrice e changelog. Le narrazioni originali devono rimanere inalterate. Proseguire letture su pagine in prima passata e questioni canoniche non risolte, senza miglioramenti creativi prematuri.
