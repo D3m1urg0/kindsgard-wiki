@@ -15,7 +15,7 @@ fonti: ["Inktober_2019", "Inktober_2018", "Prevedibilità__covata_", "Onda_bianc
 
 ## Panoramica
 
-Bran Behemoth è il **V Draghiere del Behemoth** del Kindsgard. È uno dei Draghieri più fisicamente imponenti documentati nelle fonti — una massa d'acciaio e forza bruta che si muove con la lentezza inesorabile di una montagna. Opera nelle zone montuose del nord e nelle **Catene Montuose Orientali**. Le fonti usano sia **Valle dei Tuoni** (`Inktober 2019 #Bait`) sia **Valle dei Fulmini** (`#Tread`, `L'ultima notte all'ombra dell'Anello`); non è stabilito se siano lo stesso luogo.
+Bran Behemoth è il **V Draghiere del Behemoth** del Kindsgard. È uno dei Draghieri più fisicamente imponenti documentati nelle fonti — una massa d'acciaio e forza bruta che si muove con la lentezza inesorabile di una montagna. È associato alle zone montuose del nord e alla propria **Valle dei Tuoni** (`Inktober 2019 #Bait`), mentre le fonti usano anche **Valle dei Fulmini**. Compare inoltre nella battaglia alla **Città-Alveare** (`Prevedibilità (covata)`), ma quella presenza non basta a stabilire che presidi abitualmente tutte le Catene Montuose Orientali. Le fonti usano sia **Valle dei Tuoni** (`Inktober 2019 #Bait`) sia **Valle dei Fulmini** (`#Tread`, `L'ultima notte all'ombra dell'Anello`); non è stabilito se siano lo stesso luogo.
 
 ---
 
@@ -25,7 +25,7 @@ Il Behemoth è una Fiera colossale associata ai Picchi; le fonti narrative ne mo
 
 La sua arma è **Schiacciastelle**: una mazza ferrata dalla testa grande quanto il suo stesso torace, con quattro lame possenti, forgiata da lui stesso con il ferro nero della Valle dei Fulmini. L'armatura è ugualmente sua fattura, brunita e temperata in due mondi diversi.
 
-Come Draghiere del Behemoth, Bran ha una resistenza fisica eccezionale e riesce a operare in ambienti estremi. Non è però immune a ogni effetto del calore: durante la caccia al Drago (`Inktober 2019 #Dragon`) la fiammata lo ferisce e il metallo dello scudo fonde. È quindi più corretto parlare di resistenza, non di immunità assoluta. La sua pelle corazzata resiste a colpi che ucciderebbero molti altri esseri.
+Come Draghiere del Behemoth, Bran ha una resistenza fisica eccezionale e riesce a operare in ambienti estremi. Non è però immune a ogni effetto del calore: durante la caccia al Drago (`Inktober 2019 #Dragon`) la fiammata lo ferisce e il metallo dello scudo fonde. È quindi più corretto parlare di resistenza, non di immunità assoluta. Nelle scene esaminate la protezione contro i colpi è descritta soprattutto attraverso la **robusta armatura** di Bran; non è dimostrata una particolare impenetrabilità della sua pelle naturale.
 
 ---
 
@@ -43,7 +43,7 @@ Come Draghiere del Behemoth, Bran ha una resistenza fisica eccezionale e riesce 
 
 ## La Forgia
 
-Bran non è solo un combattente: è un fabbro. La forgia è il suo mezzo di espressione più personale, il punto in cui l'Istinto del Behemoth — lento, inesorabile, che plasma il mondo con la forza — si manifesta in modo costruttivo. Forgia le proprie armi e armature, ripara equipaggiamento dei compagni, costruisce trappole e rinforzi. In `Inktober 2019 #Snow`, la forgia improvvisata nella caverna durante la tempesta diventa un momento di coesione per tutti i presenti.
+Bran non è solo un combattente: è un fabbro. La forgia è il suo mezzo di espressione più personale, il punto in cui l'Istinto del Behemoth — lento, inesorabile, che plasma il mondo con la forza — si manifesta in modo costruttivo. In `Inktober 2019 #Dragon` è attestato che ha lavorato personalmente sia **Schiacciastelle** sia la propria **armatura**, usando ferro nero della Valle dei Fulmini; `#Snow` descrive la preparazione e la forgia improvvisata durante la tempesta. Le fonti qui confrontate non dimostrano che egli ripari abitualmente l'equipaggiamento altrui o costruisca sistematicamente trappole e rinforzi.
 
 ---
 
