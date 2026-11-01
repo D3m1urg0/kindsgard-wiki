@@ -3,7 +3,7 @@ titolo: "Salamander — Draghieri della Salamandra"
 categoria: "personaggi"
 tag: [syrus-salamander, sebastian-salamander, draghieri, salamandra, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-13"
+ultima_modifica: "2026-11-01"
 aliases: ["Syrus Salamander","Sebastian Salamander"]
 fonti: ["Annali_dell_Artiglio_di_Fuoco", "L_esodo", "Inktober_2018", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
@@ -18,7 +18,7 @@ fonti: ["Annali_dell_Artiglio_di_Fuoco", "L_esodo", "Inktober_2018", "Inktober_2
 
 Syrus Salamander è il **V Draghiere della Salamandra** del Kindsgard. È il predecessore di [[#Sebastian Salamander, VI Salamandra|Sebastian]] e uno dei Draghieri più longevi documentati nelle fonti. Una citazione attribuita agli **Annali dell'Artiglio di Fuoco** compare in `Inktober 2019 #Wild` ed è firmata da Syrus; il testo integrale degli Annali non è presente come file autonomo nel repository. Il frammento contiene però riferimenti all'Anno del Dominio e a città sorte dopo l'ascesa di Re Draco, in tensione con la morte di Syrus prima di quell'ascesa. La datazione del frammento e la sua relazione con il documento autonomo mancante non sono quindi risolte (vedi L19).
 
-Syrus portava il titolo di **Guardiano** — era uno dei tredici individui che, dopo la connessione del Kindsgard con Vilegis/Lunaria, incarnavano inconsapevolmente un vettore manifestatosi nel Kindsgard in relazione al Fondamento. Questo gruppo successivo non coincide con i sette vettori originari del Kindsgard.
+Syrus portava il titolo di **Guardiano** ed è identificato fra i portatori del potere dei tredici Guardiani nella ricostruzione storica. `Inktober 2019 #Legend` attesta **tredici scintille** associate a quei Guardiani; l'identificazione precisa con i vettori del Fondamento è interpretativa e distinta dai sette vettori originari del Kindsgard.
 
 ### Ruolo
 

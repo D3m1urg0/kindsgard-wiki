@@ -3,7 +3,7 @@ titolo: "Luther Leviathan"
 categoria: "personaggi"
 tag: [luther-leviathan, draghieri, leviatano, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 fonti: ["Inktober_2018", "L_ultima_notte_all_ombra_dell_Anello", "Onda_bianca", "Elenco_Draghieri_Conosciuti"]
 ---
 
@@ -15,13 +15,13 @@ fonti: ["Inktober_2018", "L_ultima_notte_all_ombra_dell_Anello", "Onda_bianca", 
 
 ## Panoramica
 
-Luther Leviathan è il **XVIII Draghiere del Leviatano** del Kindsgard. Opera principalmente sul [[Mare Interno]] a bordo della nave **Maelstrom**, cacciando le Fiere marine che minacciano la navigazione e i commerci. È il Draghiere più direttamente responsabile della sicurezza delle rotte marittime del Kindsgard.
+Luther Leviathan è il **XVIII Draghiere del Leviatano** del Kindsgard. Opera principalmente sul [[Mare Interno]] a bordo della nave **Maelstrom**, cacciando le Fiere marine che minacciano gli Umani e gli insediamenti del Mare Interno. `Inktober 2018 #Whale` documenta una specifica caccia e la Maelstrom; non permette di confrontare la sua responsabilità con quella di ogni altro Draghiere né di ricostruire una rete commerciale marittima.
 
 ---
 
 ## Identità e Istinto
 
-Il Leviatano è una Fiera marina che si muove nelle profondità del Mare Interno. Il suo potere distintivo è il **Canto**, un'emissione sonora. In `Inktober 2018 #Whale`, il Canto di un Leviatano genera un'onda che distrugge un altro esemplare e scaraventa la scialuppa a circa venti metri; le fonti disponibili non stabiliscono che ogni Canto uccida altre Fiere marine o alteri in generale il corso delle acque.
+Il Leviatano è una Fiera marina che si muove nelle profondità del Mare Interno. Il suo potere distintivo è il **Canto**, un'emissione sonora. In `Inktober 2018 #Whale`, il Canto di un Leviatano genera un'onda che **uccide un Siaka**; quando Luther ne devia la forza con il proprio Canto, l'onda investe e uccide **lo stesso Leviatano che l'aveva prodotta**. La scialuppa viene ribaltata e scagliata ad almeno venti metri. La fonte non documenta l'uccisione di un secondo Leviatano né consente di generalizzare gli effetti a ogni Canto.
 
 L'Istinto di Luther è quello del predatore delle profondità: pazienza, precisione, capacità di operare in ambienti ostili dove nessun altro potrebbe sopravvivere. Non guida gli Umani con la parola ma con la posizione: è sempre dove deve essere, fa sempre la cosa che deve essere fatta, senza spiegazioni superflue.
 
@@ -29,7 +29,7 @@ L'Istinto di Luther è quello del predatore delle profondità: pazienza, precisi
 
 ## La Maelstrom e il Canto
 
-La **Maelstrom** è la nave di Luther. Trasporta Umani tra gli Artigli costieri e serve da base per le cacce alle Fiere marine. Le fonti disponibili non forniscono un confronto sistematico che permetta di definirla la nave più potente del Kindsgard.
+La **Maelstrom** è la nave di Luther. `Inktober 2018 #Whale` documenta un equipaggio Umano, il porto dell'Artiglio delle Scogliere e la nave come base per una caccia; non stabilisce una rete regolare di trasporti fra Artigli costieri. Le fonti disponibili non forniscono un confronto sistematico che permetta di definirla la nave più potente del Kindsgard.
 
 Il metodo di caccia di Luther è documentato in `Inktober 2018 #Whale`: si immerge nelle profondità con un'armatura pesante, scende fino alla Fiera bersaglio, e usa il proprio **Canto** per piegare o amplificare il Canto della Fiera stessa contro di lei. Nel caso documentato, usò il Canto di un Leviatano nemico per generare un'onda che lo distrusse dall'interno.
 
@@ -37,9 +37,9 @@ Il metodo di caccia di Luther è documentato in `Inktober 2018 #Whale`: si immer
 
 ## Presenza Narrativa
 
-**`Inktober 2018 #Whale`** — Racconto principale. La Maelstrom rientra al porto dell'Artiglio delle Scogliere dopo una caccia difficile. Un Leviatano si è spostato vicino all'Artiglio a causa delle Piogge Roventi. Luther si immerge da solo con l'armatura, usa il Canto contro la Fiera. Il Capitano muore nell'operazione. Luther esce dall'acqua con la fascia del Capitano defunto e la consegna al marinaio Maicol, designandolo nuovo Capitano sul campo.
+**`Inktober 2018 #Whale`** — Racconto principale. La Maelstrom rientra al porto dell'Artiglio delle Scogliere dopo una caccia difficile. Un Leviatano si è spostato vicino all'Artiglio a causa delle Piogge Roventi. Luther si immerge da solo con l'armatura, usa il Canto contro la Fiera. Il Capitano **scompare** quando la scialuppa viene rovesciata e Luther ne ritrova soltanto la fascia macchiata di sangue: l'equipaggio presume di averlo perduto, ma non viene ritrovato un corpo. Luther consegna la fascia a Maicol e lo nomina nuovo Capitano.
 
-**`L'ultima notte all'ombra dell'Anello`** — Il poema di Wade documenta la caduta di Luther durante la crisi dell'Orso: *"Ho visto Luther Leviathan dissolversi durante lo scontro con un mostro marino, condannando a morte gli uomini del suo equipaggio."* Wade stesso rimase gravemente ferito cercando di arginare la Fiera al posto di Luther.
+**`L'ultima notte all'ombra dell'Anello`** — Il poema di Wade documenta la **dissoluzione** di Luther durante la crisi dell'Orso, senza descrivere una morte ordinaria o il destino successivo: *"Ho visto Luther Leviathan dissolversi durante lo scontro con un mostro marino, condannando a morte gli uomini del suo equipaggio."* Wade stesso rimase gravemente ferito cercando di arginare la Fiera al posto di Luther.
 
 **`Onda Bianca`** — La coscienza di Luther non è sul Kindsgard al momento dell'onda di oblio, secondo Caitlin Chimera che cerca i compagni. *"Le loro coscienze non sono sul Kindsgard. Devono essere andati."*
 
