@@ -740,3 +740,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Inktober 2019 #Overgrown` attesta direttamente le classi Sensibili/Inerti **delle Fitofiere** e assegna il Chayote Strangolatore alle Sensibili. Corretto il precedente giudizio di classificazione non verificata senza D4, che resta comunque assente.
 - `Wade Wyrm`: eliminata l'attribuzione falsa di sangue velenoso/pietrificante. `Altri Personaggi`: rettificata la descrizione dei dardi di Cornelius e il riferimento all'habitat glaciale della Loccia attestato da `#Snow`. `Il Battesimo del Fuoco`: reso esplicito il percorso attuale del racconto di Cornelius (originariamente `Fierezza.docx`), senza rinominare fonti.
 - Aggiornati registro di copertura e checkpoint. Le fonti narrative primarie non sono state modificate; l'audit integrale delle 26 voci resta aperto.
+
+
+## 2026-11-01 — Correzioni di attribuzione: foresta mobile, Zaratan e indice Inktober
+
+- `Fiere — Voci Stub`: `Inktober 2019 #Mindless` non identifica la foresta mobile con il Sicomoro Perenne; le proprietà dei Sicomori Perenni direttamente attestate in `#Sling` sono riportate separatamente. `#Swing`, non `Prevedibilità`, descrive il confronto fra il carapace di uno Zaratan di terra e la forma di alcune gallerie, senza stabilire chi le abbia scavate.
+- `Altri Personaggi`: Sef Sycamore partecipa alla bonifica, ma `#Mindless` attribuisce la guida al Draghiere della Salamandra. Corretto il ruolo senza modificare la storia.
+- `content/fonti/inktober-2019.md`: modificate **esclusivamente due righe dell'indice rapido redazionale** per `#Mindless` e `#Enchanted`, eliminando identificazioni di specie non sostenute dal racconto. I testi narrativi non sono stati alterati.
+- Registrati confronto e limiti nella matrice di copertura e nel checkpoint.
