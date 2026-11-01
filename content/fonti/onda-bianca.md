@@ -3,7 +3,7 @@ titolo: "Onda Bianca"
 categoria: "fonti"
 tag: [caitlin-chimera, onda-di-oblio, in-world, racconto, fierezza, draghieri]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-11-01"
 tipo: "racconto"
 autore: "Stefania Ricco"
 voci-wiki-collegate: ["Caitlin Chimera", "Bran Behemoth", "Samu'el Sphynx", "Wade Wyrm", "Luther Leviathan", "Brood", "Fierezza e Maestà", "Cronologia"]
@@ -103,6 +103,6 @@ Un altro giorno di caccia ha inizio.
 
 ## Note
 
-Il racconto descrive due scene: prima l'onda bianca di oblio che si abbatte sui Draghieri sul Kindsgard, poi il risveglio in una realtà alternata in cui i Draghieri non ricordano nulla di quello che è appena successo. L'onda è chiaramente un evento cosmologico legato alla Maestà ("l'onda proveniente dalla Maestà"). Wade Wyrm e Luther Leviathan sono assenti — le loro coscienze "non sono sul Kindsgard", probabilmente su Vilegis.
+Il racconto descrive due scene: prima l'onda bianca di oblio che si abbatte sui Draghieri sul Kindsgard, poi una scena successiva in cui i presenti **non ricordano l'onda** e percepiscono una situazione apparentemente diversa. Il testo non stabilisce se si tratti di una **realtà alternativa**, di un cambiamento del Giardino o soltanto degli effetti dell'oblio sui loro ricordi e sulla percezione. L'onda è chiaramente un evento cosmologico legato alla Maestà ("l'onda proveniente dalla Maestà"). Wade Wyrm e Luther Leviathan sono assenti — le loro coscienze "non sono sul Kindsgard", probabilmente su Vilegis.
 
 I personaggi presenti: Chimera, Sfinge, Behemoth, Idra (non specificata quale), Covata. Compaiono anche Icaro (con la sorella Iulaa) e Ianus — personaggi non documentati altrove. ⚪ *Icaro potrebbe riferirsi a Hycaro Hydra.*
