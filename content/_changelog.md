@@ -762,3 +762,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Fiere — Voci Stub`: riallineata la descrizione delle tele degli Atrax a `Inktober 2019 #Swing` (fili biancastri e disegni complessi), distinta da `#Pattern` (combattimento e incendio). Rimosso «geometrici», non espresso nella fonte.
 - Indicata come provvisoria l'inclusione di Fabalo Spinato tra le Fitofiere: `18___Misfit` documenta la pianta ma non la classifica espressamente come Fitofiera.
 - Aggiornati matrice e checkpoint; fonti narrative inalterate.
+
+
+## 2026-11-01 — Allineamento trasversale Glossario, Cosmologia e Vere Fiere
+
+- `Glossario`: Covata corretta in coerenza con `Prevedibilità`; Guardiani definiti in base alle tredici scintille attestabili in `Inktober 2019 #Legend`, separandoli dall'equivalenza con vettori del Fondamento non esplicita; categoria «Fiera» resa coerente con le fonti specifiche.
+- `Cosmologia`: qualificato l'assorbimento delle tredici scintille da parte di Re Draco, evitando di chiamarle direttamente «vettori» come fatto già verificato nel testo di `#Legend`.
+- `Vere Fiere`: collaborazione alla Forgiatura di Espediente non dichiarata l'unica possibile, caso Karsh/Ishvard non definito «unicum» irripetibile.
+- Verificato senza modifiche il rapporto spaziale Giardino dentro l'Anello e territori Umani all'esterno (Geografia/Anello). Registrati evidenze, ambito e residui nella matrice di copertura e nel checkpoint. Fonti narrative non modificate.
