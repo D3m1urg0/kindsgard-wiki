@@ -879,3 +879,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - Corrette sei proposizioni non conformi in `content/personaggi/wade-wyrm.md`: Giovane Fenice non identificata con Frederick; `Riflessioni` scritto da Caitlin, con Wade soltanto menzionato; `L'Esodo` non chiarisce l'identità del Draghiere «Salamandra» (L18); Samu'el è soltanto ipotizzato dalla figura sepolta nell'ultima notte; `Onda Bianca` mostra Wade assente dagli osservatori; il futuro di successori del 33° Wade non è documentato.
 - Confrontate direttamente le cinque fonti primarie. Registro di copertura e istruzioni di ripresa aggiornati. Nessuna fonte narrativa modificata, nessuna domanda canonica nuova.
+
+
+## 2026-11-01 — Recupero fonti negli archivi collegati, senza pubblicazione privata
+
+- Recuperata e letta copia degli Annali dell'Artiglio di Fuoco - Intro: Syrus Salamander V, formula `Dal Fuoco alla Vita` attestata. Rettificata la mancata attestazione nei riassunti Draghieri/Tradizioni, senza attribuzione universale.
+- Due copie Drive identiche della fonte *Ciò che sanno i Draghieri* riconciliano `Copia_di_I_Draghieri_del_kindsgard` con `content/fonti/cio-che-sanno-i-draghieri.md` e aggiornano `Cosmologia`.
+- Recuperate due versioni candidate della cronistoria OOC (D3) e due della guida ai Draghieri (D4); contenuti non identici, versioni da certificare. `Draghieri_Vere_Fiere_del_Kindsgard` e Annali delle Sabbie ancora non recuperati.
+- Allineato `Riflessioni` al campo `fonti` della scheda Wade e registrati perimetro e limiti. **Nessun documento esterno privato importato nel repository GitHub.**
