@@ -3,7 +3,7 @@ titolo: "Le Ere del Kindsgard"
 categoria: "storia"
 tag: [storia, ere, cronologia, armonia, conflitto, rivalsa, dominio]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 aliases: ["Era di Armonia"]
 fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "D4-guida-draghiere", "Inktober_2018", "Inktober_2019", "18___Misfit", "draghieri-spiegazione", "La_natura_di_Natura", "Elenco_Draghieri_Conosciuti"]
 ---
@@ -36,7 +36,7 @@ Questa era è così remota che neppure le canzoni o i ricordi più antichi riesc
 ## Il Conflitto — Era della Rovina
 *Parallelismo con Lunaria: Rovina*
 
-Un cataclisma cosmico proveniente dall'esterno attraversò spazio e tempo e si abbatté sull'equilibrio perfetto del Kindsgard. La ricostruzione wiki lo mette in parallelo con la Rovina di Vilegis/Lunaria, ma la *Cronistoria (versione breve)* non lo nomina direttamente come Rovina e la relazione resta interpretativa finché D3/D4 non sono reperibili. Natura impazzì: il suo potere sfuggì al controllo e si abbatté sul Giardino in forma di terremoti, eruzioni, inondazioni, piogge di fuoco e laghi di acido.
+Un cataclisma cosmico proveniente dall'esterno attraversò spazio e tempo e si abbatté sull'equilibrio perfetto del Kindsgard. La ricostruzione wiki lo mette in parallelo con la Rovina di Vilegis/Lunaria, e la *Cronistoria (versione breve)* intitola esplicitamente questo periodo **«Il Conflitto (L'Era della Rovina)»**, dichiarando che la stessa frattura cosmica «in altri luoghi fu la Rovina». L'allusione è direttamente attestata, ma **non dimostra un'identità completa di eventi, meccanismi e cronologie con la Rovina di Vilegis/Lunaria**; i dettagli restano indeterminati senza D3/D4. Natura impazzì: il suo potere sfuggì al controllo e si abbatté sul Giardino in forma di terremoti, eruzioni, inondazioni, piogge di fuoco e laghi di acido.
 
 Da questa devastazione nacquero nuove specie: non più le docili creature dell'Era di Armonia, ma violente [[Fiere]] abbandonate al mattatoio dell'esistenza, formate per sopravvivere all'inferno del nuovo Giardino. La legge del Giardino divenne semplice: per sopravvivere, bisogna uccidere.
 
@@ -117,7 +117,7 @@ Il ritorno di [[Frederick Fenice]] — Unica Fenice, che resuscita sempre nel pr
 I Draghieri si schierano con Onofrius ma la vittoria va all'Orso. La forza di Natura cresce. Le Fiere, in fuga dalla forza creatrice impazzita, si gettano contro i confini. L'Anello è violato in più punti. *Si torna a cacciare.*
 
 ### Il Primo Secolo del Draco
-Dominic e i Draghieri scomparsi oltre l'Anello tornano dalla Maestà, trasformati in **Vere Fiere**. Per la prima volta compaiono le Vere Fiere sul Kindsgard. Ogni Draghiere caduto in quest'anno si risveglia come Vera Fiera. Un incidente temporale fa sì che ogni anno di Lunaria corrisponda a cento anni del Kindsgard.
+Dominic e i Draghieri scomparsi oltre l'Anello tornano dalla Maestà, trasformati in **Vere Fiere**. Le Vere Fiere, già comparse nei precedenti cicli della Rivalsa, **tornano in forma organizzata** sotto Dominic; questo è un nuovo episodio storico, non la prima esistenza delle Vere Fiere nel Kindsgard. I risvegli in Vere Fiere descritti per questo anno sono distinti dai Draghieri ancora attivi e dal fenomeno di duplicazione degli individui presenti su Vilegis. La sintesi wiki riferisce in questo periodo un rapporto temporale di cento anni del Kindsgard per un anno di Lunaria, **non verificabile direttamente senza la Cronistoria OOC D3**, che non è reperita.
 
 ### Ishvard e Karsh — collocazione cronologica da verificare
 `Inktober 2018 #Roasted` e `#Chicken` attestano Karsh e il legame narrativo con Ishvard. La sintesi che descrive il trasferimento e la separazione dell'Umano dalla controparte ferale è presente nella wiki, ma la collocazione è discordante: `Cronologia` lo colloca nel Primo Secolo del Draco, mentre questa sezione lo associava al Primo Secolo dell'Orso. D3/D4 non sono reperibili per risolvere il conflitto; nessuna delle due date va trattata come canonica finché non emerge una fonte primaria. Il racconto documenta un caso, non dimostra che il meccanismo sia non ripetibile.
