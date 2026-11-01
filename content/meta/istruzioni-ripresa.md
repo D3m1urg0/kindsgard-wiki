@@ -724,3 +724,13 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - `L'Esodo` dice «Salamandra» all'Artiglio del Magma, senza scegliere Syrus/Sebastian (L18). `L'Ultima Notte` non conferma che l'uomo sepolto sia Samu'el: Wade lo ipotizza. `Onda Bianca` colloca Wade e Luther **assenti**, non fra gli osservatori.
 - Rimossa anche la previsione non attestata di successori dopo Wade; resta il numero storico 33. Corretta la sola biografia e registrate evidenze e limiti nella matrice/changelog. Nessun racconto modificato.
 - **Ripresa:** aggiornare lo stato operativo in base alla PR di questa tranche; proseguire con gli altri profili e le relazioni inferite, preservando le decisioni pregresse e senza dichiarare l'intero audit concluso.
+
+
+## Checkpoint operativo — ritrovamento in archivi collegati (2026-11-01)
+
+- Baseline `98724de8477a3e279534d42d21caeda2ee3e23fc` dopo PR #83. Eseguita ricerca per titoli in Google Drive/Dropbox, con lettura diretta di copie esterne finora non disponibili nel repository.
+- **Riconciliato** `Copia_di_I_Draghieri_del_kindsgard` con `content/fonti/cio-che-sanno-i-draghieri.md`, usando due originali Drive testualmente identici. Modificato il frontmatter di `Cosmologia`, senza duplicare il testo della fonte.
+- **Ritrovati** in Google Drive *Annali dell'Artiglio di Fuoco - Intro* firmati da Syrus Salamander V; attestato `Dal Fuoco alla Vita`. Documento NON importato o reso pubblico; Annali delle Sabbie distinti e non trovati.
+- **D3 candidate:** due redazioni OOC in Drive, una completa e una bozza incompleta, con versioni differenti delle Ere. **D4 candidate:** guida in Drive e revisione Paper in Dropbox, entrambe lette, non identiche. Identificatori legacy e versioni esatte ancora da certificare.
+- **Non risolto:** `Draghieri_Vere_Fiere_del_Kindsgard`; non basta un documento affine. Nessun originale privato pubblicato in GitHub e nessuna contaminazione Vilegis promossa a canone del Kindsgard.
+- Aggiornati `content/meta/fonti.md`, `content/meta/domande-aperte.md`, `content/meta/audit-copertura-pagine.md`, `content/meta/istruzioni-ripresa.md`, `content/_changelog.md`, `content/mondo/cosmologia.md`, `content/cultura/tradizioni.md`, `content/fazioni/draghieri.md`, `content/personaggi/wade-wyrm.md`. Prossimo: verificare workflow sul commit finale; proseguire confronto delle versioni candidate e audit semantico delle pagine ancora non certificate.
