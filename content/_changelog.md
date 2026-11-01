@@ -801,3 +801,12 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Le Ere`: il Primo Secolo del Draco non è la prima esistenza assoluta delle Vere Fiere, già presenti nei cicli della Rivalsa. Qualificata la comparsa come organizzata; evidenziato nel paragrafo storico che il rapporto temporale 100:1 dipende dalla ricostruzione D3 non disponibile.
 - `Cronologia`: sostituito il fatto asserito «tredici vettori» con le tredici scintille attestate da `Inktober 2019 #Legend`, mantenendo la lettura del Fondamento in forma interpretativa.
 - Aggiornati registro di copertura e checkpoint; fonti originarie inalterate.
+
+
+## 2026-11-01 — Revisione fonti poetiche e credenze religiose
+
+- `Tradizioni, Canti e Motti`: tolta l'inesistente citazione di «Dalla cenere alla vittoria» come strofa del Canto dei Draghieri e come frase detta da Frederick. La formula è scritta da Wade in `Una Missiva dall'Anello` dopo una citazione di Frederick, in riferimento al motto del casato destinatario.
+- `Deflecte Cantum`: qualificata nella sola nota editoriale l'identificazione «eroi per poco, bruciati a milioni» = Bruciati come inferenza non esplicita, così come la pretesa estinzione compiuta della Fenice e il collegamento preciso tra sei vettori/tredici affondi e la forgiatura. Conservate le note esplicite di Pietro Caruso e il testo integrale della canzone.
+- `Canzoni degli Umani`: corretta solo la nota della `Ninna Nanna` che asseriva la morte certa del bambino, mentre il canto attesta abbandono e minaccia, non morte narrata.
+- `Religioni`: qualificato il potere dei Guardiani come tredici scintille attestate, non identità documentata con vettori del Fondamento.
+- Verificato senza correzione il testo su monaci/sacerdoti in `#Ornament` e la preghiera di Caitlin nel `Pezzo del Rituale`. Registrata la verifica mirata nella matrice di copertura e checkpoint; originali invariati.
