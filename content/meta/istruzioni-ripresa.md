@@ -597,3 +597,9 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - In `Prevedibilità (covata)` sono attestati gli **operai** e l'effetto della loro assenza sulle difese della Città-Alveare. Non è documentata una casta distinta di «soldati» né una complessa gerarchia biologica: rettificata la scheda `Fiere — Voci Stub`.
 - `Inktober 2019 #Dragon` parla del Drago come **possibile** predatore supremo, non certifica un primato assoluto; qualificata la formula nella scheda.
 - Registrare solo confronto mirato delle due affermazioni. Prossimo passo: continuare la verifica semantica frase-per-frase delle restanti descrizioni e delle pagine sintetiche ancora soltanto lette in prima passata.
+
+
+### Tracciabilità Atrax e Fabalo (2026-11-01)
+
+- `Inktober 2019 #Swing` contiene la descrizione dei fili bianchi e dei disegni intrecciati delle tele nell'Abisso, mentre `#Pattern` racconta lo scontro con gli Atrax. Allineato il locator della scheda; rimosso «geometrico» non attestato letteralmente.
+- `18___Misfit` chiama Fabalo Spinato un cespuglio pericoloso, non espressamente una Fitofiera: la collocazione nel bestiario sotto Fitofiere resta provvisoria. Non riscrivere la fonte, non elevare una categoria editoriale a classificazione canonica.
