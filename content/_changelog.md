@@ -793,3 +793,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Samu'el Sphynx`: il volto sepolto nella sabbia visto da Wade in `L'ultima notte` non è identificato con certezza con Samu'el; eliminati gli esiti di ferite/risveglio/sopravvivenza inventati.
 - `Samu'el Sphynx`, `Salamander`, `Draghieri`: allineata la terminologia Guardiani/scintille all'interpretazione prudente già adottata nel `Glossario` e in `Cosmologia`; il rapporto con i vettori del Fondamento resta interpretativo.
 - Aggiornati matrice e checkpoint, nessuna fonte narrativa alterata.
+
+
+## 2026-11-01 — Rovina, cronologia delle Vere Fiere e tredici scintille
+
+- `Le Ere`: corretto il falso riferimento secondo cui la `Cronistoria (versione breve)` non nominerebbe la Rovina; il documento titola espressamente «Il Conflitto (L'Era della Rovina)». Separata l'attestazione del parallelismo dall'identità completa con la cosmologia Vilegis/Lunaria non dimostrata.
+- `Le Ere`: il Primo Secolo del Draco non è la prima esistenza assoluta delle Vere Fiere, già presenti nei cicli della Rivalsa. Qualificata la comparsa come organizzata; evidenziato nel paragrafo storico che il rapporto temporale 100:1 dipende dalla ricostruzione D3 non disponibile.
+- `Cronologia`: sostituito il fatto asserito «tredici vettori» con le tredici scintille attestate da `Inktober 2019 #Legend`, mantenendo la lettura del Fondamento in forma interpretativa.
+- Aggiornati registro di copertura e checkpoint; fonti originarie inalterate.
