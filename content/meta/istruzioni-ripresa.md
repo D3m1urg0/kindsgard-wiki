@@ -627,3 +627,11 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - Riletto `Inktober 2018 #Precious` e confrontato integralmente il corpo di `18___Misfit` con `Solomon` e `Wendy Wyrm`. Il primo racconta una **trappola a Sartuk**, non l'avvelenamento della folla: Solomon conta sul possibile risveglio del ragazzo, lasciando danno permanente alla voce. Non attestato il decesso.
 - `Misfit`: gli ornamenti sono privi di significato per gli Umani, non invisibili; i Draghieri non li notano. Solomon si compiace della propria presunta superiorità; il suo timore è dichiarato primo, quello di Wendy no. Wendy riconosce lo sguardo già visto alla Maestà; il gesto di Draco con Espediente non specifica un'aggressione effettiva.
 - Corrette voci, apparato editoriale finale di Misfit, matrice e changelog. Le narrazioni originali devono rimanere inalterate. Proseguire letture su pagine in prima passata e questioni canoniche non risolte, senza miglioramenti creativi prematuri.
+
+
+## Checkpoint — Leviatano/Sfinge e propagazione Guardiani (2026-11-01)
+
+- Confrontato integralmente `Inktober 2018 #Whale`: il Canto del Leviatano uccide un **Siaka**, poi Luther riflette l'onda sullo **stesso Leviatano**, che muore. Il vecchio testo «un altro esemplare» era falso. Il Capitano della Maelstrom è scomparso (sola fascia sporca di sangue), Maicol ne assume il ruolo; la fonte non mostra il corpo. Non sono dimostrate rotte commerciali regolari.
+- `L'ultima notte`: Luther si **dissolve**; Wade vede **un volto umanoide sepolto** e teme/spera sia Samu'el, senza conferma di identità, ferite o successiva sopravvivenza.
+- Allineate `Draghieri`, `Samu'el Sphynx` e `Salamander` a `Cosmologia` e `Glossario`: i tredici Guardiani e le loro scintille sono attestati; l'identificazione con il Fondamento è interpretativa e non equivale ai sette vettori Kindsgard. Nessuna fonte primaria alterata.
+- Stato aggiornato in matrice e changelog. Prossimo passo: individuare le ulteriori ricadute nelle voci storiche e completare controlli della restante prima passata. Verificare CI finale e merge della PR su GitHub prima di dichiarare integrate le modifiche.
