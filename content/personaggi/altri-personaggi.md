@@ -38,7 +38,7 @@ Draghiere dell'[[Fiere — Voci Stub#everastes|Everastes]]. `Inktober 2019 #Snow
 Draghiere della Loccia. In `Inktober 2019 #Snow` veste blu e bianco, con un farsetto imbottito che sembra fatto di scaglie, e combatte con arpioni leggeri a cui possono essere legate corde. Collabora con [[Bran Behemoth]] ed [[Ember Everastes]] nella caccia al Drago. `Inktober 2019 #Snow` attesta per la **Fiera Loccia** i ghiacciai perenni del Nord e le sorgenti dei fiumi come habitat; non prova invece che **Laerius**, il Draghiere, possa restare immerso a lungo o adotti abitualmente attacchi dall'acqua.
 
 ### Sef Sycamore, XIII Sicomoro Perenne
-Draghiere del Sicomoro Perenne — una Fitofiera. Opera nelle zone boschive. Porta un corno aggrovigliato di Aigokeros. Coordina la bonifica della Foresta ambulante nelle Brughiere (`Inktober 2019 #Mindless`, `Inktober 2019 #Ash`).
+Draghiere del Sicomoro Perenne — una Fitofiera. Opera nelle zone boschive. Porta un corno aggrovigliato di Aigokeros. Partecipa alla bonifica della Foresta ambulante nelle Brughiere (`Inktober 2019 #Mindless`, `Inktober 2019 #Ash`); in `#Mindless` il gruppo è guidato dal Draghiere della Salamandra. La specie precisa degli alberi mobili non è identificata dalla fonte.
 
 
 > **Nota di tracciabilità:** `Elenco Draghieri` (fonte catalogata come canonica) riporta XIII, mentre `Inktober 2019 #Mindless` lo chiama XIV. La voce sintetica mantiene XIII secondo l'elenco; il testo narrativo originale resta invariato.
