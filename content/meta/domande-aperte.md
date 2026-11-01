@@ -3,7 +3,7 @@ titolo: "Domande Aperte e Lacune"
 categoria: "meta"
 tag: [meta, lacune, ambiguità, domande]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 ---
 
 # Domande Aperte e Lacune
@@ -27,7 +27,7 @@ Questa sezione separa le decisioni che richiedono una risposta umana dalle attiv
 7. **L15 — Seymour Sandwurm / “ex Shai'Hulud”:** che cosa designa Shai'Hulud nella nota originale: un precedente nome personale, una specie/Fiera o altro?
 8. **L17 — Tredici Guardiani:** esiste una lista canonica completa? `Inktober 2019 #Legend` attesta tredici Guardiani e tredici scintille di potere; la loro identificazione precisa con i vettori collegati al Fondamento resta interpretativa. Frederick Fenice apparteneva al gruppo, oppure il tag `guardiano` nella sua voce ha un altro significato?
 9. **L21 — Sei vettori e tredici affondi:** `Deflecte Cantum` menziona sei vettori e tredici affondi, mentre la cosmologia originaria ne identifica sette e `Inktober 2019 #Legend` attesta tredici Guardiani/scintille. Chiarire se i sei siano un sottoinsieme dei sette, una struttura del Fondamento esterno o altro; non equiparare i conteggi senza una fonte. 
-10. **L11 — `Copia_di_I_Draghieri_del_kindsgard`:** il proprietario riconosce questo riferimento come un documento specifico e può fornire il file o identificarne la destinazione? Resta inoltre da identificare `Draghieri_Vere_Fiere_del_Kindsgard`, citato in altri frontmatter. Non sostituire automaticamente questi identificatori con `draghieri-spiegazione.md`.
+10. **L11 — `Draghieri_Vere_Fiere_del_Kindsgard`:** è rimasto non identificato il documento omonimo che giustifica questo ID legacy. La **parte `Copia_di_I_Draghieri_del_kindsgard` è stata risolta** verificando due copie Drive e il contenuto di `cio-che-sanno-i-draghieri.md`; non chiede più un chiarimento umano. Non equiparare il riferimento residuo ad altri documenti OOC per analogia.
 11. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
 
 ### Non richiedono una decisione umana in questa fase
@@ -142,15 +142,15 @@ L’unica menzione trovata nel repository è `Una Missiva dall’Anello`: una be
 
 Queste sono scelte editoriali di titolo, non decisioni sul canone narrativo. Le fonti non vanno rinominate o eliminate finché la scelta non è confermata.
 
-### L11 — Riferimenti sorgente OOC non riconciliati
+### L11 — Identificatore in-world risolto; riferimento OOC residuo
 
-Due identificatori richiedono ancora l'identificazione della fonte originale:
+La ricognizione del 2026-11-01 ha risolto uno dei due riferimenti:
 
-- Il frontmatter di `[[Cosmologia]]` cita `Copia_di_I_Draghieri_del_kindsgard`, ma nel tree corrente non esiste un file con questo nome e il riferimento non compare nel catalogo delle fonti.
+- **Risolto:** `Copia_di_I_Draghieri_del_kindsgard` è il documento in-world *I Draghieri del kindsgard (ciò che sanno i draghieri)*; due copie Drive contengono il medesimo testo, conservato in `content/fonti/cio-che-sanno-i-draghieri.md`. Il frontmatter di Cosmologia è stato aggiornato al riferimento corrente, non a `draghieri-spiegazione.md` OOC.
 - I frontmatter di `[[Draghieri]]`, `[[Vere Fiere]]` e `[[Fierezza e Maestà]]` citano `Draghieri_Vere_Fiere_del_Kindsgard`. Potrebbe riferirsi al percorso legacy mancante `content/fonti/draghieri-vere-fiere.md`, ma questa identità non è dimostrata.
 
-È disponibile `content/fonti/draghieri-spiegazione.md`, documento OOC pertinente, ma non ci sono prove sufficienti per sostituire con esso uno dei due riferimenti.
-- → **Chiarimento documentale:** se disponibili, recuperare i file originali o confermare a quale documento corrispondono i due identificatori. Fino ad allora, mantenerli distinti e non sostituire automaticamente i riferimenti nel frontmatter.
+`content/fonti/draghieri-spiegazione.md` è un documento OOC pertinente, ma non è dimostrato che sia la fonte del riferimento residuo. Ulteriori documenti affini sono stati individuati in Dropbox, senza prova d’identità.
+- → **Chiarimento residuo:** identificare, soltanto se possibile, il documento specifico `Draghieri_Vere_Fiere_del_Kindsgard`. Non sostituire automaticamente il riferimento nel frontmatter.
 
 ### L12 — Annali dell'Artiglio delle Sabbie
 `Inktober 2024 #Exotic` introduce una citazione attribuita agli **Annali dell'Artiglio delle Sabbie**. Il repository contiene invece un riferimento agli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V; il relativo file autonomo non è presente con il percorso catalogato. Non ci sono elementi sufficienti per trattare i due titoli come lo stesso documento.
@@ -196,3 +196,11 @@ In `L'Esodo`, Wade intende condurre i sopravvissuti all'Artiglio del Magma, dove
 
 La canzone menziona sei vettori, tredici affondi e il Fondamento che fluisce verso il Giardino. La cosmologia originaria del Kindsgard definisce sette vettori; `Inktober 2019 #Legend` attesta separatamente tredici Guardiani e tredici scintille di potere nel contesto della connessione fra mondi. Le fonti accessibili non dichiarano esplicitamente che queste tredici scintille siano un insieme di tredici vettori collegati al Fondamento: questa equivalenza resta interpretativa. Il testo della canzone non identifica i sei vettori né li equipara esplicitamente ai sette vettori originari o alle tredici scintille/Guardiani. Inoltre, l'uso di «espedienti» in minuscolo non chiarisce se si riferisca all'arma Espediente o al termine comune. La precedente nota wiki che interpretava la strofa come descrizione diretta dell'assorbimento dei tredici Guardiani era più assertiva della fonte.
 - → **Chiarimento canonico/documentale:** i sei vettori sono un sottoinsieme dei sette originari, una formulazione riferita al Fondamento esterno, oppure un'altra struttura? Fino a una fonte o conferma del proprietario, mantenere separati sei, sette e tredici senza inventare una corrispondenza.
+
+
+## Aggiornamento della ricognizione archivistica — 2026-11-01
+
+- **L11 (parziale risoluzione):** due copie Google Drive di *I Draghieri del kindsgard (ciò che sanno i draghieri)* sono identiche e il testo è preservato in `content/fonti/cio-che-sanno-i-draghieri.md`: il vecchio ID `Copia_di_I_Draghieri_del_kindsgard` non richiede più una scelta del proprietario. Resta ignoto il documento `Draghieri_Vere_Fiere_del_Kindsgard`.
+- **Annali:** reperito fuori da GitHub il documento *Annali dell'Artiglio di Fuoco - Intro*, firmato Syrus Salamander V e contenente `Dal Fuoco alla Vita`. La fonte di Fuoco è distinta dall'Annale delle Sabbie ancora non recuperato (L12).
+- **D3/D4:** reperite e lette due versioni della cronistoria OOC e due della guida Draghiere in Google Drive/Dropbox; non è ancora dimostrato quale corrisponda esattamente al riferimento storico e a quale revisione. La mancata presenza **in GitHub** resta vera; la precedente formula «non reperiti» non è più valida per l'insieme degli archivi collegati.
+- **Riservatezza e canone:** nessun testo privato importato; non attribuire il canone originario Kindsgard alla parte di cronistoria adattata a Vilegis/Lunaria senza corrispondente prova.
