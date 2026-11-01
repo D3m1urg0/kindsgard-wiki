@@ -3,7 +3,7 @@ titolo: "Fonti e Decisioni Canoniche"
 categoria: "meta"
 tag: [meta, fonti, canonizzazione, sessioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 ---
 
 # Fonti e Decisioni Canoniche
@@ -11,6 +11,21 @@ ultima_modifica: "2026-10-15"
 > *Registro delle fonti originali del progetto e delle decisioni di canonizzazione prese nelle sessioni di lavoro. L'identità di una fonte e la disponibilità del suo testo integrale sono registrate separatamente.*
 
 ---
+
+## Aggiornamento operativo autorevole — archivi collegati, 2026-11-01
+
+La precedente dicitura **«D3/D4 non reperiti»** nelle sezioni storiche qui sotto significa **non presenti nei 29 file fonte di GitHub né individuati nella Library**, ma è ora **superata per gli archivi collegati**. La ricognizione effettuata in Google Drive e Dropbox ha recuperato e letto testi candidati pertinenti, senza importarli o pubblicarli. Le loro versioni e la precisa equivalenza con le sigle legacy non sono automaticamente confermate.
+
+| Identificatore storico | Riscontro diretto fuori GitHub | Stato attuale |
+|---|---|---|
+| `Annali_dell_Artiglio_di_Fuoco` | Google Drive: *Annali dell'Artiglio di Fuoco - Intro*, firmato Syrus Salamander V; documento letto (circa 1.983 caratteri). Contiene «Ab Necessitate Excusi» e **«Dal Fuoco alla Vita»** | Testo **ritrovato**, non importato; il file `content/fonti/annali-artiglio-di-fuoco-intro.md` resta assente |
+| `Copia_di_I_Draghieri_del_kindsgard` | Due documenti Drive, titolo *I Draghieri del kindsgard (ciò che sanno i draghieri)*, uno con il prefisso «Copia di»: testi integrali coincidenti; il corpo originale è preservato in `content/fonti/cio-che-sanno-i-draghieri.md` con apparati aggiuntivi | **Riconciliato**; non duplicare né confondere con `draghieri-spiegazione.md` (OOC) |
+| `D3-cronistoria-ooc` | Google Drive: *Draghieri FULL OOC PIETRO* (circa 35.924 caratteri, revisione 2014) e una bozza precedente *SPIEGAZIONE COMPLETA OOC DELL'AMBIENTAZIONE DRAGHIERI* (circa 22.166 caratteri); entrambe presentano la cronistoria comparata Giardino/Lunaria | **Due candidati letti**, versione esatta del vecchio file D3 non certificata; testi non importati |
+| `D4-guida-draghiere` | Google Drive: *So You Wanna be a Dragoneer* (circa 13.450 caratteri, revisione 2014); Dropbox Paper: *So you wanna be a Dragooner* (circa 16.470 caratteri). Contenuti sovrapposti ma non identici | **Due versioni lette**, precedenza/corrispondenza esatta con D4 non certificata; testi non importati |
+| `Draghieri_Vere_Fiere_del_Kindsgard` | Ricerca effettuata; un documento Dropbox *Draghieri del Kindsgard* e un bando di reclutamento delle Vere Fiere sono pertinenti, ma non provano di corrispondere al titolo legacy | **Ancora non identificato** |
+| *Annali dell'Artiglio delle Sabbie* | Rimane una citazione in `Inktober 2024 #Exotic`; la ricerca non ha restituito il documento omonimo | **Non recuperato**, da distinguere dagli Annali di Fuoco |
+
+**Vincolo di provenienza:** nessun testo integrale estratto dalle connessioni private è stato copiato nella wiki pubblica; non sono pubblicati URL o ID dei documenti collegati. La ricostruzione storica OOC contiene elementi di Vilegis/Lunaria e non modifica retroattivamente i sette vettori originali del Kindsgard. La corrispondenza tra versioni D3/D4 e la loro eventuale pubblicazione richiedono valutazioni separate.
 
 ## Fonti del Progetto
 
@@ -81,7 +96,7 @@ ultima_modifica: "2026-10-15"
 
 ### Riferimenti legacy nei frontmatter da riconciliare
 
-Oltre ai quattro percorsi già elencati sopra, `content/mondo/cosmologia.md` cita `Copia_di_I_Draghieri_del_kindsgard` nel campo `fonti`. Non esiste un file con questo nome nel tree corrente e il riferimento non è descritto nel catalogo. `content/fonti/draghieri-spiegazione.md` è una fonte OOC pertinente, ma non ci sono prove sufficienti per affermare che sia la stessa fonte o la conversione di quel documento. **Non sostituire il riferimento senza recuperare o identificare il sorgente.**
+**Risolto dopo ricognizione del 2026-11-01:** `Copia_di_I_Draghieri_del_kindsgard` corrisponde alla copia in-world di *Ciò che sanno i Draghieri*. I due documenti Drive confrontati hanno testo identico; la fonte è già conservata nel corpo di `content/fonti/cio-che-sanno-i-draghieri.md`, con apparati editoriali e conversione Markdown. Il campo `fonti` di Cosmologia è stato riconciliato con l’ID `cio-che-sanno-i-draghieri`. Il distinto `draghieri-spiegazione.md` è OOC e non è lo stesso testo.
 
 Anche l'identificatore di frontmatter `Draghieri_Vere_Fiere_del_Kindsgard`, usato nelle pagine `Draghieri`, `Vere Fiere` e `Fierezza e Maestà`, non è riconciliato con certezza. Il nome potrebbe riferirsi al percorso legacy mancante `content/fonti/draghieri-vere-fiere.md`, ma non è dimostrato che l'identificatore e quel percorso rappresentino esattamente lo stesso documento; `draghieri-spiegazione.md` resta una fonte OOC pertinente ma non un sostituto confermato. Mantenere il riferimento e registrare l'identità come lacuna documentale.
 
@@ -258,7 +273,7 @@ I valori del campo `fonti` sono identificatori ereditati dalla conversione dei d
 
 ### Identificatori non mappati intenzionalmente
 
-Non sono assegnati a un file corrente finché non esiste una prova dell'identità: `D3-cronistoria-ooc`, `D4-guida-draghiere`, `Annali_dell_Artiglio_di_Fuoco`, `Draghieri_Vere_Fiere_del_Kindsgard` e `Copia_di_I_Draghieri_del_kindsgard`. Per gli Annali, mantenere inoltre distinta la citazione degli **Annali dell'Artiglio delle Sabbie** in `Inktober 2024 #Exotic`. Non sostituire questi identificatori con fonti simili solo per somiglianza del titolo.
+**Stato aggiornato:** `Copia_di_I_Draghieri_del_kindsgard` è mappato con prova diretta a `cio-che-sanno-i-draghieri`. `Annali_dell_Artiglio_di_Fuoco` è ritrovato fuori repo ma non importato. D3/D4 hanno più varianti esterne da certificare; `Draghieri_Vere_Fiere_del_Kindsgard` resta sconosciuto. Gli Annali dell'Artiglio delle Sabbie restano distinti. Vedi l'aggiornamento operativo autorevole in testa alla pagina.
 
 
 
@@ -274,3 +289,8 @@ Non sono assegnati a un file corrente finché non esiste una prova dell'identit�
 - La `Cronistoria (versione breve)` intitola il periodo «Era della Rovina» e descrive un cataclisma che «altrove» divise la terra e la materia. Questo attesta un parallelismo fra l'evento del Kindsgard e un evento esterno, ma non specifica da solo tutti i dettagli della relazione con la Rovina di Vilegis/Lunaria.
 - La ricostruzione wiki mette l'evento in parallelo con la Rovina di Vilegis/Lunaria. D3/D4 non sono reperibili per chiarire ulteriori dettagli della relazione; il parallelismo non autorizza a importare nel Kindsgard altre parti della cosmologia esterna.
 - Per evitare di fondere automaticamente i due canoni, il cataclisma del Kindsgard resta un evento attestato; l'identificazione nominale con la Rovina è classificata come parallelismo interpretativo non ancora verificato da una fonte primaria disponibile.
+
+
+### Rettifica successiva dei motti — 2026-11-01
+
+Il giudizio storico «Dal Fuoco alla Vita non rintracciato fra le 29 fonti GitHub» resta corretto **per GitHub**, ma è superato nell'**inventario esteso**: la formula compare direttamente nell'introduzione degli Annali dell'Artiglio di Fuoco letta da Google Drive, con la firma di Syrus Salamander V. Non si può dedurre dalla sola firma che sia un motto universale di tutti i Draghieri. Per «Omnia praedae fieri Potest» non è stata trovata un'attestazione primaria sufficiente. Nessuna fonte privata è stata importata nel repository.
