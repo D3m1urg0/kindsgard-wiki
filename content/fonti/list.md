@@ -3,7 +3,7 @@ titolo: "#List (spunti narrativi)"
 categoria: "fonti"
 tag: [spunti, brainstorming, idee-non-sviluppate]
 status: "bozza"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-11-01"
 tipo: "lista"
 voci-wiki-collegate: ["Caitlin Chimera", "Fiere — Voci Stub"]
 ---
@@ -25,6 +25,6 @@ voci-wiki-collegate: ["Caitlin Chimera", "Fiere — Voci Stub"]
 
 Il primo spunto potrebbe essere un seme per scene già esistenti con [[Caitlin Chimera]] di guardia su un Artiglio (vedi `Inktober 2019 #Ring`).
 
-Il secondo spunto — "La Foresta può pensare?" — trova eco diretta in `Inktober 2019 #Mindless`, dove i Draghieri si pongono esattamente questa domanda riguardo al Sicomoro Perenne ambulante: *"Alla fine di tutto, esisteva qualcosa, nel Kindsgard, che non fosse mosso esclusivamente dall'Istinto? Ed esso poteva chiamarsi davvero 'pensiero'?"*
+Il secondo spunto — "La Foresta può pensare?" — trova eco diretta in `Inktober 2019 #Mindless`, dove i Draghieri si pongono la domanda sulla **foresta mobile di specie non identificata**. La presenza di Sef Sycamore non permette di assegnare quei tratti al Sicomoro Perenne: *"Alla fine di tutto, esisteva qualcosa, nel Kindsgard, che non fosse mosso esclusivamente dall'Istinto? Ed esso poteva chiamarsi davvero 'pensiero'?"*
 
 Nessuno dei due spunti necessita di ulteriore sviluppo come voce wiki autonoma — sono già stati assorbiti narrativamente in altri documenti.

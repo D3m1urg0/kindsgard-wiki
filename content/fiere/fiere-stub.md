@@ -12,7 +12,7 @@ fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Canzoni_degli_Umani"
 
 > *Voci sintetiche incomplete per Fiere attestate o menzionate nelle fonti elencate. Le due Fiere con scheda tecnica completa hanno voci dedicate: [[Soffione Uncinato]] e [[Bacca Emofaga]]. Le informazioni vanno lette secondo la fonte indicata in ciascuna voce: il corpus comprende racconti, liste OOC e brainstorming. I nomi nella sezione finale di brainstorming non attestano l'esistenza canonica di quelle Fiere.*
 
-> ⚠️ **Voce incompleta:** questo indice non sostituisce le schede tecniche e non attribuisce canonicità ai nomi presenti soltanto in liste di brainstorming.
+> ⚠️ **Voce incompleta e selettiva:** questo indice non sostituisce le schede tecniche e **le 26 voci classificate non rappresentano l'elenco completo delle specie nominate nel corpus**. Le menzioni supplementari sono registrate separatamente qui sotto; i soli nomi di brainstorming non attestano l'esistenza canonica delle rispettive Fiere.
 
 ---
 
@@ -121,6 +121,18 @@ Fitofiera coltivata nel settore Sud delle [[Colture]] e la più importante per i
 **Sliss** — Fiera usata come alimento. In `Onda Bianca`, dopo che il gruppo ha mangiato uno stufato, i personaggi sospettano che lo Sliss abbia fatto loro male; la fonte non stabilisce che la specie provochi necessariamente allucinazioni collettive.
 
 **Tentacolo Purpureo** — Menzionato separatamente in `Inktober 2019 #Tasty`: le sue larghe foglie vengono bollite finché l'acqua diventa rossa, poi sciacquate, essiccate e salate per essere consumate in seguito; l'acqua di cottura è urticante e viene usata per rendere infertile il terreno. La fonte non stabilisce che sia la stessa specie del Tentacolo Scarlatto; resta fuori dal conteggio delle 26 voci classificate finché l'identità non è chiarita.
+
+**Siaka** — `Inktober 2018 #Whale` menziona direttamente un **gigantesco Siaka** in mare, stordito dal Canto del Leviatano e ucciso dalla prima onda. È una Fiera **distinta dal Leviatano**, non il secondo esemplare della stessa specie. Morfologia e capacità specifiche non sono descritte.
+
+**Eteree** — In `Inktober 2018 #Flowing`, Brienne descrive le rive del Lago Basso come infestate di Eteree e riferisce la presenza di altre Fiere che sembrano immuni al **loro veleno**. Non descrive direttamente aspetto, riproduzione o modalità di attacco delle Eteree; non vanno confuse con le creature immuni che vi convivono.
+
+**Salamandra (Fiera)** — `Inktober 2018 #Swollen` descrive una Fiera Salamandra che emette fuoco e il cui sangue si incendia a contatto con l'aria; la pelle resiste alle fiamme ma è vulnerabile quando viene ferita. **Distinta** dai Draghieri [[Salamander]] che ne portano l'Istinto. Non è stata ancora preparata una scheda autonoma di specie.
+
+**Idra (Hydra)** — La filastrocca degli Umani `Giù nel Bosco` (`Canzoni degli Umani`) la nomina e le attribuisce molte teste che cacciano insieme; questa è una **rappresentazione in-world**, non una scheda di anatomia verificata. Il corpus documenta anche Draghieri dell'Hydra, senza che ciò colmi la scheda zoologica.
+
+**Aigokeros (Egocero)** — `Giù nel Bosco` (`Canzoni degli Umani`) nomina Aigokeros e ne rappresenta un balzo da una vetta per colpire la preda; descrizione della **tradizione orale**, non prova che ogni individuo segua sempre tale comportamento. Distinguere dai Draghieri dell'Egocero.
+
+> **Controllo di copertura:** questi cinque nomi direttamente attestati in fonti narrative o nei canti non figuravano tra le 26 voci classificate e le tre menzioni precedentemente registrate. La loro aggiunta come **menzioni** non attribuisce classificazioni tecniche nuove, non completa l'inventario globale delle specie e non modifica il conteggio storico delle 26 schede preliminari.
 
 ## Nomi da brainstorming — non canonici
 
