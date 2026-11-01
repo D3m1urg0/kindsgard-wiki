@@ -3,7 +3,7 @@ titolo: "Draghieri"
 categoria: "fazioni"
 tag: [draghieri, fazione, fierezza, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuoco", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi", "draghieri-spiegazione", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
 
@@ -35,7 +35,7 @@ I Draghieri non formano una gerarchia rigida né un ordine formale: si riconosco
 
 **Numero progressivo:** Il conteggio è per-specie, non globale. Il "33^ Viverna" significa che Wade è il trentatreesimo Draghiere della Viverna nella storia del Kindsgard.
 
-**Guardiani:** Alcuni Draghieri portano il titolo aggiuntivo di **Guardiano**. Si tratta di individui che, nella fase successiva alla connessione con Vilegis/Lunaria, incarnavano inconsapevolmente uno dei tredici vettori manifestatisi nel Kindsgard e collegati al Fondamento. Non è un titolo assegnato consapevolmente; questo gruppo di tredici non va confuso con i sette vettori originari del Kindsgard.
+**Guardiani:** Alcuni Draghieri portano il titolo aggiuntivo di **Guardiano**. `Inktober 2019 #Legend` descrive tredici individui associati a tredici **scintille di potere**, distribuiti fra Draghieri, Vere Fiere e Fiere vere e proprie. L'identificazione puntuale di quelle scintille con i vettori del Fondamento è una **lettura della ricostruzione wiki**, non un'equivalenza esplicita del racconto. Questo gruppo successivo resta distinto dai sette vettori originari del Kindsgard; il titolo non è necessariamente conosciuto come tale dai suoi portatori.
 
 ---
 
