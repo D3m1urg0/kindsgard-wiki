@@ -289,3 +289,12 @@ Fonti **lette direttamente**: `Prevedibilità (covata)` (racconto e apparato edi
 - **`Onda Bianca`:** Wade e Luther risultano **assenti** dal gruppo che osserva l'onda, secondo il dialogo degli astanti. Corretta la precedente presenza erronea di Wade nella biografia; non inferita la loro destinazione.
 - **Cronologia successiva:** il numero ordinale 33 documenta i predecessori, non permette di affermare con certezza che vi saranno successori.
 - **Stato:** sei proposizioni corrette e ricontrollate sulle fonti citate; confronto mirato completo **per queste affermazioni**, non certificazione totale della biografia né di tutti i 29 sorgenti. Fonti originali lasciate immutate.
+
+
+## Ricognizione archivistica estesa oltre GitHub e Library (2026-11-01)
+
+- **Fonti effettivamente lette:** Google Drive *Annali dell'Artiglio di Fuoco - Intro* (circa 1.983 caratteri, firmato Syrus Salamander V), due copie identiche di *I Draghieri del kindsgard (ciò che sanno i draghieri)* (5.408 caratteri), due documenti OOC con la cronistoria comparata (35.924 e 22.166 caratteri), guida *So You Wanna be a Dragoneer* (13.450 caratteri); Dropbox Paper *So you wanna be a Dragooner* (16.470 caratteri), *Draghieri del Kindsgard* (8.685 caratteri) e bando Vere Fiere (3.357 caratteri). La lettura conferma identità tematiche ma le versioni D3/D4 differiscono e **non sono certificate come identiche ai vecchi file**.
+- **L11:** confronto testuale tra due copie Drive concordanti e `content/fonti/cio-che-sanno-i-draghieri.md` ha risolto il vecchio riferimento `Copia_di_I_Draghieri_del_kindsgard`, preservato il suo status di fonte in-world. Corretto il frontmatter `Cosmologia` con l'ID esistente. `Draghieri_Vere_Fiere_del_Kindsgard` ancora non riconciliato.
+- **Annali/motto:** attestata `Dal Fuoco alla Vita` in un documento originale di Fuoco fuori dal repository; aggiornate le sezioni `Tradizioni` e `Draghieri`, senza dichiarare universalità. Annali delle Sabbie non recuperati. `Omnia praedae fieri Potest` non verificato.
+- **Controllo metadata:** il riferimento `Riflessioni` usato come menzione indiretta nella scheda Wade è ora presente nel frontmatter della stessa scheda.
+- **Perimetro e privacy:** restano **29** sorgenti Markdown pubblicate in GitHub; i contenuti esterni non sono stati importati, copiati o collegati con URL privati nel repository. Le parti su Vilegis/Lunaria nei documenti OOC non vengono promosse a canone originario. La ricerca non certifica la verifica frase-per-frase di 31 pagine; è una ricognizione aggiuntiva tracciata.
