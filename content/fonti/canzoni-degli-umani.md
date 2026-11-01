@@ -3,7 +3,7 @@ titolo: "Canzoni degli Umani"
 categoria: "fonti"
 tag: [canzoni, umani, in-world, cultura, draghieri, fiere, tradizioni]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-11-01"
 tipo: "canzone"
 autore: "anonimo (tradizione orale Umana)"
 voci-wiki-collegate: ["Tradizioni, Canti e Motti", "Draghieri", "Fiere — Voci Stub", "Dominic Draco", "Fierezza e Maestà", "Anello di Fuoco"]
@@ -136,4 +136,4 @@ Alle Fiere non si sfugge, mentre grida "Papà"...
 
 **Giù nel Bosco:** Filastrocca didattica che elenca le Fiere pericolose (Viverna, Chimera, Behemoth, Leviatano, Sfinge, Manticora, Idra, Atrax, Aigokeros) insegnando ai bambini a temerle. Le ultime due strofe rivelano il doppio fondo: il Draghiere protegge — ma il Draghiere stesso porta la Fiera dentro di sé ("la Maestà gli è scesa indosso, delle Fiere il gioco fa"). Una filastrocca che inizia come rassicurazione e finisce come avvertimento.
 
-**Ninna Nanna:** Il documento più crudo della vita Umana nel Kindsgard. Un genitore costretto ad abbandonare un figlio ferito per non mettere a rischio il gruppo. Nessuna consolazione reale — la promessa "nulla andrà male" è una menzogna pietosa. L'Artiglio oltre i picchi esiste, ma il bambino non ci arriverà.
+**Ninna Nanna:** Il documento più crudo della vita Umana nel Kindsgard. Un genitore costretto ad abbandonare un figlio ferito per non mettere a rischio il gruppo. Nessuna consolazione reale — la promessa "nulla andrà male" è una menzogna pietosa. Il canto presenta l'abbandono del bambino sul sentiero e l'impossibilità di proseguire con lui; **non racconta direttamente il momento della sua morte** né il raggiungimento dell'Artiglio da parte dei superstiti. La lettura tragica della filastrocca va distinta da un esito esplicitamente narrato.
