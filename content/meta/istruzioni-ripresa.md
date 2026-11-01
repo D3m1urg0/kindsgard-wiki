@@ -583,3 +583,10 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - `Inktober 2019 #Snow` conferma direttamente l'habitat glaciale della Fiera Loccia; corretta la nota contraria in `Altri Personaggi`.
 - Voci e registro corretti: `content/fiere/fiere-stub.md`, `content/personaggi/wade-wyrm.md`, `content/personaggi/altri-personaggi.md`, `content/sistemi/il-battesimo-del-fuoco.md`, `content/meta/audit-copertura-pagine.md`, changelog. Fonti narrative originali lasciate inalterate.
 - **Residui:** la tranche non completa le altre verifiche delle 26 Fiere; continuare confronto sezione-per-sezione. Le informazioni storiche contraddette da questa correzione restano nel checkpoint come storico, non come stato corrente. Verificare CI sul commit finale della PR prima del merge.
+
+
+### Attribuzioni corrette dopo il confronto delle fonti (2026-11-01)
+
+- `Inktober 2019 #Mindless` non identifica la specie della foresta arborea mobile come Sicomoro Perenne, sebbene Sef Sycamore partecipi alla bonifica; `#Sling` descrive invece esplicitamente il polline intossicante dei Sicomori Perenni. Evitare inferenze dalla sola presenza del Draghiere. Corretto anche «coordina» per Sef: il gruppo è guidato dal Draghiere della Salamandra.
+- La fonte del riferimento allo Zaratan e ai tunnel è `Inktober 2019 #Swing`, non `Prevedibilità (covata)`; la forma dei tunnel è soltanto confrontata col carapace. La scheda corrente esplicita questi limiti.
+- Corrette unicamente due righe dell'indice **editoriale** introduttivo di `content/fonti/inktober-2019.md` (`#Mindless`, `#Enchanted`); non alterati i racconti originali. Registrata l'operazione nella matrice e nel changelog.
