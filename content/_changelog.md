@@ -726,3 +726,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - In `content/meta/audit-copertura-pagine.md`, aggiunti inventario e classificazione dei sei registri meta, perimetro della verifica odierna e prossimo passo aggiornato. Non dichiarata verificata semanticamente l'intera wiki.
 - In `content/meta/convenzioni.md`, distinta la nomenclatura degli indici meta alla radice da quella dei registri sotto `content/meta/`, correggendo una convenzione troppo generica.
 - In `content/meta/istruzioni-ripresa.md`, aggiunto checkpoint riutilizzabile. Non modificate fonti narrative né introdotti nuovi fatti canonici.
+
+
+## 2026-11-01 — Correzione di attribuzione nel bestiario (Falenottere)
+
+- Confrontata la sezione «Falenottere» di `content/fiere/fiere-stub.md` con `Inktober 2018 #Drooling`, `Inktober 2019 #Enchanted` e `#Frail`. `#Enchanted` non identifica le minuscole Fiere luminose come Falenottere, mentre `#Drooling` dà dimensioni circa pari a una testa umana per le Falenottere nominate.
+- Rimossa l'identificazione implicita fra i due episodi; qualificata come tradizione riferita, non osservazione diretta, la permanenza della coscienza delle vittime. Evidenza e limiti registrati nella matrice di copertura; fonti originali inalterate.
