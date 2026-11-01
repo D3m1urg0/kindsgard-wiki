@@ -847,3 +847,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `fonti/risveglio-del-drago.md` e `fonti/solitudine.md`: ripuliti i tag/elenchi delle voci collegate e qualificati i rimandi editoriali che equiparavano personaggi di due mondi; **testi narrativi invariati**.
 - `personaggi/frederick-fenice.md`: rimossa la tag `guardiano` poiché il ruolo fra i tredici resta domanda L17; annotato il limite senza alterare C4.
 - Aggiornati matrice di copertura e checkpoint. PR da verificare con wikilink e build Quartz sul commit finale.
+
+
+## 2026-11-01 — Qualificazione del ruolo di Guardiano di Samu'el Sphynx
+
+- `personaggi/samuel-sphynx.md`: rimossa la tag `guardiano` e qualificata l'appartenenza ai tredici come non documentata esplicitamente dalle fonti disponibili (`Inktober 2018 #Tranquil`, `Inktober 2019 #Legend`, `Elenco Draghieri`), senza negarne la possibilità.
+- La custodia dei progetti delle Serre appartiene alla collocazione all'Artiglio delle Sabbie (`#Bottle`); non è attribuita personalmente a Samu'el in modo dimostrato. Corretto il riferimento e aggiunto `Inktober_2019` al campo fonti.
+- Aggiornati audit e checkpoint; L17 rimane aperta. Non modificato alcun racconto originale.
