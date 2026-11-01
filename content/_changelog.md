@@ -770,3 +770,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Cosmologia`: qualificato l'assorbimento delle tredici scintille da parte di Re Draco, evitando di chiamarle direttamente «vettori» come fatto già verificato nel testo di `#Legend`.
 - `Vere Fiere`: collaborazione alla Forgiatura di Espediente non dichiarata l'unica possibile, caso Karsh/Ishvard non definito «unicum» irripetibile.
 - Verificato senza modifiche il rapporto spaziale Giardino dentro l'Anello e territori Umani all'esterno (Geografia/Anello). Registrati evidenze, ambito e residui nella matrice di copertura e nel checkpoint. Fonti narrative non modificate.
+
+
+## 2026-11-01 — Audit diretto di Brood / Bran / Prevedibilità (12 rilievi)
+
+- Corretti nella wiki: distinzione fra veleno e incanti di Maestà per la pietrificazione di Bran; luogo dove lascia Bartholomew (angolo della stanza, non evacuazione); identità non documentata della Vera Cockatrice; Meridian come persona che sottrae la lista alle Vere Fiere; referente «Stratega» = Bartholomew.
+- In `Bran Behemoth`, sostituito «caduto» con «sconfitto» perché `L'ultima notte` non certifica la morte. In `Brood`, allineati `Inktober 2019 #Pattern` per Adalind, le perdite della spedizione in `Inktober 2018 #Flowing` e la discrepanza testata XVII/firma VI, risolta editorialmente dall'Elenco XVII. Qualificata l'equivalenza Guardiani/Fondamento e l'analogia Covata/insetti sociali.
+- In `Città-Alveare`, corretta l'attribuzione delle gallerie/Zaratan a `#Swing` e marcata come non attestata la riparazione puntuale dell'Occhio.
+- In `content/fonti/prevedibilita-covata.md`, corrette **solo le tre note editoriali conclusive** e la data; confrontato il corpo narrativo prima e dopo, intatto. Nessuna fonte Inktober modificata. Dettagli tracciati come `K-11-01-01..12` in matrice e checkpoint.
