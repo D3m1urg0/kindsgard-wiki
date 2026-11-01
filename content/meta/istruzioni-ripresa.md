@@ -569,3 +569,8 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 - **Modifiche di questa tranche:** inventario dei registri e cronologia dello stato aggiornati in `content/meta/audit-copertura-pagine.md`; istruzione di naming dei meta corretta in `content/meta/convenzioni.md`; changelog aggiornato. Nessuna modifica ai testi narrativi e nessuna nuova asserzione canonica.
 - **Ripartenza operativa:** priorità al confronto diretto delle 26 schede preliminari delle Fiere, alle voci che risultano soltanto lette in prima passata, e alla riconciliazione dei sorgenti D3/D4 e degli identificatori legacy. Le lacune e le decisioni del proprietario restano in `content/meta/domande-aperte.md`. Non dichiarare concluso l'audit sulla base dell'inventario o dei soli controlli CI.
 - **Verifica di rilascio:** questa tranche deve avere PR e validazione sul suo SHA finale prima del merge; il suo stato effettivo è verificabile da GitHub e prevale sullo stato storico di questo paragrafo.
+
+
+### Verifica diretta aggiuntiva — Falenottere (2026-11-01)
+
+Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` ha riscontrato un'identificazione di specie non documentata: l'episodio di Alison parla di piccole Fiere alate luminose ma non ne dà il nome, mentre `#Drooling` nomina esplicitamente Falenottere grandi quanto una testa umana. Nella voce `Fiere — Voci Stub` è stata rimossa l'identificazione implicita e qualificata la testimonianza indiretta sulla coscienza delle vittime. Vedi matrice `audit-copertura-pagine.md`. Controllo mirato, non chiusura dell'intero bestiario.
