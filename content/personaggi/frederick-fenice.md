@@ -3,7 +3,7 @@ titolo: "Frederick Fenice"
 categoria: "personaggi"
 tag: [frederick-fenice, draghieri, fenice, guardiano, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 fonti: ["D3-cronistoria-ooc", "Una_Missiva_dall_Anello", "Risveglio_del_Drago", "Solitudine", "Elenco_Draghieri_Conosciuti"]
 ---
 
@@ -25,7 +25,7 @@ La sua capacità distintiva è la **resurrezione nel proprio corpo**: Frederick 
 
 Frederick è un punto di svolta nella storia recente del Kindsgard. Il suo ritorno — dopo un'assenza non specificata — durante il **Primo Anno della Fenice** fece capire ai Draghieri due verità fondamentali:
 1. Gli Echi di Lunaria sono realmente in grado di segnare le sorti del Giardino
-2. Il volto di Frederick è identico a quello della **Giovane Fenice** di Vilegis — connessione cosmologica non ancora completamente documentata
+2. La ricostruzione wiki collega Frederick alla **Giovane Fenice** di Vilegis, ma le fonti accessibili non documentano **direttamente un'identità di volto né di persona**: il collegamento cosmologico e l'eventuale somiglianza restano da verificare, senza fonderli in un solo personaggio
 
 Dopo anni di stasi nei nuovi Battesimi, il suo ritorno riaccese la Fierezza e portò alla nascita di nuovi Draghieri.
 
@@ -43,7 +43,7 @@ Questa distinzione è canonica: Frederick è il portatore dell'Espediente della 
 
 ## Nota sul Nome
 
-La grafia canonica è **Frederick Fenice**. Le varianti "Frederic" e "Friederich" presenti in alcune fonti sono considerate errori di trascrizione.
+La grafia canonica del Draghiere del Kindsgard è **Frederick Fenice** (decisione C4). Varianti storiche del suo nome sono state ricondotte editorialmente a questa grafia; **il «Frederich di Vilegis» citato in `Solitudine` non è però identificato dal racconto come la stessa persona**, e non va trasformato in un alias di Frederick senza verifica indipendente.
 
 ---
 
