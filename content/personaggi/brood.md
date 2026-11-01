@@ -3,7 +3,7 @@ titolo: "Brood — Draghieri della Covata"
 categoria: "personaggi"
 tag: [bartholomew-brood, brienne-brood, draghieri, covata, guardiano, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 aliases: ["Bartholomew Brood","Brienne Brood"]
 fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Inktober_2024", "Onda_bianca", "Elenco_Draghieri_Conosciuti"]
 ---
@@ -18,11 +18,11 @@ fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Inktober_2
 
 ### Panoramica
 
-Bartholomew Brood è il sedicesimo Draghiere della Covata e portava il titolo di **Guardiano** — uno dei tredici individui che, dopo la connessione del Kindsgard con Vilegis/Lunaria, incarnavano inconsapevolmente un vettore manifestatosi nel Kindsgard in relazione al Fondamento. Questo gruppo successivo non coincide con i sette vettori originari del Kindsgard. Comandante dell'**Artiglio Sepolto delle Catene Montuose Orientali**, la **Città-Alveare**, la fortezza più strategicamente complessa del Kindsgard orientale.
+Bartholomew Brood è il sedicesimo Draghiere della Covata e portava il titolo di **Guardiano**, attestato dall'`Elenco Draghieri`. `Inktober 2019 #Legend` riferisce dei tredici Guardiani e delle **scintille** del loro potere: identificarle precisamente con vettori del Fondamento resta un'interpretazione della ricostruzione wiki, distinta dai sette vettori originari del Kindsgard. Comandante dell'**Artiglio Sepolto delle Catene Montuose Orientali**, la **Città-Alveare**, la fortezza più strategicamente complessa del Kindsgard orientale.
 
 ### Istinto e Capacità
 
-L'Istinto della Covata è quello degli insetti sociali: pianificazione, controllo, anticipazione. Bartholomew era capace di coordinare 1247 squadre simultaneamente attraverso un sistema di tubi di rame che trasmettevano suono in ogni stanza della Città-Alveare. Non guidava i suoi Umani con la forza ma con la strategia: li teneva "ignari" delle vere minacce e li faceva muovere con ordini precisi, proteggendoli dall'orrore che avrebbe paralizzato chiunque.
+L'Istinto di Bartholomew si manifesta nella pianificazione, nel controllo e nell'anticipazione. `Prevedibilità (covata)` non descrive però la specie come una casta omogenea di insetti sociali. Bartholomew era capace di coordinare 1247 squadre simultaneamente attraverso un sistema di tubi di rame che trasmettevano suono in ogni stanza della Città-Alveare. Non guidava i suoi Umani con la forza ma con la strategia: li teneva "ignari" delle vere minacce e li faceva muovere con ordini precisi, proteggendoli dall'orrore che avrebbe paralizzato chiunque.
 
 Il suo motto implicito era l'infallibilità strategica: *"Il mio Espediente è ancora infallibile."*
 
@@ -48,8 +48,8 @@ Porta una picca come arma primaria e comanda con voce che porta lontano.
 
 - **`Inktober 2019 #Build`** — Guida i Draghieri e duecento Umani (tutti con i colori della Covata, rosso e argento) verso la Città-Alveare in rovina. Organizza la difesa e la ricostruzione.
 - **`Inktober 2019 #Pattern`** — Coordina la battaglia nell'Abisso della Città-Alveare contro l'infestazione di Atrax, usando una tattica di fuoco e movimento che solo lei riesce a vedere nella sua interezza.
-- **`Inktober 2019 #Build`** — Riconosce Adalind Atrax all'apertura dei portoni della Città-Alveare.
-- **`Inktober 2018 #Flowing`** — Coautrice (con [[Razvan Roc]]) di una relazione dettagliata a Re Draco sui lavori idraulici effettuati. Il resoconto documenta anche 46 morti per crollo, 7 per contagio, 13 per la foresta — Brienne continua dopo aver perso un braccio.
+- **`Inktober 2019 #Pattern`** — Riconosce e ringrazia Adalind Atrax quando quest'ultima apre i portoni della Città-Alveare.
+- **`Inktober 2018 #Flowing`** — Coautrice (con [[Razvan Roc]]) di una relazione dettagliata a Re Draco sui lavori idraulici effettuati. Il resoconto registra **46** morti per un crollo, **7** per un contagio, **10** causati dai Tripodi, **13** nella foresta e **23** in una fase successiva; questi ultimi 23 non sono presentati come totale della spedizione. L'intestazione del racconto indica Brienne come **XVII Covata**, ma la firma riporta **VI**; l'`Elenco Draghieri` conferma XVII. Brienne continua a operare dopo aver perso un braccio.
 
 ### Relazione con Razvan Roc
 
