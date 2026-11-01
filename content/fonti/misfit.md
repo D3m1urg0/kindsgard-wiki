@@ -3,7 +3,7 @@ titolo: "18: #Misfit"
 categoria: "fonti"
 tag: [wendy-wyrm, solomon, vera-sfinge, dominic-draco, in-world, racconto, vere-fiere]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-11-01"
 tipo: "racconto"
 autore: "Stefania Ricco"
 voci-wiki-collegate: ["Wendy Wyrm", "Solomon", "Dominic Draco", "Vere Fiere", "Fierezza e Maestà"]
@@ -55,8 +55,8 @@ Sulle mura, il Primo Draghiere serrò le mani sull'asta e sollevò **Espediente*
 
 ## Note
 
-Il racconto è ambientato durante l'Era del Dominio, dopo l'ascesa di Re Draco. Wendy e Solomon sono due ex-Vere Fiere tornate umane dopo la perdita del potere — ma ancora presenti nell'Artiglio di Re Draco, irriconosciute dai Draghieri (l'Istinto Draghieri non le riconosce come minaccia) e invisibili agli Umani per i loro ornamenti. Solo Draco le vede — e il suo sguardo "stanco, pieno di rammarico" è la stessa espressione che Wendy aveva già visto alla bocca della Maestà durante il sacrificio della Fenice (→ *[[Solitudine]]*).
+Il racconto è ambientato durante l'Era del Dominio, dopo l'ascesa di Re Draco. Wendy e Solomon sono due **ex-Vere Fiere tornate umane** dopo la perdita del potere. I loro ornamenti sono «**privi di significato per gli Umani**», non invisibili ai loro occhi; sono invece «**impossibili da notare per la cieca mente di un Draghiere**». Il Re ne coglie la presenza e il significato particolare. Il suo sguardo «stanco, pieno di rammarico» ricorda a Wendy **quello già incontrato** alla bocca della Maestà durante il sacrificio della Fenice (→ *[[Solitudine]]*).
 
-Il finale — Draco che "solleva Espediente" — implica che stia per agire contro le due ex-Vere Fiere. La scena si interrompe prima dell'azione.
+Il finale mostra Draco che «**solleva Espediente**», ma **non specifica il bersaglio o l'azione successiva**. Un possibile intervento contro le due ex-Vere Fiere rimane un'interpretazione, non un fatto compiuto dalla scena.
 
 Conferma canonica: Espediente è il nome dell'arma personale di Re Draco (la lancia forgiata per assorbire i 13 Guardiani).
