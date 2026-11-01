@@ -867,3 +867,9 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 
 - `personaggi/luther-leviathan.md`: confrontato `Inktober 2018 #Whale` e sostituita la presunta capacità di amplificare il Canto con la **deviazione** attestata dell'onda del Leviatano. Rimossa l'attribuzione di distruzione «dall'interno» non presente nel racconto; la Fiera viene dilaniata dall'onda riflessa.
 - Aggiornati audit e checkpoint, senza modifiche alla fonte primaria.
+
+
+## 2026-11-01 — Qualificazione della scena post-oblio in Onda Bianca
+
+- `fonti/onda-bianca.md`: l'ultima nota redazionale presentava la scena dopo l'onda come «risveglio in una realtà alternata». La fonte mostra oblio e discrepanze fra scene, ma non dimostra il trasferimento in una realtà diversa. Corretta la sola interpretazione editoriale, non il racconto originale.
+- Registrata l'evidenza e mantenuto aperto il meccanismo cosmologico; aggiornati copertura e checkpoint.

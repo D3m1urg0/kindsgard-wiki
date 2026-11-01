@@ -270,3 +270,10 @@ Fonti **lette direttamente**: `Prevedibilità (covata)` (racconto e apparato edi
 - Fonte consultata direttamente: `Inktober 2018 #Whale` nella parte subacquea del combattimento. Il **Canto del Leviatano** genera un'onda che uccide un **Siaka**; il **Canto di Luther** devia l'onda contro il Leviatano che l'aveva prodotta, che viene **dilaniato**. Il testo descrive un'onda apparentemente fermata da una barriera invisibile prima di tornare indietro. Non specifica un'amplificazione d'intensità né che il nemico esploda «dall'interno».
 - La biografia `content/personaggi/luther-leviathan.md` attribuiva al metodo di caccia di Luther «piegare o amplificare» e una distruzione «dall'interno»: rimosse le due inferenze non attestate, conservando la dinamica effettiva della caccia e l'esito documentato. La fonte e le altre sezioni non sono state modificate.
 - **Perimetro:** verifica di due attribuzioni tecniche specifiche, non certificazione esaustiva di ogni affermazione su Luther.
+
+
+## Verifica del meccanismo di Onda Bianca — distinzione fra evento e ipotesi (2026-11-01)
+
+- Letta direttamente la fonte narrativa `content/fonti/onda-bianca.md` e la relativa nota editoriale. Il testo mostra un'onda di oblio proveniente dalla direzione della Maestà e, nella scena seguente, personaggi con ricordi discontinui e percezione di un paesaggio cambiato. La narrazione **non afferma che si trovino in un diverso universo o in una realtà alternativa**.
+- La nota conclusiva della fonte descriveva come fatto un «risveglio in una realtà alternata». Rimossa tale identificazione e documentati i tre livelli da distinguere: evento osservato (onda/oblio), effetto narrato (ricordi e contesto apparente mutati), spiegazione cosmologica ancora non determinata.
+- **Edit effettuato solo nella nota editoriale**, e data di frontmatter; **nessuna riga del racconto originale modificata**. La riclassificazione non chiude una questione cosmologica né importa elementi di Vilegis/Lunaria.
