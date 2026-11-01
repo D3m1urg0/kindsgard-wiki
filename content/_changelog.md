@@ -778,3 +778,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - In `Bran Behemoth`, sostituito «caduto» con «sconfitto» perché `L'ultima notte` non certifica la morte. In `Brood`, allineati `Inktober 2019 #Pattern` per Adalind, le perdite della spedizione in `Inktober 2018 #Flowing` e la discrepanza testata XVII/firma VI, risolta editorialmente dall'Elenco XVII. Qualificata l'equivalenza Guardiani/Fondamento e l'analogia Covata/insetti sociali.
 - In `Città-Alveare`, corretta l'attribuzione delle gallerie/Zaratan a `#Swing` e marcata come non attestata la riparazione puntuale dell'Occhio.
 - In `content/fonti/prevedibilita-covata.md`, corrette **solo le tre note editoriali conclusive** e la data; confrontato il corpo narrativo prima e dopo, intatto. Nessuna fonte Inktober modificata. Dettagli tracciati come `K-11-01-01..12` in matrice e checkpoint.
+
+
+## 2026-11-01 — Confronto Solomon e Wendy con `#Precious` e `Misfit`
+
+- `Solomon`: eliminata la falsa affermazione che avveleni la folla, sostituita con la trappola attestata contro Sartuk, testa di cera e spore; esplicitato che il ragazzo non è documentato morto e che Solomon ne prevede il risveglio con conseguenze permanenti alla voce.
+- `Solomon` e `Wendy Wyrm`: per gli Umani gli ornamenti sono privi di significato, mentre i Draghieri non li notano; la presunta superiorità intellettuale di Solomon è la sua percezione, non giudizio oggettivo. Primo timore esplicito solo per Solomon; Wendy riconosce lo sguardo di Draco già visto alla Maestà.
+- In `misfit.md` corretti solo i paragrafi delle note editoriali finali; l'ultima scena non mostra l'azione conseguente al sollevamento di Espediente. Racconti originali non modificati. Aggiornate matrice e istruzioni di ripresa.
