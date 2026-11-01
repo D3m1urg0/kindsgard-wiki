@@ -652,3 +652,10 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - Le note della `Ninna Nanna` davano per avvenuta la morte del bambino, mentre il testo conclude con l'abbandono del ferito; eliminata la certezza non documentata. `Religioni` riallineata all'uso prudente di «tredici scintille» dei Guardiani in luogo dell'equivalenza assunta dei vettori del Fondamento.
 - `Inktober 2019 #Ornament` verifica sacerdoti, monaci e loro invecchiamento; `Pezzo del Rituale — Chimera` sostiene l'imperativo della preghiera, quindi nessun cambio ulteriore su quei passaggi.
 - File redazionali modificati: `Tradizioni`, `Religioni`, **solo le note finali** di `Deflecte Cantum` e `Canzoni degli Umani`, registri/changelog. Non modificate strofe, testo originale né le note originarie di Pietro Caruso. Verificare CI finale e merge GitHub prima di classificarle integrate.
+
+
+## Checkpoint — schede tecniche Bacche Emofaghe e Soffioni Uncinati (2026-11-01)
+
+- Letta integralmente la fonte tecnica `soffioni-uncinati-fonte.md` e verificata la corrispondenza sostanziale dei dati morfologici/gestionali della voce `Soffione Uncinato`. Corretta la nota dei racconti `Inktober 2019 #Build/#Husky`: **Brienne** dà ordini, **Razvan** opera da geniere, **Adryanne** avvisa e protegge con scudo, non coordina l'intera fuga. La fonte chiama Adryanne «Achenius, IX» in `#Build`, «Achenium, XII» in `#Husky`; L20 resta scelta canonica aperta.
+- Letta integralmente la fonte tecnica `bacche-emofaghe-fonte.md`: il cosiddetto «trattamento» con fuoco, acido o fango nella scheda **uccide anche l'ospite**. Non descrivere mai questa neutralizzazione come cura dell'infestato. Intervento prima di fioritura, ma per varietà bianca evitare uccisione immediata per non causare fioritura precoce.
+- Letto `L'esodo` integralmente: gruppo minacciato da infestazione, due germogliati (uno muore soffocato, uno vive con allucinazioni), uno fiorito nel sonno e circa dieci altri probabilmente esposti, non tutti dichiarati contagiati o morti. Aggiornate due schede, audit e changelog; fonti primarie inalterate.
