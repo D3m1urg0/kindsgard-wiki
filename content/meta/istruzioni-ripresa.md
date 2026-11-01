@@ -574,3 +574,12 @@ Il confronto con `Inktober 2024 #Exotic` descrive le Colture come sistema chiuso
 ### Verifica diretta aggiuntiva — Falenottere (2026-11-01)
 
 Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` ha riscontrato un'identificazione di specie non documentata: l'episodio di Alison parla di piccole Fiere alate luminose ma non ne dà il nome, mentre `#Drooling` nomina esplicitamente Falenottere grandi quanto una testa umana. Nella voce `Fiere — Voci Stub` è stata rimossa l'identificazione implicita e qualificata la testimonianza indiretta sulla coscienza delle vittime. Vedi matrice `audit-copertura-pagine.md`. Controllo mirato, non chiusura dell'intero bestiario.
+
+
+## Checkpoint operativo — verifica di Viverna, Cockatrice, Fitofiere e Loccia (2026-11-01)
+
+- Corretti gli scambi di proprietà tra **Wade Wyrm** e **Cornelius Cockatrix** con confronto diretto `Inktober 2018 #Poisonous` e `Inktober 2019 #Sling`. `#Chicken` rettifica la taglia descritta di una Cockatrice: quanto un Umano, non il doppio.
+- La classificazione **Fitofiere Sensibili/Inerti** è attestata direttamente in `Inktober 2019 #Overgrown`, che classifica il Chayote Strangolatore come Sensibile; la precedente conclusione «assente dalle fonti senza D4» è superata, senza implicare che il file D4 sia stato recuperato.
+- `Inktober 2019 #Snow` conferma direttamente l'habitat glaciale della Fiera Loccia; corretta la nota contraria in `Altri Personaggi`.
+- Voci e registro corretti: `content/fiere/fiere-stub.md`, `content/personaggi/wade-wyrm.md`, `content/personaggi/altri-personaggi.md`, `content/sistemi/il-battesimo-del-fuoco.md`, `content/meta/audit-copertura-pagine.md`, changelog. Fonti narrative originali lasciate inalterate.
+- **Residui:** la tranche non completa le altre verifiche delle 26 Fiere; continuare confronto sezione-per-sezione. Le informazioni storiche contraddette da questa correzione restano nel checkpoint come storico, non come stato corrente. Verificare CI sul commit finale della PR prima del merge.
