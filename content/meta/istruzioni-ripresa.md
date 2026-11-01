@@ -635,3 +635,11 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - `L'ultima notte`: Luther si **dissolve**; Wade vede **un volto umanoide sepolto** e teme/spera sia Samu'el, senza conferma di identità, ferite o successiva sopravvivenza.
 - Allineate `Draghieri`, `Samu'el Sphynx` e `Salamander` a `Cosmologia` e `Glossario`: i tredici Guardiani e le loro scintille sono attestati; l'identificazione con il Fondamento è interpretativa e non equivale ai sette vettori Kindsgard. Nessuna fonte primaria alterata.
 - Stato aggiornato in matrice e changelog. Prossimo passo: individuare le ulteriori ricadute nelle voci storiche e completare controlli della restante prima passata. Verificare CI finale e merge della PR su GitHub prima di dichiarare integrate le modifiche.
+
+
+## Checkpoint — riconciliazione storica (2026-11-01)
+
+- `Cronistoria (versione breve)` **nomina direttamente** «Il Conflitto (L'Era della Rovina)» e cita la Rovina di «altri luoghi». `Le Ere` lo negava: corretto il dato testuale, senza equiparare integralmente l'evento Kindsgard al canone esterno Vilegis.
+- `Le Ere`: le Vere Fiere sono presenti ciclicamente già prima del Primo Secolo del Draco; la frase «per la prima volta» relativa a quel secolo è stata qualificata come **nuova comparsa organizzata**, non nascita assoluta. La proporzione temporale 100:1 resta registrata ma non verificata su D3, e il caveat è stato portato anche nel paragrafo locale.
+- `Cronologia`: il potere assorbito da Draco dopo l'uccisione dei Guardiani è descritto come **tredici scintille** attestate da `Inktober 2019 #Legend`; l'equivalenza con i vettori del Fondamento è lasciata interpretativa.
+- Modificati soltanto `Le Ere`, `Cronologia`, audit, checkpoint e changelog. La revisione integrale della timeline non è certificata; D3/D4 e identità Guardiani rimangono lacune.
