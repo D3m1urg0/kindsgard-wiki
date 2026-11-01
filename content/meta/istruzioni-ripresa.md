@@ -674,3 +674,11 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - Allineato l'**apparato editoriale** dell'Elenco Draghieri al rapporto probatorio: `Inktober 2019 #Legend` attesta tredici Guardiani/scintille, **non** l'equivalenza puntuale con vettori del Fondamento. L'elenco nomina come GUARDIANO direttamente solo tre Draghieri (Mara, Bartholomew, G. Gryffin); altri nomi seguono fonti diverse e alcuni restano aperti (L17).
 - La voce `Vere Fiere` dopo l'ascesa di Re Draco descrive ora tredici **scintille** col caveat sui vettori, non più «tredici vettori» come fatto accertato.
 - L'Elenco originale, i numeri dei Draghieri e i titoli GUARDIANO sono invariati; è modificato solo il frontmatter e la presentazione editoriale iniziale, oltre a `Vere Fiere` e registri di controllo. Non chiudere L17/L21 per inferenza.
+
+
+## Checkpoint — Risveglio / Solitudine / Fenice e due mondi (2026-11-01)
+
+- `Risveglio del Drago`: il corpo del Draghiere Wade è **su Vilegis** mentre una Vera Viverna si risveglia **sul Kindsgard**, non viceversa. La **Giovane Fenice** lo tocca e lo riporta a casa; non è attestato che sia il Draghiere Frederick Fenice. La sequenza «Onofrius!» seguita dalla sua apparizione non determina in modo esplicito una perfetta identità personale.
+- `Solitudine`: la figura con Wendy è **Vero Draco (Vera Fiera)**, non ancora Re Draco. I «guardiani del Giardino» citati nel monologo sono generici, non necessariamente i tredici Guardiani delle scintille di `#Legend`. «Frederich di Vilegis» non è un alias confermato del Draghiere **Frederick Fenice**.
+- Biografia `Frederick Fenice` e decisione C4 nel registro: mantenuta la grafia **Frederick Fenice** come canonica per il Draghiere; reso non verificato il volto identico alla Giovane Fenice e distinta la battuta su «Frederich di Vilegis».
+- Fonti narrative originali non toccate: modificati solo cappelli editoriali e note di due racconti, biografia, registro di fonti, audit, checkpoint e changelog. Verificare CI finale e merge della PR; proseguire senza integrare canone di Vilegis.
