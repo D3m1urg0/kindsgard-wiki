@@ -6,7 +6,7 @@ status: "canonico"
 ultima_modifica: "2026-11-01"
 tipo: "racconto"
 autore: "Stefania Ricco"
-voci-wiki-collegate: ["Dominic Draco", "Wendy Wyrm", "Maestà", "Frederick Fenice", "Fiere — Voci Stub", "Vere Fiere", "Draghieri"]
+voci-wiki-collegate: ["Dominic Draco", "Wendy Wyrm", "Maestà", "Fiere — Voci Stub", "Vere Fiere", "Draghieri"]
 ---
 
 # Solitudine
@@ -133,7 +133,7 @@ Draco sospirò.
 
 "Già."
 
-→ *Voci wiki: [[Dominic Draco]], [[Wendy Wyrm]], [[Maestà]], [[Frederick Fenice]], [[Fiere — Voci Stub#Fenice]]*
+→ *Voci wiki: [[Dominic Draco]], [[Wendy Wyrm]], [[Maestà]], [[Fiere — Voci Stub#Fenice]]; il «Frederich di Vilegis» menzionato nel racconto non è identificato con [[Frederick Fenice]]*
 
 ---
 
