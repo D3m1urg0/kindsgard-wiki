@@ -3,7 +3,7 @@ titolo: "Glossario"
 categoria: "meta"
 tag: [glossario, termini, definizioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardiani","Echi","Kindsgard","Fiera","Mare Esterno","Mare Interno","Mondo Ancora","Fondamento","Istinto","Giardino","Nexus","Oltregiardino","Rovina","Spettro","Draghiere","Vera Fiera","Covata","Vilegis / Lunaria","Vilegis/Lunaria","Specie Fenice","Colture","Icaria"]
 ---
 
@@ -27,7 +27,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Colture** — Serre agricole a Sud, sistema chiuso per coltivare le Fitofiere necessarie al sostentamento umano; `Inktober 2024 #Exotic` indica Amaranthus Cruentus come la più importante. Non è attestato che siano l'unico sistema di produzione alimentare. → vedi [[Geografia del Kindsgard]]
 
-**Covata** — Fiera insettiforme/alveare. L'Istinto del Draghiere della Covata è la pianificazione strategica e il controllo collettivo. → vedi [[Fiere]] (stub)
+**Covata** — Sciame di creature multiformi. `Prevedibilità (covata)` documenta esemplari operai necessari ad aprire varchi e la capacità del Draghiere di anticiparne una schiusa; non identifica una casta distinta di «soldati» o una morfologia insettiforme uniforme. → vedi [[Fiere — Voci Stub#Covata]]
 
 **Draghiere** — Umano infuso dell'Espediente di una Fiera attraverso il Battesimo del Fuoco, vincolato alla protezione degli Umani da Fierezza. → vedi [[Draghieri]]
 
@@ -35,7 +35,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Espediente** — (1) Seconda forza ordinante del Kindsgard: la risposta al Bisogno, l'istinto di sopravvivenza. (2) Il nome dell'arma forgiata da Draghieri e Vere Fiere per permettere a Draco di uccidere i 13 Guardiani. → vedi [[Cosmologia]]
 
-**Fiera** — Qualsiasi creatura del Kindsgard che non sia Umano. Non esistono animali nel senso convenzionale: ogni Fiera è un mostro mitologico enormemente pericoloso. Alcune Fiere sono il soggetto del Battesimo del Fuoco.
+**Fiera** — Categoria delle specie non umane del Giardino, comprese forme animali e vegetali con proprietà specifiche. La loro pericolosità e le caratteristiche concrete vanno ricavate dalle singole fonti, non presunte uguali per tutte. Le Fiere possono essere il soggetto del Battesimo del Fuoco. → vedi [[Fiere — Voci Stub]]
 
 **Fierezza** — Il nome con cui i [[Draghieri]] chiamano il principio cosmologico che li anima. Sinonimo di Maestà. → vedi [[Fierezza e Maestà]]
 
@@ -47,7 +47,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Giardino** — Nome informale per il territorio del Kindsgard ancora sotto il controllo di Natura, all'interno dell'[[Anello di Fuoco]].
 
-**Guardiano** — Individuo (Draghiere, Vera Fiera o Fiera effettiva) che, dopo la connessione con Vilegis/Lunaria, incarnava inconsapevolmente uno dei tredici vettori manifestatisi nel Kindsgard e collegati al Fondamento. Alcuni Draghieri portano questo titolo nell'Elenco. → vedi [[Cosmologia]], [[Dominic Draco]]
+**Guardiano** — In `Inktober 2019 #Legend`, denominazione degli individui cui erano associate tredici scintille di potere nel Kindsgard, distribuiti fra Draghieri, Fiere e Vere Fiere. La fonte non identifica esplicitamente le scintille con i «vettori» collegati al Fondamento: questa equivalenza resta interpretativa nella ricostruzione wiki. Il titolo compare per alcuni Draghieri nell'Elenco. → vedi [[Cosmologia]], [[Dominic Draco]], [[Domande Aperte e Lacune]] (L17/L21)
 
 **Icaria** — Fiera nuova menzionata in *Una Missiva dall'Anello*, proveniente dal profondo del Giardino e descritta come abbastanza grande da rivaleggiare con i Draghi. La natura precisa e gli ulteriori dettagli restano da documentare. → vedi [[Una Missiva dall'Anello]], [[Domande Aperte e Lacune]]
 

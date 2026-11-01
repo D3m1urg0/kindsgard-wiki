@@ -3,7 +3,7 @@ titolo: "Vere Fiere"
 categoria: "fazioni"
 tag: [vere-fiere, fazione, maestà, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Draghieri_Vere_Fiere_del_Kindsgard", "L_Animale_Uomo", "Solitudine", "18___Misfit", "Inktober_2018", "draghieri-spiegazione", "Inktober_2019"]
 ---
 
@@ -47,7 +47,7 @@ Durante il **Primo Secolo del Draco**, le Vere Fiere comparvero per la prima vol
 
 Draghieri e Vere Fiere condividono lo stesso Istinto archetipico della Fiera, ma con orientamento opposto. Sono in guerra perenne, eppure cosmologicamente interdipendenti: senza le Vere Fiere che ricacciano il Giardino, i Draghieri conquisterebbero tutto e ucciderebbero Natura. Senza i Draghieri che proteggono gli Umani, le Vere Fiere sterminerebbero la specie che alimenta il ciclo.
 
-In un'unica occasione documentata, Draghieri e Vere Fiere hanno collaborato: durante la **Forgiatura di Espediente**, per proteggere il Kindsgard dalla minaccia del Nexus. Il risultato fu l'ascesa di [[Re Draco]] e la fine del potere delle Vere Fiere.
+Una collaborazione documentata fra Draghieri e Vere Fiere è collocata dalla ricostruzione wiki durante la **Forgiatura di Espediente**, per proteggere il Kindsgard dalla minaccia del Nexus; le fonti accessibili non consentono di dimostrare che non vi siano state altre collaborazioni. Il risultato fu l'ascesa di [[Re Draco]] e la fine del potere delle Vere Fiere.
 
 ---
 
@@ -63,7 +63,7 @@ La voce [[Fiamme]] è attualmente una bozza in quarantena editoriale: conserva m
 - [[Dominic Draco]] — come Vera Fiera, dopo la trasformazione alla Maestà (poi diventa Re)
 - [[Wendy Wyrm]] — Vera Viverna, autrice di `La natura di Natura`
 - [[Solomon]] — Vera Sfinge, appare in `18___Misfit` e `Inktober 2018 #Precious`
-- Vera Manticora — nata dalla scissione di Karsh/Ishvard, unicum narrativo
+- Vera Manticora — nata dalla scissione di Karsh/Ishvard; caso eccezionale documentato, senza prova che sia intrinsecamente irripetibile
 
 ---
 
