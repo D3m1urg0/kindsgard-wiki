@@ -3,7 +3,7 @@ titolo: "Soffione Uncinato"
 categoria: "fiere"
 tag: [soffione-uncinato, fitofiera, fiera, scheda-completa]
 status: "canonico"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 aliases: ["Soffioni Uncinati"]
 fonti: ["Soffioni_Uncinati.docx", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
@@ -49,7 +49,7 @@ La Fitofiera nota come Soffione Uncinato è l'achenio (seme) dell'Achenium Hamat
 
 ## Note Narrative
 
-In `Inktober 2019 #Husky` e `#Build`, una tempesta di Soffioni Uncinati durante il periodo di semina costringe un gruppo di Draghieri e duecento Umani a cercare rifugio nel sottosuolo. [[Adryanne Achenius]], Draghiere del Soffione Uncinato, coordina la difesa e la fuga.
+In `Inktober 2019 #Build` e `#Husky`, una tempesta di Soffioni Uncinati durante il periodo di semina obbliga un gruppo di Draghieri e circa duecento Umani a rifugiarsi nel sottosuolo. **Brienne Brood impartisce gli ordini** e **Razvan Roc** gestisce le operazioni di sgombero dell'accesso; [[Adryanne Achenius]] segnala l'arrivo della tempesta e in `#Husky` usa il grande scudo per tentare di mettere al riparo un Umano ferito. La fonte la nomina lì anche **«Adryanne Achenium, XII»**, mentre `#Build` riporta **«Adryanne Achenius, IX»**: la discrepanza di nome/numero resta aperta (L20), senza correggere le fonti narrative.
 
 ---
 
