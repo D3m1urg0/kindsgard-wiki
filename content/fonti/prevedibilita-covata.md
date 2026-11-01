@@ -3,7 +3,7 @@ titolo: "Prevedibilità (covata)"
 categoria: "fonti"
 tag: [bartholomew-brood, città-alveare, racconto, in-world, vere-fiere, wendy-wyrm, bran-behemoth]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-11-01"
 tipo: "racconto"
 autore: "Stefania Ricco"
 voci-wiki-collegate: ["Brood", "Città-Alveare", "Bran Behemoth", "Wendy Wyrm", "Vere Fiere", "Altri Personaggi"]
@@ -120,8 +120,8 @@ Dal buio, illuminato solo dalla luce calda e danzante delle fiaccole lo si udì 
 
 ## Note
 
-Questo racconto è la fonte principale per la fine di [[Brood|Bartholomew Brood]] (sopravvive allo scontro qui descritto, ma muore successivamente per mano di Draco secondo la cronologia generale) e per le capacità tattiche di [[Bran Behemoth]]: pietrificazione progressiva dal contatto col veleno della Vera Fiera, e capacità di auto-amputazione per interrompere il processo.
+Questo episodio documenta gli ultimi combattimenti di [[Brood|Bartholomew Brood]], che **qui sopravvive**, benché paralizzato e inchiodato a una parete; la sua morte successiva per mano di Draco è descritta dalla ricostruzione cronologica generale, non da questa scena. Per [[Bran Behemoth]] il racconto distingue il **veleno** (quadrelli e morso) dagli **incanti di Maestà**, che la Vera Cockatrice invoca subito prima della pietrificazione. Bran interrompe il processo amputandosi l'avambraccio; successivamente libera lo Stratega dalla parete e lo ripone in un angolo, non lo accompagna fuori.
 
-Confermato canonicamente: **Meridian Manticora** ha fornito alle Vere Fiere "la lista" — un riferimento a dati strategici sui Draghieri sottratti a Istica. Questo lega [[Altri Personaggi]] (Meridian) a un tradimento o infiltrazione documentati solo qui.
+Bran risponde alla Vera Cockatrice: «**Meridian Manticora. Era a Istica. Vi ha preso la lista**». La frase significa che Meridian **ha sottratto la lista alle Vere Fiere**, non che gliel'abbia consegnata. Il racconto non raffigura la sottrazione e non specifica il contenuto della lista. Il precedente commento su un tradimento di Meridian a favore delle Vere Fiere non era sostenuto dalla fonte.
 
-Il titolo "Stratega" attribuito alla Vera Cockatrice e il nome "Cockatrix" usato per rivolgersi a lei suggeriscono che la Vera Fiera in questione sia la controparte di un Draghiere Cockatrice — possibilmente di [[Altri Personaggi#Cornelius Cockatrix, XIII Cockatrice|Cornelius]], anche se non è confermato esplicitamente.
+Nell'ultima scena «**lo Stratega**» è **Bartholomew Brood**, liberato dal muro da Bran, non un titolo della Vera Cockatrice. «Cockatrix» è usato dalla Vera Viverna per rivolgersi alla propria alleata: **non ne rivela l'identità civile** e non la identifica con [[Altri Personaggi#Cornelius Cockatrix, XIII Cockatrice|Cornelius Cockatrix]].

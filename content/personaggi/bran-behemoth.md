@@ -3,7 +3,7 @@ titolo: "Bran Behemoth"
 categoria: "personaggi"
 tag: [bran-behemoth, draghieri, behemoth, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 fonti: ["Inktober_2019", "Inktober_2018", "Prevedibilità__covata_", "Onda_bianca", "L_ultima_notte_all_ombra_dell_Anello", "Elenco_Draghieri_Conosciuti"]
 ---
 
@@ -33,9 +33,9 @@ Come Draghiere del Behemoth, Bran ha una resistenza fisica eccezionale e riesce 
 
 **`Inktober 2019 #Bait, #Freeze, #Snow, #Dragon`** — Sequenza in quattro parti ambientata nel nord glaciale. Bran raggiunge l'Artiglio delle Nevi spento, scopre che gli Umani sono fuggiti per un Drago avvistato. Coordina con [[Lhars Leopterix]], [[Laerius Loch]] ed [[Ember Everastes]] un piano per abbattere il Drago. La battaglia è documentata in dettaglio: Bran funge da esca e bersaglio principale, assorbe fiammate e colpi che avrebbero ucciso chiunque altro, usa Schiacciastelle per spezzare articolazioni del Drago. Sopravvive grazie all'intervento di tutti e quattro i Draghieri e degli Umani che hanno forgiato una rete di catene.
 
-**`Prevedibilità (covata)`** — Bran compare nella battaglia alla Città-Alveare. Si scontra con le Vere Fiere (Wendy Wyrm e una Cockatrice) che tentano di catturare Bartholomew Brood. Dopo uno scontro violentissimo — perforato da quadrelli, con un braccio che si pietrifica per il veleno della Vera Fiera — sopravvive e porta via Bartholomew in sicurezza.
+**`Prevedibilità (covata)`** — Bran compare nella battaglia alla Città-Alveare. Si scontra con le Vere Fiere (Wendy Wyrm e una Cockatrice) che tentano di catturare Bartholomew Brood. Dopo uno scontro violentissimo, perforato da quadrelli, resiste al veleno della Vera Cockatrice; subito dopo che la Fiera invoca gli **incanti di Maestà**, la sua mano si pietrifica. Bran interrompe il processo amputandosi l'avambraccio, uccide la Cockatrice e stacca Bartholomew dal muro, ancora paralizzato dal veleno dei dardi, **lasciandolo in un angolo** prima di uscire. La fonte non documenta un'evacuazione di Brood.
 
-**`L'ultima notte all'ombra dell'Anello`** — Menzionato come caduto: *"Sono giunto alla Valle dei Fulmini appena in tempo per vedere Bran sconfitto da un solo colpo del gigante d'acciaio che si fa chiamare Vero Behemoth."* La sua sconfitta ad opera della propria nemesi è uno dei momenti più duri della crisi dell'Orso.
+**`L'ultima notte all'ombra dell'Anello`** — Menzionato come **sconfitto**, senza conferma esplicita della morte: *"Sono giunto alla Valle dei Fulmini appena in tempo per vedere Bran sconfitto da un solo colpo del gigante d'acciaio che si fa chiamare Vero Behemoth."* La sua sconfitta ad opera della propria nemesi è uno dei momenti più duri della crisi dell'Orso.
 
 **`Onda Bianca`** — Bran è tra i Draghieri presenti durante l'onda di oblio. Nel momento post-oblio sembra confuso come gli altri ma mantiene la sua stabilità caratteriale.
 
