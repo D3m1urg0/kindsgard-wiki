@@ -263,3 +263,10 @@ Fonti **lette direttamente**: `Prevedibilità (covata)` (racconto e apparato edi
 - Letti i passaggi pertinenti di `Inktober 2019 #Bait`, `#Snow` e `#Dragon` e di `Prevedibilità (covata)`. `#Bait` collega Bran alla propria **Valle dei Tuoni**, mentre `#Dragon` attesta l'uso del **ferro nero della Valle dei Fulmini** per forgiare Schiacciastelle e l'armatura. L'equivalenza geografica dei due toponimi resta irrisolta nel registro L3. La battaglia alla Città-Alveare attesta una presenza nelle Catene Montuose Orientali, non una base o competenza di presidio su tutta la regione.
 - La biografia chiamava la **pelle** di Bran corazzata senza un passo verificato che distinguesse quel tratto dall'**armatura** esterna; rimossa la generalizzazione. Dichiarava inoltre riparazioni sistematiche dell'equipaggiamento altrui e costruzione di trappole, non dimostrate nei brani confrontati; queste attività non sono più presentate come fatti.
 - Corrette soltanto le tre affermazioni tracciabili nella scheda di Bran. Le fonti originali e le altre proprietà con attestazione distinta non sono state alterate. Confronto circoscritto, non validazione integrale della biografia.
+
+
+## Confronto diretto — Luther Leviathan e natura del Canto (2026-11-01)
+
+- Fonte consultata direttamente: `Inktober 2018 #Whale` nella parte subacquea del combattimento. Il **Canto del Leviatano** genera un'onda che uccide un **Siaka**; il **Canto di Luther** devia l'onda contro il Leviatano che l'aveva prodotta, che viene **dilaniato**. Il testo descrive un'onda apparentemente fermata da una barriera invisibile prima di tornare indietro. Non specifica un'amplificazione d'intensità né che il nemico esploda «dall'interno».
+- La biografia `content/personaggi/luther-leviathan.md` attribuiva al metodo di caccia di Luther «piegare o amplificare» e una distruzione «dall'interno»: rimosse le due inferenze non attestate, conservando la dinamica effettiva della caccia e l'esito documentato. La fonte e le altre sezioni non sono state modificate.
+- **Perimetro:** verifica di due attribuzioni tecniche specifiche, non certificazione esaustiva di ogni affermazione su Luther.
