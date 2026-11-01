@@ -1,12 +1,12 @@
 ---
 titolo: "Risveglio del Drago"
 categoria: "fonti"
-tag: [wade-wyrm, dominic-draco, frederick-fenice, vilegis, racconto, in-world, anno-del-draco]
+tag: [wade-wyrm, dominic-draco, giovane-fenice-vilegis, vilegis, racconto, in-world, anno-del-draco]
 status: "canonico"
 ultima_modifica: "2026-11-01"
 tipo: "racconto"
 autore: "Stefania Ricco"
-voci-wiki-collegate: ["Wade Wyrm", "Dominic Draco", "Frederick Fenice", "Vilegis / Lunaria", "Vere Fiere", "Cronologia"]
+voci-wiki-collegate: ["Wade Wyrm", "Dominic Draco", "Vilegis / Lunaria", "Vere Fiere", "Cronologia"]
 ---
 
 # Risveglio del Drago
@@ -80,7 +80,7 @@ La giovane fenice doveva aver visto tutto, la sua bianca figura stava già salta
 La mano della fenice gli toccò la fronte, ed il suo corpo ricominciò il viaggio mentre il volto di Dominic Draco sorrideva ancora, incitando i suoi uomini con la stessa terribile espressione, nel suo vestito blu ed oro dall'alto del patibolo di Vilegis.
 Il Draghiere della Viverna tornò al Kindsgard, sul Giardino era già l'inferno.
 
-→ *Voci wiki: [[Frederick Fenice]], [[Wade Wyrm]], [[Dominic Draco]], [[Vilegis / Lunaria]]*
+→ *Voci wiki: [[Wade Wyrm]], [[Dominic Draco]], [[Vilegis/Lunaria]]; la Giovane Fenice del racconto non è identificata con [[Frederick Fenice]]*
 
 ---
 

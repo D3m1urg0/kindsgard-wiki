@@ -682,3 +682,10 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - `Solitudine`: la figura con Wendy è **Vero Draco (Vera Fiera)**, non ancora Re Draco. I «guardiani del Giardino» citati nel monologo sono generici, non necessariamente i tredici Guardiani delle scintille di `#Legend`. «Frederich di Vilegis» non è un alias confermato del Draghiere **Frederick Fenice**.
 - Biografia `Frederick Fenice` e decisione C4 nel registro: mantenuta la grafia **Frederick Fenice** come canonica per il Draghiere; reso non verificato il volto identico alla Giovane Fenice e distinta la battuta su «Frederich di Vilegis».
 - Fonti narrative originali non toccate: modificati solo cappelli editoriali e note di due racconti, biografia, registro di fonti, audit, checkpoint e changelog. Verificare CI finale e merge della PR; proseguire senza integrare canone di Vilegis.
+
+
+## Checkpoint — attribuzioni Fenice non dimostrate (2026-11-01)
+
+- Baseline iniziale `main`: `c1bac0c9753f9951a93b2e1032a537957d87c018` (PR #77 già integrata). La verifica dei racconti `Risveglio del Drago` e `Solitudine` ha mostrato che Giovane Fenice/«Frederich di Vilegis» non sono automaticamente identificabili con Frederick Fenice del Kindsgard.
+- Corretta la frase residuale in `Cronologia` che dichiarava identici i volti; corretti metadata e link editoriali di entrambe le fonti senza alterare i corpi narrativi. Rimossa la tag `guardiano` non verificata dalla scheda Frederick, L17 resta aperta. Grafia canonica Frederick Fenice (C4) invariata.
+- Verificare build, wikilink e integrazione sulla PR; continuare poi la verifica frase-per-frase delle voci e l'inventario delle fonti legacy, evitando nuove identificazioni tra setting.

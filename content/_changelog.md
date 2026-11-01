@@ -839,3 +839,11 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Solitudine`: corretto il sommario da Dominic «come Re» a **Vero Draco** prima dell'incoronazione; chiarito l'uso generico di «guardiani del Giardino» senza equipararlo ai tredici Guardiani delle scintille. «Frederich di Vilegis» non è corretto automaticamente in Frederick Fenice: il nome canonico del Draghiere del Kindsgard resta invece confermato da C4.
 - `Frederick Fenice` e registro C4: qualificate le affermazioni sul volto identico della Giovane Fenice e sulle varianti di nomi di personaggi di Vilegis.
 - Modificati solo i cappelli e apparati editoriali delle due fonti (racconti preservati), la pagina biografica, la matrice di fonti, audit, checkpoint e changelog.
+
+
+## 2026-11-01 — Allineamento residuale Fenici, cronologia e metadata
+
+- `storia/cronologia.md`: rimossa l'asserzione non dimostrata che Frederick Fenice abbia il volto identico alla Giovane Fenice di Vilegis. Le fonti `Risveglio del Drago` e `Solitudine`, verificate in PR #77, non confermano tale identità.
+- `fonti/risveglio-del-drago.md` e `fonti/solitudine.md`: ripuliti i tag/elenchi delle voci collegate e qualificati i rimandi editoriali che equiparavano personaggi di due mondi; **testi narrativi invariati**.
+- `personaggi/frederick-fenice.md`: rimossa la tag `guardiano` poiché il ruolo fra i tredici resta domanda L17; annotato il limite senza alterare C4.
+- Aggiornati matrice di copertura e checkpoint. PR da verificare con wikilink e build Quartz sul commit finale.

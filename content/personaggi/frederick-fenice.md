@@ -1,7 +1,7 @@
 ---
 titolo: "Frederick Fenice"
 categoria: "personaggi"
-tag: [frederick-fenice, draghieri, fenice, guardiano, personaggio]
+tag: [frederick-fenice, draghieri, fenice, personaggio]
 status: "revisionato"
 ultima_modifica: "2026-11-01"
 fonti: ["D3-cronistoria-ooc", "Una_Missiva_dall_Anello", "Risveglio_del_Drago", "Solitudine", "Elenco_Draghieri_Conosciuti"]
@@ -43,7 +43,7 @@ Questa distinzione è canonica: Frederick è il portatore dell'Espediente della 
 
 ## Nota sul Nome
 
-La grafia canonica del Draghiere del Kindsgard è **Frederick Fenice** (decisione C4). Varianti storiche del suo nome sono state ricondotte editorialmente a questa grafia; **il «Frederich di Vilegis» citato in `Solitudine` non è però identificato dal racconto come la stessa persona**, e non va trasformato in un alias di Frederick senza verifica indipendente.
+La grafia canonica del Draghiere del Kindsgard è **Frederick Fenice** (decisione C4). Il suo eventuale ruolo tra i **tredici Guardiani** resta aperto (L17): non classificarlo come tale senza fonte o decisione esplicita. Varianti storiche del suo nome sono state ricondotte editorialmente a questa grafia; **il «Frederich di Vilegis» citato in `Solitudine` non è però identificato dal racconto come la stessa persona**, e non va trasformato in un alias di Frederick senza verifica indipendente.
 
 ---
 
