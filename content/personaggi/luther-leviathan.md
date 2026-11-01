@@ -31,7 +31,7 @@ L'Istinto di Luther è quello del predatore delle profondità: pazienza, precisi
 
 La **Maelstrom** è la nave di Luther. `Inktober 2018 #Whale` documenta un equipaggio Umano, il porto dell'Artiglio delle Scogliere e la nave come base per una caccia; non stabilisce una rete regolare di trasporti fra Artigli costieri. Le fonti disponibili non forniscono un confronto sistematico che permetta di definirla la nave più potente del Kindsgard.
 
-Il metodo di caccia di Luther è documentato in `Inktober 2018 #Whale`: si immerge nelle profondità con un'armatura pesante, scende fino alla Fiera bersaglio, e usa il proprio **Canto** per piegare o amplificare il Canto della Fiera stessa contro di lei. Nel caso documentato, usò il Canto di un Leviatano nemico per generare un'onda che lo distrusse dall'interno.
+Il metodo di caccia di Luther è documentato in `Inktober 2018 #Whale`: si immerge nelle profondità con un'armatura pesante, scende fino alla Fiera bersaglio, e usa il proprio **Canto** per **deviare** contro la Fiera l'onda prodotta dal Canto del Leviatano. Nel caso documentato, l'onda si infrange come su una barriera invisibile, torna contro il Leviatano e **lo dilania**: il racconto non attesta un'amplificazione del Canto né una distruzione che proceda dall'interno del corpo.
 
 ---
 
