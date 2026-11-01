@@ -34,15 +34,15 @@ Sul [[Kindsgard]] Wade porta l'arma chiamata **Colpo di Coda**, lancia impiegata
 Wade appare in:
 
 **Su Vilegis:**
-- `Risveglio del Drago` — Wade a Vilegis durante l'Anno del Draco. Assiste al discorso di Moebius, vede Dominic trasformato, viene riportato al Kindsgard da Frederick Fenice.
-- `Riflessioni` — Note scritte su Vilegis, invito agli altri Draghieri a ricordare la propria natura e il proprio dovere verso gli Umani.
+- `Risveglio del Drago` — Wade è su Vilegis durante il Primo Anno del Draco; il racconto descrive il risveglio di una Vera Viverna sul Kindsgard mentre lui si trova ancora su Vilegis. Una **Giovane Fenice** presente su Vilegis lo aiuta a tornare a casa. La fonte non identifica esplicitamente la Giovane Fenice con [[Frederick Fenice]] del Kindsgard.
+- `Riflessioni` — Testo scritto **da [[Caitlin Chimera]]**, non da Wade: Caitlin cita l'esempio della «Viverna» per riflettere sul recupero della propria umanità su Vilegis. Wade è quindi **menzionato indirettamente**, non autore né protagonista della fonte.
 
 **Sul Kindsgard:**
 - `Una Missiva dall'Anello` — Lettera scritta al 103° anno all'ombra dell'Anello, descrivendo il disastro seguìto alla vittoria dell'Orso: Artigli caduti, Fiere che dilagano, il nome "Icaria" per la nuova belva misteriosa.
-- `L'esodo` — Diario: Wade guida 47 sopravvissuti attraverso un altopiano sulfureo infestato da [[Bacca Emofaga|Bacche Emofaghe]]. Cerca di portarli all'Artiglio del Magma dove opera [[Syrus Salamander]].
-- `L'ultima notte all'ombra dell'Anello` — Poema: Wade è l'ultimo Draghiere rimasto al fronte, gravemente ferito. Raggiunge [[Samu'el Sphynx]] sepolto nella sabbia. La Fenice lo richiama.
+- `L'esodo` — Diario: Wade è temporaneamente bloccato con **47 superstiti** al margine di un pianale sulfureo infestato da [[Bacca Emofaga|Bacche Emofaghe]]; spera di condurli all'Artiglio del Magma presso «Salamandra». **La fonte non specifica se sia Syrus o Sebastian** (L18).
+- `L'ultima notte all'ombra dell'Anello` — Racconto e poema: Wade, gravemente ferito e descritto come l'ultimo Draghiere al fronte, scorge una figura sepolta nella sabbia e **teme che sia [[Samu'el Sphynx]]**, senza identificarla. Nel poema viene richiamato da Fenice (qui nominata e collegata a Frederick nell'apparato editoriale della fonte).
 - `Solitudine` — Dialogo tra Draco e la Vera Viverna alla Maestà. Wade viene citato indirettamente come esempio della perdita di memoria come meccanismo difensivo.
-- `Onda Bianca` — Wade è tra i Draghieri che osservano l'onda di oblio proveniente dalla Maestà.
+- `Onda Bianca` — Wade **non è presente** fra i Draghieri che osservano l'onda dalla Maestà. Gli altri rilevano che le coscienze di Wyrm e Leviathan non sono sul Kindsgard, senza accertare nel racconto dove si trovino.
 
 **Saggi e lettere:**
 - `Fierezza: il Dio che è in noi` — Saggio filosofico incompiuto sulla spiritualità nel Giardino. Wade analizza Natura, Bisogno, Espediente e Fierezza dal punto di vista di un Draghiere.
@@ -61,4 +61,4 @@ Wade è un Draghiere riflessivo per gli standard della sua categoria, capace di 
 - Superiore: [[Dominic Draco]] (Re)
 
 ## Note
-Il numero 33 implica una lunga storia della Viverna nel Kindsgard. Wade non è il primo né sarà l'ultimo.
+Il numero progressivo 33 attesta predecessori nella sequenza dei Draghieri della Viverna; la fonte non documenta il numero di eventuali successori di Wade.
