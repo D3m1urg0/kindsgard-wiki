@@ -67,7 +67,7 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 ## Anno della Fenice
 
-**[Anno della Fenice]** — Ritorno di [[Frederick Fenice]], Unica Fenice. I Draghieri comprendono che gli Echi di Lunaria influenzano direttamente il Giardino. Nuovi Draghieri nascono dopo anni di stasi. Il volto di Frederick è identico a quello della Giovane Fenice di Lunaria; la connessione cosmologica fra i due resta non completamente documentata dalle fonti narrative disponibili.
+**[Anno della Fenice]** — Ritorno di [[Frederick Fenice]], Unica Fenice. I Draghieri comprendono che gli Echi di Lunaria influenzano direttamente il Giardino. Nuovi Draghieri nascono dopo anni di stasi. La ricostruzione wiki associa Frederick alla Giovane Fenice di Vilegis/Lunaria, ma le fonti narrative accessibili non attestano l'identità personale né una somiglianza dei volti. La connessione cosmologica rimane da verificare, senza unificare le due figure.
 
 ---
 
