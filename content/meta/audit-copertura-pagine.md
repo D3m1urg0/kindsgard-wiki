@@ -121,3 +121,10 @@ Il confronto semantico del branch storico ha confermato che le sue modifiche nar
 - `Inktober 2019 #Swing`: uno Zaratan di terra viene confrontato con il profilo di tunnel del sottosuolo; il passaggio non prova che la specie li abbia scavati. `Prevedibilità (covata)` non contiene la menzione di Zaratan o carapaci. Corretto il riferimento errato nella scheda.
 - **Nota editoriale delle fonti:** corrette soltanto due voci dell'**indice rapido introduttivo** di `content/fonti/inktober-2019.md`: `#Mindless` non assegna la specie della foresta, `#Enchanted` non nomina Falenottere. **Nessuna parola dei racconti narrativi è stata modificata**; i due cambiamenti non sono interpretazioni canoniche ma rimozioni di attribuzioni editoriali senza prova.
 - **Perimetro:** lettura mirata di `#Mindless`, `#Sling`, `#Swing`, `#Enchanted` e `Prevedibilità`. Non dichiarare l'intero bestiario verificato; riferimenti a fonti restanti ancora da controllare.
+
+
+### Confronto mirato — Covata e valutazione del Drago (2026-11-01)
+
+- **Covata:** riletto `content/fonti/prevedibilita-covata.md`: distingue bozzoli operai, loro ruolo nell'apertura dei varchi, stima di schiusa anticipata da Bartholomew e fallimento delle schiere contro le difese in assenza di operai. Non menziona una casta di «soldati» distinta o una gerarchia biologica definita. La scheda `content/fiere/fiere-stub.md` generalizzava oltre la fonte; rimossi i due attributi e limitata la debolezza all'episodio. **Confronto della specifica affermazione completato**, senza dedurre una tassonomia della specie.
+- **Drago:** riletto `Inktober 2019 #Dragon`, che formula l'idea del predatore supremo come ipotesi comparativa («se ci fosse… probabilmente»). La scheda era più assoluta; riformulata come valutazione possibile anziché rango canonico oggettivo.
+- **Limite:** questi confronti riguardano specifiche proposizioni, non l'intero corpus né la verifica esaustiva delle 26 schede. Nessuna fonte originale modificata in questa tranche.

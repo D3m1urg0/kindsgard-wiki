@@ -590,3 +590,10 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - `Inktober 2019 #Mindless` non identifica la specie della foresta arborea mobile come Sicomoro Perenne, sebbene Sef Sycamore partecipi alla bonifica; `#Sling` descrive invece esplicitamente il polline intossicante dei Sicomori Perenni. Evitare inferenze dalla sola presenza del Draghiere. Corretto anche «coordina» per Sef: il gruppo è guidato dal Draghiere della Salamandra.
 - La fonte del riferimento allo Zaratan e ai tunnel è `Inktober 2019 #Swing`, non `Prevedibilità (covata)`; la forma dei tunnel è soltanto confrontata col carapace. La scheda corrente esplicita questi limiti.
 - Corrette unicamente due righe dell'indice **editoriale** introduttivo di `content/fonti/inktober-2019.md` (`#Mindless`, `#Enchanted`); non alterati i racconti originali. Registrata l'operazione nella matrice e nel changelog.
+
+
+### Confronto della Covata e del Drago (2026-11-01)
+
+- In `Prevedibilità (covata)` sono attestati gli **operai** e l'effetto della loro assenza sulle difese della Città-Alveare. Non è documentata una casta distinta di «soldati» né una complessa gerarchia biologica: rettificata la scheda `Fiere — Voci Stub`.
+- `Inktober 2019 #Dragon` parla del Drago come **possibile** predatore supremo, non certifica un primato assoluto; qualificata la formula nella scheda.
+- Registrare solo confronto mirato delle due affermazioni. Prossimo passo: continuare la verifica semantica frase-per-frase delle restanti descrizioni e delle pagine sintetiche ancora soltanto lette in prima passata.

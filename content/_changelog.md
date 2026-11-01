@@ -748,3 +748,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Altri Personaggi`: Sef Sycamore partecipa alla bonifica, ma `#Mindless` attribuisce la guida al Draghiere della Salamandra. Corretto il ruolo senza modificare la storia.
 - `content/fonti/inktober-2019.md`: modificate **esclusivamente due righe dell'indice rapido redazionale** per `#Mindless` e `#Enchanted`, eliminando identificazioni di specie non sostenute dal racconto. I testi narrativi non sono stati alterati.
 - Registrati confronto e limiti nella matrice di copertura e nel checkpoint.
+
+
+## 2026-11-01 — Verifica Covata e comparativo sul Drago
+
+- `Fiere — Voci Stub`: `Prevedibilità (covata)` documenta operai, schiusa stimata e vulnerabilità tattica dello sciame senza di essi, ma non una casta biologica denominata «soldati» o gerarchia complessa; eliminata la generalizzazione non supportata.
+- Il confronto con `Inktober 2019 #Dragon` ha qualificato «predatore supremo» come valutazione possibile, non fatto oggettivo gerarchico.
+- Aggiornati registro di copertura e checkpoint; nessuna modifica alle fonti originali.
