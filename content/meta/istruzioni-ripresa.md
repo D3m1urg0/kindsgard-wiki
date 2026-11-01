@@ -689,3 +689,10 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - Baseline iniziale `main`: `c1bac0c9753f9951a93b2e1032a537957d87c018` (PR #77 già integrata). La verifica dei racconti `Risveglio del Drago` e `Solitudine` ha mostrato che Giovane Fenice/«Frederich di Vilegis» non sono automaticamente identificabili con Frederick Fenice del Kindsgard.
 - Corretta la frase residuale in `Cronologia` che dichiarava identici i volti; corretti metadata e link editoriali di entrambe le fonti senza alterare i corpi narrativi. Rimossa la tag `guardiano` non verificata dalla scheda Frederick, L17 resta aperta. Grafia canonica Frederick Fenice (C4) invariata.
 - Verificare build, wikilink e integrazione sulla PR; continuare poi la verifica frase-per-frase delle voci e l'inventario delle fonti legacy, evitando nuove identificazioni tra setting.
+
+
+## Checkpoint — attribuzione di Guardiano a Samu'el Sphynx (2026-11-01)
+
+- La scheda Samu'el presentava il titolo di Guardiano come accertato, ma `Elenco Draghieri` non lo marca GUARDIANO; `Inktober 2018 #Tranquil` allude a un Guardiano anonimo come istruttore del Bibliotecario precedente, e `Inktober 2019 #Legend` non identifica Samu'el fra i tredici. L17 resta aperta.
+- `Inktober 2018 #Bottle` colloca all'Artiglio delle Sabbie i **progetti delle Serre**, senza affermare che Samu'el li custodisse personalmente. Corrette la biografia, la tag `guardiano` e la fonte `Inktober_2019` in metadata; non eliminati fatti narrativi accertati.
+- Continuare la verifica degli altri ruoli e relazioni derivati indirettamente dalle menzioni di classe o di luogo. Nessuna decisione canonica è stata presa.
