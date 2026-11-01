@@ -603,3 +603,11 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 
 - `Inktober 2019 #Swing` contiene la descrizione dei fili bianchi e dei disegni intrecciati delle tele nell'Abisso, mentre `#Pattern` racconta lo scontro con gli Atrax. Allineato il locator della scheda; rimosso «geometrico» non attestato letteralmente.
 - `18___Misfit` chiama Fabalo Spinato un cespuglio pericoloso, non espressamente una Fitofiera: la collocazione nel bestiario sotto Fitofiere resta provvisoria. Non riscrivere la fonte, non elevare una categoria editoriale a classificazione canonica.
+
+
+### Riconciliazione sintetica (2026-11-01)
+
+- `content/_glossario.md`: aggiornata la voce Covata alle evidenze di `Prevedibilità`, rimossa la presunta identità già accertata Guardiani/vettori del Fondamento (L17/L21), e qualificata la definizione generale di Fiera.
+- `content/mondo/cosmologia.md`: corretta la frase «ne assorbì i vettori» perché `Inktober 2019 #Legend` attesta direttamente tredici **scintille**, non la loro equivalenza puntuale con il Fondamento. Conservato il linguaggio dei vettori solo come interpretazione documentale dichiarata.
+- `content/fazioni/vere-fiere.md`: rimossi «un'unica occasione» e «unicum narrativo» dove potevano implicare esclusività/irripetibilità non verificabile.
+- La geometria Giardino/Anello è stata verificata coerente e non richiede correzioni: Giardino all'interno, territorio Umano fuori dal perimetro. D3/D4 ancora non reperiti.
