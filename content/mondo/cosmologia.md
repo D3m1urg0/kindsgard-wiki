@@ -3,7 +3,7 @@ titolo: "Cosmologia"
 categoria: "mondo"
 tag: [cosmologia, natura, bisogno, espediente, fondamento, spettri]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-01"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Cronistoria_versione_breve", "Copia_di_I_Draghieri_del_kindsgard", "draghieri-spiegazione", "Inktober_2019"]
 ---
 
@@ -83,7 +83,7 @@ La ricostruzione wiki attualmente disponibile riferisce che il Kindsgard sia sta
 
 `Inktober 2019 #Legend` attesta direttamente che su ogni mondo esistono tredici scintille di potere incarnate in individui chiamati **Guardiani** e che, nel Kindsgard, i tredici erano distribuiti fra Draghieri, Fiere e Vere Fiere. La fonte narra anche che Dominic li uccise con Espediente e divenne Unico Guardiano. Il collegamento preciso fra queste tredici scintille, la formula «sei vettori in tredici affondi» e il Fondamento non è però esplicitato come identità nel testo della canzone: considerarli esattamente lo stesso insieme di vettori resta un'interpretazione della ricostruzione wiki. Non confondere questa lettura con i sette vettori originari del Kindsgard o con una rinomina dei tredici Spettri.
 
-Quando [[Dominic Draco]] uccise i tredici Guardiani con l'arma **Espediente**, forgiata nel procedimento in sette processi, ne assorbì i vettori e divenne **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice del potere così raccolto nel Kindsgard.
+Quando [[Dominic Draco]] uccise i tredici Guardiani con l'arma **Espediente**, forgiata nel procedimento in sette processi, ne raccolse il potere e divenne **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole. `Inktober 2019 #Legend` parla di tredici **scintille**; la descrizione di quel potere come tredici vettori collegati al Fondamento appartiene alla ricostruzione wiki e non è un'equivalenza testualmente esplicita nella fonte.
 
 La connessione fra i mondi è anche alla base degli **Echi**: eventi su Lunaria/Vilegis possono alterare gli equilibri del Giardino. Il dettaglio storico di questa relazione va ricostruito tenendo distinti i fatti del Kindsgard dalle vicende del setting esterno.
 
