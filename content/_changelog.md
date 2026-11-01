@@ -894,3 +894,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - Controllate direttamente due redazioni esterne della cronistoria OOC: entrambe attestano la scelta di Natura di preservare gli Umani e l'esistenza di un solo Draghiere per Fiera con successione dopo la morte. Riformulate `Cosmologia` e `Fierezza e Maestà` per distinguere attestazione effettiva, identità non certificata del vecchio file D3 e regole più ampie non dimostrate.
 - `Draghieri.paper` dell'archivio collegato contiene `Seymour Shai Ulud`, confrontato con la fonte `Elenco Draghieri` `Seymour Sandwurm (ex Shai'Hulud)`. L15 qualificata come precedente denominazione di Seymour, lasciando aperta l'eventuale variazione della Fiera/specie.
 - Aggiornati fonte, domande, matrice, checkpoint. Nessun originale esterno pubblicato nel repository e nessun canone Vilegis importato automaticamente.
+
+
+## 2026-11-01 — Inventario Drive originario «Draghieri del Kindsgard»
+
+- Ricostruito il contenuto delle quattro sottocartelle originarie: **17 file, 17 testi letti** (incl. un ODT) e **2** file organizzativi al livello principale censiti a livello di metadati. Registrata la corrispondenza o distinzione rispetto alle 29 fonti GitHub nel catalogo e nel registro di copertura.
+- Fonti già sostanzialmente presenti: *Fierezza: il Dio che è in noi*, *L'Esodo*, *Una Missiva dall'Anello*, *Ciò che sanno i Draghieri*. Non equivalenti ai file già presenti: il testo originale *Di Una Dea chiamata Natura, e del suo Giardino* rispetto alla cronistoria breve; il rituale Viverna rispetto al rituale Chimera; la canzone *The song* sovrapposta solo in parte. Ulteriori testi PG/IC e canzoni sono inventariati ma non canonizzati.
+- Gli originali esterni, i dati organizzativi e gli URL privati restano **fuori da GitHub**. Confronti e limiti registrati nei checkpoint; la revisione semantica complessiva della wiki resta aperta.
