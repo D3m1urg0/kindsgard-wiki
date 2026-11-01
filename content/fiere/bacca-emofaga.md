@@ -3,7 +3,7 @@ titolo: "Bacca Emofaga"
 categoria: "fiere"
 tag: [bacca-emofaga, fitofiera, parassita, fiera, scheda-completa]
 status: "canonico"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-11-01"
 fonti: ["Bacche_Emofaghe.docx", "L_esodo"]
 ---
 
@@ -55,9 +55,9 @@ Sintomi documentati (la sequenza non è dimostrata come universale):
 
 ## Trattamento
 
-Metodi efficaci documentati: fuoco, fango abbastanza denso in cui immergere e seppellire l'ospite, acido (sangue di alcune Fiere, linfe, piogge acide), qualsiasi cosa distrugga Fitofiera e ospite insieme.
+**Interventi di neutralizzazione della Fitofiera, non cure documentate per l'ospite:** la scheda originale indica fuoco, fango denso in cui immergere e seppellire l'ospite, acidi (inclusi sangue e linfe di alcune Fiere e alcune piogge) oppure altri mezzi che distruggono **la Fitofiera e l'ospite insieme**. Nessun metodo di guarigione dell'ospite infetto è attestato nella scheda.
 
-Il trattamento deve avvenire **prima della fioritura**, non appena ci si accorge dell'infestazione. Non uccidere l'ospite prematuramente (varietà bianca).
+La fonte consiglia di intervenire **prima della fioritura**. Precisa tuttavia che, per la **varietà bianca**, la morte improvvisa dell'ospite può provocare **fioritura precoce**, quindi sconsiglia di ucciderlo immediatamente appena si scopre l'infestazione. Le due indicazioni sono prescrizioni operative contestuali della fonte e non vanno trasformate in una sequenza terapeutica universale.
 
 ---
 
@@ -70,7 +70,7 @@ Il trattamento deve avvenire **prima della fioritura**, non appena ci si accorge
 
 ## Note Narrative
 
-In `L'esodo`, [[Wade Wyrm]] gestisce un gruppo di sopravvissuti infestati da Bacche Emofaghe durante l'esodo. Documenta due casi di germogliamento, uno di fioritura fatale nel sonno (con dispersione degli umori interni su una decina di persone circostanti), e le difficoltà nel smaltire i cadaveri prima che emettano nuove spore.
+In `L'esodo`, [[Wade Wyrm]] guida un gruppo di sopravvissuti **minacciati da un'infestazione** di Bacche Emofaghe, senza che sia detto che tutti siano infetti. Riferisce due nuovi casi di germogliamento (uno soffocato, uno ancora vivo con allucinazioni) e un caso di fioritura nel sonno che diffonde liquidi corporei su una decina di presenti, probabilmente esponendoli allo stesso destino. Descrive le difficoltà della neutralizzazione dei cadaveri prima che emettano spore. La prognosi delle persone esposte è un'ipotesi di Wade, non un esito osservato.
 
 ---
 
