@@ -810,3 +810,10 @@ Da applicare manualmente sia al project Claude.ai (sostituendo il vecchio `fazio
 - `Canzoni degli Umani`: corretta solo la nota della `Ninna Nanna` che asseriva la morte certa del bambino, mentre il canto attesta abbandono e minaccia, non morte narrata.
 - `Religioni`: qualificato il potere dei Guardiani come tredici scintille attestate, non identità documentata con vettori del Fondamento.
 - Verificato senza correzione il testo su monaci/sacerdoti in `#Ornament` e la preghiera di Caitlin nel `Pezzo del Rituale`. Registrata la verifica mirata nella matrice di copertura e checkpoint; originali invariati.
+
+
+## 2026-11-01 — Audit integrale delle schede tecniche delle Fitofiere
+
+- `Soffione Uncinato`: dati morfologici, ciclo e gestione confrontati con `Soffioni Uncinati (scheda tecnica originale)`; nella nota narrativa corretta l'attribuzione della guida della fuga da Adryanne a Brienne Brood, con Razvan geniere e Adryanne difesa/scudo (Inktober 2019 #Build/#Husky). Conservata la discordanza Achenius/IX — Achenium/XII come L20.
+- `Bacca Emofaga`: confrontata integralmente con `Bacche Emofaghe (scheda tecnica originale)`; qualificati i metodi contro la Fitofiera come **neutralizzazione che distrugge anche l'ospite**, non guarigione; mantenuta la cautela specifica per varietà bianca. `L'esodo` riletto: differenziati germogliamento, fioritura e probabilità di contagio degli esposti; corretta la falsa impressione che tutti i sopravvissuti fossero infetti.
+- Fonti primarie non modificate, aggiornati registro e checkpoint. La verifica delle due schede complete è diretta, non certifica gli altri stub delle specie.
