@@ -734,3 +734,12 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - **D3 candidate:** due redazioni OOC in Drive, una completa e una bozza incompleta, con versioni differenti delle Ere. **D4 candidate:** guida in Drive e revisione Paper in Dropbox, entrambe lette, non identiche. Identificatori legacy e versioni esatte ancora da certificare.
 - **Non risolto:** `Draghieri_Vere_Fiere_del_Kindsgard`; non basta un documento affine. Nessun originale privato pubblicato in GitHub e nessuna contaminazione Vilegis promossa a canone del Kindsgard.
 - Aggiornati `content/meta/fonti.md`, `content/meta/domande-aperte.md`, `content/meta/audit-copertura-pagine.md`, `content/meta/istruzioni-ripresa.md`, `content/_changelog.md`, `content/mondo/cosmologia.md`, `content/cultura/tradizioni.md`, `content/fazioni/draghieri.md`, `content/personaggi/wade-wyrm.md`. Prossimo: verificare workflow sul commit finale; proseguire confronto delle versioni candidate e audit semantico delle pagine ancora non certificate.
+
+
+## Checkpoint — verifica mirata D3 OOC e L15 Seymour (2026-11-01)
+
+- Baseline integrata al commit `57076ef0c29d062a4de8951acdb65b4bbcb7c589` dopo PR #84 con validazione CI e deploy Pages completati. Due redazioni OOC della cronistoria Kindsgard consultate in archivio Drive, senza copiarne il testo nel repository.
+- In entrambe le redazioni è attestata esplicitamente la decisione di Natura di preservare gli Umani prima di perdere autocoscienza; la proposizione della Cosmologia che dichiarava «nessuna fonte reperibile» è superata, ma non è ancora certa la precedenza canonica delle redazioni/identità precisa del legacy D3.
+- Entrambe attestano **un solo Draghiere per Fiera** e la successione dopo la morte; non dedurre un unico Battesimo per tipo/specie valido anche per le Vere Fiere o le Chiamate. Corretto il livello di certezza nella pagina Fierezza/Maestà, D4 ancora in due varianti non ricondotte a un'unica versione.
+- `Draghieri.paper` esterno contiene una scheda `Seymour Shai Ulud`; l'Elenco sul repo usa `Seymour Sandwurm (ex Shai'Hulud)`. L15 ora documenta un nome precedente, ma resta incerta la relazione con la specie/Fiera. Non cambiare l'Elenco né inventare una specie.
+- Aggiornati fonti, domande, matrice, checkpoint, changelog e le due voci. Nessuna fonte narrativa o documento privato modificato. Continuare audit semantico e inventario con le redazioni D3/D4 separate, verificare CI/merge della nuova PR prima di procedere.
