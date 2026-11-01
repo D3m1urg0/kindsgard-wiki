@@ -611,3 +611,12 @@ Il confronto `Inktober 2018 #Drooling` / `Inktober 2019 #Enchanted` / `#Frail` h
 - `content/mondo/cosmologia.md`: corretta la frase «ne assorbì i vettori» perché `Inktober 2019 #Legend` attesta direttamente tredici **scintille**, non la loro equivalenza puntuale con il Fondamento. Conservato il linguaggio dei vettori solo come interpretazione documentale dichiarata.
 - `content/fazioni/vere-fiere.md`: rimossi «un'unica occasione» e «unicum narrativo» dove potevano implicare esclusività/irripetibilità non verificabile.
 - La geometria Giardino/Anello è stata verificata coerente e non richiede correzioni: Giardino all'interno, territorio Umano fuori dal perimetro. D3/D4 ancora non reperiti.
+
+
+## Checkpoint — incroci Brood/Bran/Prevedibilità, 2026-11-01
+
+- Verificati sul testo primario `Prevedibilità (covata)`, `Inktober 2019 #Build/#Pattern/#Swing`, `Inktober 2018 #Flowing`, `L'ultima notte all'ombra dell'Anello` e `Elenco Draghieri`. Dodici rilievi registrati nell'audit con ID `K-11-01-01..12`.
+- **Non attribuire** pietrificazione al solo veleno (la Vera Cockatrice menziona incanti di Maestà); Bran non evacua Bartholomew ma lo lascia in un angolo; la Vera Cockatrice non è identificata come Cornelius; Meridian sottrae una lista alle Vere Fiere, non la consegna loro; «lo Stratega» si riferisce a Bartholomew.
+- `Inktober 2018 #Flowing` è internamente discordante su Brienne (XVII nella testata, VI nella firma); l'Elenco canonico sostiene XVII. La fonte è rimasta intatta, la discordanza resta tracciata. In `L'ultima notte`, Bran è sconfitto ma non esplicitamente morto. In `#Pattern`, non `#Build`, Brienne riconosce Adalind. Lo Zaratan e i tunnel sono in `#Swing`.
+- Corretti i quattro articoli (`Bran`, `Brood`, `Altri Personaggi`, `Città-Alveare`), le sole tre note redazionali finali di `Prevedibilità`, la matrice e il changelog. **Il corpo narrativo di Prevedibilità è stato verificato invariato**, come il racconto `#Flowing`.
+- Non dichiarare chiuso l'audit delle 31 pagine/29 fonti per questi confronti puntuali. Proseguire su altre voci personaggi e sul controllo dei registri meta; attendere validazione wikilink/Quartz sul commit finale prima del merge.
