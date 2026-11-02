@@ -3,7 +3,7 @@ titolo: "Cronologia"
 categoria: "storia"
 tag: [cronologia, timeline, storia]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Risveglio_del_Drago", "Inktober_2018", "Inktober_2019", "Inktober_2024", "18___Misfit", "draghieri-spiegazione", "cio-che-sanno-i-draghieri", "Elenco_Draghieri_Conosciuti"]
 ---
 
@@ -17,7 +17,7 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_An
 
 ## Note sulla Misurazione del Tempo
 
-Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contrazioni associate agli Echi di [[Vilegis/Lunaria]]. La sintesi wiki riporta che in certi momenti storici un anno di Lunaria corrispondesse a cento anni del Kindsgard, ma questa proporzione 100:1 non è verificabile direttamente nel corpus disponibile: la Cronistoria OOC (D3), riferimento storico della ricostruzione, non è reperibile. Trattare il rapporto numerico come dato riportato dalla sintesi, non come misura confermata dalle fonti accessibili. Le date qui riportate usano la terminologia in-world (anno dell'Orso, anno del Draco, ecc.) quando disponibile, e riferimenti relativi negli altri casi. Le etichette esplicite di collocazione non determinata sono lacune editoriali, non anni canonici da interpretare come numeri romani.
+Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contrazioni associate agli Echi di [[Vilegis/Lunaria]]. La sintesi wiki riporta che in certi momenti storici un anno di Lunaria corrispondesse a cento anni del Kindsgard, ma questa proporzione 100:1 non è verificabile direttamente nel corpus disponibile: la Cronistoria OOC (D3), riferimento storico della ricostruzione, non è identificata con certezza nella versione legacy. Trattare il rapporto numerico come dato riportato dalla sintesi, non come misura confermata dalle fonti accessibili. Le date qui riportate usano la terminologia in-world (anno dell'Orso, anno del Draco, ecc.) quando disponibile, e riferimenti relativi negli altri casi. Le etichette esplicite di collocazione non determinata sono lacune editoriali, non anni canonici da interpretare come numeri romani.
 
 ---
 
@@ -25,7 +25,7 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 **[Tempo immemorabile]** — [[Era di Armonia|Era di Armonia]]: Natura è madre amorevole. Nessuna lotta, nessun Bisogno. Le creature dell'era vivono in un paradiso naturale.
 
-**[Tempo immemorabile]** — Un cataclisma cosmico raggiunge il Kindsgard e altera Natura; inizia l'Era del Conflitto e compaiono le [[Fiere]]. La *Cronistoria (versione breve)* chiama questo periodo «Era della Rovina» e descrive un cataclisma che altrove divise terra e materia; la wiki lo mette in parallelo con la Rovina di Vilegis/Lunaria. D3 non è reperibile per chiarire ulteriori dettagli, e il parallelismo non autorizza a importare nel Kindsgard altri elementi del canone esterno.
+**[Tempo immemorabile]** — Un cataclisma cosmico raggiunge il Kindsgard e altera Natura; inizia l'Era del Conflitto e compaiono le [[Fiere]]. La *Cronistoria (versione breve)* chiama questo periodo «Era della Rovina» e descrive un cataclisma che altrove divise terra e materia; la wiki lo mette in parallelo con la Rovina di Vilegis/Lunaria. D3 ha due redazioni candidate esterne, senza precedenza canonica certificata, perciò non risolve automaticamente ogni dettaglio, e il parallelismo non autorizza a importare nel Kindsgard altri elementi del canone esterno.
 
 **[Tempo immemorabile]** — Gli [[Umani]] — creature dell'Era di Armonia — tornano sul Kindsgard. Inadatti, si rifugiano ai margini del Giardino sulle spiagge del [[Mare Esterno]].
 
@@ -43,7 +43,7 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 ## Fondazione dell'Anello
 
-**[Collocazione assoluta non determinata — ciclo recente]** — Su [[Vilegis/Lunaria]], Libertà e Dominio si scontrano. Le fonti accessibili attestano lo scontro e gli Echi che raggiungono il Kindsgard, allentando per un istante i vincoli nell'Istinto di Dominic. La morte del Guardiano-Re legato a uno Spettro è riportata dalla ricostruzione wiki, ma non è stata verificata direttamente contro una fonte primaria disponibile; D3/D4 non sono reperibili.
+**[Collocazione assoluta non determinata — ciclo recente]** — Su [[Vilegis/Lunaria]], Libertà e Dominio si scontrano. Le fonti accessibili attestano lo scontro e gli Echi che raggiungono il Kindsgard, allentando per un istante i vincoli nell'Istinto di Dominic. La morte del Re e la scelta di interrompere i cicli sono esplicitamente collegate nelle due cronistorie OOC candidate recuperate, nelle sezioni **Consapevolezza/Caduta** e **La fine dei cicli e l’era dei Guardiani**. È un’attestazione di quelle redazioni: la loro precedenza normativa e l’identità con il legacy D3 restano da certificare, senza importare l’intero canone di Lunaria.
 
 **[Stesso periodo — anno assoluto non determinato]** — Dominic vede la verità: senza i cicli, il Kindsgard è condannato. Sceglie di interrompere i cicli e fonda l'**[[Anello di Fuoco]]**: un cerchio di torri ([[Artigli]]) che separa il Giardino dai territori Umani. L'avanzata si ferma.
 
@@ -83,11 +83,11 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 **[Anno 1 del Draco]** — Dominic e i Draghieri scomparsi oltre l'Anello tornano dalla Maestà, trasformati in Vere Fiere. Per la prima volta compaiono le **Vere Fiere** sul Kindsgard in forma organizzata. Dominic guida l'attacco all'Anello come Vera Fiera.
 
-**[Anno 1 del Draco]** — La sintesi wiki colloca in questo periodo un incidente temporale che avrebbe rallentato il tempo sul Kindsgard, riportando un rapporto di **cento anni del Kindsgard per un anno di Lunaria**. La proporzione non è verificabile direttamente senza la Cronistoria OOC (D3), non reperita; è conservata come dato della ricostruzione, non come misura confermata.
+**[Anno 1 del Draco]** — La sintesi wiki colloca in questo periodo un incidente temporale che avrebbe rallentato il tempo sul Kindsgard, riportando un rapporto di **cento anni del Kindsgard per un anno di Lunaria**. La proporzione non è verificabile direttamente senza la Cronistoria OOC (D3), non identificata con certezza nella versione legacy; è conservata come dato della ricostruzione, non come misura confermata.
 
 **[Anno 1 del Draco]** — Ogni Draghiere caduto in quest'anno si risveglia come Vera Fiera nella sua nuova incarnazione. Anche i Draghieri su Vilegis vedono la loro essenza duplicata nelle proprie **Nemesi**. Questo non significa che in tutto l'Anno del Draco esistano soltanto Vere Fiere: i Draghieri ancora attivi restano presenti, e il fenomeno della duplicazione riguarda in particolare quelli che si trovano su Vilegis.
 
-**[Periodo — collocazione da verificare]** — Ishvard, mutaforma di Vilegis, viene trasferito sul Kindsgard. L'umano Ishvard e la Fiera Karsh vengono separati: Ishvard diventa Draghiere della Manticora e Karsh Vera Manticora. La collocazione cronologica è discordante nelle sintesi wiki: questa cronologia lo collocava nel Primo Secolo del Draco, mentre `Le Ere del Kindsgard` lo colloca nel Primo Secolo dell'Orso. D3/D4 non sono disponibili per dirimere il conflitto. Il caso è documentato, ma le fonti non dimostrano che il meccanismo sia intrinsecamente irripetibile.
+**[Periodo — collocazione da verificare]** — Ishvard, mutaforma di Vilegis, viene trasferito sul Kindsgard. L'umano Ishvard e la Fiera Karsh vengono separati: Ishvard diventa Draghiere della Manticora e Karsh Vera Manticora. La collocazione cronologica è discordante nelle sintesi wiki: questa cronologia lo collocava nel Primo Secolo del Draco, mentre `Le Ere del Kindsgard` lo collocava nel Primo Secolo dell’Orso. Le redazioni candidate D3/D4 confrontate non descrivono Ishvard/Karsh e non dirimono il conflitto. Il caso è documentato, ma le fonti non dimostrano che il meccanismo sia intrinsecamente irripetibile.
 
 **[Primo Secolo del Draco — tardo]** — Le Vere Fiere scoprono l'esistenza di Vilegis attraverso i ricordi di Karsh.
 
@@ -95,7 +95,7 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 ## La Forgiatura e l'Ascesa di Re Draco
 
-**[Periodo]** — Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** per forgiare l'arma **Espediente** e proteggere il Kindsgard dalla minaccia del Nexus.
+**[Periodo]** — Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** **(dettaglio della ricostruzione wiki non attestato nei testi qui confrontati)** per forgiare l'arma **Espediente** e proteggere il Kindsgard dalla minaccia del Nexus.
 
 **[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard**. `Inktober 2019 #Legend` attesta che i tredici erano incarnati fra Draghieri, Fiere e Vere Fiere e che l'arma raccoglieva le loro scintille di potere. La loro identificazione precisa con i vettori collegati al Fondamento è una lettura interpretativa della canzone, non un'equivalenza esplicita.
 
@@ -105,13 +105,19 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 ## L'Era del Dominio (post-Guardiani)
 
-**[Anno assoluto non determinato del Dominio]** — Draco è Re. L'Anello è integro e rafforzato. Le città prosperano. I Draghieri presidiano i confini e cacciano le Fiere che si avvicinano. Il Giardino è più sicuro che mai nella storia recente.
+**[Anno assoluto non determinato del Dominio]** — Draco è Re. L'Anello è integro e rafforzato. `#Ring` riferisce meno perdite, ma non una prosperità già raggiunta. I Draghieri presidiano i confini e cacciano le Fiere che si avvicinano. Il Giardino è più sicuro che mai nella storia recente.
 
 **[Periodo]** — *(Racconti Inktober 2018 e 2019 — collocazione presunta in quest'era)* ⚠️ *Vedi [[Domande Aperte e Lacune]] A1.*
 
 **[Periodo recente]** — *(Racconti Inktober 2024 — collocazione da determinare)* ⚠️ *Vedi [[Domande Aperte e Lacune]] A1.*
 
 ---
+
+## Limiti della ricostruzione
+
+La dismissione di gran parte degli Artigli e i dettagli del nuovo problema cosmologico del Re sono conservati dalla ricostruzione wiki, ma non risultano dimostrati dai passi confrontati in questa revisione. `Misfit` e `#Clock/#Weak` attestano singole ex-Vere Fiere e `#Legend` la raccolta delle scintille: non provano da soli ogni conseguenza universale attribuita all’ascesa di Draco. Vedi [[Esito dell’audit documentale]] per i residui documentali distinti dalle decisioni già confermate.
+
+Il confronto attuale delle **due cronistorie candidate e delle due guide candidate** non ha rintracciato la proporzione 100:1 né una narrazione della scissione Ishvard/Karsh. La ricerca negativa è circoscritta a queste quattro redazioni, non dimostra l’assenza di altre fonti. Il rapporto 100:1 e la meccanica dettagliata restano dati della sintesi da documentare (L4/L22), non conclusioni ottenute dai testi recuperati.
 
 ## Relazioni
 - Collegato a: [[Le Ere del Kindsgard]], [[Dominic Draco]], [[Anello di Fuoco]], [[Vilegis/Lunaria]]

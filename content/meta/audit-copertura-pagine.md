@@ -8,6 +8,15 @@ ultima_modifica: "2026-11-02"
 
 # Registro di copertura dell'audit
 
+## Stato corrente dopo la PR #87 — 2026-11-02
+
+Baseline della nuova tranche: **b25eae3936a12ed5f1ed9312d0d3dbdef55a5bd5**. La PR #87 è integrata: Validate Quartz wiki run 41470267978 sullo SHA 45d96597e7d3366ce67c1d557c968d4fb5a5fce8 riuscito, Pages run 41470495605 sul merge riuscito.
+
+**Passata sulle 31 pagine completata, certificazione integrale aperta.** La matrice corrente pagina→nuclei→fonti→residui e i rilievi F01–F12 sono in [[Esito dell’audit documentale]]. Sono state confrontate direttamente anche le redazioni candidate D3/D4: la vecchia distinzione fra recuperi storici e nuove letture qui sotto vale per la PR #87, non per questa tranche. Inventario aggiornato: **67 Markdown = 29 fonti + 31 pagine/indici + 7 registri**; nuovo report e inventario riproducibile audit/coverage-2026-11-02.json. Nessuna nuova fonte primaria importata.
+
+Le matrici precedenti sono **storiche e superate negli esiti rettificati**: in particolare pelle di Bran, immersione di Laerius, commestibilità delle quattro specie e disponibilità pubblica di Mondo Ancora. Il censimento dei blocchi non è una prova automatica di ogni proposizione; L22 e le decisioni canoniche rimangono espliciti. Prima del merge verificare CI sul nuovo SHA finale e Pages sul merge; gli esiti della PR #87 non li sostituiscono.
+
+
 Questo registro distingue la **lettura della pagina**, il **confronto diretto con fonti specifiche** e la **verifica integrale di tutte le affermazioni**. La dicitura "prima passata letta" non significa che ogni frase sia stata dimostrata dalle fonti. I file originali non reperiti restano lacune, non fonti implicitamente verificate.
 
 ## Report verificabile di ripresa — 2026-11-02

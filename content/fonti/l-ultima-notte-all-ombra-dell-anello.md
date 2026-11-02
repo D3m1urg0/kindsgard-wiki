@@ -1,9 +1,9 @@
 ---
 titolo: "L'Ultima Notte all'Ombra dell'Anello"
 categoria: "fonti"
-tag: [wade-wyrm, poema, racconto, in-world, crisi-dell-orso, anello-di-fuoco, samuel-sphynx]
+tag: [wade-wyrm, poema, racconto, in-world, assalto-delle-vere-fiere, anello-di-fuoco, samuel-sphynx]
 status: "canonico"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-11-02"
 tipo: "racconto"
 autore: "Wade Wyrm, 33° Viverna"
 data-in-world: "Territori dell'Artiglio delle Sabbie, 25/10/1104 — La notte della chiamata"
@@ -45,12 +45,12 @@ per ultimo al fronte d'eterno contrasto.
 Precoce chiamata gli giunge in aiuto  
 gli Artigli son vuoti, l'Anello è caduto.  
 
-→ *Voci wiki: [[Anello di Fuoco]], [[storia/cronologia#anno-dellorso|Cronologia — Primo Anno dell'Orso]], [[Wade Wyrm]], [[Samu'el Sphynx]]*
+→ *Voci wiki: [[Anello di Fuoco]], [[storia/cronologia#il-primo-secolo-del-draco|Cronologia — Primo Secolo del Draco]], [[Wade Wyrm]], [[Samu'el Sphynx]]*
 
 ---
 
 ## Note
 
-Il documento è in due parti: la prosa in prima persona di Wade che descrive il suo viaggio verso l'Artiglio delle Sabbie cercando aiuto, e il poema finale che chiude con il crollo dell'Anello e la chiamata di Frederick Fenice. Fornisce dati cruciali sullo stato dell'Anello durante la crisi dell'Orso: caduta dell'Artiglio delle Brughiere, sconfitta di Bran da parte del Vero Behemoth, dissoluzione di Luther durante un combattimento marino, Chimera dispersa. Wade è l'ultimo Draghiere ancora in piedi e in marcia, gravemente ferito.
+Il documento è in due parti: la prosa in prima persona di Wade che descrive il suo viaggio verso l'Artiglio delle Sabbie cercando aiuto, e il poema finale che chiude con il crollo dell'Anello e la chiamata di Frederick Fenice. L’incipit colloca la prosa **dopo il ritorno delle Vere Fiere guidate dal Primo Eroe**; non è una semplice testimonianza della precedente crisi dell’Orso. Documenta: caduta dell'Artiglio delle Brughiere, sconfitta di Bran da parte del Vero Behemoth, dissoluzione di Luther durante un combattimento marino, Chimera dispersa. Wade è l'ultimo Draghiere ancora in piedi e in marcia, gravemente ferito.
 
-La data "25/10/1104" — se interpretabile come anno — colloca questo evento nell'anno 1104 del calendario Kindsgard.
+La data letterale «25/10/1104» è conservata, ma la fonte non ne specifica l’epoca o la corrispondenza con gli altri calendari: non convertirla automaticamente in un anno della timeline master.

@@ -3,7 +3,7 @@ titolo: "Pezzo del Rituale — Chimera"
 categoria: "fonti"
 tag: [caitlin-chimera, rituale, fierezza, in-world, draghieri]
 status: "canonico"
-ultima_modifica: "2025-06-13"
+ultima_modifica: "2026-11-02"
 tipo: "testo-in-world"
 autore: "Caitlin Chimera, II Chimera"
 voci-wiki-collegate: ["Caitlin Chimera", "Fierezza e Maestà", "Tradizioni, Canti e Motti", "Draghieri"]
@@ -11,7 +11,7 @@ voci-wiki-collegate: ["Caitlin Chimera", "Fierezza e Maestà", "Tradizioni, Cant
 
 # Pezzo del Rituale — Chimera
 
-> *Frammento di un rituale di purificazione. Caitlin Chimera invoca Fierezza per bruciare un veleno da un compagno. Unico esempio documentato di rituale Draghieri nella sua forma verbale.*
+> *Frammento di un rituale di purificazione. Caitlin Chimera invoca Fierezza per bruciare un veleno da un compagno. Esempio di rituale Draghieri nella sua forma verbale pubblicato nel corpus GitHub; il catalogo registra anche un rituale della Viverna esterno e distinto.*
 
 ---
 

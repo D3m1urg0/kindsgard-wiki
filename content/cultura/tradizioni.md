@@ -3,8 +3,8 @@ titolo: "Tradizioni, Canti e Motti"
 categoria: "cultura"
 tag: [cultura, tradizioni, canti, motti, rituali]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
-fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_Wade", "Annali_dell_Artiglio_di_Fuoco", "Pezzo_del_rituale_-_Chimera", "Inktober_2018", "Inktober_2019", "Inktober_2024"]
+ultima_modifica: "2026-11-02"
+fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_Wade", "Annali_dell_Artiglio_di_Fuoco", "Pezzo_del_rituale_-_Chimera", "Inktober_2018", "Inktober_2019", "Inktober_2024", "Una_Missiva_dall_Anello"]
 ---
 
 # Tradizioni, Canti e Motti
@@ -25,7 +25,7 @@ fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_
 
 **Nota di provenienza:** gli *Annali dell'Artiglio di Fuoco - Intro*, recuperati e letti nell'archivio collegato ma non ancora importati nei 29 file fonte GitHub, attestano «Dal Fuoco alla Vita». Per «Omnia praedae fieri Potest» manca tuttora un'attestazione primaria. Le due versioni della guida D4 rintracciate negli archivi esterni non sono ancora riconciliate con il file legacy esatto.
 
-**"Deflecte Cantum"** — *Devia il Canto.* Motto usato specificamente nel contesto di Vilegis, richiama la capacità di resistere e ridirigere le forze avverse. Usato come saluto/augurio tra i Draghieri su Vilegis: *"Deflecte Cantum, Dani. Resisti."* (`Inktober 2024 #Passport`).
+**"Deflecte Cantum"** — *Devia il Canto.* In `Inktober 2024 #Passport` è un augurio rivolto **da un Umano a Dani**, sul Kindsgard, al termine di un controllo sanitario. La scena non documenta un saluto esclusivo dei Draghieri né lo colloca su Vilegis: *"Deflecte Cantum, Dani. Resisti."* (`Inktober 2024 #Passport`).
 
 **"Proteggi e Domina"** — Motto dell'Hydra, usato da [[Hycaro Hydra]] in `Inktober 2018 #Swollen`.
 
@@ -43,7 +43,7 @@ Il saluto/congedo è reciproco e simmetrico. Non è un augurio ma una dichiarazi
 ## Canti degli Umani
 
 ### Canto dei Draghieri
-Il canto più importante nella tradizione Umana. Narra la storia della creazione dei Draghieri dal punto di vista degli Umani: il Bisogno come Re, l'Espediente come dono, Dominic come primo Eroe. È una cosmogonia cantata, tramandata oralmente.
+Canto della tradizione Umana conservato nelle fonti; il corpus non stabilisce una graduatoria di importanza fra i canti. Narra la storia della creazione dei Draghieri dal punto di vista degli Umani: il Bisogno come Re, l'Espediente come dono, Dominic come primo Eroe. È una cosmogonia cantata, tramandata oralmente.
 
 La formula *«Dalla cenere alla vittoria»* **non compare nel testo del Canto dei Draghieri**: è la conclusione della lettera `Una Missiva dall'Anello` **scritta da Wade Wyrm**, subito dopo la frase attribuita a [[Frederick Fenice]]. La lettera la presenta come richiamo al **motto del casato destinatario**, senza dichiarare che Frederick pronunci quella formula.
 

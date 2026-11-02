@@ -8,6 +8,17 @@ ultima_modifica: "2026-11-02"
 
 # Domande Aperte e Lacune
 
+## Aggiornamento dei riscontri — 2026-11-02
+
+La matrice corrente è in [[Esito dell’audit documentale]]. Le quattro redazioni candidate D3/D4 sono state effettivamente consultate e confrontate in questa tranche; le formule storiche «non reperibili» non descrivono più il recupero, ma resta aperta l’identità/versione normativa. La spiegazione OOC **già pubblicata** attesta Mondo Ancora, Rocca, Atlantis e Anarion: non dipendono esclusivamente da fonti private. Il riflesso generale del Fondamento richiede ancora una prova della sua formulazione precisa.
+
+### L22 — Dettagli della ricostruzione senza prova completa
+
+Il rapporto temporale **100:1**, i **sette processi minori** della forgiatura del Kindsgard e la meccanica/data della scissione **Ishvard/Karsh** non hanno una prova identificata nei passi consultati. Le due cronistorie e le due guide candidate non contengono il rapporto 100:1 né nominano Ishvard/Karsh. #Roasted nomina Karsh e Ishvard, ma non prova due Battesimi o il loro trasferimento; #Chicken non narra la scissione. Non trasformare una ricerca negativa circoscritta in assenza universale. Restano da provare anche la dismissione degli Artigli e l’universalità di alcune conseguenze attribuite al potere di Re Draco. Nelle sintesi questi dettagli sono qualificati come ricostruzioni, non nuove decisioni canoniche.
+
+**L6, esito:** confrontati i nuclei dei 26 profili, le otto menzioni e le due schede tecniche. La Loccia è descritta in #Dragon (non #Snow); l’immersione prolungata di Laerius è esplicita. Il censimento separato aggiunge Fenice/Basilisco/Roc, riferimenti botanici e nomi dell’Elenco senza dedurne proprietà. Trifide/Tripode restano distinti finché non dimostrati equivalenti. Nessun nuovo stub creato.
+
+
 > *Registro operativo delle questioni ancora aperte. Le decisioni confermate sono riportate in `[[Fonti e Decisioni Canoniche]]` e nello storico del changelog; non riaprire una decisione senza nuove evidenze.*
 
 ---
@@ -81,7 +92,7 @@ Il quadro resta incompleto perché i testi integrali D3 e D4 non sono disponibil
 - `Inktober 2019 #Legend` attesta tredici Guardiani e tredici scintille di potere nel contesto della connessione con altri mondi; la loro equivalenza puntuale con vettori del Fondamento resta interpretativa e non modifica i sette vettori originari.
 
 Restano da documentare direttamente:
-- **Mondi Ancora**: è confermato che il Kindsgard è stato collegato come Mondo Ancora e che i Mondi Ancora riflettono la struttura del Fondamento. Restano da documentare la definizione precisa, i criteri di riconoscimento e il significato della frase "primo Mondo Ancora riconosciuto dalla caduta di Anarion".
+- **Mondi Ancora**: la spiegazione OOC pubblicata attesta il collegamento del Kindsgard come Mondo Ancora; la definizione generale come riflesso del Fondamento resta da provare. Restano da documentare la definizione precisa, i criteri di riconoscimento e il significato della frase "primo Mondo Ancora riconosciuto dalla caduta di Anarion".
 - **Il Fondamento**: il passaggio della Cronistoria OOC sul Battesimo di Dominic e il riferimento in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir").
 - **I Creatori**: menzionati nel titolo del progetto ma non descritti nelle fonti Kindsgard disponibili.
 - **Anarion**: menzionato in “You Want to Be a Dragoner” come evento di riferimento ("dalla caduta di Anarion"), ma non descritto.
@@ -105,7 +116,7 @@ Lo schema ordinario e alcuni dettagli sono stati chiariti dall'utente e non vann
 
 Restano invece aperti i fattori che determinano l'esito individuale del Battesimo, i dettagli dei Bruciati e il meccanismo dell'evento eccezionale narrato in `Risveglio del Drago`: Wade si reincarna come Vera Viverna senza uccidere una Viverna e mentre il suo sé umano è ancora vivo su Vilegis. Il testo documenta l'evento, ma non ne spiega completamente la causa.
 
-La collocazione cronologica di Ishvard/Karsh è inoltre discordante nelle due sintesi wiki: `Cronologia` lo collocava nel Primo Secolo del Draco, mentre `Le Ere del Kindsgard` lo collocava nel Primo Secolo dell'Orso. Entrambe le datazioni sono state neutralizzate in attesa di una fonte primaria. Non è una domanda per il proprietario finché D3/D4 restano non reperibili.
+La collocazione cronologica di Ishvard/Karsh è inoltre discordante nelle due sintesi wiki: `Cronologia` lo collocava nel Primo Secolo del Draco, mentre `Le Ere del Kindsgard` lo collocava nel Primo Secolo dell'Orso. Entrambe le datazioni sono state neutralizzate in attesa di una fonte primaria. Il confronto delle quattro redazioni candidate non ha rintracciato la meccanica né la data: resta lacuna documentale (L22).
 
 La documentazione residua da recuperare riguarda anche la formulazione esatta in D3/D4, i cui file originali non sono disponibili nel repository consultato.
 
@@ -118,7 +129,7 @@ La pagina `[[Fiere — Voci Stub]]` esiste già e raccoglie 26 profili prelimina
 - **Fitofiere (7):** Sicomoro Perenne, Tripode, Dionea Mangiauomini, Mandragora, Chayote Strangolatore, Amaranthus Cruentus, Fabalo Spinato.
 - **Fiere minori classificate (3):** Leopterix, Everastes, Tentacolo Scarlatto.
 
-Le priorità documentali già individuate comprendono Zaratan (`Inktober 2018 #Cruel`), Atrax (`Inktober 2019 #Pattern`), Chiroptera (`Prevedibilità`, `Inktober 2018 #Angular`), Loccia (`Inktober 2018 #Flowing`, `Inktober 2019 #Snow`), Alicanto (`Elenco Draghieri`, `Inktober 2019 #Treasure`), Falenottere (`Inktober 2018 #Drooling`), Tripode (`Inktober 2018 #Flowing`), Sicomoro Perenne (`Inktober 2019 #Mindless`), oltre alle Fiere maggiori per cui esistono più apparizioni narrative. Le descrizioni già presenti vanno comunque mantenute entro ciò che le fonti sostengono: niente poteri, debolezze o fisiologia dedotti per analogia con il Draghiere omonimo.
+Le priorità documentali già individuate comprendono Zaratan (`Inktober 2018 #Cruel`), Atrax (`Inktober 2019 #Pattern`), Chiroptera (`Prevedibilità`, `Inktober 2018 #Angular`), Loccia (`Inktober 2018 #Flowing`, `Inktober 2019 #Dragon`), Alicanto (`Elenco Draghieri`, `Inktober 2019 #Treasure`), Falenottere (`Inktober 2018 #Drooling`), Tripode (`Inktober 2018 #Flowing`), Sicomoro Perenne (`Inktober 2019 #Mindless`), oltre alle Fiere maggiori per cui esistono più apparizioni narrative. Le descrizioni già presenti vanno comunque mantenute entro ciò che le fonti sostengono: niente poteri, debolezze o fisiologia dedotti per analogia con il Draghiere omonimo.
 
 Il conteggio delle 26 voci riguarda esclusivamente i quattro gruppi sopra elencati (9 + 7 + 7 + 3). **Kyrin, Sliss, Tentacolo Purpureo, Siaka, Eteree, Salamandra, Idra e Aigokeros** sono le otto menzioni narrative aggiuntive, non incluse nel conteggio. In particolare, `Inktober 2018 #Poisonous` descrive un Tentacolo Scarlatto vermiforme, mentre `Inktober 2019 #Tasty` descrive foglie di Tentacolo Purpureo trattate per il consumo: non è documentata l'identità fra i due nomi. I dodici nomi della lista OOC `Mostri` sono brainstorming e non attestazioni di Fiere canoniche; restano separati dal conteggio e sono elencati integralmente nella pagina stub.
 

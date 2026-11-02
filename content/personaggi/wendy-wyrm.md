@@ -3,7 +3,7 @@ titolo: "Wendy Wyrm"
 categoria: "personaggi"
 tag: [wendy-wyrm, vere-fiere, vera-viverna, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 fonti: ["La_natura_di_Natura", "Solitudine", "18___Misfit", "Il_Trattato"]
 ---
 
@@ -23,7 +23,7 @@ Wendy Wyrm fu la **Vera Viverna** del Kindsgard — la controparte [[Vere Fiere|
 
 ## Identità e Istinto
 
-Quando era Vera Viverna, Wendy incarnava l'Istinto della Viverna nella sua versione Maestà: autosufficiente, predatoria, sprezzante degli Umani, capace di una forma di auto-celebrazione quasi gioiosa. A differenza di Wade, non dimenticava — la Viverna non scrive perché non ne ha bisogno, ma la Vera Viverna ricordava tutto ciò che le era utile per dominare.
+Quando era Vera Viverna, Wendy incarnava l'Istinto della Viverna nella sua versione Maestà: autosufficiente, predatoria, sprezzante degli Umani, capace di una forma di auto-celebrazione quasi gioiosa. `Solitudine` mostra anche i limiti della sua memoria: Wendy lascia svanire la conversazione e torna a porre a Draco la stessa domanda. Non è quindi una controparte immune all’oblio selettivo.
 
 Nel racconto `Il Trattato (Wendy Wyrm)` è descritta mentre tenta con metodi spicci e violenti di trovare qualcuno in grado di scrivere per lei — uno spaccato del suo Istinto pratico e brutale.
 

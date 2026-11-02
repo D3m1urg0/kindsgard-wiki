@@ -8,6 +8,13 @@ ultima_modifica: "2026-11-02"
 
 # Fonti e Decisioni Canoniche
 
+## Riscontro diretto corrente — 2026-11-02
+
+Questa tranche ha riletto e confrontato **due cronistorie D3 candidate** (Drive, redazioni del 2014-03-27 e 2014-05-28) e **due guide D4 candidate** (Drive e Dropbox), gli Annali di Fuoco Intro, i documenti OOC Draghieri/reclutamento e le bozze Remake Lettera Draco/Nexus 2013. Esiti, perimetro e differenze in [[Esito dell’audit documentale]]; nessun originale privato importato. D3: morte del Re e fattezze Frederick/Onofrius esplicite nei candidati, senza ratificarne la precedenza. D4: longevità e limiti fuori Kindsgard attestati, redazioni non identiche. I quattro candidati non documentano 100:1 o Ishvard/Karsh; sette processi resta dettaglio non provato (L22).
+
+**Rettifica delle precedenti conclusioni dell’audit:** pelle corazzata di Bran, immersione di Laerius e quattro specie commestibili delle Colture sono attestate, con i limiti riportati nei racconti. Mondo Ancora compare già nella spiegazione OOC pubblicata. Prevale il nuovo riscontro puntuale, non una precedente conclusione negativa. Le note storiche restano tracciabilità, non stato corrente.
+
+
 > *Registro delle fonti originali del progetto e delle decisioni di canonizzazione prese nelle sessioni di lavoro. L'identità di una fonte e la disponibilità del suo testo integrale sono registrate separatamente.*
 
 ---
@@ -80,9 +87,9 @@ I recuperi privati descritti sopra restano risultati registrati delle PR #84–8
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `content/fonti/inktober-2018.md` | 22 racconti brevi, con indice riassuntivo. Autori: Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12) | Ambientazione: post-Anno del Draco, Era del Dominio |
-| `content/fonti/inktober-2019.md` | 25 racconti brevi (numerazione salta da #17 a #19), con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: presunta Era del Dominio/post-Vere Fiere |
-| `content/fonti/inktober-2024.md` | 9 racconti brevi, con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: periodo successivo, da mappare |
+| `content/fonti/inktober-2018.md` | 20 blocchi testuali su 22 numeri di prompt, più il secondo Scorched (19-2); tre coppie di prompt condividono un testo. Indice riassuntivo presente. Autori: Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12) | Ambientazione: post-Anno del Draco, Era del Dominio |
+| `content/fonti/inktober-2019.md` | 24 episodi testuali, numerati fino a 25 ma senza il 18, con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: presunta Era del Dominio/post-Vere Fiere |
+| `content/fonti/inktober-2024.md` | 8 blocchi testuali su 9 prompt (Hile/Sun condividono il testo), con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: periodo successivo, da mappare |
 
 ### Schede Tecniche
 

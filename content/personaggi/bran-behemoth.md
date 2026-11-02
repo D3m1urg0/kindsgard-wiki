@@ -3,8 +3,8 @@ titolo: "Bran Behemoth"
 categoria: "personaggi"
 tag: [bran-behemoth, draghieri, behemoth, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
-fonti: ["Inktober_2019", "Inktober_2018", "Prevedibilità__covata_", "Onda_bianca", "L_ultima_notte_all_ombra_dell_Anello", "Elenco_Draghieri_Conosciuti"]
+ultima_modifica: "2026-11-02"
+fonti: ["Inktober_2019", "Inktober_2018", "Prevedibilità__covata_", "Onda_bianca", "L_ultima_notte_all_ombra_dell_Anello", "Elenco_Draghieri_Conosciuti", "La_natura_di_Natura"]
 ---
 
 # Bran Behemoth
@@ -21,11 +21,11 @@ Bran Behemoth è il **V Draghiere del Behemoth** del Kindsgard. È uno dei Dragh
 
 ## Identità e Istinto
 
-Il Behemoth è una Fiera colossale associata ai Picchi; le fonti narrative ne mostrano i passi capaci di far tremare la terra e la discesa al fiume capace di cambiarne il corso, ma non confermano pelle impenetrabile o lentezza intrinseca. L'Istinto di Bran è descritto come inamovibile e metodico, quasi impossibile da sorprendere con la velocità. Non è fatto per la sottigliezza — è fatto per essere l'ultimo a cadere.
+Il Behemoth è una Fiera colossale associata ai Picchi; `#Tread` ne narra i passi che fanno tremare la terra e riporta come detto la capacità di cambiarne il corso; non stabilisce una lentezza intrinseca. Il saggio in-world `La natura di Natura` parla invece di scaglie indistruttibili del Behemoth: l’attestazione va attribuita a quella prospettiva, senza trasformarla in immunità universale. L'Istinto di Bran è descritto come inamovibile e metodico, quasi impossibile da sorprendere con la velocità. Non è fatto per la sottigliezza — è fatto per essere l'ultimo a cadere.
 
 La sua arma è **Schiacciastelle**: una mazza ferrata dalla testa grande quanto il suo stesso torace, con quattro lame possenti, forgiata da lui stesso con il ferro nero della Valle dei Fulmini. L'armatura è ugualmente sua fattura, brunita e temperata in due mondi diversi.
 
-Come Draghiere del Behemoth, Bran ha una resistenza fisica eccezionale e riesce a operare in ambienti estremi. Non è però immune a ogni effetto del calore: durante la caccia al Drago (`Inktober 2019 #Dragon`) la fiammata lo ferisce e il metallo dello scudo fonde. È quindi più corretto parlare di resistenza, non di immunità assoluta. Nelle scene esaminate la protezione contro i colpi è descritta soprattutto attraverso la **robusta armatura** di Bran; non è dimostrata una particolare impenetrabilità della sua pelle naturale.
+Come Draghiere del Behemoth, Bran ha una resistenza fisica eccezionale e riesce a operare in ambienti estremi. Non è però immune a ogni effetto del calore: durante la caccia al Drago (`Inktober 2019 #Dragon`) la fiammata lo ferisce e il metallo dello scudo fonde. È quindi più corretto parlare di resistenza, non di immunità assoluta. `Prevedibilità (covata)` distingue invece esplicitamente il metallo dell’armatura dalla «pelle corazzata» di Bran: un affondo della Vera Viverna perfora entrambi. La pelle è dunque descritta come corazzata, senza che ciò implichi invulnerabilità assoluta.
 
 ---
 
@@ -35,7 +35,7 @@ Come Draghiere del Behemoth, Bran ha una resistenza fisica eccezionale e riesce 
 
 **`Prevedibilità (covata)`** — Bran compare nella battaglia alla Città-Alveare. Si scontra con le Vere Fiere (Wendy Wyrm e una Cockatrice) che tentano di catturare Bartholomew Brood. Dopo uno scontro violentissimo, perforato da quadrelli, resiste al veleno della Vera Cockatrice; subito dopo che la Fiera invoca gli **incanti di Maestà**, la sua mano si pietrifica. Bran interrompe il processo amputandosi l'avambraccio, uccide la Cockatrice e stacca Bartholomew dal muro, ancora paralizzato dal veleno dei dardi, **lasciandolo in un angolo** prima di uscire. La fonte non documenta un'evacuazione di Brood.
 
-**`L'ultima notte all'ombra dell'Anello`** — Menzionato come **sconfitto**, senza conferma esplicita della morte: *"Sono giunto alla Valle dei Fulmini appena in tempo per vedere Bran sconfitto da un solo colpo del gigante d'acciaio che si fa chiamare Vero Behemoth."* La sua sconfitta ad opera della propria nemesi è uno dei momenti più duri della crisi dell'Orso.
+**`L'ultima notte all'ombra dell'Anello`** — Menzionato come **sconfitto**, senza conferma esplicita della morte: *"Sono giunto alla Valle dei Fulmini appena in tempo per vedere Bran sconfitto da un solo colpo del gigante d'acciaio che si fa chiamare Vero Behemoth."* La sconfitta è narrata dopo il ritorno delle Vere Fiere guidate da Draco; il testo non permette di ridurla alla sola crisi dell'Orso.
 
 **`Onda Bianca`** — Bran è tra i Draghieri presenti durante l'onda di oblio. Nel momento post-oblio sembra confuso come gli altri ma mantiene la sua stabilità caratteriale.
 

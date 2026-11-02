@@ -8,6 +8,15 @@ ultima_modifica: "2026-11-02"
 
 # Changelog
 
+## 2026-11-02 — Confronti sulle 31 pagine e dossier dei residui
+
+- Baseline b25eae3, dopo PR #87. Nuovo [[Esito dell’audit documentale]]: matrice delle 31 pagine, rilievi F01–F12, fonti effettivamente consultate, limiti e decisioni da sottoporre al proprietario. Nuovo inventario riproducibile audit/coverage-2026-11-02.json; 67 Markdown, 29 fonti, 31 pagine/indici, 7 registri.
+- Rettificati anche falsi negativi del precedente audit: pelle di Bran, immersione di Laerius, specie commestibili, Mondo Ancora pubblico. Corretti memoria di Wendy, morte di Brood, Ultima Notte, attribuzioni Caitlin/Wade, personaggi minori, trasporti di Roc, preghiere/motti, geografia e proprietà delle Fiere. Nessuna nuova regola desunta da nomi o analogie.
+- Cosmologia, Dominic, Frederick, Battesimo, Cronologia ed Ere distinguono attestazioni nei candidati OOC e ricostruzioni non provate. D3/D4 confrontati direttamente in quattro redazioni; precedenza normativa non decisa. 100:1, sette processi, Ishvard e conseguenze universali raccolti in L22.
+- Fonti: modificati solo apparati editoriali/frontmatter di Inktober 2018, Ultima Notte, Natura di Natura, Mostri, rituale Chimera e Risveglio; preservare i corpi primari. Homepage e registri aggiornati; nessun originale privato importato, nessuna estensione del canone da Vilegis/Lunaria.
+- Wikilink, build, integrità e inventario da verificare prima del merge; CI richiesta sullo SHA finale. Il dossier distingue la passata completata dalla certificazione integrale ancora impedita dai residui; gli esiti d’integrazione vanno nella PR, senza anticiparli qui.
+
+
 ## 2026-11-02 — Audit dei registri e ricadute Guardiani/Glossario
 
 - Baseline `fbc52fc42c852cbcf429f0f6568775a16e658777`, dopo PR #86; confronto col checkpoint richiesto `ffcc655f`: 120 commit successivi e merge PR #69–86, zero PR aperte all'avvio. Inventario invariato: 29 fonti, 31 pagine/indici, 6 registri, 66 Markdown.

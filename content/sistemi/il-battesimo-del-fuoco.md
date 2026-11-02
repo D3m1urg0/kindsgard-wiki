@@ -3,7 +3,7 @@ titolo: "Il Battesimo del Fuoco"
 categoria: "sistemi"
 tag: [battesimo, fierezza, maestà, draghieri, vere-fiere, meccanica]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Fierezza", "Cronistoria_versione_breve", "Inktober_2018", "draghieri-spiegazione", "Elenco_Draghieri_Conosciuti", "Risveglio_del_Drago"]
 ---
 
@@ -60,7 +60,7 @@ Le [[Vere Fiere]] non si numerano: ogni Vera Fiera si considera sé stessa, non 
 
 **Cornelius Cockatrix** — Il racconto `content/fonti/fierezza-battesimo-cornelius.md` (originale `Fierezza.docx`) documenta in prima persona il Battesimo di Cornelius: il terrore, la scelta di affrontare la Cockatrice per proteggere Lara e gli altri Umani, l'uccisione, la presa di coscienza immediata del nuovo nome e del nuovo mandato. È il documento narrativo più denso sulla fenomenologia interna del Battesimo.
 
-**Ishvard / Karsh — caso eccezionale documentato:** il trasferimento del mutaforma Ishvard sul Kindsgard produsse due Battesimi simultanei e opposti dalla stessa origine. Ishvard divenne Draghiere della Manticora, la sua controparte ferale Karsh divenne Vera Manticora. Il testo disponibile documenta un solo caso, ma non spiega se il meccanismo sia intrinsecamente non ripetibile; non elevarlo a regola generale (vedi L4).
+**Ishvard / Karsh — ricostruzione eccezionale da documentare nei dettagli:** la sintesi wiki descrive che il trasferimento del mutaforma Ishvard sul Kindsgard produsse due Battesimi simultanei e opposti dalla stessa origine. Ishvard divenne Draghiere della Manticora, la sua controparte ferale Karsh divenne Vera Manticora. `#Roasted` attesta Karsh e il nome Ishvard, ma non racconta i due Battesimi; le quattro redazioni candidate D3/D4 confrontate non colmano questa lacuna. Non è dimostrata l’irripetibilità del meccanismo; non elevarlo a regola generale (vedi L4).
 
 **Frederick Fenice** — Ha sconfitto una Fenice (la Specie di Fiera) nel suo Battesimo. La sua capacità di resurrezione nel proprio corpo è l'Espediente specifico della Fenice. → vedi [[Frederick Fenice]]
 

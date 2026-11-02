@@ -3,8 +3,8 @@ titolo: "Religioni e Spiritualità"
 categoria: "cultura"
 tag: [religioni, spiritualità, bisogno, fierezza, natura, umani]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
-fonti: ["Fierezza__il_Dio_che_è_in_noi", "La_natura_di_Natura", "Cronistoria_versione_breve", "D3-cronistoria-ooc", "Inktober_2019", "Canzoni_degli_Umani", "Riflessioni"]
+ultima_modifica: "2026-11-02"
+fonti: ["Fierezza__il_Dio_che_è_in_noi", "La_natura_di_Natura", "Cronistoria_versione_breve", "D3-cronistoria-ooc", "Inktober_2019", "Canzoni_degli_Umani", "Riflessioni", "Pezzo_del_rituale_-_Chimera"]
 ---
 
 # Religioni e Spiritualità
@@ -34,7 +34,7 @@ Il suo insegnamento centrale: invocare Bisogno solo per le cose essenziali (cibo
 
 ### Fierezza come secondo principio
 
-Fierezza è riconosciuta dagli Umani come la forza che anima i [[Draghieri]] — i loro protettori. Non è adorata direttamente ma invocata indirettamente attraverso i Draghieri stessi: *"ricordate il loro grande Bisogno, Draghieri"* (`Riflessioni`, Caitlin Chimera).
+Fierezza è riconosciuta dagli Umani come la forza che anima i [[Draghieri]] — i loro protettori. `Inktober 2019 #Ornament` prescrive esplicitamente di pregare Fierezza e invocare Bisogno ogni giorno. Non va quindi esclusa una preghiera diretta a Fierezza. `Riflessioni` contiene invece un’esortazione **di Caitlin agli altri Draghieri**, non una preghiera degli Umani: *"ricordate il loro grande Bisogno, Draghieri"* (`Riflessioni`, Caitlin Chimera).
 
 Il canto degli Umani ("Canto dei Draghieri") narra la storia di Bisogno, Espediente e Fierezza come una cosmogonia: *"Bisogno n'era il nome, di sua condizione Re. A chi sempr'ebbe niente l'Espediente diede, e poi / Da quella fiamma sacra l'uomo ottenne i propri Eroi."*
 
@@ -50,6 +50,8 @@ Esistono figure religiose dedicate al culto di Bisogno — i **monaci** che abit
 
 I [[Draghieri]] non adorano Fierezza: la incarnano. La loro relazione con Fierezza non è devozionale ma strutturale — è ciò che sono, non ciò in cui credono. Wade Wyrm nel saggio "Fierezza: il Dio che è in noi" tenta di articolare questa relazione, ma il documento rimane incompiuto. Le fonti non permettono di stabilire se l'interruzione rifletta una difficoltà intrinseca del Draghiere a riflettere sulla propria natura o una semplice lacuna documentale.
 
+È **Wade**, negli Appunti da Sviluppare di `Fierezza: il Dio che è in noi`, a criticare la divinità trattata come una «scelta personale» — segno che il libero arbitrio porta a personificare e umanizzare ciò che è invece legge assoluta e indifferente.
+
 La voce di [[Axsar Aigokeros]] è una delle testimonianze più esplicite disponibili sulla pratica religiosa degli Umani: il suo approccio al tempio e ai desideri essenziali è descritto in `Inktober 2019 #Ornament`. Definirlo «il più lucido» fra i Draghieri o attribuirgli una comprensione superiore alla media sarebbe un giudizio comparativo non dimostrato dal corpus.
 
 ---
@@ -63,8 +65,6 @@ Le [[Vere Fiere]] hanno una teologia completamente diversa, articolata da [[Wend
 *"Io accetto l'ingiusta legge di Natura, me ne faccio strumento e accolgo in me Maestà così da poter sopravvivere al costo dell'altrui sofferenza come Fiera fra le Fiere e signora del Giardino."*
 
 [[Natura]] è l'unica vera divinità secondo le Vere Fiere — detiene tutte le caratteristiche della divinità: creatrice, dotata di poteri illimitati, capricciosa, che tratta con noncuranza le sue creature. Non richiede fede ma obbedienza alla sua legge.
-
-Wendy critica esplicitamente il modo in cui gli Oltregiardini trattano la divinità come una "scelta personale" — segno che il libero arbitrio porta a personificare e umanizzare ciò che è invece legge assoluta e indifferente.
 
 ---
 

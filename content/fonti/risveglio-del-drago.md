@@ -3,7 +3,7 @@ titolo: "Risveglio del Drago"
 categoria: "fonti"
 tag: [wade-wyrm, dominic-draco, giovane-fenice-vilegis, vilegis, racconto, in-world, anno-del-draco]
 status: "canonico"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 tipo: "racconto"
 autore: "Stefania Ricco"
 voci-wiki-collegate: ["Wade Wyrm", "Dominic Draco", "Vilegis / Lunaria", "Vere Fiere", "Cronologia"]
@@ -90,4 +90,4 @@ Racconto chiave per il Primo Secolo del Draco: **Wade-Draghiere è vivo su Vileg
 
 Il racconto descrive anche **Dominic Draco senza elmo per la prima volta nella storia** — momento di rivelazione totale della sua trasformazione in Vera Fiera, il "sorriso di liberazione".
 
-Il racconto nomina **Moebius** (il maestro che pronuncia il discorso), registra il grido «**Onofrius!**» di Wade e poco dopo descrive una **Giovane Fenice** che lo tocca sulla fronte, permettendone il ritorno. Il testo **non identifica espressamente Onofrius con la Giovane Fenice**, né dimostra che quest'ultima sia **Frederick Fenice** del Kindsgard o abbia un volto identico al suo. Cita inoltre **Dracomagno** e **Tribù**, termini di Vilegis/Lunaria: non importarli nel canone del Kindsgard in assenza di un'intersezione documentata.
+Il racconto nomina **Moebius**, che pronuncia il discorso, ma non identifica esplicitamente con lui il maestro del dialogo iniziale. Registra il grido «**Onofrius!**» di Wade e poco dopo descrive una **Giovane Fenice** che lo tocca sulla fronte, permettendone il ritorno. Il testo **non identifica espressamente Onofrius con la Giovane Fenice**, né dimostra che quest'ultima sia **Frederick Fenice** del Kindsgard o abbia un volto identico al suo. Cita inoltre **Dracomagno** e **Tribù**, termini di Vilegis/Lunaria: non importarli nel canone del Kindsgard in assenza di un'intersezione documentata.

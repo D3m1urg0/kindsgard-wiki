@@ -3,7 +3,7 @@ titolo: "Wiki del Kindsgard"
 categoria: "meta"
 tag: [index, panoramica]
 status: "in aggiornamento"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-02"
 ---
 
 # Wiki del Kindsgard
@@ -51,18 +51,18 @@ Per ricaricare il contesto in una nuova sessione di lavoro, caricare sempre:
 ### Personaggi
 - [[Dominic Draco]] — Primo Draghiere, poi Re Draco, Unico Guardiano
 - [[Wade Wyrm]] — 33° Viverna
-- [[Wendy Wyrm]] — Vera Viverna
+- [[Wendy Wyrm]] — già Vera Viverna
 - [[Caitlin Chimera]] — II Chimera
 - [[Frederick Fenice]] — Unica Fenice
 - [[Bartholomew Brood]] — XVI Covata, Guardiano
 - [[Brienne Brood]] — XVII Covata
 - [[Samu'el Sphynx]] — III Sfinge
-- [[Solomon]] — Vera Sfinge
+- [[Solomon]] — già Vera Sfinge
 - [[Bran Behemoth]] — V Behemoth
 - [[Luther Leviathan]] — XVIII Leviatano
 - [[Syrus Salamander]] — V Salamandra
 - [[Sebastian Salamander]] — VI Salamandra
-- [Altri personaggi →]
+- [[Altri Personaggi]]
 
 ### Sistemi
 - [[Fierezza e Maestà]] — il sistema di potere centrale
@@ -71,7 +71,7 @@ Per ricaricare il contesto in una nuova sessione di lavoro, caricare sempre:
 ### Fiere
 - [[Soffione Uncinato]] — Achenium Hamatus, scheda completa
 - [[Bacca Emofaga]] — Emophillis Helix, scheda completa
-- [Altre Fiere → stub]
+- [[Fiere — Voci Stub]]
 
 ---
 

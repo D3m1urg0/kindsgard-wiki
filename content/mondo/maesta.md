@@ -3,7 +3,7 @@ titolo: "Maestà"
 categoria: "mondo"
 tag: [maestà, natura, vulcano, geografia, cosmologia]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-02"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Solitudine", "Annali_dell_Artiglio_di_Fuoco", "Cronistoria_versione_breve", "Inktober_2019", "La_natura_di_Natura"]
 ---
 
@@ -41,9 +41,9 @@ La Maestà è il punto centrale associato alla forza di [[Natura]]. Le sintesi d
 
 ## Il Sacrificio della Fenice
 
-Nel racconto `Solitudine`, [[Dominic Draco]] e la [[Wendy Wyrm|Vera Viverna]] assistono alla bocca della Maestà all'ultimo atto della guerra delle Vere Fiere: l'ultima grande Fenice (la Specie di Fiera, non il Draghiere) viene condannata a cadere nella caldera. Le Vere Fiere la spingono deliberatamente nel magma affinché bruci eternamente senza potersi estinguere — sacrificando la sua libertà per preservare la specie dalla totale estinzione.
+Nel racconto `Solitudine`, [[Dominic Draco]] e la [[Wendy Wyrm|Vera Viverna]] assistono alla bocca della Maestà al sacrificio della Fenice durante la guerra delle Vere Fiere: l'ultima grande Fenice (la Specie di Fiera, non il Draghiere) viene condannata a cadere nella caldera. Le Vere Fiere la spingono deliberatamente nel magma affinché bruci eternamente senza potersi estinguere — sacrificando la sua libertà per preservare la specie dalla totale estinzione.
 
-Draco descrive l'atto come "un male necessario" e come "l'eterna rinascita che diventa condanna". La Fenice brucia nel cuore della Maestà, viva in agonia perenne.
+Draco definisce l’atto «un male necessario»; è invece il **narratore** a presentare l’eterna rinascita come un dono divenuto condanna. La Fenice brucia nel cuore della Maestà, viva in agonia perenne.
 
 ---
 

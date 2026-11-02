@@ -3,7 +3,7 @@ titolo: "La Natura di Natura"
 categoria: "fonti"
 tag: [wendy-wyrm, vera-viverna, cosmologia, natura, bisogno, espediente, maestà, in-world, saggio]
 status: "canonico"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-11-02"
 aliases: ["La natura di Natura — testo"]
 tipo: "testo-in-world"
 autore: "Wendy Wyrm, Vera Viverna — Infusa di Maestà e signora del Giardino"
@@ -90,7 +90,7 @@ Adesso noi siamo non solo Fieri, ma Feroci e Maestosi. Adesso il nostro potere, 
 Questo è il documento cosmologicamente più accurato tra le fonti del Kindsgard, scritto dalla prospettiva di chi ha accesso alla verità della Maestà. Punti chiave canonici confermati:
 
 - Bisogno ed Espediente **preesistono** agli Umani — non furono creati dalle loro preghiere.
-- Le Essenze (= Fierezza/Maestà) sono analoghe agli Spettri di Vilegis ma distinte.
+- Il saggio descrive le Essenze come l’insieme di Espediente, Istinto e capacità riservate a una Specie e le paragona agli Spettri dell’Oltregiardino; non confondere automaticamente questa definizione con i tre livelli dello schema editoriale Fierezza/Istinto/Espediente.
 - La Fierezza è descritta come "inganno" — gli Umani hanno costretto Natura a partecipare al Conflitto in modo contrario alle sue leggi.
 - Le Vere Fiere alimentano il loro potere con il Desiderio invece che con il Bisogno — questa è la differenza operativa fondamentale.
 
