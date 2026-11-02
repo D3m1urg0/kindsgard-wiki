@@ -3,13 +3,15 @@ titolo: "Solomon"
 categoria: "personaggi"
 tag: [solomon, vere-fiere, vera-sfinge, personaggio, stub]
 status: "bozza"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 fonti: ["18___Misfit", "Inktober_2018"]
 ---
 
 # Solomon
 
-> *"Per l'ennesima volta no, Wendy. Non lo sanno, non lo vedono, né lo vedranno mai."*
+> *“Per l’ennesima volta no, Wendy. Non lo sanno, non lo vedono, ne lo vedranno mai.”*
+>
+> — Solomon, in [[fonti/misfit|Misfit]] (estratto).
 
 ---
 

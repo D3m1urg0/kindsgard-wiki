@@ -10,7 +10,9 @@ fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Inktober_2
 
 # Brood — Draghieri della Covata
 
-> *"Cosa ti dicevo, Cockatrix? Questi Istinti così attenti a pianificare si perdono completamente in balia di chi le cose le fa, prima ancora che loro abbiano il tempo di pensare."*
+> *“Questi Istinti così attenti a pianificare si perdono completamente in balia di chi le cose le fa, prima ancora che loro abbiano il tempo di pensare.”*
+>
+> — Vera Viverna, in [[fonti/prevedibilita-covata|Prevedibilità (covata)]], rivolta alla Cockatrice.
 
 ---
 

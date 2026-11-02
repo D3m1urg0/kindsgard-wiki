@@ -9,8 +9,9 @@ fonti: ["Fierezza__il_Dio_che_è_in_noi", "La_natura_di_Natura", "Cronistoria_ve
 
 # Religioni e Spiritualità
 
-> *"Non c'è fede, intesa come fiducia almeno. Che idea idiota quella che una Dea abbisogni del mio riconoscimento."*
-> — Wendy Wyrm, La natura di Natura
+> *“non c'è fede, intesa come fiducia almeno.”*
+>
+> — Wendy Wyrm, in [[fonti/la-natura-di-natura|La natura di Natura]] (estratto).
 
 ---
 

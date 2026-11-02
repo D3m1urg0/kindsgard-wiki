@@ -9,7 +9,9 @@ fonti: ["Pezzo_del_rituale_-_Chimera", "Riflessioni", "Onda_bianca", "Inktober_2
 
 # Caitlin Chimera
 
-> *"Le nostre vite per le loro. Così è dalla nostra creazione e sempre sarà, finché il Giardino non sarà modellato per accoglierli, e noi non saremo più."*
+> *“Le nostre vite per le loro. Così è dalla nostra creazione e sempre sarà, finché il Giardino non sarà modellato per accoglierli, e noi non saremo più.”*
+>
+> — Caitlin Chimera, in [[fonti/riflessioni|Riflessioni]].
 
 ---
 

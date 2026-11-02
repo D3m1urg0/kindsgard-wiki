@@ -9,8 +9,9 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_An
 
 # Anello di Fuoco
 
-> *"Mai da quando esiste per noi memoria storica i Draghieri hanno restituito un solo piede di terreno al Giardino."*
-> — Wade Wyrm, Una Missiva dall'Anello
+> *“mai da quando esiste per noi memoria storica i Draghieri hanno restituito un solo piede di terreno al Giardino.”*
+>
+> — Wade Wyrm, in [[fonti/una-missiva-dall-anello|Una Missiva dall’Anello]] (estratto).
 
 ---
 

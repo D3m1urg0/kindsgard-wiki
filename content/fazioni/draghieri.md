@@ -11,7 +11,9 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuo
 
 > *"Ab Necessitate Excusi" — Giustificati dalla Necessità.*
 >
-> *"Dal Fuoco alla Vita"* — formula attestata nella copia recuperata degli *Annali dell'Artiglio di Fuoco - Intro* (archivio collegato; non ancora pubblicata in GitHub).
+> — Saluto dei Draghieri, pronunciato in [[fonti/inktober-2019|Inktober 2019 — #Ash]].
+>
+> *"Dal Fuoco alla Vita"* — formula attestata nella copia recuperata degli *Annali dell'Artiglio di Fuoco - Intro* (originale conservato nel pacchetto non-wiki).
 
 > **Nota di provenienza:** il testo degli *Annali dell'Artiglio di Fuoco - Intro*, recuperato da Google Drive e firmato da Syrus Salamander V, contiene «Dal Fuoco alla Vita». Il file fonte Markdown non è ancora presente in GitHub e la firma non attesta l'uso universale del motto. Il riferimento legacy Draghieri/Vere Fiere rimane non identificato.
 
@@ -107,7 +109,7 @@ Principali:
 
 *"Dal Fuoco alla Vita"* — Formula attestata nella copia degli *Annali dell'Artiglio di Fuoco - Intro*, sottoscritta da Syrus Salamander V; uso universale presso tutti i Draghieri non attestato.
 
-*"Omnia praedae fieri Potest"* — Motto attribuito dalla sintesi wiki ai Draghieri e alle Vere Fiere; l'attestazione primaria non è stata rintracciata nelle fonti disponibili. Non trattare l'attribuzione come verificata finché non emerge una fonte.
+*"Omnia praedae fieri Potest"* — Il documento originale **Draghieri / Vere Fiere del Kindsgard**, recuperato nell’archivio Quip, affianca «Ab Necessitate Excusi» e «Omnia praedae fìeri Potest» nell’ordine delle due fazioni. L’attestazione è ora positiva; non prova che entrambi i motti siano usati indifferentemente da tutti i gruppi. La grafia accentata è quella del documento.
 
 ---
 

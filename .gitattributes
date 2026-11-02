@@ -1,1 +1,4 @@
 * text=auto eol=lf
+# Preserve original exports and exact text snapshots without line-ending conversion.
+non-wiki/fonti-originali/** -text
+non-wiki/fonti-originali/** whitespace=-blank-at-eol,-blank-at-eof

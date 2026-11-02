@@ -1,0 +1,90 @@
+{
+  "baseline": "0c49b234e436338db0850d87736bf8c7b76805b4",
+  "method": "Confronto diretto dei passi Quip; #Whale riscontrato solo nel testo wiki conservato. Le omissioni e la sintesi redazionale sono dichiarate.",
+  "changes": [
+    {
+      "page": "content/personaggi/bran-behemoth.md",
+      "previousOpening": "> *\"Fatto.\"*",
+      "quotation": "Fatto.",
+      "attribution": "Bran Behemoth, in [[fonti/prevedibilita-covata|Prevedibilità (covata)]]."
+    },
+    {
+      "page": "content/personaggi/brood.md",
+      "previousOpening": "> *\"Cosa ti dicevo, Cockatrix? Questi Istinti così attenti a pianificare si perdono completamente in balia di chi le cose le fa, prima ancora che loro abbiano il tempo di pensare.\"*",
+      "quotation": "Questi Istinti così attenti a pianificare si perdono completamente in balia di chi le cose le fa, prima ancora che loro abbiano il tempo di pensare.",
+      "attribution": "Vera Viverna, in [[fonti/prevedibilita-covata|Prevedibilità (covata)]], rivolta alla Cockatrice."
+    },
+    {
+      "page": "content/personaggi/caitlin-chimera.md",
+      "previousOpening": "> *\"Le nostre vite per le loro. Così è dalla nostra creazione e sempre sarà, finché il Giardino non sarà modellato per accoglierli, e noi non saremo più.\"*",
+      "quotation": "Le nostre vite per le loro. Così è dalla nostra creazione e sempre sarà, finché il Giardino non sarà modellato per accoglierli, e noi non saremo più.",
+      "attribution": "Caitlin Chimera, in [[fonti/riflessioni|Riflessioni]]."
+    },
+    {
+      "page": "content/personaggi/frederick-fenice.md",
+      "previousOpening": "> *\"Se questa situazione vi appare disperata ricordate che vi fu un tempo in cui il Giardino dominava tutte le terre e fu dal Bisogno che l'Espediente donò all'uomo i Draghieri.\"*",
+      "quotation": "Se questa situazione vi appare disperata ricordate che vi fu un tempo in cui il Giardino dominava tutte le terre e fu dal Bisogno che l’Espediente donò all’uomo i Draghieri",
+      "attribution": "Frederick Fenice, citato da Wade Wyrm in [[fonti/una-missiva-dall-anello|Una Missiva dall’Anello]]."
+    },
+    {
+      "page": "content/personaggi/luther-leviathan.md",
+      "previousOpening": "> *\"Capitano, manutenzione completa e pulizia di tutta la nave. Ripartiamo tra un mese.\"*",
+      "quotation": "Capitano, manutenzione completa e pulizia di tutta la nave. Ripartiamo tra un mese.",
+      "attribution": "Luther Leviathan, in [[fonti/inktober-2018|Inktober 2018 — #Whale]]. Testo presente nell’antologia; confronto con l’originale Quip ancora in attesa."
+    },
+    {
+      "page": "content/personaggi/samuel-sphynx.md",
+      "previousOpening": "> *\"Quindi... adesso vai a chiamare gli addetti al censimento… fai radunare tutti... e fai quello che ti ho detto. È tutto tranquillo e ciò è estremamente pericoloso.\"*",
+      "quotation": "… adesso vai a chiamare gli addetti al censimento… fai radunare tutti... e fai quello che ti ho detto. Capito? Io controllerò le strade, voi contate tutti. E’ tutto tranquillo e ciò è estremamente pericoloso.",
+      "attribution": "Samu’el Sphynx, in [[fonti/inktober-2018|Inktober 2018 — #Tranquil]] (estratto)."
+    },
+    {
+      "page": "content/personaggi/solomon.md",
+      "previousOpening": "> *\"Per l'ennesima volta no, Wendy. Non lo sanno, non lo vedono, né lo vedranno mai.\"*",
+      "quotation": "Per l’ennesima volta no, Wendy. Non lo sanno, non lo vedono, ne lo vedranno mai.",
+      "attribution": "Solomon, in [[fonti/misfit|Misfit]] (estratto)."
+    },
+    {
+      "page": "content/personaggi/wade-wyrm.md",
+      "previousOpening": "> *33° Viverna dei Draghieri del Kindsgard. \"La Viverna non scrive. Se dimentico una cosa significa che non è importante, non è utile allo scopo.\"*",
+      "quotation": "La viverna non scrive. […] Se dimentico una cosa significa che non è importante, non è utile allo scopo.",
+      "attribution": "Wade Wyrm, ricordato dal narratore in [[fonti/solitudine|Solitudine]] (due frasi; inciso omesso)."
+    },
+    {
+      "page": "content/personaggi/wendy-wyrm.md",
+      "previousOpening": "> *\"La Dea è ingiusta, la Dea è crudele, la Dea è capricciosa e la Dea è annoiata.\"*",
+      "quotation": "La Dea è ingiusta, la Dea è crudele, la Dea è capricciosa e la Dea è annoiata.",
+      "attribution": "Wendy Wyrm, in [[fonti/la-natura-di-natura|La natura di Natura]]."
+    },
+    {
+      "page": "content/cultura/religioni.md",
+      "previousOpening": "> *\"Non c'è fede, intesa come fiducia almeno. Che idea idiota quella che una Dea abbisogni del mio riconoscimento.\"*\n> — Wendy Wyrm, La natura di Natura",
+      "quotation": "non c'è fede, intesa come fiducia almeno.",
+      "attribution": "Wendy Wyrm, in [[fonti/la-natura-di-natura|La natura di Natura]] (estratto)."
+    },
+    {
+      "page": "content/mondo/anello-di-fuoco.md",
+      "previousOpening": "> *\"Mai da quando esiste per noi memoria storica i Draghieri hanno restituito un solo piede di terreno al Giardino.\"*\n> — Wade Wyrm, Una Missiva dall'Anello",
+      "quotation": "mai da quando esiste per noi memoria storica i Draghieri hanno restituito un solo piede di terreno al Giardino.",
+      "attribution": "Wade Wyrm, in [[fonti/una-missiva-dall-anello|Una Missiva dall’Anello]] (estratto)."
+    },
+    {
+      "page": "content/mondo/citta-alveare.md",
+      "previousOpening": "> *\"L'Artiglio Sepolto delle Catene Montuose Orientali\" — un presidio complesso del Kindsgard orientale.*",
+      "quotation": "Artiglio Sepolto delle Catene Montuose Orientali",
+      "attribution": "Denominazione riportata dal narratore in [[fonti/prevedibilita-covata|Prevedibilità (covata)]]."
+    },
+    {
+      "page": "content/mondo/maesta.md",
+      "previousOpening": "> *\"La Montagna che domina il creato dal centro esatto del Giardino.\"*",
+      "quotation": "la montagna che domina il creato dal centro esatto del Giardino.",
+      "attribution": "Voce narrante dei Draghieri, in [[fonti/cio-che-sanno-i-draghieri|Ciò che sanno i Draghieri]] (estratto)."
+    },
+    {
+      "page": "content/sistemi/il-battesimo-del-fuoco.md",
+      "previousOpening": "> *\"Forgiato nel Bisogno dalla viva fiamma di Espediente.\"*",
+      "quotation": "Forgiato nel Bisogno dalla viva fiamma di Espediente",
+      "attribution": "Voce narrante, in [[fonti/cronistoria-versione-breve|Cronistoria del Kindsgard (versione breve)]] (estratto)."
+    }
+  ]
+}

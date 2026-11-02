@@ -9,7 +9,9 @@ fonti: ["La_natura_di_Natura", "Solitudine", "18___Misfit", "Il_Trattato"]
 
 # Wendy Wyrm
 
-> *"La Dea è ingiusta, la Dea è crudele, la Dea è capricciosa e la Dea è annoiata."*
+> *“La Dea è ingiusta, la Dea è crudele, la Dea è capricciosa e la Dea è annoiata.”*
+>
+> — Wendy Wyrm, in [[fonti/la-natura-di-natura|La natura di Natura]].
 
 ---
 

@@ -7,33 +7,41 @@ ultima_modifica: "2026-11-02"
 aliases: ["Mostri"]
 tipo: "lista"
 voci-wiki-collegate: ["Fiere — Voci Stub"]
+edizione: "trascrizione da esportazione Quip fornita dal proprietario"
 ---
 
 # Mostri (lista di brainstorming)
 
-> *Lista di link a immagini di creature mitologiche reali, raccolte come spunto per future Fiere del Kindsgard. Nessuna descrizione associata — valore esclusivamente di brainstorming. Nessuna di queste creature ha (ancora) una scheda Kindsgard dedicata.*
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+Mostri
+Ahuizotl 
+http://byronled.myweb.uga.edu/Worlds/FallenArches/ahuitzotl.jpg
+Akhult
+http://fc04.deviantart.net/fs71/i/2012/200/0/f/akhlut_by_kyoht-d57tn0n.jpg
+allghoi-khorhoi
+http://blurrednightmares.files.wordpress.com/2011/04/allghoi-khorhoi5.jpg
+Al-Mi'raj
+Ammit
+http://img3.wikia.nocookie.net/__cb20130804090352/mitologia/pl/images/6/68/Ammit_real_live.jpg
+Anfesibena
+http://1.bp.blogspot.com/-dofqOUilXtE/Tph3_OTsJMI/AAAAAAAACOg/QoO1lLlcHOE/s1600/hikwit.jpg
+KarKinos
+Cipactli
+
+
+
+
+
+
+
+Vellosa
+Yali
+Makara
+Yale/Eale
+
+
+</pre>
 
 ---
 
-- **Ahuizotl** — creatura della mitologia azteca
-- **Akhult** (Akhlut) — orca-lupo della mitologia Inuit
-- **Allghoi-khorhoi** — verme della morte mongolo
-- **Al-Mi'raj** — coniglio cornuto della mitologia araba
-- **Ammit** — divoratrice di anime egizia
-- **Anfesibena** (Anfisbena) — serpente a due teste
-- **KarKinos** — granchio gigante della mitologia greca
-- **Cipactli** — mostro primordiale azteco
-- **Vellosa** — *[non identificata]*
-- **Yali** — creatura ibrida leone-elefante della mitologia indiana
-- **Makara** — creatura acquatica ibrida indù
-- **Yale/Eale** — bestia leggendaria europea con corna mobili
-
-→ *Voci wiki: [[Fiere — Voci Stub]]*
-
----
-
-## Note
-
-Documento puramente di consultazione/ispirazione, privo di valore normativo per la wiki. Nessuna di queste creature compare nei racconti o nelle schede tecniche esistenti — sono spunti non ancora sviluppati. **Vellosa** resta un riferimento non identificato nel catalogo del progetto. La mancanza di identificazione non dimostra che il nome sia un’invenzione originale: non trarre conclusioni sulla sua origine dal solo elenco.
-
-Se in futuro una di queste creature dovesse comparire in un racconto o essere assegnata a un Draghiere, andrà creata una scheda dedicata in [[Fiere — Voci Stub]] o promossa a voce propria.
+[Provenienza e annotazioni editoriali](../meta/annotazioni-fonti).

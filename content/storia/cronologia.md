@@ -4,7 +4,7 @@ categoria: "storia"
 tag: [cronologia, timeline, storia]
 status: "revisionato"
 ultima_modifica: "2026-11-02"
-fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Risveglio_del_Drago", "Inktober_2018", "Inktober_2019", "Inktober_2024", "18___Misfit", "draghieri-spiegazione", "cio-che-sanno-i-draghieri", "Elenco_Draghieri_Conosciuti"]
+fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Risveglio_del_Drago", "Inktober_2018", "Inktober_2019", "Inktober_2024", "18___Misfit", "draghieri-spiegazione", "cio-che-sanno-i-draghieri", "Elenco_Draghieri_Conosciuti", "cronistoria-onnisciente-quip"]
 ---
 
 # Cronologia
@@ -17,7 +17,7 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_An
 
 ## Note sulla Misurazione del Tempo
 
-Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contrazioni associate agli Echi di [[Vilegis/Lunaria]]. La sintesi wiki riporta che in certi momenti storici un anno di Lunaria corrispondesse a cento anni del Kindsgard, ma questa proporzione 100:1 non è verificabile direttamente nel corpus disponibile: la Cronistoria OOC (D3), riferimento storico della ricostruzione, non è identificata con certezza nella versione legacy. Trattare il rapporto numerico come dato riportato dalla sintesi, non come misura confermata dalle fonti accessibili. Le date qui riportate usano la terminologia in-world (anno dell'Orso, anno del Draco, ecc.) quando disponibile, e riferimenti relativi negli altri casi. Le etichette esplicite di collocazione non determinata sono lacune editoriali, non anni canonici da interpretare come numeri romani.
+La fonte OOC recuperata **L’Ambientazione Onnisciente dei Draghieri (Cronistoria di vilegis)**, sezione Il Primo Secolo del Drago, attesta esplicitamente che dopo l’incidente temporale di Istica ogni anno di Lunaria corrisponde a cento anni del Kindsgard. È una proporzione riferita a quella fase, non una costante di tutta la storia. Il documento è conservato fra i materiali non destinati al sito; provenienza e hash in [[Ripristino e fedeltà delle fonti]].
 
 ---
 
@@ -83,11 +83,11 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 **[Anno 1 del Draco]** — Dominic e i Draghieri scomparsi oltre l'Anello tornano dalla Maestà, trasformati in Vere Fiere. Per la prima volta compaiono le **Vere Fiere** sul Kindsgard in forma organizzata. Dominic guida l'attacco all'Anello come Vera Fiera.
 
-**[Anno 1 del Draco]** — La sintesi wiki colloca in questo periodo un incidente temporale che avrebbe rallentato il tempo sul Kindsgard, riportando un rapporto di **cento anni del Kindsgard per un anno di Lunaria**. La proporzione non è verificabile direttamente senza la Cronistoria OOC (D3), non identificata con certezza nella versione legacy; è conservata come dato della ricostruzione, non come misura confermata.
+**[Primo Secolo del Drago]** — La fonte OOC recuperata **L’Ambientazione Onnisciente dei Draghieri (Cronistoria di vilegis)**, sezione Il Primo Secolo del Drago, attesta esplicitamente che dopo l’incidente temporale di Istica ogni anno di Lunaria corrisponde a cento anni del Kindsgard. È una proporzione riferita a quella fase, non una costante di tutta la storia. Il documento è conservato fra i materiali non destinati al sito; provenienza e hash in [[Ripristino e fedeltà delle fonti]].
 
 **[Anno 1 del Draco]** — Ogni Draghiere caduto in quest'anno si risveglia come Vera Fiera nella sua nuova incarnazione. Anche i Draghieri su Vilegis vedono la loro essenza duplicata nelle proprie **Nemesi**. Questo non significa che in tutto l'Anno del Draco esistano soltanto Vere Fiere: i Draghieri ancora attivi restano presenti, e il fenomeno della duplicazione riguarda in particolare quelli che si trovano su Vilegis.
 
-**[Periodo — collocazione da verificare]** — Ishvard, mutaforma di Vilegis, viene trasferito sul Kindsgard. L'umano Ishvard e la Fiera Karsh vengono separati: Ishvard diventa Draghiere della Manticora e Karsh Vera Manticora. La collocazione cronologica è discordante nelle sintesi wiki: questa cronologia lo collocava nel Primo Secolo del Draco, mentre `Le Ere del Kindsgard` lo collocava nel Primo Secolo dell’Orso. Le redazioni candidate D3/D4 confrontate non descrivono Ishvard/Karsh e non dirimono il conflitto. Il caso è documentato, ma le fonti non dimostrano che il meccanismo sia intrinsecamente irripetibile.
+**[Primo Secolo dell’Orso]** — La stessa fonte, nella sezione **Il Primo Secolo dell’Orso**, racconta il trasferimento magico di Ishvard sul Kindsgard, la separazione dall’essenza ferale Karsh e **due Battesimi del Fuoco uguali e opposti**: Ishvard diventa Draghiere della Manticora, Karsh Vera Manticora. La collocazione è dunque attestata in questa redazione OOC, senza dedurre che il fenomeno sia irripetibile o confonderla con il Primo Anno dell’Orso.
 
 **[Primo Secolo del Draco — tardo]** — Le Vere Fiere scoprono l'esistenza di Vilegis attraverso i ricordi di Karsh.
 
@@ -95,11 +95,11 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 ## La Forgiatura e l'Ascesa di Re Draco
 
-**[Periodo]** — Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** **(dettaglio della ricostruzione wiki non attestato nei testi qui confrontati)** per forgiare l'arma **Espediente** e proteggere il Kindsgard dalla minaccia del Nexus.
+**[Periodo]** — Draghieri e Vere Fiere collaborano attraverso **sei procedimenti**, confermati dal proprietario e dal riscontro di Deflecte Cantum (C10), per forgiare l'arma **Espediente** e proteggere il Kindsgard dalla minaccia del Nexus.
 
 **[Periodo]** — Draco usa Espediente per uccidere i **13 Guardiani del Kindsgard**. `Inktober 2019 #Legend` attesta che i tredici erano incarnati fra Draghieri, Fiere e Vere Fiere e che l'arma raccoglieva le loro scintille di potere. La loro identificazione precisa con i vettori collegati al Fondamento è una lettura interpretativa della canzone, non un'equivalenza esplicita.
 
-**[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice del potere delle tredici **scintille associate ai Guardiani** attestate in `Inktober 2019 #Legend`, non più Draghiere né Vera Fiera. L'equivalenza puntuale di quelle scintille con «vettori» legati al Fondamento resta un'interpretazione della ricostruzione wiki. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, dismette gran parte degli Artigli e regna sul Giardino con i Draghieri. La fondazione delle città infrange la legge del Giardino secondo cui tutto deve combattere: è un problema generato dalla scelta di Draco, che il potere ormai concentrato in lui gli impedisce di vedere pienamente. `18___Misfit` è coerente con la regola generale: Wendy Wyrm è chiamata «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge», al passato. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, ma non afferma che conservi il potere; L16 è stata risolta documentalmente.
+**[Periodo]** — Draco diventa **Re Draco, Unico Guardiano**: entità autonoma, detentrice del potere delle tredici **scintille associate ai Guardiani** attestate in `Inktober 2019 #Legend`, non più Draghiere né Vera Fiera. L'equivalenza puntuale di quelle scintille con «vettori» legati al Fondamento resta un'interpretazione della ricostruzione wiki. Le Vere Fiere perdono il potere e tornano Umani. I Draghieri non le eliminano (Istinto non le riconosce come minaccia). Draco fonda le **città**, avvia una dismissione degli Artigli soltanto accennata, senza quantità precisata e regna sul Giardino con i Draghieri. La fondazione delle città infrange la legge del Giardino secondo cui tutto deve combattere: è un problema generato dalla scelta di Draco, che il potere ormai concentrato in lui gli impedisce di vedere pienamente. `18___Misfit` è coerente con la regola generale: Wendy Wyrm è chiamata «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge», al passato. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, ma non afferma che conservi il potere; L16 è stata risolta documentalmente.
 
 ---
 
@@ -115,9 +115,9 @@ Il tempo sul Kindsgard è descritto come non costante, con dilatazioni o contraz
 
 ## Limiti della ricostruzione
 
-La dismissione di gran parte degli Artigli e i dettagli del nuovo problema cosmologico del Re sono conservati dalla ricostruzione wiki, ma non risultano dimostrati dai passi confrontati in questa revisione. `Misfit` e `#Clock/#Weak` attestano singole ex-Vere Fiere e `#Legend` la raccolta delle scintille: non provano da soli ogni conseguenza universale attribuita all’ascesa di Draco. Vedi [[Esito dell’audit documentale]] per i residui documentali distinti dalle decisioni già confermate.
+La dismissione degli Artigli è confermata dal proprietario soltanto come evento accennato (C10), senza quantità, modalità o data precisa. I dettagli del nuovo problema cosmologico del Re restano una ricostruzione non completamente dimostrata. `Misfit` e `#Clock/#Weak` attestano singole ex-Vere Fiere e `#Legend` la raccolta delle scintille: non provano da soli ogni conseguenza universale attribuita all’ascesa di Draco. Vedi [[Esito dell’audit documentale]] per i residui documentali distinti dalle decisioni già confermate.
 
-Il confronto attuale delle **due cronistorie candidate e delle due guide candidate** non ha rintracciato la proporzione 100:1 né una narrazione della scissione Ishvard/Karsh. La ricerca negativa è circoscritta a queste quattro redazioni, non dimostra l’assenza di altre fonti. Il rapporto 100:1 e la meccanica dettagliata restano dati della sintesi da documentare (L4/L22), non conclusioni ottenute dai testi recuperati.
+Il precedente confronto delle quattro redazioni Drive/Dropbox non aveva rintracciato 100:1 o Ishvard/Karsh. La successiva esportazione Quip della Cronistoria Onnisciente li attesta; quel risultato negativo è superato per questi punti, non prova l’assenza di altre fonti. Il numero dei procedimenti è successivamente corretto a sei dalla testimonianza del proprietario e dal verso di Deflecte Cantum (C10); restano da documentare gli altri dettagli di L22.
 
 ## Relazioni
 - Collegato a: [[Le Ere del Kindsgard]], [[Dominic Draco]], [[Anello di Fuoco]], [[Vilegis/Lunaria]]

@@ -3,13 +3,15 @@ titolo: "Samu'el Sphynx"
 categoria: "personaggi"
 tag: [samuel-sphynx, draghieri, sfinge, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 fonti: ["Inktober_2018", "Inktober_2019", "L_ultima_notte_all_ombra_dell_Anello", "Onda_bianca", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Samu'el Sphynx
 
-> *"Quindi... adesso vai a chiamare gli addetti al censimento… fai radunare tutti... e fai quello che ti ho detto. È tutto tranquillo e ciò è estremamente pericoloso."*
+> *“… adesso vai a chiamare gli addetti al censimento… fai radunare tutti... e fai quello che ti ho detto. Capito? Io controllerò le strade, voi contate tutti. E’ tutto tranquillo e ciò è estremamente pericoloso.”*
+>
+> — Samu’el Sphynx, in [[fonti/inktober-2018|Inktober 2018 — #Tranquil]] (estratto).
 
 ---
 

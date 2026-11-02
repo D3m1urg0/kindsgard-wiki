@@ -8,42 +8,13 @@ aliases: ["Inktober 2018"]
 tipo: "racconto"
 autore: "Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12)"
 voci-wiki-collegate: ["Le Ere del Kindsgard", "Draghieri", "Caitlin Chimera", "Wade Wyrm", "Samu'el Sphynx", "Solomon", "Luther Leviathan", "Brood", "Salamander", "Fiere — Voci Stub", "Bruciati", "Fiamme"]
+edizione: "trascrizione da esportazione Quip fornita dal proprietario"
 ---
 
-> **Indice rapido dei racconti e voci wiki principali toccate:**
-> - #1 Poisonous/#4 Spell — Wade Wyrm e Caitlin Chimera in caccia → [[Wade Wyrm]], [[Caitlin Chimera]]
-> - #2 Tranquil — Samu'el Sphynx all'Artiglio delle Sabbie → [[Samu'el Sphynx]]
-> - #3 Roasted — Karsh (Vera Manticora) e Bastion → [[Vere Fiere]]
-> - #5 Chicken — un Umano in fuga da una Cockatrice
-> - #6/7 Drooling/Exhausted — Falenottere → [[Fiere — Voci Stub]]
-> - #8 Stars — Gli Artigli come "stelle" del Kindsgard → [[Geografia del Kindsgard]]
-> - #9 Precious (Giordano Paoli) — Solomon (Vera Sfinge) in forma umanoide → [[Solomon]]
-> - #10 Flowing — Relazione di Brienne Brood e Razvan Roc → [[Brood]], [[Altri Personaggi]]
-> - #11 Cruel — Zachary Zaratan e un Umano morente → [[Fiere — Voci Stub]]
-> - #12 Whale (Andrea Ceravolo) — Luther Leviathan e il Capitano → [[Luther Leviathan]]
-> - #13 Guarded — Balthasar Basilisk contro uno sciame di Atrax
-> - #14/15 Clock/Weak — una ex-Vera Chimera invecchia dopo la caduta del potere delle Vere Fiere → [[Vere Fiere]]
-> - #16 Angular — Caius Chiroptera indaga una morte sospetta
-> - #17 Swollen — Gwynidd Griffin e Hysabella/Hycaro Hydra contro una Salamandra
-> - #18 Bottle — Sebastian Salamander trova i resti di Syrus ed incontra Gertrude Gorgon → [[Salamander]]
-> - #19/19-2 Scorched — il primo giorno di Sebastian Salamander; i Bruciati → [[Bruciati]], [[Fiamme]]
-> - #20 Breakable — un Umano e la figlia nascosti in un nido in schiusa
-> - #21 Drain — variante abbreviata della scheda delle Bacche Emofaghe → [[Bacca Emofaga]]
-> - #22 Expensive — Re Dominic Draco interviene su una breccia nelle mura → [[Dominic Draco]]
+# Inktober 2018 — Racconti del Kindsgard
 
----
-
-# **Racconti del Kindsgard**
-
-**Inktober 2018**
-
-*Stefania Ricco*
-
-*Giordano Paoli (9)*
-
-*Andrea Ceravolo (12)*
-
-# **#Poisonous (1) & #Spell (4)**
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Poisonous (1) &amp; #Spell (4)
 
 Wade Wyrm, 33^ Viverna dei Draghieri del Kindsgard, era appollaiato sotto un ramo. Stava osservando una Cockatrice, che si stava avventando contro un Tentacolo Scarlatto particolarmente simile a un grosso verme sanguinolento, che tentava di afferrare la Fiera con altrettanta ferocia.
 Il Draghiere sapeva bene quanto fosse vicino il nido, e la caccia con un'esca del genere sarebbe andata benissimo.
@@ -74,9 +45,12 @@ Wade pulì accuratamente Colpo di Coda. Il veleno della Viverna era schizzato un
 
 Caitlin si spazzò qualche piuma bruciacchiata dalla divisa. Era sempre un lavoro molto sporco. Ma erano sempre loro a doverlo fare.
 
-# #Tranquil (2)
+</pre>
 
--Quando le cose ti sembrano tranquille ti devi chiedere: “C'è qualcosa che non so?”
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Tranquil (2)
+
+-Quando le cose ti sembrano tranquille ti devi chiedere: “C'è qualcosa che non so?”
 Samu'el Sphynx, Terzo Draghiere della Sfinge, si staglia contro il tramonto, in piedi sui bastioni dell'Artiglio delle Sabbie. Osserva perplesso la distesa di sabbia verso Sud.
 -Se le Fiere non mi stanno attaccando... cosa stanno facendo?
 Comincia a camminare sulle mura, seguito dal fedele nuovo Bibliotecario. Circa una settimana fa un crollo ha ucciso più prematuramente del solito l'ultimo, quello che era stato addestrato dal Guardiano.
@@ -107,9 +81,13 @@ Pochi minuti ancora, pensa, perchè i petali arrotolati già tremolano e si sfor
 Pochi minuti ancora.
 Oh, così pochi...
 
-# #Roasted (3)
+</pre>
 
-L'odore del fumo è acre e le due figure hanno l'aria dubbiosa di chi non sa esattamente cosa sta facendo.
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Roasted (3)
+
+
+ L'odore del fumo è acre e le due figure hanno l'aria dubbiosa di chi non sa esattamente cosa sta facendo.
 -Commestibile è una parola grossa...
 -Oh, dai, è una fottuta pianta!
 Il discorso sta ricominciando per la quarta volta da quando il fuoco è stato acceso. Su uno zeppo quelle che sembrano bistecche grondano qualcosa di denso e scuro che sfrigola a contatto con le fiamme.
@@ -143,7 +121,10 @@ Peccato, perché le piante sono le più difficili da ammazzare.
 Poi fa un cenno a quello che era stato il Vero Behemoth.
 -Andiamo.
 
-# #Chicken (5)
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Chicken (5)
 
 Il tronco cavo di quell'albero non era davvero un riparo.
 Intanto, contro la sua guancia poteva sentire i riccioli di legno alzati dagli artigli di qualcosa, e poi quasi metà del tronco mancava, era una fortuna che fosse rivolto nella direzione giusta. Le sue spalle, coperte, verso la Fiera, e la faccia che poteva guardare la vastità della selva in cui vagavano. Si era cacciato in trappola da solo.
@@ -158,7 +139,7 @@ Non contenta, la Cockatrice si stava litigando i pezzi ormai esangui di Joanne c
 Ma quando era sceso quel silenzio?
 Perchè non sentiva più il verso sguaiato della Fiera? Era un fruscio, quello?
 Un 'toc' proprio sopra la sua testa vibrò nell'aria, facendogli drizzare i capelli. Non aveva scampo. Poteva solo correre e sperare nel momento giusto.
-Toc. Toc, toc.
+Toc. Toc, toc. 
 Sembrava che la Fiera stesse saggiando col becco la legnosità del tronco. Dal rumore si capiva benissimo che era cavo.
 Un altro fruscio. Si stava spostando. L'Umano cercò del coraggio dentro di sé. Decise di contare fino a tre. Poi correre.
 Uno.
@@ -169,7 +150,10 @@ Tre.
 Mentre spiccava la sua corsa disperata, Neil non si accorse che alle sue spalle lo stridio della Cockatrice rispondeva a un avvenimento più impellente. Un altro cespo di Tentacolo Scarlatto aveva cercato di afferrarla, bloccandole una zampa nella sua morsa. Una nuova lotta per la vita era cominciata, in quel piccolo angolo di selva.
 E lui doveva cercare un riparo.
 
-# #Drooling (6) & Exhausted (7)
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Drooling (6) &amp; Exhausted (7)
 
 Ancora quanto, mezz'ora?
 La luce era l'unica cosa che li teneva vivi. Il nugolo di Falenottere, ognuna grande quanto la loro testa, era accalcato intorno alla grossa candela verdastra. Erano in una grotta, stretti l'uno all'altra. Si erano persi da qualche parte nelle montagne, l'Artiglio dei Picchi era solo un vago ricordo ormai. Erano usciti da soli... per stare soli, lontano dai loro genitori. Una pessima idea, ora lo sapevano. I momenti di tenerezza in cui avevano sperato si erano ridotti a stare abbracciati, seminudi, i vestiti stracciati dai rami e dalle spine che avevano incontrato scappando da una Fiera all'altra. Si erano sentiti fortunati ad avere un paio di candele quando avevano trovato quella grotta all'imbrunire. Tramontato il sole, erano riusciti ad accenderne una, solo per constatare che il dolore alla gamba di Sally era dovuto a una lunga ferita violacea che si andava gonfiando.
@@ -186,7 +170,10 @@ Aprì e chiuse la mano un paio di volte, e si rese conto che il formicolio che p
 Forse non avrebbe dovuto preoccuparsi delle Falenottere.
 La luce si estinse e, in cuor suo, l'umano non seppe più di cosa aver paura.
 
-# #Stars (8)
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Stars (8)
 
 Ci sono stelle nel cielo del Kindsgard?
 Cosa mostra il cielo quando la tempesta non scuote la sua volta e le fiamme non bruciano l'aria?
@@ -202,7 +189,10 @@ Nessuno, nel Kindsgard guarda il cielo.
 Le stelle che brillano di vita e speranza, le luci che illuminano il sonno degli Umani si chiamano Artigli.
 E i Draghieri sono i loro custodi.
 
-# #Precious (9) (Giordano Paoli)
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Precious (9)
 
 Se c'era qualcosa che gli piaceva era il suono di una risata. Una risata era molto utile. Come aveva scoperto recentemente, aveva il potere di cancellare i brutti pensieri.
 
@@ -281,7 +271,9 @@ Il sole era ormai alto quando Solomon avvistò in estrema lontananza un altro ar
 
 La sua, ovviamente.
 
-**#Flowing (10)**
+</pre>
+
+## Flowing (10)
 
 Da una nota di Brienne Brood, XVII Draghiere della Covata e Razvan Roc, XVI Draghiere del Roc al Re.
 
@@ -315,7 +307,7 @@ Uno di Molti,
 Ab Necessitate Excusi,
 Brienne Brood, VI Draghiere della CovataP.S. Non date retta alle parole di Razvan, l'impugnatura che mi ha costruito quando ho perso il braccio va benissimo per il mio stile di combattimento. Il mio Istinto è più forte. Posso continuare."
 
-**#Cruel (11)**
+## Cruel (11)
 
 Due giorni e tre notti.
 Quando dicevano che Natura è crudele non sapevano davvero di cosa stessero parlando. Due giorni e tre notti con il respiro mozzato in gola, con abbastanza aria per sopravvivere ma troppa poca per vivere davvero. Abbastanza aria per soffrire in quegli ultimi istanti, che erano diventate ultime ore e poi ultimi giorni.
@@ -339,7 +331,8 @@ Rimase ad aspettare che il respiro si fermasse, il pensiero del dolore dimentica
 Poi tornò dagli altri. Un giorno, se fossero sopravvissuti, avrebbero ricordato di come Zachary Zaratan, XXIII Draghiere dello Zaratan aveva atteso che il loro compagno morisse e li aveva portati in salvo all'Artiglio del Mare Interno.
 Lui, invece, probabilmente avrebbe dimenticato quell'Umano che non aveva potuto uccidere, e tutta la sua sofferenza sarebbe stata solo una nota nel concerto quotidiano del Kindsgard, per far piacere a Natura.
 
-**#Whale (12) (Andrea Ceravolo)**
+## Whale (12) (Andrea Ceravolo)
+
 -Fuori tutti, rimettetevi ai vostri posti! Ritorniamo all'Artiglio!
 La voce decisa e ferma di Luther risuonò tra le pieghe del legno e si fece eco in tutta la Maelstrom.
 Gli Umani, che stavano attendendo timorosi negli alloggi a loro riservati, iniziarono piano piano ad alzarsi dalle loro brande e a dirigersi verso il ponte principale. Uno di loro, un Umano alto e slanciato, si avvicinò a un altro che stava sistemando le sue cose.
@@ -383,13 +376,14 @@ Gli disse Luther porgendogli la sacca e la fascia blu.
 Maicol, tremante, prese la fascia e la indossò, poi si girò verso l'equipaggio
 -Avete sentito Ser Luther. A lavoro!
 
-**#Guarded (13)**
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Guarded
 
 Tutti dormono.
 Ed è difficile, perché la notte, nel Giardino, non è mai silenziosa.
 Tutti dormono.
 Perché sanno di essere finalmente al sicuro.
-Molti bambini, nei loro nuovi letti o accoccolati contro i corpi caldi dei genitori, sussultano nel sonno. Incubi di zanne artigli e corse e paura rendono il loro sonno inquieto.
+Molti bambini, nei loro nuovi letti o accoccolati contro i corpi caldi dei genitori, sussultano nel sonno. Incubi di zanne  artigli e corse e paura rendono il loro sonno inquieto.
 Molti Umani adulti non dormono, stringendo a loro i corpi fragili dei loro preziosi bambini, l'unica garanzia di un futuro per una razza sfortunata. Ma che futuro possono avere?
 Migliore, ora. Di sicuro. Dietro quelle mura, con intorno il respiro regolare di un'intera città, centinaia di Umani, che dormono sicuri.
 Nei racconti dei loro genitori quello non è mai successo.
@@ -411,7 +405,12 @@ Era fortunato, così piccoli erano solo velenosi, non erano ancora in grado di t
 Balthasar Basilisk ruotò su sé stesso per infilzare altri due esemplari e mentalmente contò. Ne mancavano cinquantotto. Ancora qualche minuto, in silenzio, e tutto sarebbe andato bene.
 L'Artiglio era protetto, tutti dormivano, e domani si sarebbero svegliati per vivere un altro giorno.
 
-# #Clock (14) & #Weak (15)
+
+
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Clock (14) &amp; #Weak (15)
 
 L'orologio non ticchettava. Non ticchettava mai.
 Il suo peso sul petto la tranquillizzava. Era uno di segni evidenti che tutto andava bene. Non avevano avuto bisogno di usarlo, e con soli cinque giorni di lavoro avevano risolto il problema. In fondo la parte difficile l'aveva fatta Draco.
@@ -450,11 +449,14 @@ Così lui poteva Dormire.
 E attendere.
 Come tutti.
 
-# #Angular (16)
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Angular (16)
 
 Le ossa delle ali sporgevano attraverso la pelle membranosa. L'angolazione innaturale delle linee lasciava intendere che si erano rotte in diversi punti, e dai racconti che gli erano stati riportati, tutti erano scappati finché la Fiera non era morta per le ferite.
 Caius girò intorno alla carcassa ancora una volta, utilizzando il bastone del suo arco per alzare l'ala che copriva metà del corpo. Non era pesante, perchè passato qualche giorno la poca pelle che copriva le ossa della Fiera si stava essiccando. Gran parte di quello che era rimasto erano le ossa.
-Poteva immaginare la scena.
+Poteva immaginare la scena. 
 La Fiera che piombava giù, attirata da qualche movimento o forte suono nella notte - gli sarebbe proprio piaciuto sapere cosa. O forse inseguita, ma non c'erano tracce di artigli o beccate sul dorso, quindi o la Fiera più grossa non aveva inseguito la sua preda, o la Chiroptera si era davvero persa.
 Forse era malata e le sue ali avevano perso forza nel volo, ma anche così, avrebbero dovuto trovare segni di malattia o parassiti sul suo corpo.
 Oppure era solo un caso, parte del gioco perverso di Natura, capace di falciare vite Umane anche con una Fiera morente.
@@ -474,7 +476,11 @@ Caius credeva di sapere da cosa era stata provocata la ferita, ma questo voleva 
 C'era un'altra opzione, certo, ma era impossibile.
 Un Umano non poteva aver ucciso una Chiroptera, perchè LUI era il Draghiere della Chiroptera, ed era decisamente vivo.
 
-# #Swollen (17)
+
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Swollen (17)
 
 Per un attimo il tempo sembrò fermarsi.
 Il ventre della Fiera era gonfio, le spine sulla schiena si erano alzate in una cresta irsuta, le fauci spalancate per proteggere quanto più tessuto possibile.
@@ -503,7 +509,10 @@ Hycaro annuì.
 -Proteggi e Domina.
 Mormorò, poi scattò in carica.
 
-# #Bottle (18)
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Bottle (18)
 
 Le bottiglie erano allineate e raggruppate in un ordine non molto comprensibile.
 Molte erano di vetro, e il loro contenuto multicolore brillava alla luce delle candele, chiuse anche loro nei loro contenitori per evitare qualsiasi rischio.
@@ -571,12 +580,15 @@ Aspettò la risposta, stringendo nella mano la bottiglia che doveva salvare i su
 Mormorò lei, piano. Il Draghiere non si voltò.
 -Allora grazie, Daisy.
 
-# #Scorched (19)
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Scorched (19)
 
 Dopo il Battesimo di Fuoco gli erano state date istruzioni precise.
 Doveva viaggiare dalla Capitale all'Artiglio del Fuoco e prendere il suo posto.
 Molti Draghieri viaggiavano.
-Apparentemente il suo predecessore lo aveva fatto, ma aveva anche un luogo in cui tornava sempre, lì all'Artiglio del Fuoco.
+Apparentemente  il suo predecessore lo aveva fatto, ma aveva anche un luogo in cui tornava sempre, lì all'Artiglio del Fuoco.
 Il Laboratorio.
 Gli ordini di Draco erano di andare per prima cosa al Laboratorio e poi vedere il da farsi.
 Aveva ancora nel cuore quella fiamma, a guidarlo nel lungo viaggio. Il ricordo di quel momento in cui per la prima volta nella sua vita aveva provato il coraggio. Si era alzato, si era messo davanti a quell'Umana, l'aveva protetta. Non aveva altro che sé stesso, ma era bastato. Aveva attirato la Fiera fuori dalla piazza, e dopo una corsa che gli era sembrata infinita era riuscito a spingerla giù dai bastioni, e quella era esplosa.
@@ -585,7 +597,7 @@ Sulla strada aveva combattuto.
 La Capitale era molto lontana, e la strada non esisteva. Non esistevano strade, nel Kindsgard, ma Draco gli aveva confidato che ce ne sarebbero state. Il suo Dominio avrebbe fatto grandi cose. Aveva combattuto molte Fiere, e si era costruito quel bastone come arma, rinforzandolo con pezzi di corazza. Su uno dei due lati aveva montato dei denti avvelenati di una Fiera che non aveva riconosciuto. La sua conoscenza era ancora incompleta, perché i suoi quindici anni da Umano erano stati pressoché inutili. Non aveva imparato un mestiere, non aveva speranze che non fossero collegate alla comparsa miracolosa di un Draghiere, e ora quella speranza era lui. Gli avevano detto che avrebbe dimenticato molte cose, ma per ora era soddisfatto. Quella sensazione di essere nel giusto era tutto ciò che gli serviva per essere completo come non lo era mai stato.
 Cercò a tentoni una candela e qualcosa con cui accenderla. Le sue dita sfiorarono vetro e legno, stoffa avvolta intorno a qualcosa che faceva rumore di metallo e quelli che sembravano semi - o sassi, non avrebbe saputo dirlo.
 Trovò una piccola pila di candele di cera molto secca, sperava andassero ancora bene. Lì vicino c'era una scatolina con degli zeppi la cui punta sembrava ruvida al tatto. La scatolina era contrassegnata con una piccola incisione, una fiammella.
-Dopo tre tentativi andati male, al quarto riuscì ad accendere la punta di uno dei bastoncini, e dopo aver infilato una delle candele in un bicchiere per non sporcare tutto di cera, accese lo stoppino, piuttosto lungo a dire il vero.
+Dopo tre tentativi andati male, al quarto riuscì ad accendere la punta di uno dei bastoncini, e dopo aver infilato una delle candele in un  bicchiere per non sporcare tutto di cera, accese lo stoppino, piuttosto lungo a dire il vero.
 Nella luce intermittente del filo che bruciava si guardò intorno. Un grosso libro era poggiato su un tavolo lì vicino. Aveva sentito di Draghieri che scrivevano. Forse avrebbe trovato qualche informazione in più su Fiere che non aveva mai visto.
 Il resto dello spazio era occupato da boccette di ogni genere, scatole, vasi di terracotta sigillati con la cera. Chissà quanto gli ci sarebbe voluto per capire cosa contenevano.
 Lo stoppino cominciò a sibilare. Improvvisamente si rese conto che il mucchio di candele era legato con dello spago rosso e che all'altro capo del tavolo c'erano altre candele, vicino a dei candelabri dall'aria molto solida.
@@ -593,14 +605,17 @@ Con un senso di ansia afferrò la candela, la fiamma arrivata ormai quasi alla f
 Istintivamente strinse a sé la candela, voltandosi di spalle rispetto al tavolo. Forse così avrebbe attutito l'impatto. Ebbe il tempo di pensare che sarebbe bastato lanciare fuori la candela.
 Poi esplose.
 
-# 19-2: #Scorched
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+19: #Scorched
 
 Disteso sulla branda approntata per lui osservava il soffitto di travi della piccola casa. Regnava un silenzio che avrebbe dovuto essere quello della guarigione e del riposo. Le tende erano bianche, come la maggior parte del tessuto del luogo. Tende alle finestre, velari per proteggersi dal sole, vesti stese ad asciugare su corde tese tra le case basse e temporanee.
 Tutto riluceva di un bianco accecante, accentuato dal riflesso del sole. Così anche le tende alle finestre erano pensate per dare luce all'interno tanto quanto proteggevano dal calore esterno.
 La stanza era abbastanza grande da contenere quattro lettucci, di cui tre occupati, ma tutto taceva. Ascoltò il respiro delle altre due persone presenti. Era evidente che fossero sveglie, ma nessuno di loro aveva voglia di parlare.
 L'insistenza nel tirare su col naso di uno dei due rendeva evidente un pianto altrimenti silenzioso.
 Lo capiva.
-Quell'accoglienza, quelle persone, lo stesso luogo erano un monumento al loro pianto, e quel silenzio era l'espressione massima della loro condizione.
+Quell'accoglienza, quelle persone, lo stesso luogo erano un monumento al loro pianto, e quel silenzio era l'espressione massima della loro condizione.
 C'era una definizione per tutti loro, che avevano in comune qualcosa che era oltre la nascita, oltre la provenienza, e sfortunatamente oltre la morte.
 Bruciati, li chiamavano.
 In silenzio fece scivolare la mano sinistra sopra il petto nudo, arrampicandola coraggiosamente per arrivare al fulcro della sua perdita. Ci voleva sempre coraggio per superare la duna della spalla e arrivare al fantasma di quello che era stato il suo braccio destro. Quel che ne rimaneva era avvolto in poche bende candide, che splendevano alla luce del sole come a sottolineare ciò che mancava.
@@ -629,7 +644,10 @@ Quando fu certo che la custode fosse uscita dalla stanza, cigolando via con l'us
 Dal dolore della morte si guarisce, prima o dopo.
 Una bruciatura, invece, può essere guarita solo dalla morte, poiché nessuna perdita è più grande di quella che ti toglie la speranza, vista da lontano e poi spenta da un refolo di vento, morta come la fiamma di una candela nella tempesta.
 
-# #Breakable (20)
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Breakable (20)
 
 Immobile, sentiva il cuore battere contro la propria cassa toracica. Sentiva il gocciolio di qualcosa nel profondo della caverna, sentiva l'annusare della Fiera da cui stava scappando, lì fuori, e al di sopra di tutto sentiva il proprio respiro, come fosse così forte da mandare un'eco chiarissima.
 Sapeva che non poteva essere così.
@@ -650,35 +668,41 @@ Un rumore liquido attirò la sua attenzione, mentre una voce impossibilmente mat
 La prima cosa che pensò fu che non era più sua figlia.
 La seconda che quelle uova - e le creature al loro interno - erano incredibilmente fragili.
 
-# #Drain (21)
+</pre>
 
-**Nome Specie:** Emophillis Helix
-**Nome comune:** Bacche emofaghe
-**Tipologia:** Parassita infestante
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Drain (21)
 
-**Caratteristiche morfologiche**
-**Portamento:** il fusto, composto per gran parte da tessuti accrescitivi, si sviluppa molto velocemente all'interno di un organismo ospite (poche ore/giorni in condizioni ostili) fino alla sua estensione media, ovvero quanto basta a coprire tre mq di superficie. I nodi sono vere a proprie articolazioni, che sviluppandosi a breve distanza uno dall'altro permettono al tessuto meristematico degli stoloni di diffondersi in diverse direzioni contemporaneamente.
+Nome Specie: Emophillis Helix
+Nome comune: Bacche emofaghe
+Tipologia: Parassita infestante
+
+Caratteristiche morfologiche
+Portamento: il fusto, composto per gran parte da tessuti accrescitivi, si sviluppa molto velocemente all'interno di un organismo ospite (poche ore/giorni in condizioni ostili) fino alla sua estensione media, ovvero quanto basta a coprire tre mq di superficie. I nodi sono vere a proprie articolazioni, che sviluppandosi a breve distanza uno dall'altro permettono al tessuto meristematico degli stoloni di diffondersi in diverse direzioni contemporaneamente.
 I rami sottili non permettono alla Fitofiera di reggersi in piedi da sola, ma sembrano fatti apposta per penetrare in ogni fessura dell'organismo ospite.
-**Foglie**: si sviluppano solo in prossimità di cavità, sono recettive all'aria e alla luce del sole, che sfruttano per completare il processo di maturazione del seme.
-**Fiore/Seme/Frutto:** le due varietà finora conosciute si differenziano per colore e caratteristiche dell'infiorescenza.
+Foglie: si sviluppano solo in prossimità di cavità, sono recettive all'aria e alla luce del sole, che sfruttano per completare il processo di maturazione del seme.
+Fiore/Seme/Frutto: le due varietà finora conosciute si differenziano per colore e caratteristiche dell'infiorescenza.
 Quando il fiore è bianco, la 'fioritura' tende ad essere più lenta, dando tempo all'organismo ospite di spostarsi autonomamente per alcuni giorni prima di rilasciare le spore.
 Quando il fiore è di un rosa tenue (spesso ingannevole perché striato del sangue dell'organismo ospite) la fioritura è più veloce. I petali si induriscono e proteggono la maturazione delle spore. La capsula diventa una graziosa bacca rosata, che se sollecitata esplode rilasciando le spore/semi.
-**Nota:** durante la maturazione della bacca contenente le spore, questa assume un colore via via più rosso, segno che la Fitofiera sta giungendo alla fine del suo ciclo vitale, attingendo più velocemente dall'organismo ospite, da cui il nome comune 'Bacche emofaghe'.
+Nota: durante la maturazione della bacca contenente le spore, questa assume un colore via via più rosso, segno che la Fitofiera sta giungendo alla fine del suo ciclo vitale, attingendo più velocemente dall'organismo ospite, da cui il nome comune 'Bacche emofaghe'.
 
-**Disseminazione:** la riproduzione e diffusione della Fitofiera è affidata alle spore, che si presentano come delle particelle rossastre nell'aria. Si possono confondere con diversi tipi di veleno aereo (come quello di alcune specie di Salamandra) o di precipitazione del Kindsgard (le Nebbie Rosse del Mare Interno ne sono un esempio).
+Disseminazione: la riproduzione e diffusione della Fitofiera è affidata alle spore, che si presentano come delle particelle rossastre nell'aria. Si possono confondere con diversi tipi di veleno aereo (come quello di alcune specie di Salamandra) o di precipitazione del Kindsgard (le Nebbie Rosse del Mare Interno ne sono un esempio).
 E' impossibile stabilire un luogo favorevole allo sviluppo dell'Emophillis Helix, poichè si sposta nei suoi ospiti, purché abbiano sangue.
 
-**Fioritura:** è chiamata Fioritura la disseminazione delle spore. Quando i rami dell'Emophillis Helix arrivano all'esterno, solitamente per l'organismo ospite non c'è più nulla da fare, poiché hanno riempito l'intero organismo e si sono nutrite abbastanza da riprodursi. Si consiglia di neutralizzare un organismo ospite ben prima della fioritura, non appena ci si accorge dell'infestazione. Si sono rivelati utili in questi casi fuoco, fango abbastanza denso in cui immergere e seppellire l'ospite, acido (sangue, linfe e in alcuni casi le stesse piogge sono state sufficienti) e qualsiasi cosa riesca a distruggere Fitofiera e ospite insieme.
+Fioritura: è chiamata Fioritura la disseminazione delle spore. Quando i rami dell'Emophillis Helix arrivano all'esterno, solitamente per l'organismo ospite non c'è più nulla da fare, poiché hanno riempito l'intero organismo e si sono nutrite abbastanza da riprodursi. Si consiglia di neutralizzare un organismo ospite ben prima della fioritura, non appena ci si accorge dell'infestazione. Si sono rivelati utili in questi casi fuoco, fango abbastanza denso in cui immergere e seppellire l'ospite, acido (sangue, linfe e in alcuni casi le stesse piogge sono state sufficienti) e qualsiasi cosa riesca a distruggere Fitofiera e ospite insieme.
 Un sistema di autodifesa della specie bianca è quello di reagire con una fioritura precoce in caso di morte improvvisa dell'ospite, per salvaguardare la propria diffusione prima che sia troppo tardi, è quindi sconsigliato uccidere l'organismo ospite non appena si è certi dell'infestazione.
 
-**Coltivazione:** Sconsigliata.
+Coltivazione: Sconsigliata.
 
-**Usi:** Nessuno conosciuto.
+Usi: Nessuno conosciuto.
 
-**Note:** Questa Fitofiera ha l'abitudine di cercare il centro nevralgico del suo ospite, inibendo la percezione del dolore affinché la sua crescita all'interno del corpo sia indolore.
+Note: Questa Fitofiera ha l'abitudine di cercare il centro nevralgico del suo ospite, inibendo la percezione del dolore affinché la sua crescita all'interno del corpo sia indolore.
 I sintomi di un'infestazione sono un'iniziale insensibilità sensoriale, che diventa completa assenza di reazione al dolore. Pallore e rigonfiamenti della pelle sono molto comuni, soprattutto in prossimità della fioritura. Quando le foglie cominciano a fare capolino dalle cavità superiori (es. naso, bocca, orecchie, in alcuni casi occhi) il trattamento per la Fioritura deve essere portato a termine quanto prima.
 
-# #Expensive (22)
+</pre>
+
+<pre class="testo-originale" style="white-space: pre-wrap; font: inherit; background: transparent; padding: 0;">
+#Expensive (21)
 
 -Quanto ci è costato?
 Una pausa. L'alto Draghiere - o almeno quello che tutti speravano in cuor loro fosse ancora un Draghiere - stava fissando il funzionario Umano già da qualche tempo.
@@ -697,4 +721,10 @@ Quando arrivarono sul posto videro che una grossa Salamandra aveva incenerito un
 Due Draghieri erano arrivati prima di loro, e combattevano in silenzio. Non riconobbe i loro stemmi, dovevano essere arrivati da poco alla Capitale.
 Draco non intervenne. In qualche punto del percorso aveva raccolto la sua lancia, le cui scaglie brillavano ora alla luce del sole.
 Incurante del lavoro dei Draghieri, il Re si guardava intorno: c'erano solo due o tre Umani che si nascondevano e una quindicina di corpi riversi a terra.
-Il sangue non lo stupiva più. Aveva visto troppe persone sanguinare perché gli facesse davvero effetto. Ma guardando la scena, due passi dietro la mole del Primo Re, gli sembrava di poter vedere ciò che era successo: tre o quattro persone erano vicine alle mura quando queste erano esplose. Quegli Umani erano riversi a terra, semi-sepolti dai detriti ancora incandescenti. Il resto delle mura bruciava sparso per la zona circostante, ovvero il vialone che distanziava la città vera e propria dalle mura, per sicurezza. Un edificio aveva un buco sulla parete più vicina alla strada, e
+Il sangue non lo stupiva più. Aveva visto troppe persone sanguinare perché gli facesse davvero effetto. Ma guardando la scena, due passi dietro la mole del Primo Re, gli sembrava di poter vedere ciò che era successo: tre o quattro persone erano vicine alle mura quando queste erano esplose. Quegli Umani erano riversi a terra, semi-sepolti dai detriti ancora incandescenti. Il resto delle mura bruciava sparso per la zona circostante, ovvero il vialone che distanziava la città vera e propria dalle mura, per sicurezza. Un edificio aveva un buco sulla parete più vicina alla strada, e 
+
+</pre>
+
+---
+
+[Provenienza e annotazioni editoriali](../meta/annotazioni-fonti).
