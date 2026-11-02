@@ -9,9 +9,11 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "La_natura_di_Natura", "Drag
 
 # Vere Fiere
 
-> *"Omnia praedae fieri Potest" — Tutto può diventare preda.* *(motto attribuito nella sintesi wiki; attestazione primaria non verificata)*
+> *"Omnia praedae fieri Potest" — Tutto può diventare preda.*
+>
+> — Motto associato alle Vere Fiere nel documento originale Draghieri / Vere Fiere del Kindsgard; provenienza in [[Fonti e Decisioni Canoniche]].
 
-> **Nota di provenienza:** «Omnia praedae fieri Potest» è riportato nella sintesi wiki ma non è stato rintracciato nelle 29 fonti attualmente disponibili. La sua attestazione primaria resta da verificare; il riferimento legacy Draghieri/Vere Fiere non è reperibile.
+> **Nota di provenienza:** Il documento originale **Draghieri / Vere Fiere del Kindsgard**, recuperato nell’archivio Quip, affianca «Ab Necessitate Excusi» e «Omnia praedae fìeri Potest» nell’ordine delle due fazioni. L’attestazione è ora positiva; non prova che entrambi i motti siano usati indifferentemente da tutti i gruppi. La grafia accentata è quella del documento.
 
 ---
 

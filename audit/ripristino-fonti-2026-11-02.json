@@ -1,0 +1,1220 @@
+{
+  "baseline": "0c49b234e436338db0850d87736bf8c7b76805b4",
+  "date": "2026-11-02",
+  "method": "DOCX copiati senza modifiche; estrazione ordinata di w:t, tab e interruzioni da word/document.xml. Commenti/note in file separati. HTML entity encoding esclusivamente per visualizzazione, decodifica esatta verificata. Nessuna normalizzazione di parole, grafie o punteggiatura. Aspetto grafico Word e campi automatici non sono riprodotti dalla trascrizione; originali binari conservati. Gli originali sono contenuti nel file ZIP non-wiki/fonti-originali-2026-11-02.zip, con percorsi relativi alla cartella non-wiki. Il pacchetto non modifica i DOCX.",
+  "pages": [
+    {
+      "page": "content/fonti/bacche-emofaghe-fonte.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Bacche Emofaghe.docx",
+          "original": "non-wiki/fonti-originali/quip/Bacche Emofaghe.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Bacche Emofaghe.docx.txt",
+          "docxSha256": "ec6fca24204969f75ff6bef788830b3f576e2a156423fd0ce31a3c5b1e114cdf",
+          "textSha256": "0445d70d94d32b8d044258972920f66121597f6a6078c8759c8fe495ad49268d",
+          "chars": 3880
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/canzoni-degli-umani.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Canzoni degli Umani.docx",
+          "original": "non-wiki/fonti-originali/quip/Canzoni degli Umani.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Canzoni degli Umani.docx.txt",
+          "docxSha256": "c387e4532b556fdfc8b5a425efb14d89d9e53994f15d06920ff22e8263a0e8fd",
+          "textSha256": "679a384ff6d8ab908c7d86cf124c0dcaab77e8a743f9e489504359731730989d",
+          "chars": 2745
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/cio-che-sanno-i-draghieri.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "I Draghieri del kindsgard (ciò che sanno i draghieri).docx",
+          "original": "non-wiki/fonti-originali/quip/I Draghieri del kindsgard (ciò che sanno i draghieri).docx",
+          "extraction": "non-wiki/fonti-originali/quip/I Draghieri del kindsgard (ciò che sanno i draghieri).docx.txt",
+          "docxSha256": "d8abee5c8935b0977d43fbef030174cafe98ed69ae51aa6880e33dd82e5306e3",
+          "textSha256": "4a205e7443fc33c6bb96698e0327d639d2239556175fd4095cad3eb2598357ae",
+          "chars": 5379
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/cronistoria-versione-breve.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Cronistoria del Kindsgard (versione breve).docx",
+          "original": "non-wiki/fonti-originali/quip/Cronistoria del Kindsgard (versione breve).docx",
+          "extraction": "non-wiki/fonti-originali/quip/Cronistoria del Kindsgard (versione breve).docx.txt",
+          "docxSha256": "e6489539219832937bd5cc8d8a420fe17fa60d993a71c5a1bc27fbb0081d6fcc",
+          "textSha256": "30b98c8c6f2f1f936e3f04b1622486cf10d3536ac7a4847c67ea3128fdfea20c",
+          "chars": 11508
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/deflecte-cantum.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Deflecte Cantum (il ritorno dei Draghieri).docx",
+          "original": "non-wiki/fonti-originali/quip/Deflecte Cantum (il ritorno dei Draghieri).docx",
+          "extraction": "non-wiki/fonti-originali/quip/Deflecte Cantum (il ritorno dei Draghieri).docx.txt",
+          "docxSha256": "eae5efb96e5545bb2468e5b60b846a8368ba2b5a82395ac87d4ccd829d32b46d",
+          "textSha256": "fe8731d89b01f88f82df95ca907e5d251267977eb9638d366c6f627ce90e914f",
+          "chars": 1932
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/draghieri-spiegazione.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Draghieri del Kindsgard (spiegazione).docx",
+          "original": "non-wiki/fonti-originali/quip/Draghieri del Kindsgard (spiegazione).docx",
+          "extraction": "non-wiki/fonti-originali/quip/Draghieri del Kindsgard (spiegazione).docx.txt",
+          "docxSha256": "af66dc553345e8f1cd8d83221b0c93083d60149ddc598691d210d454b05f2511",
+          "textSha256": "7af57071d738a0eddd85b36d2c1085625d66f6f786cb6a5f82bc12ee3925f2f6",
+          "chars": 8555
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/elenco-draghieri.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Elenco Draghieri Conosciuti.docx",
+          "original": "non-wiki/fonti-originali/quip/Elenco Draghieri Conosciuti.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Elenco Draghieri Conosciuti.docx.txt",
+          "docxSha256": "c4f7383f7adbfdb151984ef4b9b8405d5aea8280b9f1a0ff01542e12ebbd658b",
+          "textSha256": "6d50e8151297e5b9953c533f7d76d3df56a129dc5a024adba58b936ce98d53d1",
+          "chars": 1549
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/fierezza-battesimo-cornelius.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Fierezza.docx",
+          "original": "non-wiki/fonti-originali/quip/Fierezza.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Fierezza.docx.txt",
+          "docxSha256": "474f977e88884febffa926d056343b0b9e261fc92687e32dbf03a6263cebae0e",
+          "textSha256": "6250f63bd1f35b9e36772798c1f8bf8644c39254fedbdfd279d6d29d797e6983",
+          "chars": 2823
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/fierezza-il-dio-che-e-in-noi.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Fierezza_ il Dio che è in noi.docx",
+          "original": "non-wiki/fonti-originali/quip/Fierezza_ il Dio che è in noi.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Fierezza_ il Dio che è in noi.docx.txt",
+          "docxSha256": "f93e96060044d4bed1233bfedcb2612c20107001dffc71574c51f2cb512ff311",
+          "textSha256": "953f65c4fb82703d58ec9fd032f0ec45d8485960f76937f2c83f89cebe30be4c",
+          "chars": 3647
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/il-trattato-wendy-wyrm.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Il Trattato (Wendy Wyrm).docx",
+          "original": "non-wiki/fonti-originali/quip/Il Trattato (Wendy Wyrm).docx",
+          "extraction": "non-wiki/fonti-originali/quip/Il Trattato (Wendy Wyrm).docx.txt",
+          "docxSha256": "2f47f846c204e57b1f5862d3fff211ff02b233caf718d466b048df65af67508c",
+          "textSha256": "f09ae1dffc784367ed94f9dd55519d7c7f3a20fbc75aa082f287b3ad3cfbf02d",
+          "chars": 4980
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/l-animale-uomo.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "L'Animale Uomo.docx",
+          "original": "non-wiki/fonti-originali/quip/L'Animale Uomo.docx",
+          "extraction": "non-wiki/fonti-originali/quip/L'Animale Uomo.docx.txt",
+          "docxSha256": "871a60d57eb4e390dedf4c94be850d386b5a2fa97c758966cb3fd5095906e30d",
+          "textSha256": "968d8bc7848f50ac487e90c32e94af3792bb9b22cc1b25bc9273abb1292dbc05",
+          "chars": 1288
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/l-esodo.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "L_esodo.docx",
+          "original": "non-wiki/fonti-originali/quip/L_esodo.docx",
+          "extraction": "non-wiki/fonti-originali/quip/L_esodo.docx.txt",
+          "docxSha256": "21ee6637a5d9a43ece37be84f7f928dd130e568e9f34a51672530f572d3eecf2",
+          "textSha256": "4e1b3d4c708332d2b489281c9567d7e480544c78ffbbde37636fe8345479ba0a",
+          "chars": 1791
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/l-ultima-notte-all-ombra-dell-anello.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "L'ultima notte all'ombra dell'Anello.docx",
+          "original": "non-wiki/fonti-originali/quip/L'ultima notte all'ombra dell'Anello.docx",
+          "extraction": "non-wiki/fonti-originali/quip/L'ultima notte all'ombra dell'Anello.docx.txt",
+          "docxSha256": "5fc26520fcb34eeb1e5ffb711bd841c087188f4ecd582e36182593c0a1c8c3fd",
+          "textSha256": "ef877977ae8e34a2b778ee7eb2a9b4755a249bcac1211e48bbae385c3c1f404f",
+          "chars": 1875
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/la-natura-di-natura.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "La natura di Natura.docx",
+          "original": "non-wiki/fonti-originali/quip/La natura di Natura.docx",
+          "extraction": "non-wiki/fonti-originali/quip/La natura di Natura.docx.txt",
+          "docxSha256": "272046515626397c6ff92a0afdd360b73766093442144487d58cb2e1faf7a526",
+          "textSha256": "429c77d4ed80515042b0022aee5e863779122b9002c6b04c6e3ef0e5e88655f5",
+          "chars": 8976
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/lamento-di-wade.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Lamento di Wade (primo anno del drago).docx",
+          "original": "non-wiki/fonti-originali/quip/Lamento di Wade (primo anno del drago).docx",
+          "extraction": "non-wiki/fonti-originali/quip/Lamento di Wade (primo anno del drago).docx.txt",
+          "docxSha256": "2321162add2d8548cd91656cef6a68a4b1eae2de829254964f2e408e0aa46dd3",
+          "textSha256": "7fdabb8a7ef679ae873f57243144e37c2509f84ce363c1360a795390f7991254",
+          "chars": 1078
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/misfit.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "18_ #Misfit.docx",
+          "original": "non-wiki/fonti-originali/quip/18_ #Misfit.docx",
+          "extraction": "non-wiki/fonti-originali/quip/18_ #Misfit.docx.txt",
+          "docxSha256": "fdca2a6a8ece7f23ee99290fde22c0baa5682513240fd722660696b149856617",
+          "textSha256": "ff592eac8821951cc99dbe51e6690dd327b757fbd78dac54d94af26cea68ccca",
+          "chars": 4840
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/mostri.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Mostri.docx",
+          "original": "non-wiki/fonti-originali/quip/Mostri.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Mostri.docx.txt",
+          "docxSha256": "d2d6750373ff7e75cc6c07d9d96f986c3c46f77364b1f83283ff3c7c612ccc28",
+          "textSha256": "009d004e5dadad3b26626b52204093f4e5ef6e5c29caa0b00989fc0d45756798",
+          "chars": 522
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/onda-bianca.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Onda bianca.docx",
+          "original": "non-wiki/fonti-originali/quip/Onda bianca.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Onda bianca.docx.txt",
+          "docxSha256": "ee04bf76dbdba1e1da056b52bb8bf8c485631c8cc3644a626dbf28fcf1bca916",
+          "textSha256": "f5af92b9f77c606b3dfbffe7a6d3f5a6d05bf67b0117b5a4274bfd6d2d2349b8",
+          "chars": 4509
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/pezzo-del-rituale-chimera.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Pezzo del rituale - Chimera.docx",
+          "original": "non-wiki/fonti-originali/quip/Pezzo del rituale - Chimera.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Pezzo del rituale - Chimera.docx.txt",
+          "docxSha256": "12e48f2da86b68f6c7a80ca2c891ee249f1407af7cc7d26ef68870c23d93ea3e",
+          "textSha256": "732d79d24ce0d87a062ca889501feb394532b4c9981491d818655eeb79e9c235",
+          "chars": 1065
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/prevedibilita-covata.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Prevedibilità (covata).docx",
+          "original": "non-wiki/fonti-originali/quip/Prevedibilità (covata).docx",
+          "extraction": "non-wiki/fonti-originali/quip/Prevedibilità (covata).docx.txt",
+          "docxSha256": "765643f302c2d2644e8ad216bab31dd1a21a00a8a8a2f95e446be160605d3693",
+          "textSha256": "7aaa7251c287c041f2e6abd3a43c140f76d041469c743693712b7687770112bb",
+          "chars": 10700
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/riflessioni.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Riflessioni.docx",
+          "original": "non-wiki/fonti-originali/quip/Riflessioni.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Riflessioni.docx.txt",
+          "docxSha256": "a8e1a81edf569f0c93fcf2a734c489c6f287168a7a9ca1c1cd062e673e65a595",
+          "textSha256": "07aaac3b6a3459f7f1854604e026e7dbc5e3bec705fb14df79682b6c7ed8084b",
+          "chars": 2101
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/risveglio-del-drago.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Risveglio del Drago.docx",
+          "original": "non-wiki/fonti-originali/quip/Risveglio del Drago.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Risveglio del Drago.docx.txt",
+          "docxSha256": "687fc73cf96100498b1dac09b45c8792b39c8fe91b9fb523843f56de890fe21d",
+          "textSha256": "0b7fdea820736e479c0855ed36a2cbf382fa46637cd7c572d17c48952a1a8426",
+          "chars": 4377
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/soffioni-uncinati-fonte.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Soffioni Uncinati.docx",
+          "original": "non-wiki/fonti-originali/quip/Soffioni Uncinati.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Soffioni Uncinati.docx.txt",
+          "docxSha256": "63a5a02a418fbbd17c7a380758d69a42439c29973b15f03ae5122188f6fd62e1",
+          "textSha256": "a2ced5180eeb5e2b5b66b484ddb70b42e32a4fe9a161e1eb9cfd177fe995f2c0",
+          "chars": 4146
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/solitudine.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Solitudine.docx",
+          "original": "non-wiki/fonti-originali/quip/Solitudine.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Solitudine.docx.txt",
+          "docxSha256": "ce7b7868d45013d37848d846e444542b054f199ca340605e4d7ac54a02c5312f",
+          "textSha256": "ec2ac2dcddd2c6ee75f48290bd8b19ad8a6e11821481c6fe713bbf768ae2a18c",
+          "chars": 6207
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/una-missiva-dall-anello.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "Una Missiva dall_Anello_.docx",
+          "original": "non-wiki/fonti-originali/quip/Una Missiva dall_Anello_.docx",
+          "extraction": "non-wiki/fonti-originali/quip/Una Missiva dall_Anello_.docx.txt",
+          "docxSha256": "200b39bc9f6e7c812256c774151a04f5b001113325676a4894522553e924e97f",
+          "textSha256": "4e987eb5145ac082da7e42b73b80bdae860e35c944385802c82911102277a79c",
+          "chars": 2152
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/list.md",
+      "status": "originale riscontrato",
+      "segments": [
+        {
+          "label": "#List.docx",
+          "original": "non-wiki/fonti-originali/quip/#List.docx",
+          "extraction": "non-wiki/fonti-originali/quip/#List.docx.txt",
+          "docxSha256": "e32fdaa41f74ec7f90ffd025ae3205a40a21a18fbe8c47566099d7641128d8d8",
+          "textSha256": "fe1fd46820771f064790631aa3e55e8405ab006c60ab2e776ec2c0d8e7fa41f1",
+          "chars": 87
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/inktober-2018.md",
+      "status": "parziale: originali mancanti",
+      "segments": [
+        {
+          "label": "Poisonous (1) & #Spell (4)",
+          "original": "non-wiki/fonti-originali/quip/#Poisonous (1) & #Spell (4).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Poisonous (1) & #Spell (4).docx.txt",
+          "docxSha256": "a18a748249f3469b7fc6d2136bdf31e31fa508fea66d02e84c570ed51a8a3feb",
+          "textSha256": "bde3879f66a15ea5ae2d451a9d120badb192a1826a1fa4709b6554d6584a8974",
+          "chars": 3719
+        },
+        {
+          "label": "Tranquil (2)",
+          "original": "non-wiki/fonti-originali/quip/#Tranquil (2).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Tranquil (2).docx.txt",
+          "docxSha256": "e5fbcb36c8f61192a09b21291f13133cd08be0077aa757a451ce9fd91f51b882",
+          "textSha256": "ea55961d467fc561f478536e0edfa10307998378bf62b841918c364a01f060cc",
+          "chars": 3898
+        },
+        {
+          "label": "Roasted (3)",
+          "original": "non-wiki/fonti-originali/quip/#Roasted (3).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Roasted (3).docx.txt",
+          "docxSha256": "8e931c4c22e09c4470fc60dbb6f954761fe7007ca682675df0ca28ed9b5ac074",
+          "textSha256": "2af5bf35d5174cd11f4f77c137e5581cacbf1c46bec6bc150f3a7b7ed6cc1eb6",
+          "chars": 2908
+        },
+        {
+          "label": "Chicken (5)",
+          "original": "non-wiki/fonti-originali/quip/#Chicken (5).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Chicken (5).docx.txt",
+          "docxSha256": "fd8ff981041e5f837266151483f756f40dc9847c7d3a34230441abd578b22cf2",
+          "textSha256": "6f469abe46a3e0171cd35f0bab13118c20709fc3c5e2d04f7f468d97a9dc47e0",
+          "chars": 3618
+        },
+        {
+          "label": "Drooling (6) & Exhausted (7)",
+          "original": "non-wiki/fonti-originali/quip/#Drooling (6) & Exhausted (7).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Drooling (6) & Exhausted (7).docx.txt",
+          "docxSha256": "09fb65ec381394111ffce06431e1a722d08c19b57aef2c615ac832cd627f563b",
+          "textSha256": "cac6257d921377a8040366d147fc1b79f9d3ae9235e8a99e347ffdd672c8413c",
+          "chars": 3610
+        },
+        {
+          "label": "Stars (8)",
+          "original": "non-wiki/fonti-originali/quip/#Stars (8).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Stars (8).docx.txt",
+          "docxSha256": "bc9184928cd21cde595a158a9b647da8f937fbed04db8e1a5c132f5799e03d0a",
+          "textSha256": "4fce6a85e55d39d8e0b22d51354c7553b7c12a7a8296c04d467de738434f7725",
+          "chars": 1946
+        },
+        {
+          "label": "Precious (9) (Giordano Paoli)",
+          "original": "non-wiki/fonti-originali/quip/#Precious (9).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Precious (9).docx.txt",
+          "docxSha256": "bc5e7672acba1d8d753fd6d08cef3566687ca3610615a39fc09bd8ea6a4c9625",
+          "textSha256": "8fea60477d0a166d533ab68e02375173f4a82d2bde953b2b781a6a6fb2f9c1ca",
+          "chars": 8942
+        },
+        {
+          "label": "Flowing (10)",
+          "status": "originale non recuperato; testo precedente conservato senza certificazione"
+        },
+        {
+          "label": "Cruel (11)",
+          "status": "originale non recuperato; testo precedente conservato senza certificazione"
+        },
+        {
+          "label": "Whale (12) (Andrea Ceravolo)",
+          "status": "originale non recuperato; testo precedente conservato senza certificazione"
+        },
+        {
+          "label": "Guarded (13)",
+          "original": "non-wiki/fonti-originali/quip/#Guarded.docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Guarded.docx.txt",
+          "docxSha256": "8d1286c571a5651caa9672e5d831f58fea3343b810eaa38988be6bf974de7035",
+          "textSha256": "9dff1d4d96e5d229aca9f16e8a21d93f5c11835f16e7dfec66ea2bff00a0463c",
+          "chars": 3196
+        },
+        {
+          "label": "Clock (14) & #Weak (15)",
+          "original": "non-wiki/fonti-originali/quip/#Clock (14) & #Weak (15).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Clock (14) & #Weak (15).docx.txt",
+          "docxSha256": "06d4960035001b8ba2354b268f20c064e6238094104f12e6405464714e93eb3a",
+          "textSha256": "69303f016332c8c6233ec32df425571b57ee14d6d8d1f26c9aea59215b614e4e",
+          "chars": 4415
+        },
+        {
+          "label": "Angular (16)",
+          "original": "non-wiki/fonti-originali/quip/#Angular (16).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Angular (16).docx.txt",
+          "docxSha256": "b7d81a91e53f1f2a66b891c06d1509a91761c3cd5abe56536bea9cd1c2a21358",
+          "textSha256": "8b7db0dafa5360e8892f3bb590716d05d88990b1e894c161acc8611d8967e815",
+          "chars": 3224
+        },
+        {
+          "label": "Swollen (17)",
+          "original": "non-wiki/fonti-originali/quip/#Swollen (17).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Swollen (17).docx.txt",
+          "docxSha256": "da5bbde5771d07f2676103086c24a21ed4506084a24ea2d76f08835063e6091c",
+          "textSha256": "b5a3606ea16b7715bf8d875cbc3dca5554bcd30b3d10c4e3846aa38469844c6b",
+          "chars": 3061
+        },
+        {
+          "label": "Bottle (18)",
+          "original": "non-wiki/fonti-originali/quip/#Bottle (18).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Bottle (18).docx.txt",
+          "docxSha256": "952ab9e66849c3ebce6705661f75af060eb5239bf1e31ec8c9705ea68e58449a",
+          "textSha256": "b4ab443b3d6d0c356a25ca418f6db055e24bee38133b82b24442b247ad33d07c",
+          "chars": 8096
+        },
+        {
+          "label": "Scorched (19)",
+          "original": "non-wiki/fonti-originali/quip/#Scorched (19).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Scorched (19).docx.txt",
+          "docxSha256": "4eb020f3e0abefcd29ab8f61093498f98ca32c6d29a66f220a7905fa059d03ac",
+          "textSha256": "4c9d96c54364f878b5240a795560e885d85ca86f1df21cec456b77594699cf1c",
+          "chars": 3763
+        },
+        {
+          "label": "19-2: #Scorched",
+          "original": "non-wiki/fonti-originali/quip/19_ #Scorched.docx",
+          "extraction": "non-wiki/fonti-originali/quip/19_ #Scorched.docx.txt",
+          "docxSha256": "cdd71ea8f666b7a36754f9ddd5496117cc744720414aadbf87cd614f47d88c66",
+          "textSha256": "fbaf2e724ea155932f9a1483125c0eea0a40e8adb078b573e6591ec9386653e1",
+          "chars": 6703
+        },
+        {
+          "label": "Breakable (20)",
+          "original": "non-wiki/fonti-originali/quip/#Breakable (20).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Breakable (20).docx.txt",
+          "docxSha256": "d045c094d57dc422794ec1457507dc55d10b9586f469e4b8f5e2f4881eabb066",
+          "textSha256": "1e257989b37644436d986d23ebfef9e72b77f4bb5e0564d4386d6df083691f15",
+          "chars": 2833
+        },
+        {
+          "label": "Drain (21)",
+          "original": "non-wiki/fonti-originali/quip/#Drain (21).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Drain (21).docx.txt",
+          "docxSha256": "1ac1fbf357b9492efeefffa6cdc780a1e304f93a4b952a49fc7037520a3e679a",
+          "textSha256": "abe8449999506c0652aaa2bb49973645885c2757c107747b391b05e64b45f671",
+          "chars": 3825
+        },
+        {
+          "label": "Expensive (22)",
+          "original": "non-wiki/fonti-originali/quip/#Expensive (21).docx",
+          "extraction": "non-wiki/fonti-originali/quip/#Expensive (21).docx.txt",
+          "docxSha256": "78ea9f19558c4776ff90153b1deb0a0ca4c892291f02a9a8aae8c3c29562b112",
+          "textSha256": "07b3fa0e49f506461f9e34f902628e39193d68256c8715289c609d3940692414",
+          "chars": 3267
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/inktober-2019.md",
+      "status": "parziale: originali mancanti",
+      "segments": [
+        {
+          "label": "Ring (1)",
+          "original": "non-wiki/fonti-originali/quip/1_ #Ring.docx",
+          "extraction": "non-wiki/fonti-originali/quip/1_ #Ring.docx.txt",
+          "docxSha256": "931de4308d3bbe2fea1f17bc742229aa00f0a5ec76b86b25cd8d8443b7e9289b",
+          "textSha256": "f74ab64b546c72bc4d296ed1b2de48d46c6315d13cbeff683e4464ad04c4f245",
+          "chars": 4709
+        },
+        {
+          "label": "Mindless (2)",
+          "original": "non-wiki/fonti-originali/quip/2_ #Mindless.docx",
+          "extraction": "non-wiki/fonti-originali/quip/2_ #Mindless.docx.txt",
+          "docxSha256": "38d7c2f0459caf840df04cb02fbdb7f9d19f4e7028029f8457596832925ef0e4",
+          "textSha256": "27736cb2562a0f28c548c6a8c56dbe6ce880d607bfa6abeeeefdbbb6de43d349",
+          "chars": 4680
+        },
+        {
+          "label": "Bait (3)",
+          "original": "non-wiki/fonti-originali/quip/3_ #Bait.docx",
+          "extraction": "non-wiki/fonti-originali/quip/3_ #Bait.docx.txt",
+          "docxSha256": "65f6b78ca516de5e3e3fd05b3face3f0c703bf24b7ca9e26561e5f789215e854",
+          "textSha256": "1614bcc562675e3a0005a39a19898574cc51a1e2f8f778a2b29f7edbeac3b33a",
+          "chars": 3924
+        },
+        {
+          "label": "Freeze (4)",
+          "original": "non-wiki/fonti-originali/quip/4_ #Freeze.docx",
+          "extraction": "non-wiki/fonti-originali/quip/4_ #Freeze.docx.txt",
+          "docxSha256": "08e08635c3ae021e0e3280c291a9604383e9e3639711efe843ab583b3622978d",
+          "textSha256": "b47cc54a9999e704c1be19d840cae5ab13d22ac77a1668e0f971ac9b017a2450",
+          "chars": 4950
+        },
+        {
+          "label": "Build (5)",
+          "original": "non-wiki/fonti-originali/quip/5_ #Build.docx",
+          "extraction": "non-wiki/fonti-originali/quip/5_ #Build.docx.txt",
+          "docxSha256": "0ab000e1495c97df732cc6d77c94c52fd61417e1831bd6d2acbc0d0a71e28725",
+          "textSha256": "b62056c4715fddb778c20e214c72c54be357d520717f73fe839b67ed6ebf7ae6",
+          "chars": 4899
+        },
+        {
+          "label": "Husky (6)",
+          "original": "non-wiki/fonti-originali/quip/6_ #Husky.docx",
+          "extraction": "non-wiki/fonti-originali/quip/6_ #Husky.docx.txt",
+          "docxSha256": "220061fd275ea2983ef724cd417c4b259bec6acb2a3b4387334b21a583b2da5d",
+          "textSha256": "66f06e270e1394c538a123a7d59793da09a0e03eca368c77c045fca0169a8fbd",
+          "chars": 3368
+        },
+        {
+          "label": "Enchanted (7)",
+          "original": "non-wiki/fonti-originali/quip/7_ #Enchanted.docx",
+          "extraction": "non-wiki/fonti-originali/quip/7_ #Enchanted.docx.txt",
+          "docxSha256": "f2bf8448a29efa45c9811464de791be27b95a4ba4907a5cf09699aeaa8d1ef91",
+          "textSha256": "f79d7eaf2b976f3bb04b3ff9d1de4400f1529377da630f1d7ac1177c9050685b",
+          "chars": 3411
+        },
+        {
+          "label": "Frail (8)",
+          "original": "non-wiki/fonti-originali/quip/8_ #Frail.docx",
+          "extraction": "non-wiki/fonti-originali/quip/8_ #Frail.docx.txt",
+          "docxSha256": "402be0d9e9614e3785ceb9834eb00553bf2cc5a8bdbf7aa990712cac11d784c8",
+          "textSha256": "2c7d54f465d49be68156161a0f9908b583b7326d892257ecf920af51e3979a29",
+          "chars": 3124
+        },
+        {
+          "label": "Swing (9)",
+          "original": "non-wiki/fonti-originali/quip/9_ #Swing.docx",
+          "extraction": "non-wiki/fonti-originali/quip/9_ #Swing.docx.txt",
+          "docxSha256": "705894a67baa5d2a769e11709f37e151ec19cd0316969e96e3c0ce9cf96e2f6e",
+          "textSha256": "e6f823defc8836ac879ee6c69b34afc16e39447a9573678f48321dbbe962eb98",
+          "chars": 8026
+        },
+        {
+          "label": "Pattern (10)",
+          "original": "non-wiki/fonti-originali/quip/10_ #Pattern.docx",
+          "extraction": "non-wiki/fonti-originali/quip/10_ #Pattern.docx.txt",
+          "docxSha256": "04a64efa3318a22a36075f26fc275ad1ec7ff4cc92148c57811fa6ec375f1f89",
+          "textSha256": "72148d7ff6d31f58886656299fb6a1c38f72377045a5d52b0dfb252ab0b3fd2d",
+          "chars": 8032
+        },
+        {
+          "label": "Snow (11)",
+          "original": "non-wiki/fonti-originali/quip/11_ #Snow.docx",
+          "extraction": "non-wiki/fonti-originali/quip/11_ #Snow.docx.txt",
+          "docxSha256": "1179879195abba688a90408141b422b8c0694f08ee9b81fefc5d902661f5f1e1",
+          "textSha256": "ac4b57f68e2d6d6453009d1954f9255ad4c1b4e88ee1d4ec1494b29a94385084",
+          "chars": 7351
+        },
+        {
+          "label": "Dragon (12)",
+          "original": "non-wiki/fonti-originali/quip/12_ #Dragon.docx",
+          "extraction": "non-wiki/fonti-originali/quip/12_ #Dragon.docx.txt",
+          "docxSha256": "7a6f522edd2819b46c841075b666d4a7178bc7323a0960fe3fd629301e7e0c22",
+          "textSha256": "255db7c8b10d22c2a6648d674c626e30815a4b4dbc7e84abdcffdd2ec530ea33",
+          "chars": 12128
+        },
+        {
+          "label": "Ash (13)",
+          "original": "non-wiki/fonti-originali/quip/13_ #Ash.docx",
+          "extraction": "non-wiki/fonti-originali/quip/13_ #Ash.docx.txt",
+          "docxSha256": "7cc576d6cb3a257093f46de4a9bb3aa9551056d043990642e64906614d5956af",
+          "textSha256": "3f892d9dfa924f311d770d096d72a9115ab9fe341fc03961766698adf2f229e7",
+          "chars": 3263
+        },
+        {
+          "label": "Overgrown (14)",
+          "original": "non-wiki/fonti-originali/quip/14_ #Overgrown.docx",
+          "extraction": "non-wiki/fonti-originali/quip/14_ #Overgrown.docx.txt",
+          "docxSha256": "c691ac96fbe845834aaba658669c2347c54180d7d35a6183753296adb05f1992",
+          "textSha256": "69fb37a9cac75b10f1ad56b8bcd85e21fa15242aa1c8afc999b8276911c0fc88",
+          "chars": 8723
+        },
+        {
+          "label": "Legend (15)",
+          "original": "non-wiki/fonti-originali/quip/15_ #Legend.docx",
+          "extraction": "non-wiki/fonti-originali/quip/15_ #Legend.docx.txt",
+          "docxSha256": "c099a8c20bb9ae258b3ee554e95b59980044095d50d438e8d4852a9c88f6e395",
+          "textSha256": "6cb05fad246fe5646f3eafb935df97352a9ef8bb3c34b6e61a9568b86e7bfbd5",
+          "chars": 6276
+        },
+        {
+          "label": "Wild (16)",
+          "original": "non-wiki/fonti-originali/quip/16_ #Wild.docx",
+          "extraction": "non-wiki/fonti-originali/quip/16_ #Wild.docx.txt",
+          "docxSha256": "2c880dbbc151033f29bbdf5214568abd303c7ea042fad70a162913a0d81a5e2b",
+          "textSha256": "31cbd4df564703f32f2dc430757eb84c7bc5160f34e6e60bf0dbe8e659c08765",
+          "chars": 4504
+        },
+        {
+          "label": "Ornament (17)",
+          "original": "non-wiki/fonti-originali/quip/17_ #Ornament.docx",
+          "extraction": "non-wiki/fonti-originali/quip/17_ #Ornament.docx.txt",
+          "docxSha256": "074544b856466acd96c17a5852b02809ee08002fcb2b4daa77a6927900b94a34",
+          "textSha256": "343d9508acf7654e391b22893a4e704e3f5c777caa6950d8f942039d442bc450",
+          "chars": 6561
+        },
+        {
+          "label": "Sling (19)",
+          "original": "non-wiki/fonti-originali/quip/19_ #Sling.docx",
+          "extraction": "non-wiki/fonti-originali/quip/19_ #Sling.docx.txt",
+          "docxSha256": "72b74053410218cd89649415084e158ebcd12df6cdc40acc6fa619f492b27029",
+          "textSha256": "8052c1f28ce2aafb703a50b6ae8e7305ee60f18cece9b03b36c3991e4b16586f",
+          "chars": 6334
+        },
+        {
+          "label": "Tread (20)",
+          "original": "non-wiki/fonti-originali/quip/20_ #Tread.docx",
+          "extraction": "non-wiki/fonti-originali/quip/20_ #Tread.docx.txt",
+          "docxSha256": "d7796132a9c2aa802a15ac11fc8560cc131114fdf4d5cd2accd098adaec102ea",
+          "textSha256": "0065709f76cee46a72d2c29818910a3e11699c147a2e3478854f6466fbe9b2b3",
+          "chars": 2815
+        },
+        {
+          "label": "Treasure (21)",
+          "original": "non-wiki/fonti-originali/quip/21_ #Treasure.docx",
+          "extraction": "non-wiki/fonti-originali/quip/21_ #Treasure.docx.txt",
+          "docxSha256": "92bfb7783001ccf0b55bdffa3d3c9e74a31a5628a3cefe8d8d04fb00b81d3ebe",
+          "textSha256": "651d805fd89e24c0e945a3b94d79382737f1c4bfd7e99f096161962a923c7cca",
+          "chars": 5594
+        },
+        {
+          "label": "Ghost (22)",
+          "original": "non-wiki/fonti-originali/quip/22_ #Ghost.docx",
+          "extraction": "non-wiki/fonti-originali/quip/22_ #Ghost.docx.txt",
+          "docxSha256": "c2c8c8bd37050284aa9246766b44c7a87a929c48a401ca9c181bc4cdf66a6b88",
+          "textSha256": "e5e72dcb9e4472c5a9a8724bb79920205c6444b94ce342e6e72b398b9c9d993c",
+          "chars": 5039
+        },
+        {
+          "label": "Ancient (23)",
+          "original": "non-wiki/fonti-originali/quip/23_ #Ancient.docx",
+          "extraction": "non-wiki/fonti-originali/quip/23_ #Ancient.docx.txt",
+          "docxSha256": "014aecd3165ba7c5a92aa1dbb90beddcdc049275b620b1fea2f7eca3f3981979",
+          "textSha256": "8f5bbded8476a25de2264febd0a2851af3b925aa63b959fb2271056538eef4e0",
+          "chars": 5644
+        },
+        {
+          "label": "Dizzy (24)",
+          "original": "non-wiki/fonti-originali/quip/24_ #Dizzy.docx",
+          "extraction": "non-wiki/fonti-originali/quip/24_ #Dizzy.docx.txt",
+          "docxSha256": "5c8078ebe88ff853a1ff7ebbcefb8da2f6a8436bf41eb7994ff7a6b60bd943bb",
+          "textSha256": "e89ad0af9760653c85a6958689a66cbf09725dc8331f0817d5211456cb06b2e5",
+          "chars": 4480
+        },
+        {
+          "label": "Tasty (25)",
+          "status": "originale non recuperato; testo precedente conservato senza certificazione"
+        }
+      ]
+    },
+    {
+      "page": "content/fonti/inktober-2024.md",
+      "status": "originali riscontrati",
+      "segments": [
+        {
+          "label": "Backpack (1)",
+          "original": "non-wiki/fonti-originali/quip/#1 Backpack.docx",
+          "extraction": "non-wiki/fonti-originali/quip/#1 Backpack.docx.txt",
+          "docxSha256": "b33fb4a4fc664ef5cdf0018d1f3adcc2f2a2649cb93b3fb79e452731fe11ae09",
+          "textSha256": "38ae73e10710ea5482f8088c38aeedac39ccd85ef7213d0e2df7cc6562dea820",
+          "chars": 3011
+        },
+        {
+          "label": "Discover (2)",
+          "original": "non-wiki/fonti-originali/quip/#2 Discover.docx",
+          "extraction": "non-wiki/fonti-originali/quip/#2 Discover.docx.txt",
+          "docxSha256": "8d4fd315a8ff60499d368481e6b1dd53db8ff17a3bddf1cc0b4243d91cc1d3c6",
+          "textSha256": "5a35b22a20a1e558bf0da01af5120c2cfdd1231efa164977eb146a7c3384d493",
+          "chars": 2790
+        },
+        {
+          "label": "Boots (3)",
+          "original": "non-wiki/fonti-originali/quip/#3 Boots.docx",
+          "extraction": "non-wiki/fonti-originali/quip/#3 Boots.docx.txt",
+          "docxSha256": "ef79def5e2c90c1acdc4d37d6b80684f3a92e79bc785b6b4240cdce67e697a47",
+          "textSha256": "1b4949212939e305185515ae9351b0c5320903c867047851be2a6bd055ce4547",
+          "chars": 1998
+        },
+        {
+          "label": "Exotic (4)",
+          "original": "non-wiki/fonti-originali/quip/#4 Exotic.docx",
+          "extraction": "non-wiki/fonti-originali/quip/#4 Exotic.docx.txt",
+          "docxSha256": "b9eed535425961c0243ece6f3ff2c5f3f1c63adb77515eaf5b43415e7d3432b6",
+          "textSha256": "25ac77437180ff854fb3692ac5eb67bfdfbb77b6992ba8e1dffcdec567e38411",
+          "chars": 3427
+        },
+        {
+          "label": "Binoculars (5)",
+          "original": "non-wiki/fonti-originali/quip/#5 Binoculars.docx",
+          "extraction": "non-wiki/fonti-originali/quip/#5 Binoculars.docx.txt",
+          "docxSha256": "49c6b17ef6e0cf66f545870e0947ff8f44ddd6c8c5228190ac4d8f34d584a200",
+          "textSha256": "7d89604990290577df1e40f7b5aec6410e3a11a0ad6bdccb9fdfb7f8eec1ccf3",
+          "chars": 4988
+        },
+        {
+          "label": "Trek (6)",
+          "original": "non-wiki/fonti-originali/quip/#6 Trek.docx",
+          "extraction": "non-wiki/fonti-originali/quip/#6 Trek.docx.txt",
+          "docxSha256": "28da51ae0bc872bae591a5827bb74810accbeaf37828f483d82dcb8b866fcf32",
+          "textSha256": "c2089383c9684dd4d1f8eb2dce65293aaff3cddbeb73af3195203f294c768ffb",
+          "chars": 4288
+        },
+        {
+          "label": "Passport (7)",
+          "original": "non-wiki/fonti-originali/quip/#7 Passport.docx",
+          "extraction": "non-wiki/fonti-originali/quip/#7 Passport.docx.txt",
+          "docxSha256": "e8d344befd0d482d481d64d909966b8a23677e1ea42047d9c37264422537d8ff",
+          "textSha256": "c49fa7d74602993d59fb7d7ec682d1667e079acfe01bfcc01f583d50926d0f15",
+          "chars": 5043
+        },
+        {
+          "label": "Hile (8) & #Sun (9)",
+          "original": "non-wiki/fonti-originali/quip/#8 Hike & #9 Sun.docx",
+          "extraction": "non-wiki/fonti-originali/quip/#8 Hike & #9 Sun.docx.txt",
+          "docxSha256": "b7b7385f78b818e60a6414f087fb14087b89a94ae507ec77f20e320239a15586",
+          "textSha256": "f5806f728916567c3b3a575af5a534564199fc6bdd0c9f220bf89c75e9c5350a",
+          "chars": 3534
+        }
+      ]
+    }
+  ],
+  "originals": [
+    {
+      "file": "#1 Backpack.docx",
+      "sha256": "b33fb4a4fc664ef5cdf0018d1f3adcc2f2a2649cb93b3fb79e452731fe11ae09",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#2 Discover.docx",
+      "sha256": "8d4fd315a8ff60499d368481e6b1dd53db8ff17a3bddf1cc0b4243d91cc1d3c6",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#3 Boots.docx",
+      "sha256": "ef79def5e2c90c1acdc4d37d6b80684f3a92e79bc785b6b4240cdce67e697a47",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#4 Exotic.docx",
+      "sha256": "b9eed535425961c0243ece6f3ff2c5f3f1c63adb77515eaf5b43415e7d3432b6",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#5 Binoculars.docx",
+      "sha256": "49c6b17ef6e0cf66f545870e0947ff8f44ddd6c8c5228190ac4d8f34d584a200",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#6 Trek.docx",
+      "sha256": "28da51ae0bc872bae591a5827bb74810accbeaf37828f483d82dcb8b866fcf32",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#7 Passport.docx",
+      "sha256": "e8d344befd0d482d481d64d909966b8a23677e1ea42047d9c37264422537d8ff",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#8 Hike & #9 Sun.docx",
+      "sha256": "b7b7385f78b818e60a6414f087fb14087b89a94ae507ec77f20e320239a15586",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Angular (16).docx",
+      "sha256": "b7d81a91e53f1f2a66b891c06d1509a91761c3cd5abe56536bea9cd1c2a21358",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Bottle (18).docx",
+      "sha256": "952ab9e66849c3ebce6705661f75af060eb5239bf1e31ec8c9705ea68e58449a",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Breakable (20).docx",
+      "sha256": "d045c094d57dc422794ec1457507dc55d10b9586f469e4b8f5e2f4881eabb066",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Chicken (5).docx",
+      "sha256": "fd8ff981041e5f837266151483f756f40dc9847c7d3a34230441abd578b22cf2",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Clock (14) & #Weak (15).docx",
+      "sha256": "06d4960035001b8ba2354b268f20c064e6238094104f12e6405464714e93eb3a",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Drain (21).docx",
+      "sha256": "1ac1fbf357b9492efeefffa6cdc780a1e304f93a4b952a49fc7037520a3e679a",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Drooling (6) & Exhausted (7).docx",
+      "sha256": "09fb65ec381394111ffce06431e1a722d08c19b57aef2c615ac832cd627f563b",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Expensive (21).docx",
+      "sha256": "78ea9f19558c4776ff90153b1deb0a0ca4c892291f02a9a8aae8c3c29562b112",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Guarded.docx",
+      "sha256": "8d1286c571a5651caa9672e5d831f58fea3343b810eaa38988be6bf974de7035",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#List.docx",
+      "sha256": "e32fdaa41f74ec7f90ffd025ae3205a40a21a18fbe8c47566099d7641128d8d8",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Poisonous (1) & #Spell (4).docx",
+      "sha256": "a18a748249f3469b7fc6d2136bdf31e31fa508fea66d02e84c570ed51a8a3feb",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Precious (9).docx",
+      "sha256": "bc5e7672acba1d8d753fd6d08cef3566687ca3610615a39fc09bd8ea6a4c9625",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Roasted (3).docx",
+      "sha256": "8e931c4c22e09c4470fc60dbb6f954761fe7007ca682675df0ca28ed9b5ac074",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Scorched (19).docx",
+      "sha256": "4eb020f3e0abefcd29ab8f61093498f98ca32c6d29a66f220a7905fa059d03ac",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Stars (8).docx",
+      "sha256": "bc9184928cd21cde595a158a9b647da8f937fbed04db8e1a5c132f5799e03d0a",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Swollen (17).docx",
+      "sha256": "da5bbde5771d07f2676103086c24a21ed4506084a24ea2d76f08835063e6091c",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "#Tranquil (2).docx",
+      "sha256": "e5fbcb36c8f61192a09b21291f13133cd08be0077aa757a451ce9fd91f51b882",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "10_ #Pattern.docx",
+      "sha256": "04a64efa3318a22a36075f26fc275ad1ec7ff4cc92148c57811fa6ec375f1f89",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "11_ #Snow.docx",
+      "sha256": "1179879195abba688a90408141b422b8c0694f08ee9b81fefc5d902661f5f1e1",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "12_ #Dragon.docx",
+      "sha256": "7a6f522edd2819b46c841075b666d4a7178bc7323a0960fe3fd629301e7e0c22",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "13_ #Ash.docx",
+      "sha256": "7cc576d6cb3a257093f46de4a9bb3aa9551056d043990642e64906614d5956af",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "14_ #Overgrown.docx",
+      "sha256": "c691ac96fbe845834aaba658669c2347c54180d7d35a6183753296adb05f1992",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "15_ #Legend.docx",
+      "sha256": "c099a8c20bb9ae258b3ee554e95b59980044095d50d438e8d4852a9c88f6e395",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "16_ #Wild.docx",
+      "sha256": "2c880dbbc151033f29bbdf5214568abd303c7ea042fad70a162913a0d81a5e2b",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "17_ #Ornament.docx",
+      "sha256": "074544b856466acd96c17a5852b02809ee08002fcb2b4daa77a6927900b94a34",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "18_ #Misfit.docx",
+      "sha256": "fdca2a6a8ece7f23ee99290fde22c0baa5682513240fd722660696b149856617",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "19_ #Scorched.docx",
+      "sha256": "cdd71ea8f666b7a36754f9ddd5496117cc744720414aadbf87cd614f47d88c66",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "19_ #Sling.docx",
+      "sha256": "72b74053410218cd89649415084e158ebcd12df6cdc40acc6fa619f492b27029",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "1_ #Ring.docx",
+      "sha256": "931de4308d3bbe2fea1f17bc742229aa00f0a5ec76b86b25cd8d8443b7e9289b",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "20_ #Tread.docx",
+      "sha256": "d7796132a9c2aa802a15ac11fc8560cc131114fdf4d5cd2accd098adaec102ea",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "21_ #Treasure.docx",
+      "sha256": "92bfb7783001ccf0b55bdffa3d3c9e74a31a5628a3cefe8d8d04fb00b81d3ebe",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "22_ #Ghost.docx",
+      "sha256": "c2c8c8bd37050284aa9246766b44c7a87a929c48a401ca9c181bc4cdf66a6b88",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "23_ #Ancient.docx",
+      "sha256": "014aecd3165ba7c5a92aa1dbb90beddcdc049275b620b1fea2f7eca3f3981979",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "24_ #Dizzy.docx",
+      "sha256": "5c8078ebe88ff853a1ff7ebbcefb8da2f6a8436bf41eb7994ff7a6b60bd943bb",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "2_ #Mindless.docx",
+      "sha256": "38d7c2f0459caf840df04cb02fbdb7f9d19f4e7028029f8457596832925ef0e4",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "3_ #Bait.docx",
+      "sha256": "65f6b78ca516de5e3e3fd05b3face3f0c703bf24b7ca9e26561e5f789215e854",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "4_ #Freeze.docx",
+      "sha256": "08e08635c3ae021e0e3280c291a9604383e9e3639711efe843ab583b3622978d",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "5_ #Build.docx",
+      "sha256": "0ab000e1495c97df732cc6d77c94c52fd61417e1831bd6d2acbc0d0a71e28725",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "6_ #Husky.docx",
+      "sha256": "220061fd275ea2983ef724cd417c4b259bec6acb2a3b4387334b21a583b2da5d",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "7_ #Enchanted.docx",
+      "sha256": "f2bf8448a29efa45c9811464de791be27b95a4ba4907a5cf09699aeaa8d1ef91",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "8_ #Frail.docx",
+      "sha256": "402be0d9e9614e3785ceb9834eb00553bf2cc5a8bdbf7aa990712cac11d784c8",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "9_ #Swing.docx",
+      "sha256": "705894a67baa5d2a769e11709f37e151ec19cd0316969e96e3c0ce9cf96e2f6e",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Annali dell_Artiglio di Fuoco - Intro.docx",
+      "sha256": "c8961338d73c4653105b9b9be066bbfd0e245462aff40e870da1ffc326114a2c",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Bacche Emofaghe.docx",
+      "sha256": "ec6fca24204969f75ff6bef788830b3f576e2a156423fd0ce31a3c5b1e114cdf",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Canzoni degli Umani.docx",
+      "sha256": "c387e4532b556fdfc8b5a425efb14d89d9e53994f15d06920ff22e8263a0e8fd",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Cronistoria del Kindsgard (versione breve).docx",
+      "sha256": "e6489539219832937bd5cc8d8a420fe17fa60d993a71c5a1bc27fbb0081d6fcc",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Deflecte Cantum (il ritorno dei Draghieri).docx",
+      "sha256": "eae5efb96e5545bb2468e5b60b846a8368ba2b5a82395ac87d4ccd829d32b46d",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Di Una Dea chiamata Natura, e del suo Giardino (La storia completa del Kindsgard dalla penna di Dominic Draco).docx",
+      "sha256": "df8797f31e66428c0cf7380348aba1deb977834fa806631e3cadded613671e0c",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Draghieri FULL OOC PIETRO.docx",
+      "sha256": "5c94769f50a9e00e0c975e4a526065223e071e082ff13f4441664b9eba4d82cf",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Draghieri _ Vere Fiere del Kindsgard.docx",
+      "sha256": "d9181c868f1b2631c9a4fc6c1e28e02277529c2224a3202b67e208a9b3cf6275",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Draghieri del Kindsgard (spiegazione).docx",
+      "sha256": "af66dc553345e8f1cd8d83221b0c93083d60149ddc598691d210d454b05f2511",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Elenco Draghieri Conosciuti.docx",
+      "sha256": "c4f7383f7adbfdb151984ef4b9b8405d5aea8280b9f1a0ff01542e12ebbd658b",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Fierezza.docx",
+      "sha256": "474f977e88884febffa926d056343b0b9e261fc92687e32dbf03a6263cebae0e",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Fierezza_ il Dio che è in noi.docx",
+      "sha256": "f93e96060044d4bed1233bfedcb2612c20107001dffc71574c51f2cb512ff311",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "I Draghieri del kindsgard (ciò che sanno i draghieri).docx",
+      "sha256": "d8abee5c8935b0977d43fbef030174cafe98ed69ae51aa6880e33dd82e5306e3",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Il Trattato (Wendy Wyrm).docx",
+      "sha256": "2f47f846c204e57b1f5862d3fff211ff02b233caf718d466b048df65af67508c",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "L'Animale Uomo.docx",
+      "sha256": "871a60d57eb4e390dedf4c94be850d386b5a2fa97c758966cb3fd5095906e30d",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "L'ultima notte all'ombra dell'Anello.docx",
+      "sha256": "5fc26520fcb34eeb1e5ffb711bd841c087188f4ecd582e36182593c0a1c8c3fd",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "L_esodo.docx",
+      "sha256": "21ee6637a5d9a43ece37be84f7f928dd130e568e9f34a51672530f572d3eecf2",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "La natura di Natura.docx",
+      "sha256": "272046515626397c6ff92a0afdd360b73766093442144487d58cb2e1faf7a526",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Lamento di Wade (primo anno del drago).docx",
+      "sha256": "2321162add2d8548cd91656cef6a68a4b1eae2de829254964f2e408e0aa46dd3",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "L’Ambientazione Onnisciente dei Draghieri (Cronistoria di vilegis).docx",
+      "sha256": "87ab86e30162d6102596ac8ad7ab6211b2d472248f64d3cf5f0c0b66b416c56a",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Mostri.docx",
+      "sha256": "d2d6750373ff7e75cc6c07d9d96f986c3c46f77364b1f83283ff3c7c612ccc28",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Onda bianca.docx",
+      "sha256": "ee04bf76dbdba1e1da056b52bb8bf8c485631c8cc3644a626dbf28fcf1bca916",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Pezzo del rituale - Chimera.docx",
+      "sha256": "12e48f2da86b68f6c7a80ca2c891ee249f1407af7cc7d26ef68870c23d93ea3e",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Prevedibilità (covata).docx",
+      "sha256": "765643f302c2d2644e8ad216bab31dd1a21a00a8a8a2f95e446be160605d3693",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Riflessioni.docx",
+      "sha256": "a8e1a81edf569f0c93fcf2a734c489c6f287168a7a9ca1c1cd062e673e65a595",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Risveglio del Drago.docx",
+      "sha256": "687fc73cf96100498b1dac09b45c8792b39c8fe91b9fb523843f56de890fe21d",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "SPIEGAZIONE COMPLETA OOC DELL_AMBIENTAZIONE DRAGHIERI.docx",
+      "sha256": "13c33a5a3eb09dae9812b42599301120f195477b8c04589075bfcd1cd6933e77",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "So You Wanna Be A Dragoneer.docx",
+      "sha256": "554760fcabca62013d9835066ca1903fc7bcf96a05edb48ceef08bfc98e19005",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "So You Wanna be a Dragoneer (2).docx",
+      "sha256": "5e72f36961248923e254bf2046e9343ccda06bca7a049a3614ef221dae8cb444",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Soffioni Uncinati.docx",
+      "sha256": "63a5a02a418fbbd17c7a380758d69a42439c29973b15f03ae5122188f6fd62e1",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Solitudine.docx",
+      "sha256": "ce7b7868d45013d37848d846e444542b054f199ca340605e4d7ac54a02c5312f",
+      "availability": "repository, fuori dal sito"
+    },
+    {
+      "file": "Una Missiva dall_Anello_.docx",
+      "sha256": "200b39bc9f6e7c812256c774151a04f5b001113325676a4894522553e924e97f",
+      "availability": "repository, fuori dal sito"
+    }
+  ],
+  "unrestored": [
+    "Inktober 2018 Flowing",
+    "Inktober 2018 Cruel",
+    "Inktober 2018 Whale",
+    "Inktober 2019 Tasty"
+  ],
+  "nonNormativeVariants": [
+    "All new order (song)",
+    "Di Una Dea chiamata Natura",
+    "The song"
+  ],
+  "nonNormativeVariantsPublication": "repository non-wiki, come copie distinte autorizzate dal proprietario",
+  "ownerDecisions": [
+    "Pubblicazione esplicita degli 82 DOCX, estrazioni e commenti autorizzata",
+    "C10: sei procedimenti di Espediente, dopo controllo Deflecte Cantum",
+    "Dismissione Artigli solo accennata; nessuna quantità precisata"
+  ],
+  "originalsArchive": "non-wiki/fonti-originali-2026-11-02.zip",
+  "archiveSha256": "d5172c212b5878302c72cc17f734e066344bcd3524d26667f979b14221a17a0e"
+}

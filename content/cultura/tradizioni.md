@@ -4,14 +4,16 @@ categoria: "cultura"
 tag: [cultura, tradizioni, canti, motti, rituali]
 status: "revisionato"
 ultima_modifica: "2026-11-02"
-fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_Wade", "Annali_dell_Artiglio_di_Fuoco", "Pezzo_del_rituale_-_Chimera", "Inktober_2018", "Inktober_2019", "Inktober_2024", "Una_Missiva_dall_Anello"]
+fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_Wade", "Annali_dell_Artiglio_di_Fuoco", "Pezzo_del_rituale_-_Chimera", "Inktober_2018", "Inktober_2019", "Inktober_2024", "Una_Missiva_dall_Anello", "Draghieri_Vere_Fiere_del_Kindsgard"]
 ---
 
 # Tradizioni, Canti e Motti
 
 > *"Ab Necessitate Excusi" — Giustificati dalla Necessità.*
 >
-> *"Dal Fuoco alla Vita"* — formula attestata nella copia recuperata degli *Annali dell'Artiglio di Fuoco - Intro* (archivio collegato; non ancora pubblicata in GitHub).
+> — Saluto dei Draghieri, pronunciato in [[fonti/inktober-2019|Inktober 2019 — #Ash]].
+>
+> *"Dal Fuoco alla Vita"* — formula attestata nella copia recuperata degli *Annali dell'Artiglio di Fuoco - Intro* (originale conservato nel pacchetto non-wiki).
 
 ---
 
@@ -21,9 +23,9 @@ fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_
 
 **"Dal Fuoco alla Vita"** — Formula attestata direttamente negli *Annali dell'Artiglio di Fuoco - Intro*, firmati Syrus Salamander V, letti nell'archivio collegato. Il legame interpretativo con il [[Il Battesimo del Fuoco|Battesimo del Fuoco]] e l'uso come motto universale dei Draghieri **non** sono esplicitati dalla fonte.
 
-**"Omnia praedae fieri Potest"** — *Tutto può diventare preda.* Motto attribuito dalla sintesi wiki ai Draghieri e alle [[Vere Fiere]], ma non rintracciato nelle fonti primarie disponibili. Non presentare l'attribuzione condivisa come verificata.
+**"Omnia praedae fieri Potest"** — *Tutto può diventare preda.* Il documento originale **Draghieri / Vere Fiere del Kindsgard**, recuperato nell’archivio Quip, affianca «Ab Necessitate Excusi» e «Omnia praedae fìeri Potest» nell’ordine delle due fazioni. L’attestazione è ora positiva; non prova che entrambi i motti siano usati indifferentemente da tutti i gruppi. La grafia accentata è quella del documento.
 
-**Nota di provenienza:** gli *Annali dell'Artiglio di Fuoco - Intro*, recuperati e letti nell'archivio collegato ma non ancora importati nei 29 file fonte GitHub, attestano «Dal Fuoco alla Vita». Per «Omnia praedae fieri Potest» manca tuttora un'attestazione primaria. Le due versioni della guida D4 rintracciate negli archivi esterni non sono ancora riconciliate con il file legacy esatto.
+**Nota di provenienza:** gli *Annali dell'Artiglio di Fuoco - Intro*, recuperati e letti nell'archivio collegato ma non ancora importati nei 29 file fonte GitHub, attestano «Dal Fuoco alla Vita». Per il nuovo riscontro di Omnia vedi sopra. Le due versioni della guida D4 rintracciate negli archivi esterni non sono ancora riconciliate con il file legacy esatto.
 
 **"Deflecte Cantum"** — *Devia il Canto.* In `Inktober 2024 #Passport` è un augurio rivolto **da un Umano a Dani**, sul Kindsgard, al termine di un controllo sanitario. La scena non documenta un saluto esclusivo dei Draghieri né lo colloca su Vilegis: *"Deflecte Cantum, Dani. Resisti."* (`Inktober 2024 #Passport`).
 

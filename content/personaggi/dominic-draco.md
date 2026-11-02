@@ -11,6 +11,8 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artigli
 # Dominic Draco
 
 > *Primo Draghiere. Primo Re. Unico Guardiano. L'ago della bilancia che ha scelto di essere la bilancia stessa.*
+>
+> — Sintesi redazionale, non battuta attribuita a un personaggio.
 
 ---
 
@@ -62,7 +64,7 @@ Nel racconto `Solitudine`, **Draco dichiara di provare pietà**, mentre la Vera 
 
 ## L'Ascesa a Re Draco
 
-Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi **(dettaglio della ricostruzione wiki non attestato nei testi qui confrontati)**, Dominic la usò per uccidere i **13 Guardiani del Kindsgard**. `Inktober 2019 #Legend` attesta che erano incarnati fra Draghieri, Fiere e Vere Fiere; la composizione completa e l'identità di tutti i Guardiani restano aperte (L17). La fonte parla di tredici scintille di potere raccolte dall'arma. La loro identificazione puntuale con i vettori citati nella canzone e con il Fondamento è una lettura della ricostruzione wiki, non un'equivalenza esplicitata dal testo. Dominic ne assorbì il potere uno per uno.
+Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** attraverso **sei procedimenti**, confermati dal proprietario e dal riscontro di Deflecte Cantum (C10), Dominic la usò per uccidere i **13 Guardiani del Kindsgard**. `Inktober 2019 #Legend` attesta che erano incarnati fra Draghieri, Fiere e Vere Fiere; la composizione completa e l'identità di tutti i Guardiani restano aperte (L17). La fonte parla di tredici scintille di potere raccolte dall'arma. La loro identificazione puntuale con i vettori citati nella canzone e con il Fondamento è una lettura della ricostruzione wiki, non un'equivalenza esplicitata dal testo. Dominic ne assorbì il potere uno per uno.
 
 Con l'assorbimento del tredicesimo potere, Dominic diventò **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice del potere raccolto dai tredici Guardiani descritti in `Inktober 2019 #Legend`. La lettura secondo cui questo potere coincide con i vettori legati al Fondamento resta interpretativa; non equivale a identificare il Fondamento di Vilegis/Lunaria con la cosmologia originaria del Kindsgard.
 
@@ -74,7 +76,7 @@ Come Re Draco:
 - Le Vere Fiere persero il potere e tornarono Umani semplici. `18___Misfit` è coerente con la regola generale: Wendy Wyrm è chiamata «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge», al passato. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, ma non afferma che conservi il potere; L16 è stata risolta documentalmente.
 - I Draghieri non le eliminarono (il loro Istinto non le riconosce come minaccia in forma umana)
 - Draco fondò le **città** per mettere al sicuro gli Umani. Questa scelta violava la legge del Giardino secondo cui tutto deve combattere e apriva un nuovo problema cosmologico; il potere ormai concentrato in Draco gli impediva di coglierne pienamente le conseguenze.
-- Dismise gran parte degli Artigli, ormai superflui con un regno stabile
+- La dismissione degli Artigli è solo accennata; quantità e modalità non sono precisate (C10)
 - Regna sul Giardino con l'aiuto dei Draghieri
 
 Nel racconto `18___Misfit`, Re Draco è descritto mentre pattuglia da solo le mura della tredicesima cinta, nell'armatura nera e scarlatta, con le corna sull'elmo, con "lo sguardo stanco, pieno di rammarico" — il peso di un essere che ha scelto consapevolmente la propria condanna per salvare il mondo.
@@ -89,7 +91,7 @@ Come Re, Dominic porta in `Misfit` un’armatura nera e scarlatta e corna sul ca
 
 ## Limiti della ricostruzione
 
-La dismissione di gran parte degli Artigli e i dettagli del nuovo problema cosmologico del Re sono conservati dalla ricostruzione wiki, ma non risultano dimostrati dai passi confrontati in questa revisione. `Misfit` e `#Clock/#Weak` attestano singole ex-Vere Fiere e `#Legend` la raccolta delle scintille: non provano da soli ogni conseguenza universale attribuita all’ascesa di Draco. Vedi [[Esito dell’audit documentale]] per i residui documentali distinti dalle decisioni già confermate.
+La dismissione degli Artigli è confermata dal proprietario soltanto come evento accennato (C10), senza quantità, modalità o data precisa. I dettagli del nuovo problema cosmologico del Re restano una ricostruzione non completamente dimostrata. `Misfit` e `#Clock/#Weak` attestano singole ex-Vere Fiere e `#Legend` la raccolta delle scintille: non provano da soli ogni conseguenza universale attribuita all’ascesa di Draco. Vedi [[Esito dell’audit documentale]] per i residui documentali distinti dalle decisioni già confermate.
 
 ## Relazioni
 - Collegato a: [[Draghieri]], [[Vere Fiere]], [[Anello di Fuoco]], [[Fierezza e Maestà]], [[Fondamento]]

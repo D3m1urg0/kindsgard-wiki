@@ -9,7 +9,9 @@ fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2024"]
 
 # Città-Alveare
 
-> *"L'Artiglio Sepolto delle Catene Montuose Orientali" — un presidio complesso del Kindsgard orientale.*
+> *“Artiglio Sepolto delle Catene Montuose Orientali”*
+>
+> — Denominazione riportata dal narratore in [[fonti/prevedibilita-covata|Prevedibilità (covata)]].
 
 ---
 

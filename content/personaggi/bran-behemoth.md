@@ -9,7 +9,9 @@ fonti: ["Inktober_2019", "Inktober_2018", "Prevedibilità__covata_", "Onda_bianc
 
 # Bran Behemoth
 
-> *"Fatto."*
+> *“Fatto.”*
+>
+> — Bran Behemoth, in [[fonti/prevedibilita-covata|Prevedibilità (covata)]].
 
 ---
 

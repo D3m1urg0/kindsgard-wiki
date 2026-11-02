@@ -8,13 +8,23 @@ ultima_modifica: "2026-11-02"
 
 # Domande Aperte e Lacune
 
+**Conferma successiva del proprietario — C10:** il verso originale di Deflecte Cantum riporta sei; i procedimenti di Espediente sono quindi **sei**, ora descritti nel registro [[Fonti e Decisioni Canoniche]]. Nessun settimo procedimento da cercare. Dismissione degli Artigli confermata soltanto come accenno, senza quantità o cronologia precisate. Questo esito supera le precedenti formule storiche sui sette processi non documentati.
+
+## Esiti successivi al recupero Quip — 2026-11-02
+
+- **L11 risolta nell’identificazione:** recuperato il file originale Draghieri / Vere Fiere del Kindsgard. Contiene anche Omnia praedae fìeri Potest, ora attestato. Le vecchie righe «non identificato/non attestato» sono storiche, non stato corrente; rimosso il punto dalla sintesi delle domande al proprietario.
+- **L4/L22, risoluzione parziale:** la Cronistoria Onnisciente attesta 100:1 nella fase successiva a Istica, Ishvard/Karsh e due Battesimi nel **Primo Secolo dell’Orso**. Non li trasferisce nel Primo Anno dell’Orso. Il nuovo documento è una redazione distinta dalle quattro precedenti candidate.
+- **L22 residua dopo C10:** restano non precisati quantità, modalità e tempi dell’accenno alla dismissione degli Artigli e alcune conseguenze universali del regno. I procedimenti sono **sei**, tutti descritti dal proprietario: nessun settimo mancante.
+- **Fedeltà delle fonti:** 29 pagine confrontate con gli originali Quip, 74 segmenti trascritti fedelmente; quattro episodi mancanti conservati senza certificazione. Dettagli in [[Ripristino e fedeltà delle fonti]].
+
+
 ## Aggiornamento dei riscontri — 2026-11-02
 
 La matrice corrente è in [[Esito dell’audit documentale]]. Le quattro redazioni candidate D3/D4 sono state effettivamente consultate e confrontate in questa tranche; le formule storiche «non reperibili» non descrivono più il recupero, ma resta aperta l’identità/versione normativa. La spiegazione OOC **già pubblicata** attesta Mondo Ancora, Rocca, Atlantis e Anarion: non dipendono esclusivamente da fonti private. Il riflesso generale del Fondamento richiede ancora una prova della sua formulazione precisa.
 
 ### L22 — Dettagli della ricostruzione senza prova completa
 
-Il rapporto temporale **100:1**, i **sette processi minori** della forgiatura del Kindsgard e la meccanica/data della scissione **Ishvard/Karsh** non hanno una prova identificata nei passi consultati. Le due cronistorie e le due guide candidate non contengono il rapporto 100:1 né nominano Ishvard/Karsh. #Roasted nomina Karsh e Ishvard, ma non prova due Battesimi o il loro trasferimento; #Chicken non narra la scissione. Non trasformare una ricerca negativa circoscritta in assenza universale. Restano da provare anche la dismissione degli Artigli e l’universalità di alcune conseguenze attribuite al potere di Re Draco. Nelle sintesi questi dettagli sono qualificati come ricostruzioni, non nuove decisioni canoniche.
+Il numero dei procedimenti è corretto a **sei**, confermati e descritti dal proprietario in C10 dopo il riscontro di Deflecte Cantum; non manca un settimo procedimento. La dismissione degli Artigli è confermata solo come accenno: quantità, modalità e cronologia restano non precisate. 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente Quip. Resta da provare l’universalità di alcune conseguenze del regno.
 
 **L6, esito:** confrontati i nuclei dei 26 profili, le otto menzioni e le due schede tecniche. La Loccia è descritta in #Dragon (non #Snow); l’immersione prolungata di Laerius è esplicita. Il censimento separato aggiunge Fenice/Basilisco/Roc, riferimenti botanici e nomi dell’Elenco senza dedurne proprietà. Trifide/Tripode restano distinti finché non dimostrati equivalenti. Nessun nuovo stub creato.
 
@@ -37,9 +47,8 @@ Questa sezione separa le decisioni che richiedono una risposta umana dalle attiv
 6. **L20 — Adryanne Achenius/Achenium, IX/XII:** `Inktober 2019 #Build` la chiama IX Draghiere del Soffione Uncinato; `#Husky` e `Elenco Draghieri` riportano XII. Chiarire se IX è un refuso, una diversa collocazione temporale o una persona distinta; conservare le citazioni originali.
 7. **L15 — Seymour Sandwurm / “ex Shai’Hulud”:** un outline OOC ritrovato in Dropbox intitola una scheda **“Seymour Shai Ulud”**, attestando che il nome fu usato direttamente per Seymour; l’Elenco Draghieri usa poi “Seymour Sandwurm (ex Shai’Hulud)”. Resta da chiarire se il cambio riguarda solo il cognome del personaggio oppure anche la denominazione della Fiera/specie, e quale nome si debba usare per riferimenti storici.
 8. **L17 — Tredici Guardiani:** esiste una lista canonica completa? `Inktober 2019 #Legend` attesta tredici Guardiani e tredici scintille di potere; la loro identificazione precisa con i vettori collegati al Fondamento resta interpretativa. Samu'el Sphynx e Frederick Fenice appartenevano al gruppo? Le vecchie tag non costituivano prova e sono già state rimosse dalle biografie.
-9. **L21 — Sei vettori e tredici affondi:** `Deflecte Cantum` menziona sei vettori e tredici affondi, mentre la cosmologia originaria ne identifica sette e `Inktober 2019 #Legend` attesta tredici Guardiani/scintille. Chiarire se i sei siano un sottoinsieme dei sette, una struttura del Fondamento esterno o altro; non equiparare i conteggi senza una fonte. 
-10. **L11 — `Draghieri_Vere_Fiere_del_Kindsgard`:** è rimasto non identificato il documento omonimo che giustifica questo ID legacy. La **parte `Copia_di_I_Draghieri_del_kindsgard` è stata risolta** verificando due copie Drive e il contenuto di `cio-che-sanno-i-draghieri.md`; non chiede più un chiarimento umano. Non equiparare il riferimento residuo ad altri documenti OOC per analogia.
-11. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
+9. **L21 — Sei vettori e tredici affondi:** il proprietario collega il numero del canto ai **sei procedimenti** di Espediente (C10), risolvendo il precedente conteggio di sette. Restano distinti i sette vettori originari e i tredici Guardiani/scintille; la testimonianza colloca tredici Locuste nel caricamento, senza autorizzare l’equivalenza di tutti questi insiemi.
+10. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
 
 ### Non richiedono una decisione umana in questa fase
 
@@ -116,7 +125,7 @@ Lo schema ordinario e alcuni dettagli sono stati chiariti dall'utente e non vann
 
 Restano invece aperti i fattori che determinano l'esito individuale del Battesimo, i dettagli dei Bruciati e il meccanismo dell'evento eccezionale narrato in `Risveglio del Drago`: Wade si reincarna come Vera Viverna senza uccidere una Viverna e mentre il suo sé umano è ancora vivo su Vilegis. Il testo documenta l'evento, ma non ne spiega completamente la causa.
 
-La collocazione cronologica di Ishvard/Karsh è inoltre discordante nelle due sintesi wiki: `Cronologia` lo collocava nel Primo Secolo del Draco, mentre `Le Ere del Kindsgard` lo collocava nel Primo Secolo dell'Orso. Entrambe le datazioni sono state neutralizzate in attesa di una fonte primaria. Il confronto delle quattro redazioni candidate non ha rintracciato la meccanica né la data: resta lacuna documentale (L22).
+La precedente discordanza delle due sintesi wiki su Ishvard/Karsh è risolta come attestazione documentale: la Cronistoria Onnisciente recuperata colloca l’evento nel **Primo Secolo dell’Orso** e descrive la separazione e due Battesimi. Non ne deriva una regola di irripetibilità. La precedenza fra tutte le redazioni OOC rimane distinta dal riscontro di questo passo.
 
 La documentazione residua da recuperare riguarda anche la formulazione esatta in D3/D4, i cui file originali non sono disponibili nel repository consultato.
 
@@ -153,7 +162,7 @@ L’unica menzione trovata nel repository è `Una Missiva dall’Anello`: una be
 
 Queste sono scelte editoriali di titolo, non decisioni sul canone narrativo. Le fonti non vanno rinominate o eliminate finché la scelta non è confermata.
 
-### L11 — Identificatore in-world risolto; riferimento OOC residuo
+### L11 — Identificatori riconciliati; storico del recupero
 
 La ricognizione del 2026-11-01 ha risolto uno dei due riferimenti:
 
@@ -208,7 +217,7 @@ In `L'Esodo`, Wade intende condurre i sopravvissuti all'Artiglio del Magma, dove
 ### L21 — “Sei vettori in tredici affondi” in `Deflecte Cantum`
 
 La canzone menziona sei vettori, tredici affondi e il Fondamento che fluisce verso il Giardino. La cosmologia originaria del Kindsgard definisce sette vettori; `Inktober 2019 #Legend` attesta separatamente tredici Guardiani e tredici scintille di potere nel contesto della connessione fra mondi. Le fonti accessibili non dichiarano esplicitamente che queste tredici scintille siano un insieme di tredici vettori collegati al Fondamento: questa equivalenza resta interpretativa. Il testo della canzone non identifica i sei vettori né li equipara esplicitamente ai sette vettori originari o alle tredici scintille/Guardiani. Inoltre, l'uso di «espedienti» in minuscolo non chiarisce se si riferisca all'arma Espediente o al termine comune. La precedente nota wiki che interpretava la strofa come descrizione diretta dell'assorbimento dei tredici Guardiani era più assertiva della fonte.
-- → **Chiarimento canonico/documentale:** i sei vettori sono un sottoinsieme dei sette originari, una formulazione riferita al Fondamento esterno, oppure un'altra struttura? Fino a una fonte o conferma del proprietario, mantenere separati sei, sette e tredici senza inventare una corrispondenza.
+- → **Chiarimento successivo C10:** il proprietario collega il sei del canto al numero dei procedimenti rituali di Espediente e descrive le sei attività. Non sono quindi un sottoinsieme dedotto dei sette vettori originari. Le tredici Locuste appartengono al caricamento dell’arma; non ne deriva l’equivalenza fra ogni uso di affondo, scintilla, vettore e Guardiano. La domanda sul numero dei procedimenti è risolta.
 
 
 ## Aggiornamento della ricognizione archivistica — 2026-11-01

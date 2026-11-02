@@ -9,7 +9,9 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "So
 
 # Maestà
 
-> *"La Montagna che domina il creato dal centro esatto del Giardino."*
+> *“la montagna che domina il creato dal centro esatto del Giardino.”*
+>
+> — Voce narrante dei Draghieri, in [[fonti/cio-che-sanno-i-draghieri|Ciò che sanno i Draghieri]] (estratto).
 
 ---
 

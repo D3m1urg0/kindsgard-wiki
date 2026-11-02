@@ -26,5 +26,7 @@ jobs:
         run: npm ci
       - name: Check wikilinks
         run: node scripts/check-wikilinks.mjs
+      - name: Verify original source fidelity
+        run: python3 audit/verify-source-fidelity.py
       - name: Build Quartz
         run: node quartz/bootstrap-cli.mjs build

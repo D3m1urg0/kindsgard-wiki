@@ -8,6 +8,17 @@ ultima_modifica: "2026-11-02"
 
 # Changelog
 
+## 2026-11-02 — Ripristino delle parole degli autori dagli originali
+
+- C10: testimonianza del proprietario e controllo del verso originale di Deflecte Cantum correggono i procedimenti a **sei**, con elenco completo delle attività LARP; nessun settimo da ricostruire. Artigli: solo evento accennato, quantità non definita. Autorizzata esplicitamente la pubblicazione degli 82 DOCX con estrazioni/commenti in non-wiki.
+- Finestre di citazione iniziali: aggiunti parlante/scrivente e fonte/episodio, con tagli dichiarati e sintesi redazionali distinte.
+
+- Baseline 0c49b234 (PR #88). Su richiesta del proprietario, ripristinate le fonti dalle esportazioni Quip fornite: 29 pagine, 74 segmenti con confronto esatto; quattro episodi non recuperati restano dichiarati. Nessuna correzione di refusi, nomi, punteggiatura o contenuti originali; anche le decisioni canoniche si applicano alle sintesi, senza riscrivere le fonti.
+- Apparati precedenti separati in [[Annotazioni editoriali alle fonti]]; originali, trascrizioni e manifest di provenienza distinti dalle pagine del sito. Varianti All new order, Di Una Dea chiamata Natura e The song conservate separatamente, come confermato dal proprietario.
+- Recuperata una diversa Cronistoria Onnisciente: attesta 100:1 e Ishvard/Karsh nel Primo Secolo dell’Orso. Identificato il legacy Draghieri / Vere Fiere e attestato Omnia. Aggiornate Cronologia, Ere, Battesimo, motti, L11/L22 e registri. Sette processi e dismissione Artigli restano da documentare.
+- Controlli di fedeltà, visualizzazione, wikilink, build e CI richiesti prima del merge; integrazione e deploy da registrare nella PR. Report in [[Ripristino e fedeltà delle fonti]].
+
+
 ## 2026-11-02 — Confronti sulle 31 pagine e dossier dei residui
 
 - Baseline b25eae3, dopo PR #87. Nuovo [[Esito dell’audit documentale]]: matrice delle 31 pagine, rilievi F01–F12, fonti effettivamente consultate, limiti e decisioni da sottoporre al proprietario. Nuovo inventario riproducibile audit/coverage-2026-11-02.json; 67 Markdown, 29 fonti, 31 pagine/indici, 7 registri.

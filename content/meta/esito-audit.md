@@ -8,7 +8,18 @@ ultima_modifica: "2026-11-02"
 
 # Esito dell’audit documentale
 
+**Conferma successiva del proprietario — C10:** il verso originale di Deflecte Cantum riporta sei; i procedimenti di Espediente sono quindi **sei**, ora descritti nel registro [[Fonti e Decisioni Canoniche]]. Nessun settimo procedimento da cercare. Dismissione degli Artigli confermata soltanto come accenno, senza quantità o cronologia precisate. Questo esito supera le precedenti formule storiche sui sette processi non documentati.
+
+## Aggiornamento autorevole — originali Quip recuperati
+
+La successiva verifica di fedeltà e i nuovi riscontri sono in [[Ripristino e fedeltà delle fonti]]. **Prevale questo aggiornamento** sulle formule storiche qui sotto: 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente recuperata, il documento legacy Draghieri/Vere Fiere e il motto Omnia sono identificati. Le quattro redazioni precedenti restano distinte. L22 è risolta solo per quei dettagli; sette processi e dismissione degli Artigli restano aperti.
+
+Le 29 pagine fonte sono state confrontate con l’archivio Quip: 74 segmenti ripristinati, quattro episodi in attesa degli originali. Il conteggio di 67 Markdown e l’inventario coverage-2026-11-02.json descrivono la **baseline PR #88**, non l’attuale fedeltà agli originali. Per questa verifica usare audit/ripristino-fonti-2026-11-02.json e audit/verify-source-fidelity.py. Le note sono ora in [[Annotazioni editoriali alle fonti]], fuori dai corpi degli autori.
+
+
 ## Perimetro e criterio di chiusura
+
+**Da qui segue il report storico relativo alla PR #88.** Per i riscontri Quip, la fedeltà agli originali e la successiva decisione C10 prevale [[Ripristino e fedeltà delle fonti]]. I residui storici sotto non vanno riaperti quando risolti dal nuovo documento o dalla testimonianza del proprietario.
 
 Baseline: `b25eae3936a12ed5f1ed9312d0d3dbdef55a5bd5`, merge della PR #87. La nuova passata ha letto le **31 pagine di contenuto/indici** e confrontato le sezioni con i passaggi indicati sotto. Ha inoltre ricontrollato apparati, riferimenti e inventario delle **29 fonti pubblicate**, confrontato le due cronistorie OOC candidate e le due guide candidate negli archivi collegati e riletto gli Annali di Fuoco Intro. Non sono stati importati testi privati.
 

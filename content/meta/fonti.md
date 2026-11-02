@@ -8,6 +8,33 @@ ultima_modifica: "2026-11-02"
 
 # Fonti e Decisioni Canoniche
 
+## C10 — Sei procedimenti di Espediente e accenno agli Artigli (2026-11-02)
+
+**Fonte:** testimonianza diretta del proprietario in questa sessione; fatti giocati dal vivo, non ricostruiti dall’LLM. Il proprietario ha inizialmente ricordato sette procedimenti, poi ha indicato di verificare il numero in Deflecte Cantum: se il canto riporta sei, i procedimenti furono sei. L’originale Quip contiene **«I sei vettori che in tredici affondi / Il Primo Eroe dovrà unir»**. Il numero canonico dei procedimenti viene quindi corretto a **sei**, tutti ora descritti:
+
+1. Creazione di un plesso runico in Cittadella.
+2. Forgiatura di **13 simulacri della stasi** al Fulcrum.
+3. Forgia rituale della lancia al Gate, durante una difesa da un assedio vinta.
+4. Procedimento alchemico nel Giardino dei Sogni, mentre gli altri Draghieri affrontavano i Figli della Rovina.
+5. Unione dei componenti con un rituale al Circolo Rituale.
+6. Caricamento dell’arma durante un ingresso al Valico, tramite i colpi inflitti a **13 Locuste**, Figli della Rovina.
+
+Sono attività svolte in luoghi di potere di Vilegis: il proprietario non richiede ulteriori dettagli sui luoghi. Non trasformare i tredici simulacri o le tredici Locuste in tredici procedimenti; non confondere i sei procedimenti con i sette vettori della cosmologia originaria. La corrispondenza terminologica indicata dal proprietario risolve il numero dei procedimenti; non autorizza altre equivalenze automatiche fra ogni uso di vettore, affondo, scintilla o Guardiano.
+
+I commenti d’autore esportati nel DOCX Deflecte Cantum riguardano «Tema i suoi figli la dea» e «Stretta nel pugno la lancia possente»: non sono un motivo per cambiare le parole del canto. Sono conservati separatamente; la conferma del numero deriva dall’indicazione attuale del proprietario e dal verso letto.
+
+**Artigli:** il proprietario conferma che la dismissione è un evento solo accennato. Non sono precisati numero di Artigli, elenco, tempi o modalità: rimuovere l’asserzione quantitativa «gran parte» dalle sintesi, senza inventare una descrizione dell’evento.
+
+**Pubblicazione:** il proprietario chiarisce che «ambientazione segreta» indica informazioni non note ai personaggi nel gioco, non riservatezza del documento, e autorizza esplicitamente la pubblicazione degli **82 DOCX originali**, delle estrazioni e dei commenti in non-wiki nel repository pubblico. Il sito continua a pubblicare soltanto content.
+
+
+## Aggiornamento autorevole — originali Quip recuperati
+
+La successiva verifica di fedeltà e i nuovi riscontri sono in [[Ripristino e fedeltà delle fonti]]. **Prevale questo aggiornamento** sulle formule storiche qui sotto: 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente recuperata, il documento legacy Draghieri/Vere Fiere e il motto Omnia sono identificati. Le quattro redazioni precedenti restano distinte. L22 è risolta solo per quei dettagli; sette processi e dismissione degli Artigli restano aperti.
+
+Le 29 pagine fonte sono state confrontate con l’archivio Quip: 74 segmenti ripristinati, quattro episodi in attesa degli originali. Il conteggio di 67 Markdown e l’inventario coverage-2026-11-02.json descrivono la **baseline PR #88**, non l’attuale fedeltà agli originali. Per questa verifica usare audit/ripristino-fonti-2026-11-02.json e audit/verify-source-fidelity.py. Le note sono ora in [[Annotazioni editoriali alle fonti]], fuori dai corpi degli autori.
+
+
 ## Riscontro diretto corrente — 2026-11-02
 
 Questa tranche ha riletto e confrontato **due cronistorie D3 candidate** (Drive, redazioni del 2014-03-27 e 2014-05-28) e **due guide D4 candidate** (Drive e Dropbox), gli Annali di Fuoco Intro, i documenti OOC Draghieri/reclutamento e le bozze Remake Lettera Draco/Nexus 2013. Esiti, perimetro e differenze in [[Esito dell’audit documentale]]; nessun originale privato importato. D3: morte del Re e fattezze Frederick/Onofrius esplicite nei candidati, senza ratificarne la precedenza. D4: longevità e limiti fuori Kindsgard attestati, redazioni non identiche. I quattro candidati non documentano 100:1 o Ishvard/Karsh; sette processi resta dettaglio non provato (L22).

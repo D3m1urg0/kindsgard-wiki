@@ -9,7 +9,9 @@ fonti: ["D3-cronistoria-ooc", "Una_Missiva_dall_Anello", "Risveglio_del_Drago", 
 
 # Frederick Fenice
 
-> *"Se questa situazione vi appare disperata ricordate che vi fu un tempo in cui il Giardino dominava tutte le terre e fu dal Bisogno che l'Espediente donò all'uomo i Draghieri."*
+> *“Se questa situazione vi appare disperata ricordate che vi fu un tempo in cui il Giardino dominava tutte le terre e fu dal Bisogno che l’Espediente donò all’uomo i Draghieri”*
+>
+> — Frederick Fenice, citato da Wade Wyrm in [[fonti/una-missiva-dall-anello|Una Missiva dall’Anello]].
 
 ---
 
