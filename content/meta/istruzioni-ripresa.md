@@ -3,12 +3,23 @@ titolo: "Istruzioni di Ripresa — Stato e Protocollo Editoriale"
 categoria: "meta"
 tag: [meta, ripresa, sessione, istruzioni, audit]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 ---
 
 # Istruzioni di Ripresa
 
 > Documento operativo per riprendere il lavoro sulla wiki senza riaprire decisioni già prese, duplicare attività concluse o alterare il canone senza evidenze.
+
+## Checkpoint corrente — 2026-11-02
+
+- Baseline GitHub e copia di lavoro aggiornata: `fbc52fc42c852cbcf429f0f6568775a16e658777`, PR #86 integrata. Rispetto a `ffcc655f43bedd7ff4717a65e1923d3664c454ae`: 120 commit successivi, merge PR #69–86. Zero PR aperte all'avvio. Il numero di commit non è un conteggio di pagine verificate.
+- La copia locale indicata dall'utente in `C:\Users\PietroCaruso\Repos\D3m1urg0\kindsgard-site` è stata controllata in sola lettura: ramo main a `dc3b1a0`, con cartelle non tracciate. Non è stata aggiornata o ripulita. L'audit corrente è preparato nella copia aggiornata dell'area di lavoro.
+- Riletti direttamente `#Legend`, `#Bottle`, `#Tranquil`, l'Elenco e i testi indicati nel report R01–R08. Corretti Glossario (scintille/vettori), L1/L17, note redazionali dell'Elenco (Samu'el, numero ordinale, rimando Seymour), L6 (26 profili + otto menzioni, non censimento globale) e riepiloghi di copertura superati.
+- I recuperi D3/D4, Annali e Seymour delle PR #84–86 sono **riscontri storici registrati**, non originali privati riletti oggi. `Copia_di_I_Draghieri_del_kindsgard` già riconciliato; `Draghieri_Vere_Fiere_del_Kindsgard` resta ignoto. Non ripartire dalla vecchia formula generica «nessuna fonte reperita».
+- Verificare lo SHA finale della PR di questa tranche con `Validate Quartz wiki` (wikilink + build) prima del merge; associare PR/SHA/run nel checkpoint di integrazione e verificare Pages sul merge. Non aggiungere modifiche al ramo dopo il controllo senza nuova CI.
+- **Prossimo:** confronto sistematico affermazione→fonte per le 31 pagine e gli apparati delle 29 fonti, versionamento candidati D3/D4 e inventario globale specie. I rilievi R01–R08 sono chiusi solo nel proprio perimetro. L'audit definitivo rimane aperto; decisioni umane distinte da lacune documentali nel report e in Domande Aperte.
+
+Le sezioni datate successive sono checkpoint storici: in caso di stato operativo superato, prevale questo riepilogo e la sezione corrente del registro di copertura.
 
 ## Stato verificato
 

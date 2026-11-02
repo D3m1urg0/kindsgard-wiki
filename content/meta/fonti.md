@@ -3,7 +3,7 @@ titolo: "Fonti e Decisioni Canoniche"
 categoria: "meta"
 tag: [meta, fonti, canonizzazione, sessioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 ---
 
 # Fonti e Decisioni Canoniche
@@ -26,6 +26,14 @@ La precedente dicitura **«D3/D4 non reperiti»** nelle sezioni storiche qui sot
 | *Annali dell'Artiglio delle Sabbie* | Rimane una citazione in `Inktober 2024 #Exotic`; la ricerca non ha restituito il documento omonimo | **Non recuperato**, da distinguere dagli Annali di Fuoco |
 
 **Vincolo di provenienza:** nessun testo integrale estratto dalle connessioni private è stato copiato nella wiki pubblica; non sono pubblicati URL o ID dei documenti collegati. La ricostruzione storica OOC contiene elementi di Vilegis/Lunaria e non modifica retroattivamente i sette vettori originali del Kindsgard. La corrispondenza tra versioni D3/D4 e la loro eventuale pubblicazione richiedono valutazioni separate.
+
+## Riscontro di coerenza dei registri — 2026-11-02
+
+Riletti direttamente i passaggi `Inktober 2018 #Tranquil/#Bottle`, `Inktober 2019 #Legend` e la Lista Completa dell'Elenco. Le marcature esplicite identificano Mara Megalapterix, Bartholomew Brood e G. Gryffin; `#Bottle` identifica Syrus Salamander. L'identificazione di Samu'el Sphynx fra i tredici non è dimostrata dai passi esaminati; le vecchie note dell'Elenco e L17 erano rimaste indietro rispetto alla PR #79 e sono state corrette. Non è una nuova decisione di esclusione. Anche Frederick resta non dimostrato.
+
+`#Legend` sostiene tredici scintille e il titolo Unico Guardiano; non dichiara l'equivalenza puntuale scintille/vettori del Fondamento. Riallineati Glossario e L1/L17/L21 senza modificare C1–C9 o importare il canone esterno. Il report puntuale e i residui sono in [[Registro di copertura dell'audit]], R01–R08.
+
+I recuperi privati descritti sopra restano risultati registrati delle PR #84–86: **nessuna nuova rilettura degli originali Drive/Dropbox in questa tranche**. Il rinvio alla bozza Seymour nell'Elenco aggiorna la tracciabilità di L15 e non introduce una nuova specie o una nuova attestazione indipendente.
 
 ## Fonti del Progetto
 
