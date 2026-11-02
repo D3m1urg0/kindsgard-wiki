@@ -3,13 +3,13 @@ titolo: "Città-Alveare"
 categoria: "mondo"
 tag: [città-alveare, artiglio, geografia, covata, est]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2024"]
 ---
 
 # Città-Alveare
 
-> *"L'Artiglio Sepolto delle Catene Montuose Orientali" — il presidio più complesso del Kindsgard orientale.*
+> *"L'Artiglio Sepolto delle Catene Montuose Orientali" — un presidio complesso del Kindsgard orientale.*
 
 ---
 
@@ -42,7 +42,7 @@ Bocche da fuoco su ogni apertura. Sistemi di leve e contrappesi per le porte pri
 
 **Fondazione:** Le fonti non indicano una data né i fondatori originari. `Inktober 2019 #Build` descrive l'Artiglio Sepolto come il dominio del Draghiere della Covata «da tempi immemori», ma questa formula non data la fondazione della struttura. Il primo presidio nominativamente attestato nel corpus è quello di Bartholomew Brood, XVI Draghiere della Covata, in `Prevedibilità (covata)`. La collocazione nelle Catene Montuose può rendere complessi accesso e rifornimenti; questa è una deduzione logistica dalla posizione, non un dettaglio dichiarato esplicitamente dalle fonti.
 
-**Caduta durante il Primo Secolo del Draco:** [[Dominic Draco]] come Vera Fiera attaccò la struttura con piena conoscenza dei suoi punti deboli — solo la profonda conoscenza della struttura poteva portare alla disfatta. [[Bartholomew Brood]] morì durante o dopo l'attacco.
+**Caduta e morte di Bartholomew:** `#Build` mostra le tracce dell’attacco di Draco e la resistenza del Guardiano; `#Swing` attribuisce la morte di Bartholomew a **Re Dominic Draco**. Le fonti confrontate non autorizzano a collocare quello scontro soltanto nella fase da Vera Fiera né a fonderlo con la battaglia di `Prevedibilità`, in cui Brood sopravvive.
 
 **Riconquista:** [[Brienne Brood]], XVII Covata, guidò un manipolo di tredici Draghieri e duecento Umani (tutti con i colori della Covata, rosso e argento) per riconquistare e ricostruire la struttura. La battaglia nell'Abisso contro l'infestazione di Atrax è documentata in `Inktober 2019 #Pattern`. [[Adalind Atrax]] aprì le porte dall'interno al momento decisivo.
 

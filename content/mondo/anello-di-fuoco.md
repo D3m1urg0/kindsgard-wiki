@@ -3,8 +3,8 @@ titolo: "Anello di Fuoco"
 categoria: "mondo"
 tag: [anello-di-fuoco, artigli, geografia, storia, draghieri]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
-fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Inktober_2019", "Annali_dell_Artiglio_di_Fuoco", "cio-che-sanno-i-draghieri"]
+ultima_modifica: "2026-11-02"
+fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Una_Missiva_dall_Anello", "Lamento_di_Wade", "Deflecte_Cantum", "Inktober_2019", "Annali_dell_Artiglio_di_Fuoco", "cio-che-sanno-i-draghieri", "Inktober_2018"]
 ---
 
 # Anello di Fuoco
@@ -63,7 +63,7 @@ Nonostante le perdite, i Draghieri non cedettero: *"non indietreggeremo"*.
 
 ## L'Anello nell'Era del Dominio
 
-Con l'ascesa di [[Re Draco]], l'Anello fu ripristinato e rafforzato. Nell'Era del Dominio gli Artigli sono integri, le città Umane prosperano, le Fiere che superano il perimetro vengono eliminate rapidamente. Il Giardino è di nuovo contenuto.
+Con l'ascesa di [[Re Draco]], l'Anello fu ripristinato e rafforzato. `Inktober 2019 #Ring` descrive l’Anello integro da due anni e meno perdite fra gli Umani, ma precisa che non si può dire che abbiano prosperato nei tre anni del regno. Il contenimento del Giardino non equivale a sicurezza assoluta o prosperità dimostrata.
 
 La canzone "Deflecte Cantum" celebra questo ripristino:
 *"Determinati all'anello marciam"*

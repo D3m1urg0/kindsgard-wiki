@@ -3,7 +3,7 @@ titolo: "Dominic Draco"
 categoria: "personaggi"
 tag: [dominic-draco, draghieri, vere-fiere, re-draco, unico-guardiano, protagonista]
 status: "revisionato"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-02"
 aliases: ["Re Draco", "Unico Guardiano", "Re Draco, Unico Guardiano"]
 fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artiglio_di_Fuoco", "Solitudine", "18___Misfit", "Risveglio_del_Drago", "Inktober_2019", "Inktober_2018", "Deflecte_Cantum", "L_Animale_Uomo", "draghieri-spiegazione", "Elenco_Draghieri_Conosciuti"]
 ---
@@ -18,7 +18,7 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "Annali_dell_Artigli
 
 Dominic Draco è il personaggio più centrale nella storia del [[Kindsgard]]: Primo [[Draghieri|Draghiere]], fondatore dell'[[Anello di Fuoco]], poi trasformato in [[Vere Fiere|Vera Fiera]] dalla [[Maestà]], poi ancora **Re Draco, Unico Guardiano** — entità unica che non appartiene più a nessuna delle due fazioni, detentrice del potere raccolto dai tredici Guardiani. `Inktober 2019 #Legend` li descrive come tredici scintille di potere incarnate fra Draghieri, Fiere e Vere Fiere. La loro identificazione precisa con i «vettori» e con il Fondamento è un'interpretazione della ricostruzione wiki, non un'equivalenza dichiarata esplicitamente dalla canzone; in ogni caso non equivale a possedere o assorbire il Fondamento di Vilegis/Lunaria.
 
-La sua storia attraversa tutte le ere del Kindsgard ed è il filo che le connette.
+La sua vicenda documentata comincia con la nascita dei Draghieri; le Ere di Armonia e del Conflitto la precedono.
 
 ---
 
@@ -42,7 +42,7 @@ Fu il primo a raggiungere la Maestà ripetutamente. Fu il primo a sperimentare l
 
 ## La Fondazione dell'Anello
 
-Quando gli Echi di [[Vilegis/Lunaria]] — lo scontro tra Libertà e Dominio — raggiunsero il Kindsgard, i vincoli nell'Istinto di Dominic si allentarono per un istante. In quell'istante vide la verità che nessun altro Draghiere era capace di vedere: gli eventi esterni aprivano un rischio che il ciclo tradizionale non poteva più contenere. La ricostruzione wiki collega questo evento anche alla morte del Guardiano-Re di Vilegis/Lunaria legato a uno Spettro; le fonti accessibili attestano lo scontro e gli Echi, ma non confermano direttamente quel dettaglio. I testi integrali D3/D4 non sono reperibili nel repository consultato. Senza un'alternanza stabile, qualsiasi punto estremo avrebbe potuto significare la fine del Kindsgard.
+Quando gli Echi di [[Vilegis/Lunaria]] — lo scontro tra Libertà e Dominio — raggiunsero il Kindsgard, i vincoli nell'Istinto di Dominic si allentarono per un istante. In quell'istante vide la verità che nessun altro Draghiere era capace di vedere: gli eventi esterni aprivano un rischio che il ciclo tradizionale non poteva più contenere. La morte del Re e la scelta di interrompere i cicli sono esplicitamente collegate nelle due cronistorie OOC candidate recuperate, nelle sezioni **Consapevolezza/Caduta** e **La fine dei cicli e l’era dei Guardiani**. È un’attestazione di quelle redazioni: la loro precedenza normativa e l’identità con il legacy D3 restano da certificare, senza importare l’intero canone di Lunaria. Senza un'alternanza stabile, qualsiasi punto estremo avrebbe potuto significare la fine del Kindsgard.
 
 Scelse di condannare sé stesso e i suoi compagni a una guerra eterna. Fondò l'**[[Anello di Fuoco]]**: un perimetro di torri ([[Artigli]]) che separava per sempre il Giardino dai territori Umani, interrompendo i cicli.
 
@@ -56,13 +56,13 @@ Alla Maestà, Dominic e i suoi compagni furono trasformati in **Vere Fiere**. Do
 
 Come Vera Fiera, Dominic è descritto con un'armatura di scaglie di drago rosso, l'elmo — che non aveva mai tolto dall'inizio dei combattimenti — rimosso per la prima volta, il volto "tracotante e maestoso, zanne spalancate in un sorriso di liberazione". Era la manifestazione pura della Maestà, senza più alcun vincolo di Fierezza.
 
-Nel racconto `Solitudine`, la Vera Viverna lo descrive come capace di "pietà" — emozione incomprensibile per una Vera Fiera, segno che la complessità di Draco non era mai stata completamente cancellata nemmeno dalla Maestà.
+Nel racconto `Solitudine`, **Draco dichiara di provare pietà**, mentre la Vera Viverna non comprende il concetto — emozione incomprensibile per una Vera Fiera, segno che la complessità di Draco non era mai stata completamente cancellata nemmeno dalla Maestà.
 
 ---
 
 ## L'Ascesa a Re Draco
 
-Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi, Dominic la usò per uccidere i **13 Guardiani del Kindsgard**. `Inktober 2019 #Legend` attesta che erano incarnati fra Draghieri, Fiere e Vere Fiere; la composizione completa e l'identità di tutti i Guardiani restano aperte (L17). La fonte parla di tredici scintille di potere raccolte dall'arma. La loro identificazione puntuale con i vettori citati nella canzone e con il Fondamento è una lettura della ricostruzione wiki, non un'equivalenza esplicitata dal testo. Dominic ne assorbì il potere uno per uno.
+Quando Draghieri e Vere Fiere collaborarono per forgiare l'arma **Espediente** nel procedimento in sette processi **(dettaglio della ricostruzione wiki non attestato nei testi qui confrontati)**, Dominic la usò per uccidere i **13 Guardiani del Kindsgard**. `Inktober 2019 #Legend` attesta che erano incarnati fra Draghieri, Fiere e Vere Fiere; la composizione completa e l'identità di tutti i Guardiani restano aperte (L17). La fonte parla di tredici scintille di potere raccolte dall'arma. La loro identificazione puntuale con i vettori citati nella canzone e con il Fondamento è una lettura della ricostruzione wiki, non un'equivalenza esplicitata dal testo. Dominic ne assorbì il potere uno per uno.
 
 Con l'assorbimento del tredicesimo potere, Dominic diventò **Re Draco, Unico Guardiano**: non più Draghiere né Vera Fiera, ma entità autonoma e autoconsapevole, detentrice del potere raccolto dai tredici Guardiani descritti in `Inktober 2019 #Legend`. La lettura secondo cui questo potere coincide con i vettori legati al Fondamento resta interpretativa; non equivale a identificare il Fondamento di Vilegis/Lunaria con la cosmologia originaria del Kindsgard.
 
@@ -83,9 +83,13 @@ Nel racconto `18___Misfit`, Re Draco è descritto mentre pattuglia da solo le mu
 
 ## Descrizione Fisica
 
-Come Re, Dominic porta un'armatura nera e scarlatta con inciso il simbolo del primo Draghiere. Porta corna sull'elmo (eredità della trasformazione alla Maestà). Il volto sotto l'elmo è "tracotante e maestoso". Porta Espediente — la lancia forgiata per uccidere i Guardiani — come arma personale.
+Come Re, Dominic porta in `Misfit` un’armatura nera e scarlatta e corna sul capo. Il simbolo del primo Draghiere sullo spallaccio e il volto «tracotante e maestoso» sono descritti invece in `Risveglio del Drago` durante la fase da **Vera Fiera**; non trasferire automaticamente ogni dettaglio alla descrizione del Re. Porta Espediente — la lancia forgiata per uccidere i Guardiani — come arma personale.
 
 ---
+
+## Limiti della ricostruzione
+
+La dismissione di gran parte degli Artigli e i dettagli del nuovo problema cosmologico del Re sono conservati dalla ricostruzione wiki, ma non risultano dimostrati dai passi confrontati in questa revisione. `Misfit` e `#Clock/#Weak` attestano singole ex-Vere Fiere e `#Legend` la raccolta delle scintille: non provano da soli ogni conseguenza universale attribuita all’ascesa di Draco. Vedi [[Esito dell’audit documentale]] per i residui documentali distinti dalle decisioni già confermate.
 
 ## Relazioni
 - Collegato a: [[Draghieri]], [[Vere Fiere]], [[Anello di Fuoco]], [[Fierezza e Maestà]], [[Fondamento]]

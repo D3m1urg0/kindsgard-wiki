@@ -3,7 +3,7 @@ titolo: "Mostri (lista di brainstorming)"
 categoria: "fonti"
 tag: [mostri, brainstorming, lista, fiere-potenziali]
 status: "bozza"
-ultima_modifica: "2026-10-12"
+ultima_modifica: "2026-11-02"
 aliases: ["Mostri"]
 tipo: "lista"
 voci-wiki-collegate: ["Fiere — Voci Stub"]
@@ -34,6 +34,6 @@ voci-wiki-collegate: ["Fiere — Voci Stub"]
 
 ## Note
 
-Documento puramente di consultazione/ispirazione, privo di valore normativo per la wiki. Nessuna di queste creature compare nei racconti o nelle schede tecniche esistenti — sono spunti non ancora sviluppati. **Vellosa** non è identificabile come riferimento mitologico noto e potrebbe essere già un'invenzione originale del progetto, non sviluppata oltre il nome.
+Documento puramente di consultazione/ispirazione, privo di valore normativo per la wiki. Nessuna di queste creature compare nei racconti o nelle schede tecniche esistenti — sono spunti non ancora sviluppati. **Vellosa** resta un riferimento non identificato nel catalogo del progetto. La mancanza di identificazione non dimostra che il nome sia un’invenzione originale: non trarre conclusioni sulla sua origine dal solo elenco.
 
 Se in futuro una di queste creature dovesse comparire in un racconto o essere assegnata a un Draghiere, andrà creata una scheda dedicata in [[Fiere — Voci Stub]] o promossa a voce propria.

@@ -3,7 +3,7 @@ titolo: "Le Ere del Kindsgard"
 categoria: "storia"
 tag: [storia, ere, cronologia, armonia, conflitto, rivalsa, dominio]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 aliases: ["Era di Armonia"]
 fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "D4-guida-draghiere", "Inktober_2018", "Inktober_2019", "18___Misfit", "draghieri-spiegazione", "La_natura_di_Natura", "Elenco_Draghieri_Conosciuti"]
 ---
@@ -18,7 +18,7 @@ fonti: ["D3-cronistoria-ooc", "Cronistoria_versione_breve", "D4-guida-draghiere"
 
 ## Nota sul Tempo
 
-Il tempo sul Kindsgard è descritto come non lineare rispetto a [[Vilegis/Lunaria]]. La sintesi wiki riporta che, in certi periodi, un anno di Lunaria corrisponderebbe a cento anni del Kindsgard; la proporzione 100:1 non è però verificabile direttamente nel corpus disponibile perché la Cronistoria OOC (D3) non è reperibile. Va quindi trattata come dato riportato dalla ricostruzione, non come misura confermata. In ogni caso, le corrispondenze cronologiche precise fra i due mondi restano incerte.
+Il tempo sul Kindsgard è descritto come non lineare rispetto a [[Vilegis/Lunaria]]. La sintesi wiki riporta che, in certi periodi, un anno di Lunaria corrisponderebbe a cento anni del Kindsgard; la proporzione 100:1 non è però attestata nelle due cronistorie e nelle due guide candidate confrontate; l’identità della versione legacy D3 resta inoltre incerta. Va quindi trattata come dato riportato dalla ricostruzione, non come misura confermata. In ogni caso, le corrispondenze cronologiche precise fra i due mondi restano incerte.
 
 ---
 
@@ -84,7 +84,7 @@ Ma la storia vera era più complessa: il ciclo si ripeteva. Quando i Draghieri r
 
 Durante il più recente ciclo della Rivalsa, l'equilibrio si sfalda a causa di eventi esterni: su [[Vilegis/Lunaria]], **Libertà** e **Dominio** si scontrano con esiti non ancora chiari. Gli Echi di quegli eventi raggiungono il Kindsgard e per un istante interrompono il flusso che tiene vincolato Dominic al suo Istinto.
 
-In quell'istante, Dominic vede la verità: gli eventi esterni mettono in pericolo l'equilibrio che i cicli avevano garantito. La ricostruzione wiki collega questo evento alla morte del Guardiano-Re di Vilegis/Lunaria legato a uno Spettro, ma le fonti accessibili attestano lo scontro tra Libertà e Dominio e gli Echi, non confermano direttamente quel dettaglio. D3/D4 non sono reperibili nel repository consultato. Senza un'alternanza stabile, qualsiasi punto estremo potrebbe significare la fine del Kindsgard. Sceglie di condannare sé stesso e i suoi compagni a una guerra eterna: fonda l'**[[Anello di Fuoco]]** e interrompe i cicli.
+In quell'istante, Dominic vede la verità: gli eventi esterni mettono in pericolo l'equilibrio che i cicli avevano garantito. La morte del Re e la scelta di interrompere i cicli sono esplicitamente collegate nelle due cronistorie OOC candidate recuperate, nelle sezioni **Consapevolezza/Caduta** e **La fine dei cicli e l’era dei Guardiani**. È un’attestazione di quelle redazioni: la loro precedenza normativa e l’identità con il legacy D3 restano da certificare, senza importare l’intero canone di Lunaria. Senza un'alternanza stabile, qualsiasi punto estremo potrebbe significare la fine del Kindsgard. Sceglie di condannare sé stesso e i suoi compagni a una guerra eterna: fonda l'**[[Anello di Fuoco]]** e interrompe i cicli.
 
 ---
 
@@ -117,21 +117,27 @@ Il ritorno di [[Frederick Fenice]] — Unica Fenice, che resuscita sempre nel pr
 I Draghieri si schierano con Onofrius ma la vittoria va all'Orso. La forza di Natura cresce. Le Fiere, in fuga dalla forza creatrice impazzita, si gettano contro i confini. L'Anello è violato in più punti. *Si torna a cacciare.*
 
 ### Il Primo Secolo del Draco
-Dominic e i Draghieri scomparsi oltre l'Anello tornano dalla Maestà, trasformati in **Vere Fiere**. Le Vere Fiere, già comparse nei precedenti cicli della Rivalsa, **tornano in forma organizzata** sotto Dominic; questo è un nuovo episodio storico, non la prima esistenza delle Vere Fiere nel Kindsgard. I risvegli in Vere Fiere descritti per questo anno sono distinti dai Draghieri ancora attivi e dal fenomeno di duplicazione degli individui presenti su Vilegis. La sintesi wiki riferisce in questo periodo un rapporto temporale di cento anni del Kindsgard per un anno di Lunaria, **non verificabile direttamente senza la Cronistoria OOC D3**, che non è reperita.
+Dominic e i Draghieri scomparsi oltre l'Anello tornano dalla Maestà, trasformati in **Vere Fiere**. Le Vere Fiere, già comparse nei precedenti cicli della Rivalsa, **tornano in forma organizzata** sotto Dominic; questo è un nuovo episodio storico, non la prima esistenza delle Vere Fiere nel Kindsgard. I risvegli in Vere Fiere descritti per questo anno sono distinti dai Draghieri ancora attivi e dal fenomeno di duplicazione degli individui presenti su Vilegis. La sintesi wiki riferisce in questo periodo un rapporto temporale di cento anni del Kindsgard per un anno di Lunaria, **non attestato nelle quattro redazioni candidate confrontate**; la versione legacy D3 esatta resta da identificare.
 
 ### Ishvard e Karsh — collocazione cronologica da verificare
-`Inktober 2018 #Roasted` e `#Chicken` attestano Karsh e il legame narrativo con Ishvard. La sintesi che descrive il trasferimento e la separazione dell'Umano dalla controparte ferale è presente nella wiki, ma la collocazione è discordante: `Cronologia` lo colloca nel Primo Secolo del Draco, mentre questa sezione lo associava al Primo Secolo dell'Orso. D3/D4 non sono reperibili per risolvere il conflitto; nessuna delle due date va trattata come canonica finché non emerge una fonte primaria. Il racconto documenta un caso, non dimostra che il meccanismo sia non ripetibile.
+`Inktober 2018 #Roasted` attesta Karsh e nomina Ishvard; `#Chicken` non racconta il loro trasferimento o la scissione. La sintesi che descrive il trasferimento e la separazione dell'Umano dalla controparte ferale è presente nella wiki, ma la collocazione è discordante: `Cronologia` lo collocava nel Primo Secolo del Draco, mentre questa sezione lo associava al Primo Secolo dell'Orso. Le redazioni candidate D3/D4 confrontate non descrivono Ishvard/Karsh e non risolvono il conflitto; nessuna delle due date va trattata come canonica finché non emerge una fonte primaria. Il racconto documenta un caso, non dimostra che il meccanismo sia non ripetibile.
 
 ### La Forgiatura di Espediente e l'Ascesa di Re Draco
-Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** per proteggere il Kindsgard dalla minaccia del Nexus. Viene forgiata l'arma **Espediente**. Draco la usa per uccidere i **13 Guardiani del Kindsgard** — che `Inktober 2019 #Legend` descrive come incarnati fra Draghieri, Fiere e Vere Fiere — diventando **Unico Guardiano, Re Draco**. La fonte attesta tredici scintille di potere raccolte dall'arma; l'identificazione puntuale di quelle scintille con i vettori e il Fondamento resta una lettura interpretativa della canzone, non un'equivalenza esplicita.
+Draghieri e Vere Fiere collaborano in un procedimento in **7 processi minori** **(dettaglio della ricostruzione wiki non attestato nei testi qui confrontati)** per proteggere il Kindsgard dalla minaccia del Nexus. Viene forgiata l'arma **Espediente**. Draco la usa per uccidere i **13 Guardiani del Kindsgard** — che `Inktober 2019 #Legend` descrive come incarnati fra Draghieri, Fiere e Vere Fiere — diventando **Unico Guardiano, Re Draco**. La fonte attesta tredici scintille di potere raccolte dall'arma; l'identificazione puntuale di quelle scintille con i vettori e il Fondamento resta una lettura interpretativa della canzone, non un'equivalenza esplicita.
 
 Le Vere Fiere perdono il potere e tornano Umani semplici. I Draghieri non le eliminano perché il loro Istinto non le riconosce come minaccia. Draco fonda le città, dismette gran parte degli Artigli, regna sul Giardino con l'aiuto dei Draghieri. `18___Misfit` è coerente con questa regola: Wendy Wyrm è chiamata «colei che fu Vera Viverna» e Solomon «che fu la Vera Sfinge», al passato. `Inktober 2018 #Precious` mostra Solomon in forma umanoide, senza affermare che conservi il potere; L16 è stata quindi risolta documentalmente.
 
 ### L'Era del Dominio
 *(Parallelismo con Lunaria: Era del Dominio — post Guardiani)*
-Draco è Re. L'Anello è (ri)integro. Le città prosperano. I Draghieri presidiano i confini. Gli Inktober 2018 e 2019 sono ambientati presumibilmente in questa era. ⚠️ *Collocazione esatta da confermare — vedi [[Domande Aperte e Lacune]] A1.*
+Draco è Re. L'Anello è (ri)integro. `#Ring` riferisce meno perdite, ma non una prosperità già raggiunta. I Draghieri presidiano i confini. Gli Inktober 2018 e 2019 sono ambientati presumibilmente in questa era. ⚠️ *Collocazione esatta da confermare — vedi [[Domande Aperte e Lacune]] A1.*
 
 ---
+
+## Limiti della ricostruzione
+
+La dismissione di gran parte degli Artigli e i dettagli del nuovo problema cosmologico del Re sono conservati dalla ricostruzione wiki, ma non risultano dimostrati dai passi confrontati in questa revisione. `Misfit` e `#Clock/#Weak` attestano singole ex-Vere Fiere e `#Legend` la raccolta delle scintille: non provano da soli ogni conseguenza universale attribuita all’ascesa di Draco. Vedi [[Esito dell’audit documentale]] per i residui documentali distinti dalle decisioni già confermate.
+
+Il confronto attuale delle **due cronistorie candidate e delle due guide candidate** non ha rintracciato la proporzione 100:1 né una narrazione della scissione Ishvard/Karsh. La ricerca negativa è circoscritta a queste quattro redazioni, non dimostra l’assenza di altre fonti. Il rapporto 100:1 e la meccanica dettagliata restano dati della sintesi da documentare (L4/L22), non conclusioni ottenute dai testi recuperati.
 
 ## Relazioni
 - Collegato a: [[Cosmologia]], [[Cronologia]], [[Dominic Draco]], [[Anello di Fuoco]]

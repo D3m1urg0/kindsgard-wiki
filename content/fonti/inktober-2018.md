@@ -3,7 +3,7 @@ titolo: "Inktober 2018 — Racconti del Kindsgard"
 categoria: "fonti"
 tag: [inktober, racconti, antologia, in-world, era-del-dominio]
 status: "canonico"
-ultima_modifica: "2026-10-11"
+ultima_modifica: "2026-11-02"
 aliases: ["Inktober 2018"]
 tipo: "racconto"
 autore: "Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12)"
@@ -28,7 +28,7 @@ voci-wiki-collegate: ["Le Ere del Kindsgard", "Draghieri", "Caitlin Chimera", "W
 > - #18 Bottle — Sebastian Salamander trova i resti di Syrus ed incontra Gertrude Gorgon → [[Salamander]]
 > - #19/19-2 Scorched — il primo giorno di Sebastian Salamander; i Bruciati → [[Bruciati]], [[Fiamme]]
 > - #20 Breakable — un Umano e la figlia nascosti in un nido in schiusa
-> - #21 Drain — versione narrativa delle Bacche Emofaghe → [[Bacca Emofaga]]
+> - #21 Drain — variante abbreviata della scheda delle Bacche Emofaghe → [[Bacca Emofaga]]
 > - #22 Expensive — Re Dominic Draco interviene su una breccia nelle mura → [[Dominic Draco]]
 
 ---

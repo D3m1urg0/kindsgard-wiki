@@ -3,7 +3,7 @@ titolo: "Brood — Draghieri della Covata"
 categoria: "personaggi"
 tag: [bartholomew-brood, brienne-brood, draghieri, covata, guardiano, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 aliases: ["Bartholomew Brood","Brienne Brood"]
 fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Inktober_2024", "Onda_bianca", "Elenco_Draghieri_Conosciuti"]
 ---
@@ -18,7 +18,7 @@ fonti: ["Prevedibilità__covata_", "Inktober_2019", "Inktober_2018", "Inktober_2
 
 ### Panoramica
 
-Bartholomew Brood è il sedicesimo Draghiere della Covata e portava il titolo di **Guardiano**, attestato dall'`Elenco Draghieri`. `Inktober 2019 #Legend` riferisce dei tredici Guardiani e delle **scintille** del loro potere: identificarle precisamente con vettori del Fondamento resta un'interpretazione della ricostruzione wiki, distinta dai sette vettori originari del Kindsgard. Comandante dell'**Artiglio Sepolto delle Catene Montuose Orientali**, la **Città-Alveare**, la fortezza più strategicamente complessa del Kindsgard orientale.
+Bartholomew Brood è il sedicesimo Draghiere della Covata e portava il titolo di **Guardiano**, attestato dall'`Elenco Draghieri`. `Inktober 2019 #Legend` riferisce dei tredici Guardiani e delle **scintille** del loro potere: identificarle precisamente con vettori del Fondamento resta un'interpretazione della ricostruzione wiki, distinta dai sette vettori originari del Kindsgard. Comandante dell'**Artiglio Sepolto delle Catene Montuose Orientali**, la **Città-Alveare**, un presidio strategico complesso del Kindsgard orientale, senza primato comparativo dimostrato.
 
 ### Istinto e Capacità
 
@@ -28,7 +28,7 @@ Il suo motto implicito era l'infallibilità strategica: *"Il mio Espediente è a
 
 ### Fine
 
-Bartholomew Brood morì per mano di [[Dominic Draco]] durante il Primo Secolo del Draco, quando Draco — ancora come Vera Fiera — attaccò la Città-Alveare. Il racconto `Prevedibilità (covata)` mostra gli ultimi istanti della battaglia: Bartholomew sopravvive abbastanza a lungo da essere "riservato" dalle Vere Fiere (entrambi gli schieramenti lo consideravano troppo prezioso da uccidere immediatamente), ma alla fine viene sconfitto.
+`Inktober 2019 #Swing` dice che Bartholomew è morto per mano di **Re Dominic Draco**; `#Build` mostra le tracce dello scontro e collega la sua resistenza al destino degli altri Guardiani. Non va quindi datata la morte alla sola fase in cui Draco era Vera Fiera. `Prevedibilità (covata)` è un combattimento distinto: Brood vi sopravvive, viene liberato dal muro da Bran e lasciato in un angolo, ancora paralizzato. La scena non racconta la sua morte.
 
 ---
 

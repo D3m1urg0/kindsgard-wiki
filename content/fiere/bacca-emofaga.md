@@ -3,7 +3,7 @@ titolo: "Bacca Emofaga"
 categoria: "fiere"
 tag: [bacca-emofaga, fitofiera, parassita, fiera, scheda-completa]
 status: "canonico"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 fonti: ["Bacche_Emofaghe.docx", "L_esodo"]
 ---
 
@@ -33,7 +33,7 @@ fonti: ["Bacche_Emofaghe.docx", "L_esodo"]
 
 **Disseminazione:** Affidata a spore nell'aria — particelle rossastre facilmente confondibili con veleni aerei (alcune specie di Salamandra) o con precipitazioni del Kindsgard (le Nebbie Rosse del Mare Interno). È impossibile stabilire un luogo favorevole allo sviluppo dell'Emophillis Helix: si sposta con i suoi ospiti, e qualsiasi essere con sangue è un ospite potenziale.
 
-**Fioritura (disseminazione delle spore):** Quando i rami arrivano all'esterno, per l'organismo ospite non c'è più nulla da fare: la Fitofiera ha riempito l'intero corpo e si è nutrita abbastanza da riprodursi.
+**Fioritura (disseminazione delle spore):** Quando i rami arrivano all'esterno, **solitamente** per l'organismo ospite non c'è più nulla da fare, secondo la scheda tecnica: la Fitofiera ha riempito l'intero corpo e si è nutrita abbastanza da riprodursi.
 
 **Autodifesa della varietà bianca:** In caso di morte improvvisa dell'ospite, reagisce con una fioritura precoce per salvaguardare la diffusione. Per questo è **sconsigliato uccidere l'ospite** non appena si è certi dell'infestazione.
 

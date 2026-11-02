@@ -3,7 +3,7 @@ titolo: "Geografia del Kindsgard"
 categoria: "mondo"
 tag: [geografia, luoghi, artigli, anello, maestà, mare]
 status: "bozza"
-ultima_modifica: "2026-10-15"
+ultima_modifica: "2026-11-02"
 aliases: ["Spiagge del Mare Esterno","Valle dei Fulmini","Fiume Bianco"]
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Soffioni_Uncinati", "Una_Missiva_dall_Anello", "L_esodo", "Solitudine", "Prevedibilità__covata_", "Inktober_2018", "Inktober_2019", "Inktober_2024", "Cronistoria_versione_breve", "cio-che-sanno-i-draghieri"]
 ---
@@ -48,7 +48,7 @@ Durante il Primo Anno dell'Orso, l'Anello fu violato in più punti e il fronte s
 
 ### Gli Artigli
 
-Le torri che compongono l'Anello di Fuoco. Strutture imponenti, costruite in pietra, ognuna presidio militare e rifugio per gli Umani della zona circostante. Ogni Artiglio ha un Draghiere di stanza responsabile della sua difesa.
+Le torri che compongono l'Anello di Fuoco. Strutture difensive di materiali diversi: `Inktober 2018 #Guarded` descrive torrette in legno anziché in pietra. Gli Artigli sono presidi militari e rifugi per gli Umani della zona circostante. Ogni Artiglio ha un Draghiere di stanza responsabile della sua difesa.
 
 **Artigli documentati nelle fonti:**
 
@@ -70,7 +70,7 @@ Le torri che compongono l'Anello di Fuoco. Strutture imponenti, costruite in pie
 
 ### Città-Alveare
 
-L'Artiglio Sepolto delle Catene Montuose Orientali, detto **Città-Alveare** — la struttura difensiva più complessa del Kindsgard orientale. Sviluppata dentro e attorno a un sistema di caverne e gallerie, con:
+L'Artiglio Sepolto delle Catene Montuose Orientali, detto **Città-Alveare** — una struttura difensiva complessa del Kindsgard orientale; il corpus non offre un confronto sistematico con tutti gli altri presidi. Sviluppata dentro e attorno a un sistema di caverne e gallerie, con:
 - L'**Occhio**: una vetrata semisferica al centro del versante esposto, postazione di comando
 - Un sistema di tubi di rame trasmette ordini fra le stanze e la postazione centrale; `Prevedibilità (covata)` conta 1247 squadre in posizione, ma non quantifica il numero di tubi
 - L'**Abisso**: la caverna principale interna, con muri tappezzati di bocche da fuoco
@@ -82,7 +82,7 @@ Distrutta parzialmente durante il Primo Secolo del Draco dall'attacco di [[Domin
 
 ### Le Colture
 
-Serre agricole situate a **Sud**, un sistema chiuso per coltivare le Fitofiere necessarie al sostentamento degli Umani (`Inktober 2024 #Exotic`). La fonte ne individua quattro, con Amaranthus Cruentus come la più importante; non sono semplicemente quattro specie commestibili, perché alcune sono pericolose e richiedono procedure specifiche. Le fonti disponibili non provano che le Colture siano l'unico sistema organizzato di produzione alimentare. Strutture in ferro-vetro che permettono la coltivazione controllata di quattro Fitofiere:
+Serre agricole situate a **Sud**, un sistema chiuso per coltivare le Fitofiere necessarie al sostentamento degli Umani (`Inktober 2024 #Exotic`). La fonte ne individua quattro, con Amaranthus Cruentus come la più importante; `Inktober 2019 #Overgrown` le chiama esplicitamente quattro Specie commestibili: ciò non equivale a poterle consumare senza procedure di coltivazione e trattamento, né elimina la loro pericolosità. Le fonti disponibili non provano che le Colture siano l'unico sistema organizzato di produzione alimentare. Strutture in ferro-vetro che permettono la coltivazione controllata di quattro Fitofiere:
 
 - **Settore Ovest**: Dionee Mangiauomini
 - **Settore Nord**: Mandragore
@@ -101,7 +101,7 @@ I margini estremi del Giardino, le terre più lontane dalla Maestà. Secondo la 
 
 ### Mare Interno
 
-Il grande specchio d'acqua interno al Giardino. Navigabile dopo che i Draghieri del Sud misero in sicurezza le coste nel primo secolo dalla nascita di Dominic. [[Luther Leviathan]] opera qui con la nave **Maelstrom**.
+Il grande specchio d'acqua interno al Giardino. La fonte in-world `Ciò che sanno i Draghieri` attribuisce ai Draghieri d’Occidente la messa in sicurezza di centinaia di leghe delle coste nel primo secolo dalla nascita di Dominic. [[Luther Leviathan]] opera qui con la nave **Maelstrom**.
 
 ---
 
@@ -113,7 +113,7 @@ Situate a **nordest della Maestà**, sono l'habitat dei [[Soffione Uncinato|Soff
 
 ### Valle dei Fulmini
 
-Zona montuosa nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di origine dell'armatura di Bran, forgiata con il ferro nero del luogo. È citata in `Inktober 2019 #Bait` e `L'ultima notte all'ombra dell'Anello`.
+Zona montuosa nell'area di [[Bran Behemoth]]. La Valle dei Fulmini è la zona di origine dell'armatura di Bran, forgiata con il ferro nero del luogo. È nominata in `Inktober 2019 #Tread/#Dragon` e `L'ultima notte all'ombra dell'Anello`; `#Bait` usa invece Valle dei Tuoni.
 
 **Nota sui nomi:** `Inktober 2019 #Bait` colloca Bran sul costone più a Nord della sua “Valle dei Tuoni”; `#Tread` e `L'ultima notte all'ombra dell'Anello` usano invece “Valle dei Fulmini”. Le fonti attestano entrambi i nomi, ma non dichiarano esplicitamente se indichino lo stesso luogo o due luoghi distinti. Non trattare “Valle dei Tuoni” come semplice variante né unificare i due toponimi senza ulteriori prove.
 
