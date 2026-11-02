@@ -4,7 +4,7 @@ categoria: "personaggi"
 tag: [frederick-fenice, draghieri, fenice, personaggio]
 status: "revisionato"
 ultima_modifica: "2026-11-02"
-fonti: ["D3-cronistoria-ooc", "Una_Missiva_dall_Anello", "Risveglio_del_Drago", "Solitudine", "Elenco_Draghieri_Conosciuti"]
+fonti: ["D3-cronistoria-ooc", "Una_Missiva_dall_Anello", "Risveglio_del_Drago", "Solitudine", "Elenco_Draghieri_Conosciuti", "cronistoria-onnisciente-quip"]
 ---
 
 # Frederick Fenice
@@ -27,7 +27,7 @@ La sua capacità distintiva è la **resurrezione nel proprio corpo**: Frederick 
 
 Frederick è un punto di svolta nella storia recente del Kindsgard. Il suo ritorno — dopo un'assenza non specificata — durante il **Primo Anno della Fenice** è collegato nella ricostruzione a due aspetti, con diverso grado di certezza:
 1. Gli Echi di Lunaria sono realmente in grado di segnare le sorti del Giardino
-2. La ricostruzione wiki collega Frederick alla **Giovane Fenice** di Vilegis; le due cronistorie OOC candidate recuperate descrivono esplicitamente le sue fattezze come copia di **Onofrius**. È un’attestazione delle redazioni candidate, ancora da versionare: non prova da sola che la Giovane Fenice di `Risveglio` sia Frederick, né fonde i due personaggi
+2. La **Cronistoria Onnisciente Quip**, sezione Il Primo Anno della Fenice, dice esplicitamente che il volto di Frederick è identico a quello della **Giovane Fenice**. La redazione **Draghieri FULL OOC PIETRO**, in La Battaglia di Vilegis ed il futuro che deve ancora venire, parla invece della copia esatta delle fattezze di **Onofrius**. Sono attestazioni di redazioni distinte, non una prova dell’identità personale fra Frederick e le figure di Vilegis; non fonderle né scegliere tacitamente una versione normativa.
 
 Dopo anni di stasi nei nuovi Battesimi, il suo ritorno riaccese la Fierezza e portò alla nascita di nuovi Draghieri.
 

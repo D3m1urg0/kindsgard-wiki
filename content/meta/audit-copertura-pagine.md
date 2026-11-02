@@ -8,6 +8,10 @@ ultima_modifica: "2026-11-02"
 
 # Registro di copertura dell'audit
 
+## Verifica corrente dopo il ripristino
+
+Baseline c45a4312 (PR #89). Riletti i nuclei P01–P06 di [[Ripristino e fedeltà delle fonti]]: forza di Natura ai margini, eruzione datata nel saggio, due attestazioni del volto di Frederick, orientamento e sdoppiamento nelle redazioni OOC, Annali/L11 e limiti dei Bruciati. Le pagine corrispondenti e i residui correnti sono allineati. È confronto dei nuclei indicati, non certificazione integrale delle pagine; fonti originali immutate.
+
 **Conferma successiva del proprietario — C10:** il verso originale di Deflecte Cantum riporta sei; i procedimenti di Espediente sono quindi **sei**, ora descritti nel registro [[Fonti e Decisioni Canoniche]]. Nessun settimo procedimento da cercare. Dismissione degli Artigli confermata soltanto come accenno, senza quantità o cronologia precisate. Questo esito supera le precedenti formule storiche sui sette processi non documentati.
 
 ## Aggiornamento autorevole — originali Quip recuperati

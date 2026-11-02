@@ -67,7 +67,7 @@ La fonte OOC recuperata **L’Ambientazione Onnisciente dei Draghieri (Cronistor
 
 ## Anno della Fenice
 
-**[Anno della Fenice]** — Ritorno di [[Frederick Fenice]], Unica Fenice. I Draghieri comprendono che gli Echi di Lunaria influenzano direttamente il Giardino. Nuovi Draghieri nascono dopo anni di stasi. La ricostruzione wiki associa Frederick alla Giovane Fenice di Vilegis/Lunaria, ma le fonti narrative accessibili non attestano l'identità personale né una somiglianza dei volti. La connessione cosmologica rimane da verificare, senza unificare le due figure.
+**[Anno della Fenice]** — Ritorno di [[Frederick Fenice]], Unica Fenice. La **Cronistoria Onnisciente Quip**, sezione Il Primo Anno della Fenice, associa il ritorno a due riscontri: gli Echi di Lunaria influenzano il Giardino e il suo volto è identico a quello della Giovane Fenice. La redazione FULL OOC PIETRO parla invece di Onofrius: registrare le formulazioni distinte senza dedurne identità personale. Nuovi Draghieri nascono dopo anni di stasi.
 
 ---
 

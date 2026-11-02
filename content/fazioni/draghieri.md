@@ -3,7 +3,7 @@ titolo: "Draghieri"
 categoria: "fazioni"
 tag: [draghieri, fazione, fierezza, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuoco", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi", "draghieri-spiegazione", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
 
@@ -15,7 +15,7 @@ fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuo
 >
 > *"Dal Fuoco alla Vita"* — formula attestata nella copia recuperata degli *Annali dell'Artiglio di Fuoco - Intro* (originale conservato nel pacchetto non-wiki).
 
-> **Nota di provenienza:** il testo degli *Annali dell'Artiglio di Fuoco - Intro*, recuperato da Google Drive e firmato da Syrus Salamander V, contiene «Dal Fuoco alla Vita». Il file fonte Markdown non è ancora presente in GitHub e la firma non attesta l'uso universale del motto. Il riferimento legacy Draghieri/Vere Fiere rimane non identificato.
+> **Nota di provenienza:** gli Annali dell’Artiglio di Fuoco - Intro, firmati da Syrus Salamander V, sono conservati integralmente nel pacchetto non-wiki e attestano «Dal Fuoco alla Vita». Non ne provano l’uso universale. Il documento originale Draghieri / Vere Fiere del Kindsgard è stato identificato e conservato separatamente; L11 non è più una lacuna di reperimento.
 
 ---
 

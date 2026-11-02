@@ -8,6 +8,21 @@ ultima_modifica: "2026-11-02"
 
 # Ripristino e fedeltà delle fonti
 
+## Verifiche successive al ripristino — 2026-11-02
+
+Baseline: **c45a4312c0df3f29e4e30a462995f58968e0e75e**, PR #89 integrata; CI 41486185675 e Pages 41486392761, tentativo 2, riusciti. Lavoro operativo nel checkout fuori OneDrive. Questa passata confronta i nuclei sotto, non certifica automaticamente tutte le proposizioni delle pagine coinvolte.
+
+| ID | Evidenza originale effettivamente riletta | Esito e residuo |
+|---|---|---|
+| P01 — Maestà | Cronistoria breve, fuga delle Creature di Armonia: sulle spiagge la forza di Natura è più debole; stesso nucleo in FULL OOC e Onnisciente | Rapporto qualitativo centro/margini attestato; non sono provate una legge quantitativa né la potenza di ogni Fiera prossima al centro |
+| P02 — Eruzione | La natura di Natura, firma e data: terzo anno dalla grande eruzione che diede inizio al Primo Secolo dell’Orso | Ancoraggio relativo attribuito al saggio, senza conversione assoluta né regola universale eruzioni/Echi |
+| P03 — Frederick | Onnisciente, Il Primo Anno della Fenice; FULL OOC, La Battaglia di Vilegis ed il futuro che deve ancora venire | Volto identico alla Giovane Fenice nella prima redazione; a Onofrius nella seconda. Propagato a biografia, Ere e Cronologia senza fondere persone o versioni |
+| P04 — Risvegli | FULL OOC, La Battaglia di Vilegis e Nota sullo sdoppiamento dei PG; Onnisciente, Primo Secolo del Drago; Risveglio del Drago | Orientamento Radiant/Moebius e incarnazione degli alter ego espliciti nella redazione storica. Distinti dalla cosmologia originaria, dai casi narrati e da una regola valida per ogni epoca |
+| P05 — Annali e L11 | Annali di Fuoco Intro, firma Syrus e Era degli Eroi; Draghieri / Vere Fiere del Kindsgard; #Wild/#Bottle | Documenti recuperati, catalogo e rinvii allineati. Intro non equivale all’intero corpus degli Annali e non risolve l’attribuzione/data di #Wild |
+| P06 — Limiti dei Bruciati | Inktober, secondo Scorched: sopravvissuti al fallimento del Battesimo, comunità e menomazioni | Il racconto non prova automaticamente meccanica delle Fiamme o identità dei gruppi; quarantena invariata |
+
+I testi sotto content/fonti, gli 82 DOCX, il pacchetto e le estrazioni restano immutati. Non sono state introdotte nuove fonti o regole. Restano i quattro episodi senza originale recuperato e le decisioni del proprietario: grafia Angeline, IX/XII di Adryanne e identità Sirius/Syrus sono state sottoposte con domande puntuali. Le tre risposte non sono presunte.
+
 ## Esito e perimetro
 
 Baseline: `0c49b234e436338db0850d87736bf8c7b76805b4`, PR #88. Il proprietario ha chiesto di ripristinare le sue parole nelle fonti, separando eventuali annotazioni, e ha fornito l’archivio locale delle esportazioni Quip. Il controllo precedente prima/dopo delle modifiche wiki **non verificava la fedeltà a questi originali** e non deve essere presentato come tale.

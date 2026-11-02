@@ -8,6 +8,12 @@ ultima_modifica: "2026-11-02"
 
 # Changelog
 
+## 2026-11-02 — Riscontri semantici successivi al ripristino
+
+- Baseline c45a4312, PR #89. Riletti direttamente i passi originali P01–P06, registrati in [[Ripristino e fedeltà delle fonti]]: Maestà centro/margini, data relativa dell’eruzione, somiglianza di Frederick nelle due redazioni, orientamento/sdoppiamento OOC, Annali Intro e documento legacy, limiti del racconto dei Bruciati.
+- Allineate le otto sintesi interessate e il catalogo: rimossi stati generici di fonte mancante superati; nessuna identità personale o meccanica universale dedotta dai riscontri. L11 chiusa nell’identificazione, L1/L3/L4 circoscritte alle proposizioni ancora da provare.
+- Fonti originali, pacchetto e 74 segmenti invariati. Domande puntuali al proprietario su Angeline, Adryanne e Sirius/Syrus; decisioni non presunte. Validazione e integrazione da registrare nella PR.
+
 ## 2026-11-02 — Ripristino delle parole degli autori dagli originali
 
 - C10: testimonianza del proprietario e controllo del verso originale di Deflecte Cantum correggono i procedimenti a **sei**, con elenco completo delle attività LARP; nessun settimo da ricostruire. Artigli: solo evento accennato, quantità non definita. Autorizzata esplicitamente la pubblicazione degli 82 DOCX con estrazioni/commenti in non-wiki.
