@@ -3,10 +3,19 @@ titolo: "Changelog"
 categoria: "meta"
 tag: [meta, changelog, modifiche]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 ---
 
 # Changelog
+
+## 2026-11-02 — Audit dei registri e ricadute Guardiani/Glossario
+
+- Baseline `fbc52fc42c852cbcf429f0f6568775a16e658777`, dopo PR #86; confronto col checkpoint richiesto `ffcc655f`: 120 commit successivi e merge PR #69–86, zero PR aperte all'avvio. Inventario invariato: 29 fonti, 31 pagine/indici, 6 registri, 66 Markdown.
+- `content/_glossario.md`: Fondamento e Unico Guardiano allineati alle tredici scintille di `Inktober 2019 #Legend`, senza equipararle come fatto a vettori esterni; Rovina distingue candidati esterni D3/D4 dai percorsi assenti in GitHub.
+- `content/fonti/elenco-draghieri.md`: corretta solo la nota editoriale sul numero progressivo (posizione ordinale per specie), aggiornata la nota Seymour a L15 già registrata e rimossa l'attribuzione certa di Guardiano a Samu'el non dimostrata da `#Tranquil/#Legend`. Syrus resta attestato in `#Bottle`; marcature e Lista Completa inalterate.
+- `content/meta/domande-aperte.md`: L1/L17 e sintesi allineate a scintille/Guardiani, quattro nomi attestati nei passaggi esaminati e appartenenza irrisolta di Samu'el/Frederick; L6 allineata a 26 profili e otto menzioni, senza pretesa di censimento completo.
+- `content/meta/fonti.md`, `content/meta/audit-copertura-pagine.md`, `content/meta/istruzioni-ripresa.md`: aggiunto report R01–R08 con passaggi verificabili, corrette sintesi superate e registrati residui, copia locale precedente e baseline. Recuperi privati PR #84–86 distinti dalle consultazioni di oggi; nessun testo privato importato né nuovo canone Vilegis/Lunaria.
+- Audit semantico integrale **aperto**. CI da verificare sullo SHA finale della PR prima del merge; precedenti esiti non certificano questa tranche. Questo changelog non anticipa un'integrazione o un deploy non ancora avvenuti.
 
 ## 2026-10-13 — Ricognizione repository e consolidamento delle domande
 

@@ -3,7 +3,7 @@ titolo: "Glossario"
 categoria: "meta"
 tag: [glossario, termini, definizioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardiani","Echi","Kindsgard","Fiera","Mare Esterno","Mare Interno","Mondo Ancora","Fondamento","Istinto","Giardino","Nexus","Oltregiardino","Rovina","Spettro","Draghiere","Vera Fiera","Covata","Vilegis / Lunaria","Vilegis/Lunaria","Specie Fenice","Colture","Icaria"]
 ---
 
@@ -43,7 +43,7 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Fitofiera** — Classificazione delle Fiere di natura vegetale. Include Soffioni Uncinati, Bacche Emofaghe, Sicomori Perenni, Dionee, ecc.
 
-**Fondamento** — Sistema cosmologico descritto nel setting di Vilegis/Lunaria. Va distinto dai sette vettori originari del Kindsgard e dalla successiva manifestazione nel Kindsgard di tredici vettori/Guardiani collegati al Fondamento. → vedi [[Cosmologia]]
+**Fondamento** — Sistema cosmologico descritto nel setting di Vilegis/Lunaria, distinto dai sette vettori originari del Kindsgard. `Inktober 2019 #Legend` attesta tredici Guardiani e tredici scintille di potere nel Kindsgard; la loro equivalenza puntuale con vettori del Fondamento resta interpretativa (L17/L21). → vedi [[Cosmologia]]
 
 **Giardino** — Nome informale per il territorio del Kindsgard ancora sotto il controllo di Natura, all'interno dell'[[Anello di Fuoco]].
 
@@ -71,13 +71,13 @@ aliases: ["Natura","Bisogno","Espediente","Umani","Artigli","Bruciati","Guardian
 
 **Re Draco** — Titolo di [[Dominic Draco]] dopo l'assorbimento dei 13 Guardiani. Entità unica, non più Draghiere né Vera Fiera. → vedi [[Dominic Draco]]
 
-**Rovina** — Cataclisma del setting Vilegis/Lunaria. La *Cronistoria (versione breve)* del Kindsgard intitola il periodo corrispondente «Era della Rovina» e descrive un cataclisma che altrove divise terra e materia: il parallelismo fra gli eventi è attestato a questo livello. D3/D4 non sono reperibili per chiarire ulteriori dettagli; la connessione non autorizza a importare nel Kindsgard tutta la cosmologia o le vicende esterne di Vilegis/Lunaria.
+**Rovina** — Cataclisma del setting Vilegis/Lunaria. La *Cronistoria (versione breve)* del Kindsgard intitola il periodo corrispondente «Era della Rovina» e descrive un cataclisma che altrove divise terra e materia: il parallelismo fra gli eventi è attestato a questo livello. D3/D4 restano assenti dal repository; sono registrate più redazioni candidate negli archivi collegati, la cui corrispondenza e precedenza non sono certificate. La connessione non autorizza a importare nel Kindsgard tutta la cosmologia o le vicende esterne di Vilegis/Lunaria.
 
 **Spettro** — Termine del sistema di Vilegis/Lunaria per i 13 principi fondanti del multiverso. Analogo ma distinto dall'Espediente del Kindsgard. → vedi [[Cosmologia]]
 
 **Specie Fenice** — Specie di Fiera distinta da Frederick Fenice, il Draghiere detto Unica Fenice. In *Solitudine* compare come l'ultima della propria specie, sacrificata alla bocca della Maestà. → vedi [[Frederick Fenice]], [[Maestà]]
 
-**Unico Guardiano** — Titolo di [[Dominic Draco]] dopo l'assorbimento dei tredici vettori collegati al Fondamento e manifestatisi nel Kindsgard. → vedi [[Dominic Draco]]
+**Unico Guardiano** — Titolo di [[Dominic Draco]] dopo la raccolta del potere dei tredici Guardiani tramite Espediente, secondo `Inktober 2019 #Legend`. Il racconto parla di tredici scintille; l'equivalenza con vettori del Fondamento resta interpretativa. → vedi [[Dominic Draco]]
 
 **Umani** — Specie inadatta al Kindsgard, creature dell'Era di Armonia. Sopravvivono grazie ai [[Draghieri]].
 

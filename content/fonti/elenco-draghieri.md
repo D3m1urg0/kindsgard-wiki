@@ -3,7 +3,7 @@ titolo: "Elenco Draghieri Conosciuti"
 categoria: "fonti"
 tag: [draghieri, elenco, liste, canonico]
 status: "canonico"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 tipo: "lista"
 voci-wiki-collegate: ["Draghieri", "Dominic Draco", "Wade Wyrm", "Caitlin Chimera", "Frederick Fenice", "Bran Behemoth", "Luther Leviathan", "Samu'el Sphynx", "Brood", "Salamander", "Altri Personaggi"]
 ---
@@ -16,7 +16,7 @@ voci-wiki-collegate: ["Draghieri", "Dominic Draco", "Wade Wyrm", "Caitlin Chimer
 
 ## Nota sul Formato
 
-Il numero progressivo indica quanti Draghieri della stessa Fiera hanno preceduto il portatore attuale nella storia del Kindsgard. Il conteggio è per-specie. Le Vere Fiere non si numerano.
+Il numero progressivo indica la posizione del portatore nella sequenza storica dei Draghieri della stessa Fiera, non il numero dei suoi predecessori: Wade, 33ª Viverna, occupa il trentatreesimo posto. Il conteggio è per-specie. Le Vere Fiere non si numerano.
 
 Per l'Hydra il sistema è doppio: il primo numero identifica quale Hydra (VII Hydra = la settima Hydra mai esistita come entità), il secondo identifica quale testa della stessa Hydra porta quel Draghiere (ogni Hydra è composta da più Draghieri individuali che condividono la stessa entità-Fiera).
 
@@ -108,7 +108,7 @@ Tristan Tryffid, VIII Trifide
 
 ## Note
 
-- **Seymour Sandwurm** è indicato come "ex Shai'Hulud" — probabilmente un nome precedente o alternativo della Fiera/Draghiere. ⚪ *Lacuna: origine del termine Shai'Hulud non documentata nelle fonti disponibili.*
+- **Seymour Sandwurm** è indicato come "ex Shai'Hulud". Il recupero archivistico registrato in [[Fonti e Decisioni Canoniche]] e in L15 attesta una bozza esterna intitolata «Seymour Shai Ulud»; resta da chiarire se la rinomina riguardi solo il personaggio o anche la Fiera/specie. Il documento esterno non è pubblicato nel repository.
 - **Angeline Aconytum**: la grafia nel documento originale è "Aconytum" (vs "Aconitum" usato altrove nei racconti). Grafia canonica da confermare.
 - **Lhars Leopterix**: il numero progressivo è assente nel documento originale.
-- I Guardiani identificati nell'elenco sono: Mara Megalapterix, Bartholomew Brood (XVI Covata), G. Gryffin. Questi si aggiungono agli altri Guardiani identificati nelle fonti narrative ([[Samu'el Sphynx]], [[Syrus Salamander]]).
+- I Guardiani marcati nell'elenco sono: Mara Megalapterix, Bartholomew Brood (XVI Covata), G. Gryffin. `Inktober 2018 #Bottle` identifica inoltre [[Syrus Salamander]] come Guardiano. L'appartenenza di [[Samu'el Sphynx]] ai tredici non è invece dimostrata: `#Tranquil` cita un Guardiano anonimo e `Inktober 2019 #Legend` non identifica la Sfinge come uno dei tredici. L17 resta aperta; non si completa il gruppo per inferenza.
