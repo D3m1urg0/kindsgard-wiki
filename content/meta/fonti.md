@@ -75,13 +75,13 @@ I recuperi privati descritti sopra restano risultati registrati delle PR #84–8
 
 | File | Contenuto | Status |
 |------|-----------|--------|
-| Fonte identificata dall’utente come “Cronistoria OOC” | Cronistoria che parte dalle Ere e confronta le Ere del Giardino con le Ere del Kindsgard. Il documento originale non è presente nel tree GitHub attuale né è stato ritrovato nella Library collegata con la ricerca effettuata. | ⚠️ Fonte identificata, file sorgente da recuperare/riconciliare |
-| “You Want to Be a Dragoner” | Guida ai Draghieri indicata dall’utente come documento corrispondente al riferimento storico D4. Il documento originale non è presente nel tree GitHub attuale né è stato ritrovato nella Library collegata con la ricerca effettuata. | ⚠️ Fonte identificata, file sorgente da recuperare/riconciliare |
+| Fonte identificata dall’utente come “Cronistoria OOC” | Redazioni FULL OOC PIETRO, SPIEGAZIONE COMPLETA OOC e Cronistoria Onnisciente conservate nel pacchetto non-wiki con estrazioni e hash. I passi positivi sono verificabili, ma non è dimostrata l’identità di ogni redazione con il legacy D3. | Testi recuperati; precedenza normativa da distinguere dai riscontri |
+| “You Want to Be a Dragoner” | Le due esportazioni So You Wanna Be A Dragoneer e So You Wanna be a Dragoneer (2), distinte, sono conservate nel pacchetto non-wiki. | Testi recuperati; equivalenza esatta con D4 e precedenza da certificare |
 | `content/fonti/elenco-draghieri.md` | Lista nominativa dei Draghieri | **Canonico** |
 | `content/fonti/fierezza-il-dio-che-e-in-noi.md` | Saggio di Wade Wyrm sulla spiritualità | Incompleto; usare con cautela |
 | `content/fonti/cio-che-sanno-i-draghieri.md` | Verità parziale (livello personaggio) | Prospettiva in-world, non cosmologica |
 | `content/fonti/cronistoria-versione-breve.md` | Cronistoria in-world (versione divulgativa) | **Canonico** |
-| `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa; identificatore di riferimento adottato nel catalogo e nei campi `fonti`: `draghieri-spiegazione` (il frontmatter del file non espone un campo `id`). È distinto dai riferimenti D3/D4 mancanti e non li sostituisce. | **Canonico** |
+| `content/fonti/draghieri-spiegazione.md` | Documento OOC esteso, TL;DR + versione estesa; identificatore di riferimento adottato nel catalogo e nei campi `fonti`: `draghieri-spiegazione` (il frontmatter del file non espone un campo `id`). È distinto dalle redazioni D3/D4 recuperate nel pacchetto non-wiki e non le sostituisce. | **Canonico** |
 
 **Identificatore di riferimento adottato:** `cio-che-sanno-i-draghieri` → `content/fonti/cio-che-sanno-i-draghieri.md`. È un ID operativo usato nel campo `fonti` della voce `Anello di Fuoco` perché la fonte sostiene direttamente la formulazione sul luogo scelto da Draco; non è una dichiarazione sul nome del file originale.
 
@@ -89,9 +89,9 @@ I recuperi privati descritti sopra restano risultati registrati delle PR #84–8
 
 | File | Contenuto | Note |
 |------|-----------|------|
-| `content/fonti/annali-artiglio-di-fuoco-intro.md` | Riferimento legacy a un'introduzione storica firmata da Syrus Salamander V. Una citazione attribuita agli Annali dell'Artiglio di Fuoco è effettivamente conservata in `content/fonti/inktober-2019.md`, ma non è possibile dimostrare che coincida con l'introduzione indicata né che il testo integrale sia stato incorporato. | ⚠️ Testo integrale/percorso da riconciliare |
+| `content/fonti/annali-artiglio-di-fuoco-intro.md` (percorso legacy, non creato) | Originale Annali dell’Artiglio di Fuoco - Intro recuperato nel pacchetto non-wiki e firmato da Syrus Salamander V. Non coincide col diverso estratto #Wild né lo data automaticamente. | Fonte recuperata, nessuna nuova pagina fonte |
 | `Annali dell'Artiglio delle Sabbie` (citazione in `content/fonti/inktober-2024.md`, #Exotic) | Testo citato come fonte interna alla narrazione; non esiste un file autonomo nel tree corrente. Non va confuso con gli `Annali dell'Artiglio di Fuoco`, citati in `Inktober 2019` e attribuiti a Syrus Salamander V. | ⚠️ Riferimento distinto, identità e testo sorgente da chiarire |
-| `content/fonti/draghieri-vere-fiere.md` | Riferimento a una descrizione OOC del dualismo Draghieri/Vere Fiere; il percorso non esiste nel tree attuale. `content/fonti/draghieri-spiegazione.md` è una fonte OOC presente che tratta i Draghieri e le Vere Fiere, ma senza il documento originale non è possibile confermare che sia la stessa fonte o una sua conversione. | ⚠️ Identità/percorso da riconciliare |
+| `content/fonti/draghieri-vere-fiere.md` (percorso legacy, non creato) | Originale Draghieri / Vere Fiere del Kindsgard recuperato nel pacchetto non-wiki: risolve l’identificazione L11. È distinto da draghieri-spiegazione OOC. | Fonte recuperata, nessuna nuova pagina fonte |
 | `content/fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
 | `content/fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
 | `content/fonti/la-natura-di-natura.md` | Saggio della Vera Viverna (Wendy Wyrm) | Prospettiva Maestà/Natura; verità cosmologica più accurata |
@@ -116,7 +116,7 @@ I recuperi privati descritti sopra restano risultati registrati delle PR #84–8
 |------|-----------|------|
 | `content/fonti/inktober-2018.md` | 20 blocchi testuali su 22 numeri di prompt, più il secondo Scorched (19-2); tre coppie di prompt condividono un testo. Indice riassuntivo presente. Autori: Stefania Ricco, Giordano Paoli (#9), Andrea Ceravolo (#12) | Ambientazione: post-Anno del Draco, Era del Dominio |
 | `content/fonti/inktober-2019.md` | 24 episodi testuali, numerati fino a 25 ma senza il 18, con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: presunta Era del Dominio/post-Vere Fiere |
-| `content/fonti/inktober-2024.md` | 8 blocchi testuali su 9 prompt (Hile/Sun condividono il testo), con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: periodo successivo, da mappare |
+| `content/fonti/inktober-2024.md` | 8 blocchi testuali su 9 prompt (Hike/Sun condividono il testo; Hile era la grafia del precedente indice wiki), con indice riassuntivo. Autore: Stefania Ricco | Ambientazione: periodo successivo, da mappare |
 
 ### Schede Tecniche
 
@@ -140,7 +140,7 @@ I recuperi privati descritti sopra restano risultati registrati delle PR #84–8
 
 **Risolto dopo ricognizione del 2026-11-01:** `Copia_di_I_Draghieri_del_kindsgard` corrisponde alla copia in-world di *Ciò che sanno i Draghieri*. I due documenti Drive confrontati hanno testo identico; la fonte è già conservata nel corpo di `content/fonti/cio-che-sanno-i-draghieri.md`, con apparati editoriali e conversione Markdown. Il campo `fonti` di Cosmologia è stato riconciliato con l’ID `cio-che-sanno-i-draghieri`. Il distinto `draghieri-spiegazione.md` è OOC e non è lo stesso testo.
 
-Anche l'identificatore di frontmatter `Draghieri_Vere_Fiere_del_Kindsgard`, usato nelle pagine `Draghieri`, `Vere Fiere` e `Fierezza e Maestà`, non è riconciliato con certezza. Il nome potrebbe riferirsi al percorso legacy mancante `content/fonti/draghieri-vere-fiere.md`, ma non è dimostrato che l'identificatore e quel percorso rappresentino esattamente lo stesso documento; `draghieri-spiegazione.md` resta una fonte OOC pertinente ma non un sostituto confermato. Mantenere il riferimento e registrare l'identità come lacuna documentale.
+Il riferimento `Draghieri_Vere_Fiere_del_Kindsgard` nei frontmatter è ora riconciliato con l’originale omonimo recuperato in Quip e conservato nel pacchetto non-wiki. Il percorso Markdown legacy non è stato creato; disponibilità del documento e presenza di una pagina fonte sono stati distinti. Non sostituirlo con `draghieri-spiegazione.md`, che è un altro testo.
 
 ## Decisioni di Canonizzazione
 

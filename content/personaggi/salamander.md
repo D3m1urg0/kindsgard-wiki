@@ -3,7 +3,7 @@ titolo: "Salamander — Draghieri della Salamandra"
 categoria: "personaggi"
 tag: [syrus-salamander, sebastian-salamander, draghieri, salamandra, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-11-01"
+ultima_modifica: "2026-11-02"
 aliases: ["Syrus Salamander","Sebastian Salamander"]
 fonti: ["Annali_dell_Artiglio_di_Fuoco", "L_esodo", "Inktober_2018", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
@@ -16,13 +16,13 @@ fonti: ["Annali_dell_Artiglio_di_Fuoco", "L_esodo", "Inktober_2018", "Inktober_2
 
 ### Panoramica
 
-Syrus Salamander è il **V Draghiere della Salamandra** del Kindsgard. È il predecessore di [[#Sebastian Salamander, VI Salamandra|Sebastian]] e uno dei Draghieri più longevi documentati nelle fonti. Una citazione attribuita agli **Annali dell'Artiglio di Fuoco** compare in `Inktober 2019 #Wild` ed è firmata da Syrus; il testo integrale degli Annali non è presente come file autonomo nel repository. Il frammento contiene però riferimenti all'Anno del Dominio e a città sorte dopo l'ascesa di Re Draco, in tensione con la morte di Syrus prima di quell'ascesa. La datazione del frammento e la sua relazione con il documento autonomo mancante non sono quindi risolte (vedi L19).
+Syrus Salamander è il **V Draghiere della Salamandra** del Kindsgard. È il predecessore di [[#Sebastian Salamander, VI Salamandra|Sebastian]] e uno dei Draghieri più longevi documentati nelle fonti. L’originale **Annali dell’Artiglio di Fuoco - Intro**, firmato da Syrus, è recuperato e conservato nel pacchetto non-wiki. È distinto dal lungo estratto attribuito agli Annali in `Inktober 2019 #Wild`: quell’estratto contiene riferimenti all’Anno del Dominio e a città sorte dopo l’ascesa di Re Draco, in tensione con la morte di Syrus prima di quell’ascesa. Il recupero dell’Intro non risolve automaticamente datazione e attribuzione di #Wild (L19).
 
 Syrus portava il titolo di **Guardiano** ed è identificato fra i portatori del potere dei tredici Guardiani nella ricostruzione storica. `Inktober 2019 #Legend` attesta **tredici scintille** associate a quei Guardiani; l'identificazione precisa con i vettori del Fondamento è interpretativa e distinta dai sette vettori originari del Kindsgard.
 
 ### Ruolo
 
-Il frammento di `#Wild` non è sufficiente a collocare Syrus nell'Era degli Eroi: la datazione e l'attribuzione restano da riconciliare con la cronologia e con il documento degli Annali non reperito. Non usare il frammento come prova che Syrus sia sopravvissuto all'ascesa di Re Draco.
+Il frammento di `#Wild` non basta a collocare Syrus nell’Era degli Eroi. L’Intro recuperata usa espressamente «Questa è l’Era degli Eroi», ma non stabilisce l’identità o la data di composizione del diverso estratto #Wild. Non usare quel frammento come prova che Syrus sia sopravvissuto all’ascesa di Re Draco.
 
 In `Inktober 2018 #Bottle`, Sebastian trova nel laboratorio i resti di Syrus. La causa e il luogo esatto della morte non sono descritti in modo conclusivo. Poiché Syrus portava il titolo di Guardiano, rientra nel gruppo dei tredici Guardiani uccisi da Dominic durante l'ascesa a Re Draco; il ritrovamento dei resti nel laboratorio non dimostra che sia morto lì né che si sia trattato di un Battesimo fallito. Gli appunti di Syrus (in bella grafia elegante, inchiostro rosso scuro che ha quasi bruciato le pagine) sono mescolati con quelli di una collaboratrice identificata come **Gertrude** (inchiostro verde), su cui condusse studi medici degli usi di alcune parti di Fiera.
 

@@ -25,7 +25,7 @@ fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_
 
 **"Omnia praedae fieri Potest"** — *Tutto può diventare preda.* Il documento originale **Draghieri / Vere Fiere del Kindsgard**, recuperato nell’archivio Quip, affianca «Ab Necessitate Excusi» e «Omnia praedae fìeri Potest» nell’ordine delle due fazioni. L’attestazione è ora positiva; non prova che entrambi i motti siano usati indifferentemente da tutti i gruppi. La grafia accentata è quella del documento.
 
-**Nota di provenienza:** gli *Annali dell'Artiglio di Fuoco - Intro*, recuperati e letti nell'archivio collegato ma non ancora importati nei 29 file fonte GitHub, attestano «Dal Fuoco alla Vita». Per il nuovo riscontro di Omnia vedi sopra. Le due versioni della guida D4 rintracciate negli archivi esterni non sono ancora riconciliate con il file legacy esatto.
+**Nota di provenienza:** gli originali Annali dell’Artiglio di Fuoco - Intro e Draghieri / Vere Fiere del Kindsgard sono conservati nel pacchetto non-wiki: attestano rispettivamente «Dal Fuoco alla Vita» e «Omnia praedae fìeri Potest». Sono documenti distinti dalle due guide candidate D4; la precedenza normativa delle redazioni rimane da definire.
 
 **"Deflecte Cantum"** — *Devia il Canto.* In `Inktober 2024 #Passport` è un augurio rivolto **da un Umano a Dani**, sul Kindsgard, al termine di un controllo sanitario. La scena non documenta un saluto esclusivo dei Draghieri né lo colloca su Vilegis: *"Deflecte Cantum, Dani. Resisti."* (`Inktober 2024 #Passport`).
 

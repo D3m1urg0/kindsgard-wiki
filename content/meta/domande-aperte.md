@@ -95,7 +95,7 @@ La collocazione di **Inktober 2024** rispetto alla timeline master resta indeter
 ## ⚪ Lacune e verifiche residue (contenuto mancante o incompleto)
 
 ### L1 — Cosmologia profonda: Mondi Ancora, Fondamento, Creatori
-Il quadro resta incompleto perché i testi integrali D3 e D4 non sono disponibili nel repository consultato. Sono però stati chiariti alcuni punti strutturali che non vanno più trattati come dubbi:
+Il quadro cosmologico resta incompleto nei dettagli indicati sotto, ma le redazioni candidate D3/D4 sono recuperate e conservate nel pacchetto non-wiki. La loro disponibilità non è più la lacuna; restano da verificare proposizioni specifiche e precedenza normativa. Sono già chiariti questi punti strutturali:
 - La cosmologia originaria del Kindsgard comprende sette vettori: Natura, Bisogno, Espediente, Umani, Fiere, Draghieri e Vere Fiere.
 - I tredici Spettri appartengono al sistema del Fondamento di Vilegis/Lunaria; non sono sinonimi dei sette vettori e non va presunta una corrispondenza uno-a-uno.
 - `Inktober 2019 #Legend` attesta tredici Guardiani e tredici scintille di potere nel contesto della connessione con altri mondi; la loro equivalenza puntuale con vettori del Fondamento resta interpretativa e non modifica i sette vettori originari.
@@ -105,7 +105,7 @@ Restano da documentare direttamente:
 - **Il Fondamento**: il passaggio della Cronistoria OOC sul Battesimo di Dominic e il riferimento in `Deflecte Cantum` ("Il Fondamento che noi / Verso il Giardino faremo fluir").
 - **I Creatori**: menzionati nel titolo del progetto ma non descritti nelle fonti Kindsgard disponibili.
 - **Anarion**: menzionato in “You Want to Be a Dragoner” come evento di riferimento ("dalla caduta di Anarion"), ma non descritto.
-- → **Lacuna documentale residua:** non dedurre dettagli ulteriori finché D3/D4 o altre fonti primarie non siano disponibili.
+- → **Lacuna documentale residua:** verificare i dettagli non ancora dimostrati nelle redazioni recuperate; non confondere una proposizione non provata con un documento non disponibile. Il rapporto centro/margini della forza di Natura è attestato dalla Cronistoria breve, mentre una legge quantitativa, la potenza di ogni Fiera vicina e una meccanica universale eruzioni/Echi non lo sono.
 
 ### L2 — Il tredicesimo Spettro — candidato esterno da verificare
 I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, Energia, Legge, Sogno, Conoscenza, Vita, Morte, Dominio, Libertà. Il sito ufficiale attuale di Battle for Vilegis dichiara che gli Spettri sono tredici; la pagina di Gregoria associa il suo principio all’**Equilibrio**. Questo rende Equilibrio un candidato plausibile, ma le pagine attuali possono appartenere a una versione del setting diversa da quella richiamata nelle fonti Kindsgard.
@@ -113,8 +113,8 @@ I 12 Spettri citati dalle fonti della wiki sono: Bene, Male, Guerra, Materia, En
 - **Stato decisionale:** Equilibrio resta un candidato menzionato esclusivamente come riferimento esterno non canonico. Dato che Vilegis/Lunaria è fuori scope salvo intersezioni documentate, non è necessaria una decisione del proprietario per il canone Kindsgard; non promuoverlo a fatto canonico senza una fonte primaria pertinente.
 
 ### L3 — Verifica finale della copertura geografica
-La voce `[[Geografia]]` registra i luoghi noti nelle fonti attualmente presenti, ma non esiste una mappa sistematica e alcune relazioni spaziali restano inferite. È stata verificata una discrepanza toponomastica: `Inktober 2019 #Bait` usa “Valle dei Tuoni”, mentre `#Tread` e `L'ultima notte all'ombra dell'Anello` usano “Valle dei Fulmini”; non è stabilito se siano lo stesso luogo. È stata inoltre corretta una conflazione nella tabella degli Artigli: `Inktober 2018 #Scorched` distingue l'Artiglio del Fuoco (con il laboratorio della Salamandra, fuori città) dall'“Artiglio di Città del Re”, citato per i Battesimi controllati; non c'è base per rinominare quest'ultimo “Artiglio di Fuoco”. `Inktober 2019 #Bait` descrive un ghiacciaio sul fianco di un vulcano attivo, senza nominare quel vulcano nel passaggio: identificarlo con la Maestà è plausibile, ma non provato esplicitamente. La copertura geografica non può essere dichiarata definitiva anche perché i testi originali D3 (Cronistoria OOC) e D4 (“You Want to Be a Dragoner”) non sono presenti nel repository consultato né sono stati ritrovati nella Library collegata.
-- → **Attività residua:** mantenere esplicita la distinzione tra posizioni attestate e inferenze; aggiornare la verifica geografica quando i testi originali saranno nuovamente disponibili. Non chiedere all’utente di chiarire l’identità dei documenti, già chiarita.
+La voce `[[Geografia]]` registra i luoghi noti nelle fonti attualmente presenti, ma non esiste una mappa sistematica e alcune relazioni spaziali restano inferite. È stata verificata una discrepanza toponomastica: `Inktober 2019 #Bait` usa “Valle dei Tuoni”, mentre `#Tread` e `L'ultima notte all'ombra dell'Anello` usano “Valle dei Fulmini”; non è stabilito se siano lo stesso luogo. È stata inoltre corretta una conflazione nella tabella degli Artigli: `Inktober 2018 #Scorched` distingue l'Artiglio del Fuoco (con il laboratorio della Salamandra, fuori città) dall'“Artiglio di Città del Re”, citato per i Battesimi controllati; non c'è base per rinominare quest'ultimo “Artiglio di Fuoco”. `Inktober 2019 #Bait` descrive un ghiacciaio sul fianco di un vulcano attivo, senza nominare quel vulcano nel passaggio: identificarlo con la Maestà è plausibile, ma non provato esplicitamente. Le redazioni OOC sono ora recuperate nel pacchetto non-wiki; questa disponibilità non risolve per inferenza le relazioni spaziali ancora incerte.
+- → **Attività residua:** mantenere distinte posizioni attestate e inferenze; verificare i singoli rapporti spaziali nelle fonti recuperate. Non richiedere nuovamente il recupero già completato.
 
 ### L4 — Dettagli meccanici del Battesimo del Fuoco
 Lo schema ordinario e alcuni dettagli sono stati chiariti dall'utente e non vanno più trattati come domande aperte:
@@ -127,7 +127,7 @@ Restano invece aperti i fattori che determinano l'esito individuale del Battesim
 
 La precedente discordanza delle due sintesi wiki su Ishvard/Karsh è risolta come attestazione documentale: la Cronistoria Onnisciente recuperata colloca l’evento nel **Primo Secolo dell’Orso** e descrive la separazione e due Battesimi. Non ne deriva una regola di irripetibilità. La precedenza fra tutte le redazioni OOC rimane distinta dal riscontro di questo passo.
 
-La documentazione residua da recuperare riguarda anche la formulazione esatta in D3/D4, i cui file originali non sono disponibili nel repository consultato.
+La formulazione storica su Echi e orientamento dei risvegli è attestata nella redazione FULL OOC; la nota sullo sdoppiamento dei PG e il caso dei cinque Draghieri sono confrontati in [[Fierezza e Maestà]]. Restano aperti i dettagli non coperti da quei passi e la precedenza fra le redazioni, non la disponibilità generica di D3/D4.
 
 
 ### L6 — Completamento delle schede Fiere
@@ -162,22 +162,19 @@ L’unica menzione trovata nel repository è `Una Missiva dall’Anello`: una be
 
 Queste sono scelte editoriali di titolo, non decisioni sul canone narrativo. Le fonti non vanno rinominate o eliminate finché la scelta non è confermata.
 
-### L11 — Identificatori riconciliati; storico del recupero
+### L11 — Identificatori riconciliati
 
-La ricognizione del 2026-11-01 ha risolto uno dei due riferimenti:
+- `Copia_di_I_Draghieri_del_kindsgard`: riconciliato con il documento in-world Ciò che sanno i Draghieri, ora ripristinato da Quip nella pagina fonte corrispondente.
+- `Draghieri_Vere_Fiere_del_Kindsgard`: riconciliato con l’originale Draghieri / Vere Fiere del Kindsgard, conservato nel pacchetto non-wiki con hash. Il diverso percorso Markdown legacy non è stato creato.
 
-- **Risolto:** `Copia_di_I_Draghieri_del_kindsgard` è il documento in-world *I Draghieri del kindsgard (ciò che sanno i draghieri)*; due copie Drive contengono il medesimo testo, conservato in `content/fonti/cio-che-sanno-i-draghieri.md`. Il frontmatter di Cosmologia è stato aggiornato al riferimento corrente, non a `draghieri-spiegazione.md` OOC.
-- I frontmatter di `[[Draghieri]]`, `[[Vere Fiere]]` e `[[Fierezza e Maestà]]` citano `Draghieri_Vere_Fiere_del_Kindsgard`. Potrebbe riferirsi al percorso legacy mancante `content/fonti/draghieri-vere-fiere.md`, ma questa identità non è dimostrata.
-
-`content/fonti/draghieri-spiegazione.md` è un documento OOC pertinente, ma non è dimostrato che sia la fonte del riferimento residuo. Ulteriori documenti affini sono stati individuati in Dropbox, senza prova d’identità.
-- → **Chiarimento residuo:** identificare, soltanto se possibile, il documento specifico `Draghieri_Vere_Fiere_del_Kindsgard`. Non sostituire automaticamente il riferimento nel frontmatter.
+Il testo OOC draghieri-spiegazione è distinto da entrambi. **Nessun chiarimento umano residuo sull’identificazione L11.** Le righe datate del precedente recupero restano soltanto storico.
 
 ### L12 — Annali dell'Artiglio delle Sabbie
 `Inktober 2024 #Exotic` introduce una citazione attribuita agli **Annali dell'Artiglio delle Sabbie**. Il repository contiene invece un riferimento agli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V; il relativo file autonomo non è presente con il percorso catalogato. Non ci sono elementi sufficienti per trattare i due titoli come lo stesso documento.
 - → **Chiarimento documentale:** gli Annali delle Sabbie sono un documento distinto, un estratto degli Annali del Fuoco o soltanto una fonte interna citata nel racconto? Fino alla conferma, mantenere i riferimenti separati e non inventare il testo mancante.
 
 ### L13 — Ambito della fazione delle Fiamme
-La precedente sintesi di `[[Fiamme]]` presentava la fazione come parte del Kindsgard e importava nel canone originario meccaniche legate a Vilegis/Lunaria. La voce è stata riclassificata come bozza e quarantinata: i dettagli esterni sono conservati come archivio esplicitamente non canonico. Il corpus attesta i Bruciati in `Inktober 2018 #Scorched` e il loro legame come seme narrativo delle Fiamme, ma non prova che le Fiamme siano una fazione organizzata nel Kindsgard. `Inktober 2024 #Hile/#Sun` descrive un personaggio che ricorda di essere morto e tornato e che non viene percepito dagli Umani, ma non nomina un Battesimo fallito né lo chiama Bruciato/Fiamma: il parallelo resta ipotesi, non prova dell'identità o dell'affiliazione.
+La precedente sintesi di `[[Fiamme]]` presentava la fazione come parte del Kindsgard e importava nel canone originario meccaniche legate a Vilegis/Lunaria. La voce è stata riclassificata come bozza e quarantinata: i dettagli esterni sono conservati come archivio esplicitamente non canonico. Il corpus attesta i Bruciati in `Inktober 2018 #Scorched` e il loro legame come seme narrativo delle Fiamme, ma non prova che le Fiamme siano una fazione organizzata nel Kindsgard. `Inktober 2024 #Hike/#Sun` descrive un personaggio che ricorda di essere morto e tornato e che non viene percepito dagli Umani, ma non nomina un Battesimo fallito né lo chiama Bruciato/Fiamma: il parallelo resta ipotesi, non prova dell'identità o dell'affiliazione.
 - → **Chiarimento canonico:** le Fiamme sono una fazione di Vilegis collegata narrativamente ai Bruciati del Kindsgard, oppure esiste anche una fazione organizzata delle Fiamme nel Kindsgard? Fino alla conferma, mantenere esplicita la connessione senza estendere l'affiliazione geografica.
 
 ### L14 — “Infiammati” in `Inktober 2018 #Flowing`

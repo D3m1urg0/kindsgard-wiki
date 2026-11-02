@@ -36,7 +36,7 @@ Questa era è così remota che neppure le canzoni o i ricordi più antichi riesc
 ## Il Conflitto — Era della Rovina
 *Parallelismo con Lunaria: Rovina*
 
-Un cataclisma cosmico proveniente dall'esterno attraversò spazio e tempo e si abbatté sull'equilibrio perfetto del Kindsgard. La ricostruzione wiki lo mette in parallelo con la Rovina di Vilegis/Lunaria, e la *Cronistoria (versione breve)* intitola esplicitamente questo periodo **«Il Conflitto (L'Era della Rovina)»**, dichiarando che la stessa frattura cosmica «in altri luoghi fu la Rovina». L'allusione è direttamente attestata, ma **non dimostra un'identità completa di eventi, meccanismi e cronologie con la Rovina di Vilegis/Lunaria**; i dettagli restano indeterminati senza D3/D4. Natura impazzì: il suo potere sfuggì al controllo e si abbatté sul Giardino in forma di terremoti, eruzioni, inondazioni, piogge di fuoco e laghi di acido.
+Un cataclisma cosmico proveniente dall'esterno attraversò spazio e tempo e si abbatté sull'equilibrio perfetto del Kindsgard. La ricostruzione wiki lo mette in parallelo con la Rovina di Vilegis/Lunaria, e la *Cronistoria (versione breve)* intitola esplicitamente questo periodo **«Il Conflitto (L'Era della Rovina)»**, dichiarando che la stessa frattura cosmica «in altri luoghi fu la Rovina». L'allusione è direttamente attestata, ma **non dimostra un'identità completa di eventi, meccanismi e cronologie con la Rovina di Vilegis/Lunaria**; le redazioni OOC recuperate documentano il collegamento, ma la loro precedenza e l’identità con il legacy D3 restano da distinguere dai singoli riscontri. Natura impazzì: il suo potere sfuggì al controllo e si abbatté sul Giardino in forma di terremoti, eruzioni, inondazioni, piogge di fuoco e laghi di acido.
 
 Da questa devastazione nacquero nuove specie: non più le docili creature dell'Era di Armonia, ma violente [[Fiere]] abbandonate al mattatoio dell'esistenza, formate per sopravvivere all'inferno del nuovo Giardino. La legge del Giardino divenne semplice: per sopravvivere, bisogna uccidere.
 
@@ -111,7 +111,7 @@ Un gruppo di Draghieri viola l'Anello e tenta di costruire avamposti oltre il pe
 La prima Chiamata annuncia ai Draghieri un nuovo pericolo: il **Nexus**, una minaccia capace di superare i confini del mare astrale. I Draghieri intervengono su Vilegis, impostando come priorità la lotta al Nexus.
 
 ### Il Primo Anno della Fenice
-Il ritorno di [[Frederick Fenice]] — Unica Fenice, che resuscita sempre nel proprio corpo — fa capire ai Draghieri che gli Echi di Lunaria possono davvero segnare le sorti del Giardino. Nuovi Draghieri nascono dopo anni di stasi.
+Il ritorno di [[Frederick Fenice]] — Unica Fenice, che resuscita nel proprio corpo — è associato dalla Cronistoria Onnisciente Quip all’influenza degli Echi sul Giardino e al volto identico a quello della Giovane Fenice. La redazione FULL OOC PIETRO menziona invece le fattezze di Onofrius: le formulazioni non vanno fuse come identità personale. Nuovi Draghieri nascono dopo anni di stasi.
 
 ### Il Primo Anno dell'Orso
 I Draghieri si schierano con Onofrius ma la vittoria va all'Orso. La forza di Natura cresce. Le Fiere, in fuga dalla forza creatrice impazzita, si gettano contro i confini. L'Anello è violato in più punti. *Si torna a cacciare.*

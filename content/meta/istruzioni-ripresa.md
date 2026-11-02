@@ -21,13 +21,15 @@ Le 29 pagine fonte sono state confrontate con l’archivio Quip: 74 segmenti rip
 
 ## Checkpoint corrente — 2026-11-02
 
-- Baseline: **b25eae3936a12ed5f1ed9312d0d3dbdef55a5bd5**, PR #87 integrata. CI Validate Quartz wiki 41470267978 riuscita su 45d96597e7d3366ce67c1d557c968d4fb5a5fce8; Pages 41470495605 riuscito sul merge. Il checkout originario indicato dall’utente non è stato modificato.
-- Nuova passata delle **31 pagine/indici** completata sui nuclei esplicitati nella matrice di [[Esito dell’audit documentale]]; rettifiche F01–F12, anche di errori del precedente audit. Confrontate le quattro redazioni candidate D3/D4 e i documenti esterni elencati nel report, senza importazione. Nessuna fusione di Kindsgard e Vilegis/Lunaria.
-- Inventario corrente: 67 Markdown, 29 fonti, 31 pagine/indici, 7 registri. audit/coverage-2026-11-02.json conserva hash e blocchi; non certifica automaticamente ogni frase. I corpi primari devono risultare preservati nel confronto prima/dopo.
-- Per integrare questa tranche: CI sul suo SHA finale, merge solo dopo esito positivo, verifica Pages. Registrare PR/SHA/run nella descrizione della PR e nel messaggio di merge; non modificare il ramo dopo la CI senza ripeterla.
-- **Residui concreti:** L22 (100:1, sette processi, Ishvard e conseguenze del regno), definizione profonda di Mondo Ancora, identità/versioni D3/D4 e L11/L12, incongruenze e decisioni elencate nella sintesi di Domande Aperte. Una lettura completa non equivale a prova atomica completa; non dichiarare chiuso l’audit definitivo integrale.
+- Main verificato a **c45a4312c0df3f29e4e30a462995f58968e0e75e**, PR #89 integrata. CI 41486185675 riuscita, Pages 41486392761 tentativo 2 riuscito dopo errore 500 del servizio.
+- Checkout operativo fuori OneDrive: C:/Users/PietroCaruso/Repos/D3m1urg0/kindsgard-site. La copia in OneDrive è conservata, senza pulizia; le cartelle personali non tracciate sono preservate.
+- 29 pagine fonte, 74 segmenti ripristinati; 82 DOCX integri in non-wiki. Verificare con python audit/verify-source-fidelity.py. Quattro episodi ancora senza originale: Flowing, Cruel, Whale, Tasty. Non ripetere le correzioni dentro le parole degli autori.
+- Ultima passata: P01–P06 in [[Ripristino e fedeltà delle fonti]], confronto semantico dei nuclei indicati e aggiornamento dei residui L1/L3/L4/L11. D3/D4 e Annali Intro non sono genericamente mancanti: disponibilità, identità legacy e autorità normativa sono questioni distinte.
+- C10 conferma sei procedimenti; nessun settimo da cercare. I sei non sono i sette vettori originari; nessuna equivalenza automatica con tredici Guardiani/Locuste.
+- In attesa delle risposte puntuali su Angeline, Adryanne IX/XII e Sirius/Syrus. Non assumere risposte per silenzio. Conservare le varianti originali anche dopo eventuali decisioni.
+- Prima del merge: CI sullo SHA finale (fedeltà, wikilink, build), poi Pages sul merge. Registrare PR/SHA/run nella descrizione PR e nel messaggio di merge, senza modificare dopo la CI. Audit integrale ancora aperto nei residui espliciti.
 
-I checkpoint sottostanti sono storici. Per gli esiti correnti prevalgono il report e la sezione corrente del registro di copertura.
+I checkpoint successivi sono storici; prevalgono questo riepilogo e il report corrente.
 
 ## Stato verificato
 

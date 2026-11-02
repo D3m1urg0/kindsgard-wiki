@@ -4,7 +4,7 @@ categoria: "mondo"
 tag: [maestà, natura, vulcano, geografia, cosmologia]
 status: "revisionato"
 ultima_modifica: "2026-11-02"
-fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Solitudine", "Annali_dell_Artiglio_di_Fuoco", "Cronistoria_versione_breve", "Inktober_2019", "La_natura_di_Natura"]
+fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "draghieri-spiegazione", "Solitudine", "Annali_dell_Artiglio_di_Fuoco", "Cronistoria_versione_breve", "Inktober_2019", "La_natura_di_Natura", "cio-che-sanno-i-draghieri"]
 ---
 
 # Maestà
@@ -35,7 +35,7 @@ Alla sua vetta si trova una caldera in costante attività. Le nubi di piogge aci
 
 ## Ruolo Cosmologico
 
-La Maestà è il punto centrale associato alla forza di [[Natura]]. Le sintesi descrivono la forza creatrice e distruttrice come più intensa in prossimità della Maestà e le [[Fiere]] vicine come più potenti e imprevedibili; tuttavia questa graduazione non è verificabile direttamente sugli originali D3/D4, non reperiti nel repository, e resta una ricostruzione wiki non confermata nei dettagli. Anche la relazione fra le eruzioni della Maestà e gli [[Echi]] è riportata nelle sintesi cosmologiche, ma non è verificabile direttamente sugli originali mancanti: non va trattata come meccanica pienamente documentata.
+La Maestà è il punto centrale associato alla forza di [[Natura]]. La **Cronistoria (versione breve)** attesta direttamente che la forza si propaga dal vulcano e che sulle spiagge del Mare Esterno è «più debole e meno pericolosa»; lo stesso nucleo ricorre nelle redazioni FULL OOC PIETRO e Onnisciente. Il rapporto fra centro e margini è quindi documentato, senza richiedere una legge quantitativa. Non ne deriva che ogni Fiera vicina sia automaticamente più potente o imprevedibile: quella generalizzazione resta da provare. `La natura di Natura` reca una data relativa alla grande eruzione che diede inizio al Primo Secolo dell’Orso: attesta quell’ancoraggio in-world, non una regola universale che colleghi ciascuna eruzione a un Eco.
 
 È qui che, secondo la ricostruzione del ciclo storico, i [[Draghieri]] che raggiungono la vetta vengono trasformati in [[Vere Fiere]] da Maestà. Le fonti descrivono questo passaggio come un rovesciamento dell'orientamento del portatore; non ne chiariscono ogni dettaglio meccanico.
 
@@ -59,7 +59,7 @@ Con la fondazione dell'[[Anello di Fuoco]], l'avanzata verso la Maestà fu inter
 
 ## Tracciabilità e limiti
 
-Questa è una sintesi wiki, non una fonte primaria. La descrizione della Maestà come vulcano grande quanto il mondo è attestata nella guida OOC canonica `[[Draghieri del Kindsgard (spiegazione)]]`. Alcune formulazioni più dettagliate sul gradiente della forza di Natura vicino alla Maestà e sugli Echi associati alle eruzioni dipendono invece da riferimenti D3/D4 presenti nel frontmatter, i cui testi integrali non sono disponibili nel repository consultato. Questi ultimi passaggi non sono stati verificati direttamente sugli originali; vedi [[Domande Aperte e Lacune]] L1. Non ampliarli per inferenza.
+Questa è una sintesi wiki. La grandezza della Maestà è attestata dalla spiegazione OOC pubblicata; la forza più debole ai margini è attestata dalla Cronistoria breve, confrontata direttamente con il suo originale Quip. Le redazioni OOC recuperate sono ora disponibili nel pacchetto non-wiki: la disponibilità dei testi non ne risolve automaticamente la precedenza normativa. Restano aperte la generalizzazione sulle Fiere prossime al centro e una meccanica universale eruzioni/Echi (L1), senza negare gli specifici passaggi positivi già documentati.
 
 ---
 
