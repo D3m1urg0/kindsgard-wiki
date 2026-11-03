@@ -3,10 +3,15 @@ titolo: "Annotazioni editoriali alle fonti"
 categoria: "meta"
 tag: [fonti, annotazioni, provenienza]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-03"
 ---
 
 # Annotazioni editoriali alle fonti
+
+## Rettifiche canoniche del 2026-11-03
+
+- **Angeline:** nelle sintesi usare Aconytum (C11); Aconitum resta nelle prose originali.
+- **Adryanne:** sempre XII; IX in Inktober 2019 #Build è un refuso confermato dal proprietario (C12). La trascrizione originale mantiene IX, con questa rettifica esterna al testo. La risposta riguarda il numero, senza modificare le grafie Achenius/Achenium.
 
 Questa pagina conserva gli apparati della wiki separati dalle parole degli autori. Le introduzioni e note riportate sotto provengono dalla versione precedente al ripristino e **non sono testo originale né automaticamente conclusioni convalidate**. Le formule storiche «D3 non reperito» vanno lette alla luce dei recuperi attuali. Per gli esiti correnti e le rettifiche prevale [[Ripristino e fedeltà delle fonti]]. I commenti degli autori esportati da Word sono conservati a parte in non-wiki; non sono stati incorporati nella prosa.
 
@@ -125,7 +130,7 @@ Fonte: [[fonti/elenco-draghieri|Elenco Draghieri Conosciuti]]. Stato: **original
 > *Lista nominativa dei Draghieri del Kindsgard con numero progressivo e Fiera di riferimento. I nomi in **grassetto** indicano personaggi giocati attivamente. La marcatura GUARDIANO indica i personaggi segnati come tali nell'elenco originale. `Inktober 2019 #Legend` descrive i tredici Guardiani e **tredici scintille** di potere; la corrispondenza puntuale con vettori del Fondamento è una **lettura interpretativa della ricostruzione wiki**, distinta dai sette vettori originari del Kindsgard. La marcatura nell'elenco **non garantisce da sola** l'identificazione dei dieci Guardiani non contrassegnati.*
 
 - **Seymour Sandwurm** è indicato come "ex Shai'Hulud". Il recupero archivistico registrato in [[Fonti e Decisioni Canoniche]] e in L15 attesta una bozza esterna intitolata «Seymour Shai Ulud»; resta da chiarire se la rinomina riguardi solo il personaggio o anche la Fiera/specie. Il documento esterno non è pubblicato nel repository.
-- **Angeline Aconytum**: la grafia nel documento originale è "Aconytum" (vs "Aconitum" usato altrove nei racconti). Grafia canonica da confermare.
+- **Angeline Aconytum**: la grafia nel documento originale è "Aconytum" (vs "Aconitum" usato altrove nei racconti). Grafia canonica **Aconytum**, confermata dal proprietario il 2026-11-03 (C11); le varianti nelle fonti restano invariate.
 - **Lhars Leopterix**: il numero progressivo è assente nel documento originale.
 - I Guardiani marcati nell'elenco sono: Mara Megalapterix, Bartholomew Brood (XVI Covata), G. Gryffin. `Inktober 2018 #Bottle` identifica inoltre [[Syrus Salamander]] come Guardiano. L'appartenenza di [[Samu'el Sphynx]] ai tredici non è invece dimostrata: `#Tranquil` cita un Guardiano anonimo e `Inktober 2019 #Legend` non identifica la Sfinge come uno dei tredici. L17 resta aperta; non si completa il gruppo per inferenza.
 

@@ -3,10 +3,14 @@ titolo: "Registro di copertura dell'audit"
 categoria: "meta"
 tag: [meta, audit, copertura, tracciabilità]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-03"
 ---
 
 # Registro di copertura dell'audit
+
+## Decisioni successive — 2026-11-03
+
+Baseline 3220c731 (PR #90). Il proprietario risolve A5 con **Aconytum** e L20 con **Adryanne sempre XII**, IX refuso; C11/C12 registrate e propagate alle sintesi e annotazioni. Le prose originali sono inalterate. L19 resta aperta: nessun Sirius nei 100 DOCX consultati, nessun originale Flowing recuperato con la ricerca per nome nell’archivio locale e per titoli su Drive; nessun riscontro nella cartella Dropbox Draghieri. Nessuna equivalenza Sirius/Syrus inferita. Gli esiti delle matrici precedenti su A5/L20 sono storici e superati da queste decisioni.
 
 ## Verifica corrente dopo il ripristino
 

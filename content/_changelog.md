@@ -3,10 +3,17 @@ titolo: "Changelog"
 categoria: "meta"
 tag: [meta, changelog, modifiche]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-03"
 ---
 
 # Changelog
+
+## 2026-11-03 — Aconytum e Adryanne XII; revisione Sirius
+
+- C11: il proprietario sceglie **Angeline Aconytum**. Aggiornata la sintesi e il rimando da Salamander; Aconitum conservato come alias e nelle fonti originali. A5 risolta.
+- C12: il proprietario conferma **Adryanne sempre XII**; IX in #Build è un refuso, non un’altra fase o persona. Aggiornate scheda del Soffione, biografia e annotazioni; L20 risolta, fonte narrativa invariata.
+- L19 resta aperta: il proprietario non ricorda Sirius/Syrus. Ricerca esatta nei 100 DOCX e ricerche mirate nelle connessioni senza nuovi riscontri; originale Flowing ancora mancante. Nessuna identificazione inferita.
+- Registri e checkpoint aggiornati, senza modifiche a fonti, DOCX o pacchetto. CI sullo SHA finale prima del merge; esiti di integrazione nella PR.
 
 ## 2026-11-02 — Riscontri semantici successivi al ripristino
 
