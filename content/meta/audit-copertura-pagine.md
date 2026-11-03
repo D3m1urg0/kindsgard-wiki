@@ -10,7 +10,7 @@ ultima_modifica: "2026-11-03"
 
 ## Decisioni successive — 2026-11-03
 
-Baseline 3220c731 (PR #90). Il proprietario risolve A5 con **Aconytum** e L20 con **Adryanne sempre XII**, IX refuso; C11/C12 registrate e propagate alle sintesi e annotazioni. Le prose originali sono inalterate. L19 resta aperta: nessun Sirius nei 100 DOCX consultati, nessun originale Flowing recuperato con la ricerca per nome nell’archivio locale e per titoli su Drive; nessun riscontro nella cartella Dropbox Draghieri. Nessuna equivalenza Sirius/Syrus inferita. Gli esiti delle matrici precedenti su A5/L20 sono storici e superati da queste decisioni.
+Baseline 3220c731 (PR #90). Il proprietario risolve A5 con **Aconytum** e L20 con **Adryanne sempre XII**, IX refuso; C11/C12 registrate e propagate alle sintesi e annotazioni. Le prose originali sono inalterate. L19 resta aperta: nessun Sirius nei 100 DOCX e 11 apparati consultati; nessun originale Flowing recuperato. Una successiva ricerca Drive a testo pieno trova il foglio Spettri, simboli, processi, etc, Foglio1!C10: Sirius Salamander. Il proprietario classifica il foglio come bozza da verificare; il nome è attestato negli appunti, senza equivalenza Sirius/Syrus o lista dei Guardiani ratificata. Gli esiti delle matrici precedenti su A5/L20 sono storici e superati da queste decisioni.
 
 ## Verifica corrente dopo il ripristino
 

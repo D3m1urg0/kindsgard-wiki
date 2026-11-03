@@ -27,7 +27,7 @@ I testi sotto content/fonti, gli 82 DOCX, il pacchetto e le estrazioni restano i
 
 Il proprietario conferma **Angeline Aconytum** (C11, A5 risolta) e **Adryanne sempre XII** (C12, IX in #Build è un refuso, L20 risolta). Le sintesi e le annotazioni sono aggiornate, senza modificare alcuna parola o numero delle fonti originali. I vecchi rimandi Aconitum restano compatibili tramite alias.
 
-Per Sirius/Syrus il proprietario non ricorda e chiede una revisione. La ricerca esatta, sul testo dei paragrafi dei 100 DOCX forniti, non trova Sirius; nessun file Flowing/Cruel/Whale/Tasty è recuperato per nome sotto Downloads/kindsgard. Le ricerche mirate in Drive e nella cartella Dropbox Draghieri non aggiungono riscontri. Flowing resta uno dei quattro episodi senza originale: il testo wiki non certificato non basta a decidere l’identità. Risultato negativo circoscritto, non prova d’inesistenza; L19 rimane aperta separatamente dalla cronologia degli Annali di Syrus.
+Per Sirius/Syrus il proprietario non ricorda e chiede una revisione. La ricerca esatta, sul testo dei paragrafi dei 100 DOCX forniti, non trova Sirius; nessun file Flowing/Cruel/Whale/Tasty è recuperato per nome sotto Downloads/kindsgard. Le prime ricerche mirate non aggiungono riscontri. Una successiva ricerca Drive a testo pieno recupera il foglio Spettri, simboli, processi, etc, in cui Foglio1!C10 contiene **Sirius Salamander**, nella colonna Guardiano accanto a Radiant/Salamandra. Il proprietario conferma di trattare il foglio come **bozza da verificare**. Non è un’identificazione con Syrus né una ratifica della lista dei Guardiani. Flowing resta uno dei quattro episodi senza originale: L19 rimane aperta separatamente dalla cronologia degli Annali di Syrus.
 
 ## Esito e perimetro
 
