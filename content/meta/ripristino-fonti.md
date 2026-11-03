@@ -3,7 +3,7 @@ titolo: "Ripristino e fedeltà delle fonti"
 categoria: "meta"
 tag: [audit, fonti, originali, provenienza, fedeltà]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-03"
 ---
 
 # Ripristino e fedeltà delle fonti
@@ -22,6 +22,12 @@ Baseline: **c45a4312c0df3f29e4e30a462995f58968e0e75e**, PR #89 integrata; CI 414
 | P06 — Limiti dei Bruciati | Inktober, secondo Scorched: sopravvissuti al fallimento del Battesimo, comunità e menomazioni | Il racconto non prova automaticamente meccanica delle Fiamme o identità dei gruppi; quarantena invariata |
 
 I testi sotto content/fonti, gli 82 DOCX, il pacchetto e le estrazioni restano immutati. Non sono state introdotte nuove fonti o regole. Restano i quattro episodi senza originale recuperato e le decisioni del proprietario: grafia Angeline, IX/XII di Adryanne e identità Sirius/Syrus sono state sottoposte con domande puntuali. Le tre risposte non sono presunte.
+
+## Decisioni e revisione dei residui — 2026-11-03
+
+Il proprietario conferma **Angeline Aconytum** (C11, A5 risolta) e **Adryanne sempre XII** (C12, IX in #Build è un refuso, L20 risolta). Le sintesi e le annotazioni sono aggiornate, senza modificare alcuna parola o numero delle fonti originali. I vecchi rimandi Aconitum restano compatibili tramite alias.
+
+Per Sirius/Syrus il proprietario non ricorda e chiede una revisione. La ricerca esatta, sul testo dei paragrafi dei 100 DOCX forniti, non trova Sirius; nessun file Flowing/Cruel/Whale/Tasty è recuperato per nome sotto Downloads/kindsgard. Le prime ricerche mirate non aggiungono riscontri. Una successiva ricerca Drive a testo pieno recupera il foglio Spettri, simboli, processi, etc, in cui Foglio1!C10 contiene **Sirius Salamander**, nella colonna Guardiano accanto a Radiant/Salamandra. Il proprietario conferma di trattare il foglio come **bozza da verificare**. Non è un’identificazione con Syrus né una ratifica della lista dei Guardiani. Flowing resta uno dei quattro episodi senza originale: L19 rimane aperta separatamente dalla cronologia degli Annali di Syrus.
 
 ## Esito e perimetro
 

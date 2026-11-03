@@ -3,7 +3,7 @@ titolo: "Istruzioni di Ripresa — Stato e Protocollo Editoriale"
 categoria: "meta"
 tag: [meta, ripresa, sessione, istruzioni, audit]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-03"
 ---
 
 # Istruzioni di Ripresa
@@ -19,14 +19,14 @@ Le 29 pagine fonte sono state confrontate con l’archivio Quip: 74 segmenti rip
 
 > Documento operativo per riprendere il lavoro sulla wiki senza riaprire decisioni già prese, duplicare attività concluse o alterare il canone senza evidenze.
 
-## Checkpoint corrente — 2026-11-02
+## Checkpoint corrente — 2026-11-03
 
-- Main verificato a **c45a4312c0df3f29e4e30a462995f58968e0e75e**, PR #89 integrata. CI 41486185675 riuscita, Pages 41486392761 tentativo 2 riuscito dopo errore 500 del servizio.
+- Baseline main verificata a **3220c7316e394b91dffb2bd95ed2ac66a0ca9f2c**, PR #90 integrata. CI 41517828910 e Pages 41518030736 riusciti. La nuova tranche recepisce le decisioni del proprietario del 2026-11-03; integrazione finale da registrare nella PR.
 - Checkout operativo fuori OneDrive: C:/Users/PietroCaruso/Repos/D3m1urg0/kindsgard-site. La copia in OneDrive è conservata, senza pulizia; le cartelle personali non tracciate sono preservate.
 - 29 pagine fonte, 74 segmenti ripristinati; 82 DOCX integri in non-wiki. Verificare con python audit/verify-source-fidelity.py. Quattro episodi ancora senza originale: Flowing, Cruel, Whale, Tasty. Non ripetere le correzioni dentro le parole degli autori.
 - Ultima passata: P01–P06 in [[Ripristino e fedeltà delle fonti]], confronto semantico dei nuclei indicati e aggiornamento dei residui L1/L3/L4/L11. D3/D4 e Annali Intro non sono genericamente mancanti: disponibilità, identità legacy e autorità normativa sono questioni distinte.
 - C10 conferma sei procedimenti; nessun settimo da cercare. I sei non sono i sette vettori originari; nessuna equivalenza automatica con tredici Guardiani/Locuste.
-- In attesa delle risposte puntuali su Angeline, Adryanne IX/XII e Sirius/Syrus. Non assumere risposte per silenzio. Conservare le varianti originali anche dopo eventuali decisioni.
+- Decisioni del proprietario recepite il 2026-11-03: **C11 Aconytum**, **C12 Adryanne sempre XII**, IX refuso. A5/L20 chiuse; non richiederle nuovamente. Sirius/Syrus resta aperta: il proprietario non ricorda. Nuovo riscontro nel foglio Drive Spettri, simboli, processi, etc, Foglio1!C10: Sirius Salamander; il proprietario lo classifica come bozza da verificare. Nessuna identità né lista dei Guardiani ratificata. Le varianti e i numeri nelle fonti originali restano invariati.
 - Prima del merge: CI sullo SHA finale (fedeltà, wikilink, build), poi Pages sul merge. Registrare PR/SHA/run nella descrizione PR e nel messaggio di merge, senza modificare dopo la CI. Audit integrale ancora aperto nei residui espliciti.
 
 I checkpoint successivi sono storici; prevalgono questo riepilogo e il report corrente.

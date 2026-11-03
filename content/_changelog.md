@@ -3,10 +3,17 @@ titolo: "Changelog"
 categoria: "meta"
 tag: [meta, changelog, modifiche]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-03"
 ---
 
 # Changelog
+
+## 2026-11-03 — Aconytum e Adryanne XII; revisione Sirius
+
+- C11: il proprietario sceglie **Angeline Aconytum**. Aggiornata la sintesi e il rimando da Salamander; Aconitum conservato come alias e nelle fonti originali. A5 risolta.
+- C12: il proprietario conferma **Adryanne sempre XII**; IX in #Build è un refuso, non un’altra fase o persona. Aggiornate scheda del Soffione, biografia e annotazioni; L20 risolta, fonte narrativa invariata.
+- L19 resta aperta: il proprietario non ricorda Sirius/Syrus. Prima ricerca esatta nei 100 DOCX e 11 apparati negativa; ulteriore ricerca Drive recupera Sirius Salamander in Foglio1!C10 di Spettri, simboli, processi, etc. Il proprietario classifica il foglio come bozza da verificare: nome attestato negli appunti, identità e lista definitiva dei Guardiani non decise. Originale Flowing ancora mancante.
+- Registri e checkpoint aggiornati, senza modifiche a fonti, DOCX o pacchetto. CI sullo SHA finale prima del merge; esiti di integrazione nella PR.
 
 ## 2026-11-02 — Riscontri semantici successivi al ripristino
 

@@ -3,8 +3,8 @@ titolo: "Altri Personaggi"
 categoria: "personaggi"
 tag: [personaggi, stub, minori]
 status: "bozza"
-ultima_modifica: "2026-11-02"
-aliases: ["Axsar Aigokeros","Hycaro Hydra","Adalind Atrax","Razvan Roc","Gertrude Gorgon","Cornelius Cockatrix","Ember Everastes","Laerius Loch","Adryanne Achenius","Sef Sycamore","Angeline Aconitum","Lhars Leopterix"]
+ultima_modifica: "2026-11-03"
+aliases: ["Axsar Aigokeros","Hycaro Hydra","Adalind Atrax","Razvan Roc","Gertrude Gorgon","Cornelius Cockatrix","Ember Everastes","Laerius Loch","Adryanne Achenius","Sef Sycamore","Angeline Aconitum","Angeline Aconytum","Lhars Leopterix"]
 fonti: ["Inktober_2018", "Inktober_2019", "Inktober_2024", "Fierezza", "Elenco_Draghieri_Conosciuti", "Prevedibilità__covata_"]
 ---
 
@@ -42,7 +42,10 @@ Draghiere del Sicomoro Perenne — una Fitofiera. Opera nelle zone boschive. Por
 
 
 > **Nota di tracciabilità:** `Elenco Draghieri` (fonte catalogata come canonica) riporta XIII, mentre `Inktober 2019 #Mindless` lo chiama XIV. La voce sintetica mantiene XIII secondo l'elenco; il testo narrativo originale resta invariato.
-### Angeline Aconitum, VI Aconito
+### Angeline Aconytum, VI Aconito
+
+Grafia canonica confermata dal proprietario (C11). Aconitum resta una variante nelle citazioni originali.
+
 Draghiere dell'Aconito. Opera nelle zone boschive insieme a Sef Sycamore. Perde il braccio sinistro durante la bonifica della Foresta ambulante — continua a combattere. Porta torce su bastoni lunghi per dare fuoco alle Fiere vegetali (`Inktober 2019 #Mindless`, `Inktober 2019 #Ash`).
 
 ### Axsar Aigokeros, II Egocero
@@ -61,6 +64,9 @@ Due Draghieri del Kelpie. Kriss appare in `Inktober 2019 #Build` e `#Pattern` tr
 Draghiere della Merrow. Porta una lunga falce e appare in `Inktober 2019 #Build` e `#Pattern`; le fonti la collocano insieme a Kriss Kelpie nelle zone paludose, ma non descrivono direttamente la Fiera Merrow.
 
 ### Adryanne Achenius, XII Soffione Uncinato
+
+Numero canonico confermato dal proprietario: sempre XII. Il IX di #Build è un refuso (C12); il testo del racconto è conservato invariato.
+
 Draghiere del Soffione Uncinato. Porta un immenso scudo e un uncino alto quanto lei stessa. Manto viola. Si lamenta del vento. Esperta nelle piogge di Soffioni — conosce i tempi di semina e i sistemi per sopravvivere alle tempeste di acheni (`Inktober 2019 #Build, #Husky`).
 
 ### Guardiani e personaggi collegati

@@ -3,10 +3,14 @@ titolo: "Domande Aperte e Lacune"
 categoria: "meta"
 tag: [meta, lacune, ambiguità, domande]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-03"
 ---
 
 # Domande Aperte e Lacune
+
+## Decisioni recepite — 2026-11-03
+
+A5 e L20 sono risolte dal proprietario: **Angeline Aconytum** e **Adryanne sempre XII**, con IX refuso. C11/C12 in [[Fonti e Decisioni Canoniche]]. Sirius/Syrus (L19) resta da rivedere, senza identità assegnata.
 
 **Conferma successiva del proprietario — C10:** il verso originale di Deflecte Cantum riporta sei; i procedimenti di Espediente sono quindi **sei**, ora descritti nel registro [[Fonti e Decisioni Canoniche]]. Nessun settimo procedimento da cercare. Dismissione degli Artigli confermata soltanto come accenno, senza quantità o cronologia precisate. Questo esito supera le precedenti formule storiche sui sette processi non documentati.
 
@@ -39,18 +43,17 @@ Questa sezione separa le decisioni che richiedono una risposta umana dalle attiv
 
 ### Decisioni canoniche o interpretative
 
-1. **A5 — Angeline Aconitum/Aconytum:** quale grafia adottare come canonica? Le due forme sono attestate in fonti diverse; fino alla risposta, conservarle nelle rispettive citazioni.
-2. **L12 — Annali dell'Artiglio delle Sabbie:** sono una fonte distinta dagli Annali dell'Artiglio di Fuoco, una citazione interna derivata da essi, oppure un altro rapporto? Non unificare i riferimenti senza evidenza.
-3. **L13 — Fiamme nel Kindsgard:** le Fiamme esistono come fazione organizzata anche nel Kindsgard, oppure la fazione appartiene a Vilegis/Lunaria e i Bruciati sono soltanto il suo seme narrativo? Il legame già registrato fra Bruciati e Fiamme non è in discussione.
-4. **L14 — “Infiammati”:** il termine in Inktober 2018 #Flowing indica i Bruciati, un gruppo distinto o altro? La somiglianza lessicale non basta a identificarli.
-5. **L19 — Identità e cronologia di Sirius/Syrus:** `Inktober 2018 #Flowing` nomina Sirius come fornitore di rocce nel I anno di Regno; `Inktober 2019 #Wild` attribuisce a Syrus Salamander un testo che parla di città dell'Anno del Dominio, mentre `#Bottle` e la cronologia collocano la sua morte prima dell'ascesa di Re Draco. Chiarire se Sirius è distinto da Syrus e se il testo degli Annali è una compilazione postuma, un'attribuzione errata o una discrepanza cronologica. Non correggere le fonti per inferenza.
-6. **L20 — Adryanne Achenius/Achenium, IX/XII:** `Inktober 2019 #Build` la chiama IX Draghiere del Soffione Uncinato; `#Husky` e `Elenco Draghieri` riportano XII. Chiarire se IX è un refuso, una diversa collocazione temporale o una persona distinta; conservare le citazioni originali.
-7. **L15 — Seymour Sandwurm / “ex Shai’Hulud”:** un outline OOC ritrovato in Dropbox intitola una scheda **“Seymour Shai Ulud”**, attestando che il nome fu usato direttamente per Seymour; l’Elenco Draghieri usa poi “Seymour Sandwurm (ex Shai’Hulud)”. Resta da chiarire se il cambio riguarda solo il cognome del personaggio oppure anche la denominazione della Fiera/specie, e quale nome si debba usare per riferimenti storici.
-8. **L17 — Tredici Guardiani:** esiste una lista canonica completa? `Inktober 2019 #Legend` attesta tredici Guardiani e tredici scintille di potere; la loro identificazione precisa con i vettori collegati al Fondamento resta interpretativa. Samu'el Sphynx e Frederick Fenice appartenevano al gruppo? Le vecchie tag non costituivano prova e sono già state rimosse dalle biografie.
-9. **L21 — Sei vettori e tredici affondi:** il proprietario collega il numero del canto ai **sei procedimenti** di Espediente (C10), risolvendo il precedente conteggio di sette. Restano distinti i sette vettori originari e i tredici Guardiani/scintille; la testimonianza colloca tredici Locuste nel caricamento, senza autorizzare l’equivalenza di tutti questi insiemi.
-10. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
+1. **L12 — Annali dell'Artiglio delle Sabbie:** sono una fonte distinta dagli Annali dell'Artiglio di Fuoco, una citazione interna derivata da essi, oppure un altro rapporto? Non unificare i riferimenti senza evidenza.
+2. **L13 — Fiamme nel Kindsgard:** le Fiamme esistono come fazione organizzata anche nel Kindsgard, oppure la fazione appartiene a Vilegis/Lunaria e i Bruciati sono soltanto il suo seme narrativo? Il legame già registrato fra Bruciati e Fiamme non è in discussione.
+3. **L14 — “Infiammati”:** il termine in Inktober 2018 #Flowing indica i Bruciati, un gruppo distinto o altro? La somiglianza lessicale non basta a identificarli.
+4. **L15 — Seymour Sandwurm / “ex Shai’Hulud”:** un outline OOC ritrovato in Dropbox intitola una scheda **“Seymour Shai Ulud”**, attestando che il nome fu usato direttamente per Seymour; l’Elenco Draghieri usa poi “Seymour Sandwurm (ex Shai’Hulud)”. Resta da chiarire se il cambio riguarda solo il cognome del personaggio oppure anche la denominazione della Fiera/specie, e quale nome si debba usare per riferimenti storici.
+5. **L17 — Tredici Guardiani:** esiste una lista canonica completa? `Inktober 2019 #Legend` attesta tredici Guardiani e tredici scintille di potere; la loro identificazione precisa con i vettori collegati al Fondamento resta interpretativa. Samu'el Sphynx e Frederick Fenice appartenevano al gruppo? Le vecchie tag non costituivano prova e sono già state rimosse dalle biografie.
+6. **L21 — Sei vettori e tredici affondi:** il proprietario collega il numero del canto ai **sei procedimenti** di Espediente (C10), risolvendo il precedente conteggio di sette. Restano distinti i sette vettori originari e i tredici Guardiani/scintille; la testimonianza colloca tredici Locuste nel caricamento, senza autorizzare l’equivalenza di tutti questi insiemi.
+7. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
 
 ### Non richiedono una decisione umana in questa fase
+
+- **L19, identità Sirius/Syrus:** il proprietario non ricorda e chiede di rivedere. Cercare l’originale Flowing o un riscontro indipendente, senza riproporre la stessa scelta e senza equiparare i nomi. La questione della datazione/attribuzione di #Wild resta separata.
 
 - **A1:** non assegnare date inventate alle singole storie. Inktober 2024 non è collocato in un anno assoluto della timeline master; `Inktober 2024 #Binoculars` fornisce però un ancoraggio relativo, dicendo che sono passati cinque anni dalla missione che ha ripopolato la Città-Alveare (riconquista narrata in `Inktober 2019 #Build`). Conservare questa relazione relativa senza convertirla in una data assoluta.
 - **L1, L3 e L4:** recuperare/confrontare i testi D3 e D4 e documentare ciò che è attestato. Non chiedere di ripetere i chiarimenti già registrati; i dettagli non presenti nei testi restano lacune.
@@ -68,6 +71,9 @@ Una voce può uscire dal registro delle domande solo quando è risolta da una fo
 
 ## ✅ Decisioni già chiuse — non riaprire senza nuove evidenze
 
+- **A5 / C11 — Angeline:** grafia canonica **Aconytum**, confermata dal proprietario il 2026-11-03; fonti originali inalterate.
+- **L20 / C12 — Adryanne:** sempre **XII**; IX in #Build è un refuso confermato dal proprietario il 2026-11-03, non una diversa successione o un’altra persona. Fonti originali inalterate.
+
 Le decisioni seguenti sono state confermate nei registri canonici e nel changelog; non devono restare fra le domande aperte:
 
 - **C4 — Grafia:** Frederick Fenice è la grafia canonica; “Frederic” e “Friederich” sono varianti presenti nelle fonti.
@@ -81,9 +87,6 @@ Le decisioni seguenti sono state confermate nei registri canonici e nel changelo
 
 ## 🟡 Ambiguità da Risolvere
 
-### A5 — Grafia di Angeline Aconitum/Aconytum
-La voce narrativa `[[Altri Personaggi]]` usa **Angeline Aconitum**, mentre `Elenco Draghieri` riporta **Angeline Aconytum**. La grafia canonica non è determinabile con certezza dalle fonti attuali.
-- → **HITL:** quale grafia va adottata come canonica? Fino alla conferma, mantenere la variante originale nella citazione della fonte e non correggerla retroattivamente.
 
 ### A1 — Collocazione cronologica degli Inktober
 La raccolta **Inktober 2018** è catalogata come post-Anno del Draco/Era del Dominio; **Inktober 2019** è anch'essa associata all'Era del Dominio e i racconti mostrano Re Draco e l'Anello ripristinato. È sufficiente mantenere questa collocazione a livello di raccolta: le singole storie non hanno tutte una data interna precisa e non vanno assegnate a un anno inventato.
@@ -182,13 +185,11 @@ Nel resoconto di Brienne Brood sul lavoro al Fiume Bianco si menziona un gruppo 
 - → **Chiarimento documentale/canonico:** “Infiammati” è un gruppo distinto, una denominazione alternativa dei Bruciati o un termine con altro significato? Fino alla conferma, mantenere i termini separati.
 
 ### L19 — Identità e cronologia di Sirius/Syrus
-`Inktober 2018 #Flowing` nomina **Sirius** come fornitore di rocce nel I anno di Regno; la ricerca del nome esatto nel repository non ha restituito altre occorrenze. Non va automaticamente corretto in **Syrus**. Inoltre, `Inktober 2019 #Wild` attribuisce a Syrus Salamander un brano degli Annali dell'Artiglio di Fuoco che menziona città costruite dall'Anno del Dominio, mentre `#Bottle` e la cronologia collocano la sua morte prima dell'ascesa di Re Draco.
+
+**Revisione del 2026-11-03:** il proprietario non ricorda l’identità e chiede una verifica. Nei 100 DOCX e negli 11 apparati consultati non emerge Sirius. Una successiva ricerca a testo pieno recupera il foglio Drive Spettri, simboli, processi, etc: Foglio1!C10 contiene **Sirius Salamander** nella colonna Guardiano, con Radiant e Salamandra. Il proprietario ne conferma lo stato di **bozza da verificare**. L’attestazione del nome è nuova, ma l’identità con Syrus e la cronologia non sono decise. Flowing resta senza originale recuperato; la datazione di #Wild è un altro problema.
+La trascrizione wiki di `Inktober 2018 #Flowing`, non ancora confrontata con un originale, nomina **Sirius** come fornitore di rocce nel I anno di Regno. Il foglio preparatorio sopra indicato aggiunge l’attestazione Sirius Salamander, senza risolvere l’identità con Syrus. Separatamente, `Inktober 2019 #Wild` attribuisce a Syrus Salamander un brano degli Annali dell’Artiglio di Fuoco che menziona città costruite dall’Anno del Dominio, mentre #Bottle e la cronologia collocano la sua morte prima dell’ascesa di Re Draco.
 - → **Chiarimento documentale/canonico:** Sirius è una persona distinta da Syrus? Il brano degli Annali è una compilazione postuma, un'attribuzione errata o una discrepanza cronologica? Conservare nomi e testi originali; non correggere né assegnare identità per inferenza.
 
-
-### L20 — Numero di Adryanne Achenius/Achenium
-`Inktober 2019 #Build` chiama Adryanne Achenius **IX Draghiere del Soffione Uncinato**; `#Husky` usa la variante grafica **Achenium** e la chiama **XII Draghiere**. `Elenco Draghieri` e la scheda wiki riportano XII. Le fonti non forniscono date in-world abbastanza precise per stabilire se si tratti di una variante testuale, di un diverso periodo o di due persone distinte.
-- → **Chiarimento documentale/canonico:** IX in `#Build` è un errore, indica una diversa fase della successione o si riferisce a un'altra Adryanne? Conservare le citazioni originali; la sintesi wiki mantiene XII in base all'Elenco Draghieri e a `#Husky` fino a eventuale chiarimento.
 
 
 ### L15 — Seymour Sandwurm e “ex Shai'Hulud” — nuova prova documentale

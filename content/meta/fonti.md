@@ -3,10 +3,19 @@ titolo: "Fonti e Decisioni Canoniche"
 categoria: "meta"
 tag: [meta, fonti, canonizzazione, sessioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-03"
 ---
 
 # Fonti e Decisioni Canoniche
+
+## Decisioni del proprietario — 2026-11-03
+
+**C11 — Angeline Aconytum:** il proprietario sceglie esplicitamente **Aconytum** come grafia canonica nelle voci della wiki. **A5 risolta.** Aconitum resta una variante attestata nelle fonti originali e un alias per i rimandi preesistenti; i testi degli autori non sono corretti retroattivamente.
+
+**C12 — Adryanne XII:** il proprietario conferma che **IX in #Build è un refuso** e che Adryanne è **sempre XII Draghiere del Soffione Uncinato**. **L20 risolta per il numero e l’identificazione IX/XII:** non indica una diversa fase o un’altra Adryanne. Questa risposta non cambia le grafie Achenius/Achenium delle fonti. Il IX resta nel testo originale, accompagnato dalla rettifica nelle annotazioni e nelle sintesi.
+
+**L19 — nuovo riscontro, identità non decisa:** il proprietario non ricorda se Sirius sia Syrus e chiede una revisione. La ricerca per paragrafi nei 100 DOCX e in 11 apparati di commenti/note non trova Sirius; la prima ricerca mirata nelle connessioni non recupera Flowing. Una successiva ricerca Drive a testo pieno trova però **Spettri, simboli, processi, etc**, cartella Mondo Ancora, modifica registrata 2018-05-25: in **Foglio1!C10**, sotto l’intestazione Guardiano e accanto a Radiant/Salamandra, compare **Sirius Salamander**. Negli intervalli consultati A1:L20 e A21:AB50, con controllo di note e barrature in A1:I20, sono presenti anche segnaposto come Capo Preti? e Umano?. Il proprietario indica esplicitamente di trattare questo foglio come **bozza da verificare**. È una nuova attestazione del nome negli appunti, non una conferma dell’identità con Syrus, della sua cronologia o della lista definitiva dei tredici Guardiani. Nessuna copia integrale del foglio è importata nella wiki; il problema della datazione/attribuzione di #Wild resta separato.
+
 
 ## C10 — Sei procedimenti di Espediente e accenno agli Artigli (2026-11-02)
 
@@ -136,6 +145,10 @@ I recuperi privati descritti sopra restano risultati registrati delle PR #84–8
 ---
 
 
+### Bozza OOC supplementare — riscontro del 2026-11-03
+
+Spettri, simboli, processi, etc (Drive, Mondo Ancora), Foglio1!A1:I20: tabella preparatoria di corrispondenze Guardiano/Specie/Vettore/Processo. Il proprietario conferma di trattarla come bozza da verificare. C10 attesta sei procedimenti per testimonianza diretta e canto; questa tabella non ratifica automaticamente nomi, attribuzioni, equivalenze cosmologiche o tredici appartenenze. In particolare la cella Foglio1!C10 contiene Sirius Salamander; L19 resta aperta nell’identità.
+
 ### Riferimenti legacy nei frontmatter da riconciliare
 
 **Risolto dopo ricognizione del 2026-11-01:** `Copia_di_I_Draghieri_del_kindsgard` corrisponde alla copia in-world di *Ciò che sanno i Draghieri*. I due documenti Drive confrontati hanno testo identico; la fonte è già conservata nel corpo di `content/fonti/cio-che-sanno-i-draghieri.md`, con apparati editoriali e conversione Markdown. Il campo `fonti` di Cosmologia è stato riconciliato con l’ID `cio-che-sanno-i-draghieri`. Il distinto `draghieri-spiegazione.md` è OOC e non è lo stesso testo.
@@ -182,7 +195,7 @@ Il riferimento `Draghieri_Vere_Fiere_del_Kindsgard` nei frontmatter è ora ricon
 
 **C8 — Varianti del nome Brienne/Brianne**
 - La forma canonica è **Brienne Brood**, sostenuta da `Elenco Draghieri`, dalla voce personaggio e dalla maggior parte delle occorrenze in `Inktober 2018/2019/2024`.
-- `Inktober 2019 #Build` e `Inktober 2024 #Binoculars` contengono alcune occorrenze di **Brianne**; non emerge un secondo personaggio. Le fonti sono mantenute inalterate e le voci sintetiche usano Brienne. `Inktober 2019 #Husky` usa inoltre «Adryanne Achenium», mentre `#Build`, `Elenco Draghieri` e le voci wiki usano «Adryanne Achenius»; la forma sintetica adottata resta Achenius. La numerazione resta invece discordante: `#Build` dice IX, mentre `#Husky` ed `Elenco Draghieri` dicono XII; la questione è registrata come L20 e non è normalizzata automaticamente.
+- `Inktober 2019 #Build` e `Inktober 2024 #Binoculars` contengono alcune occorrenze di **Brianne**; non emerge un secondo personaggio. Le fonti sono mantenute inalterate e le voci sintetiche usano Brienne. `Inktober 2019 #Husky` usa inoltre «Adryanne Achenium», mentre `#Build`, `Elenco Draghieri` e le voci wiki usano «Adryanne Achenius»; la forma sintetica adottata resta Achenius. La numerazione IX in #Build è stata riconosciuta dal proprietario come refuso il 2026-11-03 (C12): Adryanne è sempre XII. Le grafie e i numeri delle fonti restano invariati.
 
 **C9 — Bruciati come seme narrativo delle Fiamme**
 - **Decisione registrata:** i Bruciati sono il seme narrativo della fazione delle Fiamme.
@@ -216,9 +229,9 @@ Le due fonti non sono presenti nel tree GitHub attuale con i vecchi percorsi `co
 
 ### Ambiguità nominali emerse nell'audit — 2026-10-13
 
-- **Sirius**, in `Inktober 2018 #Flowing`: nome usato per chi ha fornito rocce nel I anno di Regno. Non esistono altre occorrenze nel repository; non va assimilato automaticamente a Syrus Salamander.
+- **Sirius:** compare nella trascrizione wiki di Inktober 2018 #Flowing, ancora senza originale recuperato. Un riscontro supplementare è Sirius Salamander nella cella Foglio1!C10 di Spettri, simboli, processi, etc: il proprietario lo classifica come bozza da verificare, senza confermare l’identità con Syrus Salamander.
 - **Syrus e gli Annali dell'Artiglio di Fuoco:** `Inktober 2019 #Wild` attribuisce a Syrus un testo che menziona città costruite dall'Anno del Dominio, ma la cronologia e `#Bottle` collocano la sua morte prima dell'ascesa a Re Draco. Il documento integrale degli Annali non è reperito. L'identità di Sirius e la datazione/attribuzione del brano sono riunite nella domanda L19.
-- **Adryanne Achenius/Achenium:** `Inktober 2019 #Build` riporta IX, mentre `#Husky` ed `Elenco Draghieri` riportano XII. La voce wiki mantiene XII, ma l'incongruenza della fonte è aperta in L20.
+- **Adryanne Achenius/Achenium:** `Inktober 2019 #Build` riporta IX, mentre `#Husky` ed `Elenco Draghieri` riportano XII. Il proprietario ha risolto L20: IX è un refuso, Adryanne è sempre XII (C12); l’originale resta invariato.
 - **Brienne/Brianne**: variante grafica risolta editorialmente a favore di Brienne, senza correggere i testi sorgente.
 - **`Giù nel Bosco` — variante di strofa:** `Canzoni degli Umani` riporta «Che con te lui vuol cenar», mentre `Inktober 2019 #Enchanted` cita «Via da me ti vuol portar». Entrambe le formulazioni sono attestate; il testo della raccolta canzoni resta la versione di riferimento e la variante narrativa non viene corretta.
 - **`Inktober 2019 #Ancient` — liane rosse non identificate:** il racconto descrive liane rosso vermiglio che parassitano un albero antico, ma non nomina la specie. Non identificarle automaticamente con Tentacolo Scarlatto per il solo colore; il riferimento alle Bacche Emofaghe è una supposizione del personaggio su un altro caso, non la diagnosi del fenomeno mostrato.
