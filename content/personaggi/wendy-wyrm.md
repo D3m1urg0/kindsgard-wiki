@@ -3,7 +3,7 @@ titolo: "Wendy Wyrm"
 categoria: "personaggi"
 tag: [wendy-wyrm, vere-fiere, vera-viverna, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-05"
 fonti: ["La_natura_di_Natura", "Solitudine", "18___Misfit", "Il_Trattato"]
 ---
 
@@ -33,7 +33,7 @@ Nel racconto `Il Trattato (Wendy Wyrm)` è descritta mentre tenta con metodi spi
 
 ## Presenza Narrativa
 
-**"La natura di Natura"** — Il documento più importante attribuito a Wendy. Scritto dalla prospettiva della Maestà, descrive la cosmologia del Kindsgard con precisione superiore a qualsiasi fonte Draghieri: Natura come divinità assoluta, Bisogno ed Espediente come estensioni indifferenti del Giardino, gli Umani come aberrazione, i Draghieri come ingranaggio inconsapevole. Contiene la verità cosmologica che i Draghieri non possono vedere.
+**"La natura di Natura"** — Nel saggio Wendy espone la prospettiva della Vera Viverna. Descrive Natura come divinità assoluta e Bisogno ed Espediente come estensioni del Giardino, indifferenti alle creature. Critica gli Umani che si sottraggono al Conflitto e dichiara di ignorare come e perché Natura le abbia infuso Maestà.
 
 **"Solitudine"** — Dialogo alla bocca della Maestà tra Draco e la Vera Viverna. Wendy assiste al sacrificio dell'ultima Fenice (la Specie, non il Draghiere) e interagisce con Draco in un raro momento di scambio tra le due nature. Non comprende la "pietà" che Draco dichiara di provare — il concetto è fuori dal suo Istinto.
 

@@ -3,7 +3,7 @@ titolo: "Esito dell’audit documentale"
 categoria: "meta"
 tag: [audit, evidenze, copertura, residui]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-05"
 ---
 
 # Esito dell’audit documentale
@@ -12,10 +12,24 @@ ultima_modifica: "2026-11-02"
 
 ## Aggiornamento autorevole — originali Quip recuperati
 
-La successiva verifica di fedeltà e i nuovi riscontri sono in [[Ripristino e fedeltà delle fonti]]. **Prevale questo aggiornamento** sulle formule storiche qui sotto: 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente recuperata, il documento legacy Draghieri/Vere Fiere e il motto Omnia sono identificati. Le quattro redazioni precedenti restano distinte. L22 è risolta solo per quei dettagli; sette processi e dismissione degli Artigli restano aperti.
+La successiva verifica di fedeltà e i nuovi riscontri sono in [[Ripristino e fedeltà delle fonti]]. **Prevale questo aggiornamento** sulle formule storiche qui sotto: 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente recuperata, il documento legacy Draghieri/Vere Fiere e il motto Omnia sono identificati. Le quattro redazioni precedenti restano distinte. C10 fissa i sei procedimenti. Per L22 restano da documentare portata, modalità e cronologia della dismissione degli Artigli e gli effetti generali del regno.
 
 Le 29 pagine fonte sono state confrontate con l’archivio Quip: 74 segmenti ripristinati, quattro episodi in attesa degli originali. Il conteggio di 67 Markdown e l’inventario coverage-2026-11-02.json descrivono la **baseline PR #88**, non l’attuale fedeltà agli originali. Per questa verifica usare audit/ripristino-fonti-2026-11-02.json e audit/verify-source-fidelity.py. Le note sono ora in [[Annotazioni editoriali alle fonti]], fuori dai corpi degli autori.
 
+
+## Stato operativo — 2026-11-05
+
+Baseline dell’ultima verifica: `c8ff59831127e459d93fbfd9a7e929547ec5469c` (PR #94). La sequenza da `ffcc655f` è tracciabile con `git log --first-parent ffcc655f..c8ff598`. I rilievi di copertura e il changelog documentano le correzioni integrate.
+
+| Ambito | Verifica corrente | Limite |
+|---|---|---|
+| Inventario | 69 Markdown: 31 pagine di contenuto nella matrice storica, 29 fonti nel catalogo, 9 registri e apparati. Tutti i 33 identificatori dei campi `fonti` delle pagine di contenuto sono riscontrabili nel catalogo | L’inventario verifica la presenza, la matrice documenta i confronti per nucleo |
+| Originali | 74 segmenti verificati, 82 DOCX conservati nel pacchetto non-wiki | #Flowing, #Cruel, #Whale e #Tasty in attesa per indicazione del proprietario |
+| Citazioni e motti | Attribuzioni in apertura controllate contro gli apparati; motto Omnia riletto nell’estrazione Quip; il riquadro di Luther identifica la trascrizione di #Whale | La fedeltà di #Whale rimane sospesa con quella dell’episodio |
+| Canone già recepito | C10: sei procedimenti di Espediente; C11: Aconytum; C12: Adryanne XII. L11: originale Draghieri / Vere Fiere identificato | Le varianti nelle fonti rimangono inalterate |
+| Prove e decisioni residue | [[Domande Aperte e Lacune]] è il registro operativo. Restano, fra le altre, ambito delle Fiamme, Seymour, elenco dei Guardiani e precedenza delle redazioni D3/D4 | La bozza Drive Sirius Salamander resta un appunto preparatorio. Cronologia di #Wild e identità Sirius/Syrus sono due questioni distinte |
+
+La normalizzazione editoriale separa attestazioni, proposte narrate e ricostruzioni. La verifica semantica resta circoscritta ai nuclei e ai passi documentati, con residui per la copertura frase per frase. Kindsgard originario e Vilegis/Lunaria mantengono registri distinti; i raccordi sono attribuiti alle fonti che li riportano.
 
 ## Perimetro e criterio di chiusura
 

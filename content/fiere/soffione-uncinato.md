@@ -3,9 +3,9 @@ titolo: "Soffione Uncinato"
 categoria: "fiere"
 tag: [soffione-uncinato, fitofiera, fiera, scheda-completa]
 status: "canonico"
-ultima_modifica: "2026-11-03"
+ultima_modifica: "2026-11-05"
 aliases: ["Soffioni Uncinati"]
-fonti: ["Soffioni_Uncinati.docx", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
+fonti: ["soffioni-uncinati-fonte", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Soffione Uncinato

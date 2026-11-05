@@ -3,7 +3,7 @@ titolo: "Istruzioni di Ripresa — Stato e Protocollo Editoriale"
 categoria: "meta"
 tag: [meta, ripresa, sessione, istruzioni, audit]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-03"
+ultima_modifica: "2026-11-05"
 ---
 
 # Istruzioni di Ripresa
@@ -26,24 +26,24 @@ Su indicazione del proprietario, la ricerca degli originali di #Flowing, #Cruel,
 
 ## Aggiornamento autorevole — originali Quip recuperati
 
-La successiva verifica di fedeltà e i nuovi riscontri sono in [[Ripristino e fedeltà delle fonti]]. **Prevale questo aggiornamento** sulle formule storiche qui sotto: 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente recuperata, il documento legacy Draghieri/Vere Fiere e il motto Omnia sono identificati. Le quattro redazioni precedenti restano distinte. L22 è risolta solo per quei dettagli; sette processi e dismissione degli Artigli restano aperti.
+La successiva verifica di fedeltà e i nuovi riscontri sono in [[Ripristino e fedeltà delle fonti]]. **Prevale questo aggiornamento** sulle formule storiche qui sotto: 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente recuperata, il documento legacy Draghieri/Vere Fiere e il motto Omnia sono identificati. Le quattro redazioni precedenti restano distinte. C10 fissa i sei procedimenti. Per L22 restano da documentare portata, modalità e cronologia della dismissione degli Artigli e gli effetti generali del regno.
 
 Le 29 pagine fonte sono state confrontate con l’archivio Quip: 74 segmenti ripristinati, quattro episodi in attesa degli originali. Il conteggio di 67 Markdown e l’inventario coverage-2026-11-02.json descrivono la **baseline PR #88**, non l’attuale fedeltà agli originali. Per questa verifica usare audit/ripristino-fonti-2026-11-02.json e audit/verify-source-fidelity.py. Le note sono ora in [[Annotazioni editoriali alle fonti]], fuori dai corpi degli autori.
 
 
 > Documento operativo per riprendere il lavoro sulla wiki senza riaprire decisioni già prese, duplicare attività concluse o alterare il canone senza evidenze.
 
-## Checkpoint corrente — 2026-11-03
+## Checkpoint di integrazione — 2026-11-05
 
-- Baseline main verificata a **3220c7316e394b91dffb2bd95ed2ac66a0ca9f2c**, PR #90 integrata. CI 41517828910 e Pages 41518030736 riusciti. La nuova tranche recepisce le decisioni del proprietario del 2026-11-03; integrazione finale da registrare nella PR.
-- Checkout operativo fuori OneDrive: C:/Users/PietroCaruso/Repos/D3m1urg0/kindsgard-site. La copia in OneDrive è conservata, senza pulizia; le cartelle personali non tracciate sono preservate.
+- Baseline main verificata a **c8ff59831127e459d93fbfd9a7e929547ec5469c**, PR #94 integrata. CI 42063143196 e Pages 42063270180 riusciti. Stato operativo e residui in [[Esito dell’audit documentale#Stato operativo — 2026-11-05]].
+- Checkout operativo fuori OneDrive: C:/Users/PietroCaruso/Repos/D3m1urg0/kindsgard-site. Usare il checkout fuori OneDrive. Preservare le cartelle personali non tracciate.
 - 29 pagine fonte, 74 segmenti ripristinati; 82 DOCX integri in non-wiki. Verificare con python audit/verify-source-fidelity.py. Quattro episodi ancora senza originale: Flowing, Cruel, Whale, Tasty. Non ripetere le correzioni dentro le parole degli autori.
 - Ultima passata: P01–P06 in [[Ripristino e fedeltà delle fonti]], confronto semantico dei nuclei indicati e aggiornamento dei residui L1/L3/L4/L11. D3/D4 e Annali Intro non sono genericamente mancanti: disponibilità, identità legacy e autorità normativa sono questioni distinte.
 - C10 conferma sei procedimenti; nessun settimo da cercare. I sei non sono i sette vettori originari; nessuna equivalenza automatica con tredici Guardiani/Locuste.
 - Decisioni del proprietario recepite il 2026-11-03: **C11 Aconytum**, **C12 Adryanne sempre XII**, IX refuso. A5/L20 chiuse; non richiederle nuovamente. Sirius/Syrus resta aperta: il proprietario non ricorda. Nuovo riscontro nel foglio Drive Spettri, simboli, processi, etc, Foglio1!C10: Sirius Salamander; il proprietario lo classifica come bozza da verificare. Nessuna identità né lista dei Guardiani ratificata. Le varianti e i numeri nelle fonti originali restano invariati.
 - Prima del merge: CI sullo SHA finale (fedeltà, wikilink, build), poi Pages sul merge. Registrare PR/SHA/run nella descrizione PR e nel messaggio di merge, senza modificare dopo la CI. Audit integrale ancora aperto nei residui espliciti.
 
-I checkpoint successivi sono storici; prevalgono questo riepilogo e il report corrente.
+Le sezioni storiche qui sotto conservano la traccia delle verifiche precedenti.
 
 ## Stato verificato
 

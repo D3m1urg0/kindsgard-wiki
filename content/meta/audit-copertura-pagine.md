@@ -3,10 +3,14 @@ titolo: "Registro di copertura dell'audit"
 categoria: "meta"
 tag: [meta, audit, copertura, tracciabilità]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-03"
+ultima_modifica: "2026-11-05"
 ---
 
 # Registro di copertura dell'audit
+
+## Copertura operativa — 2026-11-05
+
+Il quadro corrente è in [[Esito dell’audit documentale#Stato operativo — 2026-11-05]]. Tutte le 31 pagine di contenuto sono nella matrice e tutte le 29 pagine fonte nel catalogo. Le annotazioni datate qui sotto registrano gli esiti delle singole verifiche e vanno lette rispetto alla loro baseline.
 
 ## 2026-11-05 — Verifica della Città-Alveare
 
@@ -34,7 +38,7 @@ Baseline c45a4312 (PR #89). Riletti i nuclei P01–P06 di [[Ripristino e fedelt�
 
 ## Aggiornamento autorevole — originali Quip recuperati
 
-La successiva verifica di fedeltà e i nuovi riscontri sono in [[Ripristino e fedeltà delle fonti]]. **Prevale questo aggiornamento** sulle formule storiche qui sotto: 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente recuperata, il documento legacy Draghieri/Vere Fiere e il motto Omnia sono identificati. Le quattro redazioni precedenti restano distinte. L22 è risolta solo per quei dettagli; sette processi e dismissione degli Artigli restano aperti.
+La successiva verifica di fedeltà e i nuovi riscontri sono in [[Ripristino e fedeltà delle fonti]]. **Prevale questo aggiornamento** sulle formule storiche qui sotto: 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente recuperata, il documento legacy Draghieri/Vere Fiere e il motto Omnia sono identificati. Le quattro redazioni precedenti restano distinte. C10 fissa i sei procedimenti. Per L22 restano da documentare portata, modalità e cronologia della dismissione degli Artigli e gli effetti generali del regno.
 
 Le 29 pagine fonte sono state confrontate con l’archivio Quip: 74 segmenti ripristinati, quattro episodi in attesa degli originali. Il conteggio di 67 Markdown e l’inventario coverage-2026-11-02.json descrivono la **baseline PR #88**, non l’attuale fedeltà agli originali. Per questa verifica usare audit/ripristino-fonti-2026-11-02.json e audit/verify-source-fidelity.py. Le note sono ora in [[Annotazioni editoriali alle fonti]], fuori dai corpi degli autori.
 
