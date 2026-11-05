@@ -23,7 +23,7 @@ Draghiere del Roc, ingegnere e stratega aereo. Progettista del sistema di diga d
 Draghiere dell'Atrax (ragno). Vesti argentate, lunghe gonne, corona di fili d'argento. Porta un bastone ferrato. Appare nella Città-Alveare aprendo i portoni dall'interno al momento giusto per salvare [[Brienne Brood]] e i suoi (`Inktober 2019 #Pattern`). Le fonti attuali non descrivono un potere offensivo specifico del suo morso; non trasferire automaticamente alla Draghiere tutte le proprietà attribuite alla Fiera Atrax.
 
 ### Gertrude Gorgon, XII Gorgone
-Draghiere della Gorgone, impegnata alle [[Colture]]; il presidio permanente non è stabilito dai racconti. Ha condotto ricerche mediche sull'uso di parti di Fiera, collaborando con [[Syrus Salamander]] (appunti in inchiostro verde nel laboratorio). Porta una bipenne a due mani. Dopo la caduta delle Colture cerca superstiti nelle serre e trova una sopravvissuta umana chiamata Daisy (`Inktober 2018 #Bottle`). Coordina la riconquista e bonifica delle Colture (`Inktober 2019 #Overgrown`).
+Draghiere della Gorgone, impegnata alle [[Colture]]; il presidio permanente non è stabilito dai racconti. Ha condotto ricerche mediche sull'uso di parti di Fiera, collaborando con [[Syrus Salamander]] (appunti in inchiostro verde nel laboratorio). Porta una bipenne a due mani. Dopo la caduta delle Colture cerca superstiti nelle serre e trova una sopravvissuta umana chiamata Daisy (`Inktober 2018 #Bottle`). Coordina la pianificazione della bonifica delle Colture (`Inktober 2019 #Overgrown`).
 
 ### Cornelius Cockatrix, XIII Cockatrice
 Draghiere della Cockatrice. Il racconto `content/fonti/fierezza-battesimo-cornelius.md` (originale `Fierezza.docx`) documenta il suo [[Il Battesimo del Fuoco|Battesimo del Fuoco]] — il più dettagliato nelle fonti. In `Inktober 2019 #Sling` usa una balestra e una piccola arma simile a una fionda-arco; i dardi di quest'ultima pietrificano i Grifoni colpiti, e anche il sangue del Draghiere pietrifica il terreno e la sua cappa. L'episodio **non** documenta un veleno che pietrifichi progressivamente il sangue del bersaglio. `Prevedibilità (covata)` descrive una **Vera Cockatrice** chiamata «Cockatrix» nella battaglia, **senza identificarla con Cornelius**; i suoi atti non vanno attribuiti al Draghiere.
@@ -77,7 +77,7 @@ Dall'Elenco Draghieri: Mara Megalapterix (Guardiano), Mordred Megalapterix, G. G
 ## Umani Notevoli
 
 ### Daisy
-Bambina sopravvissuta trovata da [[Gertrude Gorgon]] chiusa in un laboratorio delle Colture con mesi di provviste. Unica sopravvissuta umana delle Colture cadute. Accetta di aiutare i Draghieri a ricostruire le serre dopo un lungo silenzio (`Inktober 2018 #Bottle`).
+Bambina sopravvissuta trovata da [[Gertrude Gorgon]] chiusa in un laboratorio delle Colture con mesi di provviste. È l’unica persona che Gertrude riferisce di aver trovato viva nelle Serre. Sebastian le chiede di pensare se può aiutarli a preparare l’intervento. Dopo un lungo silenzio, Daisy gli dice il proprio nome (`Inktober 2018 #Bottle`).
 
 ### Maicol
 Marinaio della Maelstrom. Terrorizzato del mare e del lavoro, viene designato da [[Luther Leviathan]] come nuovo Capitano dopo la scomparsa del precedente durante la caccia; il corpo non viene ritrovato (`Inktober 2018 #Whale`).
