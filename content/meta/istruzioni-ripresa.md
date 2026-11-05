@@ -8,6 +8,12 @@ ultima_modifica: "2026-11-03"
 
 # Istruzioni di Ripresa
 
+## 2026-11-05 — Attribuzione di #Exotic e originali in attesa
+
+Il passo sulle Serre in #Exotic è privo di attribuzione nel DOCX Quip ripristinato. La firma degli Annali delle Sabbie compare nella trascrizione wiki precedente al ripristino (c45a4312^1); resta da chiarirne la provenienza. Il riscontro sulle spore dell’Amaranthus resta attestato dal racconto.
+
+Su indicazione del proprietario, la ricerca degli originali di #Flowing, #Cruel, #Whale e #Tasty è sospesa in attesa della ricognizione nell’archivio personale. Le trascrizioni rimangono dichiarate da verificare.
+
 **Conferma successiva del proprietario — C10:** il verso originale di Deflecte Cantum riporta sei; i procedimenti di Espediente sono quindi **sei**, ora descritti nel registro [[Fonti e Decisioni Canoniche]]. Nessun settimo procedimento da cercare. Dismissione degli Artigli confermata soltanto come accenno, senza quantità o cronologia precisate. Questo esito supera le precedenti formule storiche sui sette processi non documentati.
 
 ## Aggiornamento autorevole — originali Quip recuperati

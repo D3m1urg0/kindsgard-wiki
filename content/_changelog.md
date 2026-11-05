@@ -8,6 +8,12 @@ ultima_modifica: "2026-11-03"
 
 # Changelog
 
+## 2026-11-05 — Attribuzione di #Exotic e originali in attesa
+
+Il passo sulle Serre in #Exotic è privo di attribuzione nel DOCX Quip ripristinato. La firma degli Annali delle Sabbie compare nella trascrizione wiki precedente al ripristino (c45a4312^1); resta da chiarirne la provenienza. Il riscontro sulle spore dell’Amaranthus resta attestato dal racconto.
+
+Su indicazione del proprietario, la ricerca degli originali di #Flowing, #Cruel, #Whale e #Tasty è sospesa in attesa della ricognizione nell’archivio personale. Le trascrizioni rimangono dichiarate da verificare.
+
 ## 2026-11-03 — Aconytum e Adryanne XII; revisione Sirius
 
 - C11: il proprietario sceglie **Angeline Aconytum**. Aggiornata la sintesi e il rimando da Salamander; Aconitum conservato come alias e nelle fonti originali. A5 risolta.
