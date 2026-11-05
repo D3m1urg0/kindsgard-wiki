@@ -66,7 +66,7 @@ La precedente dicitura **«D3/D4 non reperiti»** nelle sezioni storiche qui sot
 | `D3-cronistoria-ooc` | Google Drive: *Draghieri FULL OOC PIETRO* (circa 35.924 caratteri, revisione 2014) e una bozza precedente *SPIEGAZIONE COMPLETA OOC DELL'AMBIENTAZIONE DRAGHIERI* (circa 22.166 caratteri); entrambe presentano la cronistoria comparata Giardino/Lunaria | **Due candidati letti**, versione esatta del vecchio file D3 non certificata; testi non importati |
 | `D4-guida-draghiere` | Google Drive: *So You Wanna be a Dragoneer* (circa 13.450 caratteri, revisione 2014); Dropbox Paper: *So you wanna be a Dragooner* (circa 16.470 caratteri). Contenuti sovrapposti ma non identici | **Due versioni lette**, precedenza/corrispondenza esatta con D4 non certificata; testi non importati |
 | `Draghieri_Vere_Fiere_del_Kindsgard` | Ricerca effettuata; un documento Dropbox *Draghieri del Kindsgard* e un bando di reclutamento delle Vere Fiere sono pertinenti, ma non provano di corrispondere al titolo legacy | **Ancora non identificato** |
-| *Annali dell'Artiglio delle Sabbie* | Rimane una citazione in `Inktober 2024 #Exotic`; la ricerca non ha restituito il documento omonimo | **Non recuperato**, da distinguere dagli Annali di Fuoco |
+| *Annali dell'Artiglio delle Sabbie* | Attribuzione nella trascrizione wiki precedente al ripristino di `Inktober 2024 #Exotic`; il DOCX Quip non la riporta | **Non recuperato**, da distinguere dagli Annali di Fuoco |
 
 **Vincolo di provenienza:** nessun testo integrale estratto dalle connessioni private è stato copiato nella wiki pubblica; non sono pubblicati URL o ID dei documenti collegati. La ricostruzione storica OOC contiene elementi di Vilegis/Lunaria e non modifica retroattivamente i sette vettori originali del Kindsgard. La corrispondenza tra versioni D3/D4 e la loro eventuale pubblicazione richiedono valutazioni separate.
 
@@ -99,7 +99,7 @@ I recuperi privati descritti sopra restano risultati registrati delle PR #84–8
 | File | Contenuto | Note |
 |------|-----------|------|
 | `content/fonti/annali-artiglio-di-fuoco-intro.md` (percorso legacy, non creato) | Originale Annali dell’Artiglio di Fuoco - Intro recuperato nel pacchetto non-wiki e firmato da Syrus Salamander V. Non coincide col diverso estratto #Wild né lo data automaticamente. | Fonte recuperata, nessuna nuova pagina fonte |
-| `Annali dell'Artiglio delle Sabbie` (citazione in `content/fonti/inktober-2024.md`, #Exotic) | Testo citato come fonte interna alla narrazione; non esiste un file autonomo nel tree corrente. Non va confuso con gli `Annali dell'Artiglio di Fuoco`, citati in `Inktober 2019` e attribuiti a Syrus Salamander V. | ⚠️ Riferimento distinto, identità e testo sorgente da chiarire |
+| `Annali dell'Artiglio delle Sabbie` (attribuzione nella vecchia trascrizione di #Exotic) | Il passo sulle Serre in #Exotic è privo di attribuzione nel DOCX Quip ripristinato. La firma degli Annali delle Sabbie compare nella trascrizione wiki precedente al ripristino (c45a4312^1); resta da chiarirne la provenienza. | ⚠️ Riferimento distinto, identità e testo sorgente da chiarire |
 | `content/fonti/draghieri-vere-fiere.md` (percorso legacy, non creato) | Originale Draghieri / Vere Fiere del Kindsgard recuperato nel pacchetto non-wiki: risolve l’identificazione L11. È distinto da draghieri-spiegazione OOC. | Fonte recuperata, nessuna nuova pagina fonte |
 | `content/fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
 | `content/fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
@@ -294,7 +294,7 @@ Un ulteriore identificativo legacy presente nel frontmatter di `content/mondo/co
 
 Non dichiarare perdute le fonti D3/D4: i loro nomi/contenuti generali sono stati identificati, ma i file originali non sono presenti nel repository consultato e non sono emersi dalla ricerca nella Library collegata. I percorsi esistenti nel repository sono indicati rispetto alla root GitHub come `content/fonti/...`.
 
-Un ulteriore riferimento non autonomo è **Annali dell'Artiglio delle Sabbie**, citato in `Inktober 2024 #Exotic`. È distinto dagli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V. La wiki non dispone al momento di elementi per stabilire se il primo sia un documento indipendente, un estratto o un riferimento interno alla storia.
+Il passo sulle Serre in #Exotic è privo di attribuzione nel DOCX Quip ripristinato. La firma degli Annali delle Sabbie compare nella trascrizione wiki precedente al ripristino (c45a4312^1); resta da chiarirne la provenienza.
 
 ## Mappatura verificata degli identificatori legacy nei frontmatter
 

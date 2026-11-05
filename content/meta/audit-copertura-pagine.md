@@ -8,6 +8,12 @@ ultima_modifica: "2026-11-03"
 
 # Registro di copertura dell'audit
 
+## 2026-11-05 — Attribuzione di #Exotic e originali in attesa
+
+Il passo sulle Serre in #Exotic è privo di attribuzione nel DOCX Quip ripristinato. La firma degli Annali delle Sabbie compare nella trascrizione wiki precedente al ripristino (c45a4312^1); resta da chiarirne la provenienza. Il riscontro sulle spore dell’Amaranthus resta attestato dal racconto.
+
+Su indicazione del proprietario, la ricerca degli originali di #Flowing, #Cruel, #Whale e #Tasty è sospesa in attesa della ricognizione nell’archivio personale. Le trascrizioni rimangono dichiarate da verificare.
+
 ## Decisioni successive — 2026-11-03
 
 Baseline 3220c731 (PR #90). Il proprietario risolve A5 con **Aconytum** e L20 con **Adryanne sempre XII**, IX refuso; C11/C12 registrate e propagate alle sintesi e annotazioni. Le prose originali sono inalterate. L19 resta aperta: nessun Sirius nei 100 DOCX e 11 apparati consultati; nessun originale Flowing recuperato. Una successiva ricerca Drive a testo pieno trova il foglio Spettri, simboli, processi, etc, Foglio1!C10: Sirius Salamander. Il proprietario classifica il foglio come bozza da verificare; il nome è attestato negli appunti, senza equivalenza Sirius/Syrus o lista dei Guardiani ratificata. Gli esiti delle matrici precedenti su A5/L20 sono storici e superati da queste decisioni.

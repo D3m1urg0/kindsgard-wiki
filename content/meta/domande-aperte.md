@@ -43,7 +43,7 @@ Questa sezione separa le decisioni che richiedono una risposta umana dalle attiv
 
 ### Decisioni canoniche o interpretative
 
-1. **L12 — Annali dell'Artiglio delle Sabbie:** sono una fonte distinta dagli Annali dell'Artiglio di Fuoco, una citazione interna derivata da essi, oppure un altro rapporto? Non unificare i riferimenti senza evidenza.
+1. **L12 — Annali dell'Artiglio delle Sabbie:** da quale redazione viene l’attribuzione presente nella vecchia trascrizione di #Exotic? Il DOCX Quip non la riporta.
 2. **L13 — Fiamme nel Kindsgard:** le Fiamme esistono come fazione organizzata anche nel Kindsgard, oppure la fazione appartiene a Vilegis/Lunaria e i Bruciati sono soltanto il suo seme narrativo? Il legame già registrato fra Bruciati e Fiamme non è in discussione.
 3. **L14 — “Infiammati”:** il termine in Inktober 2018 #Flowing indica i Bruciati, un gruppo distinto o altro? La somiglianza lessicale non basta a identificarli.
 4. **L15 — Seymour Sandwurm / “ex Shai’Hulud”:** un outline OOC ritrovato in Dropbox intitola una scheda **“Seymour Shai Ulud”**, attestando che il nome fu usato direttamente per Seymour; l’Elenco Draghieri usa poi “Seymour Sandwurm (ex Shai’Hulud)”. Resta da chiarire se il cambio riguarda solo il cognome del personaggio oppure anche la denominazione della Fiera/specie, e quale nome si debba usare per riferimenti storici.
@@ -173,8 +173,8 @@ Queste sono scelte editoriali di titolo, non decisioni sul canone narrativo. Le 
 Il testo OOC draghieri-spiegazione è distinto da entrambi. **Nessun chiarimento umano residuo sull’identificazione L11.** Le righe datate del precedente recupero restano soltanto storico.
 
 ### L12 — Annali dell'Artiglio delle Sabbie
-`Inktober 2024 #Exotic` introduce una citazione attribuita agli **Annali dell'Artiglio delle Sabbie**. Il repository contiene invece un riferimento agli **Annali dell'Artiglio di Fuoco**, citati in `Inktober 2019` e attribuiti a Syrus Salamander V; il relativo file autonomo non è presente con il percorso catalogato. Non ci sono elementi sufficienti per trattare i due titoli come lo stesso documento.
-- → **Chiarimento documentale:** gli Annali delle Sabbie sono un documento distinto, un estratto degli Annali del Fuoco o soltanto una fonte interna citata nel racconto? Fino alla conferma, mantenere i riferimenti separati e non inventare il testo mancante.
+`Inktober 2024 #Exotic` contiene un passo introduttivo sulle Serre. Il passo sulle Serre in #Exotic è privo di attribuzione nel DOCX Quip ripristinato. La firma degli Annali delle Sabbie compare nella trascrizione wiki precedente al ripristino (c45a4312^1); resta da chiarirne la provenienza. L’Intro degli Annali di Fuoco, firmata Syrus Salamander V, è conservata nel pacchetto non-wiki.
+- → **Chiarimento documentale:** individuare l’origine della firma nella vecchia trascrizione prima di attribuire il passo a un documento o a un autore.
 
 ### L13 — Ambito della fazione delle Fiamme
 La precedente sintesi di `[[Fiamme]]` presentava la fazione come parte del Kindsgard e importava nel canone originario meccaniche legate a Vilegis/Lunaria. La voce è stata riclassificata come bozza e quarantinata: i dettagli esterni sono conservati come archivio esplicitamente non canonico. Il corpus attesta i Bruciati in `Inktober 2018 #Scorched` e il loro legame come seme narrativo delle Fiamme, ma non prova che le Fiamme siano una fazione organizzata nel Kindsgard. `Inktober 2024 #Hike/#Sun` descrive un personaggio che ricorda di essere morto e tornato e che non viene percepito dagli Umani, ma non nomina un Battesimo fallito né lo chiama Bruciato/Fiamma: il parallelo resta ipotesi, non prova dell'identità o dell'affiliazione.
