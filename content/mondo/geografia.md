@@ -72,7 +72,7 @@ Le torri che compongono l'Anello di Fuoco. Strutture difensive di materiali dive
 
 L'Artiglio Sepolto delle Catene Montuose Orientali, detto **Città-Alveare** — una struttura difensiva complessa del Kindsgard orientale; il corpus non offre un confronto sistematico con tutti gli altri presidi. Sviluppata dentro e attorno a un sistema di caverne e gallerie, con:
 - L'**Occhio**: una vetrata semisferica al centro del versante esposto, postazione di comando
-- Un sistema di tubi di rame trasmette ordini fra le stanze e la postazione centrale; `Prevedibilità (covata)` conta 1247 squadre in posizione, ma non quantifica il numero di tubi
+- Un sistema di tubi di rame trasmette ordini fra le stanze e la postazione centrale; `Prevedibilità (covata)` menziona sia 1.247 squadre in posizione sia 1.247 tubi durante la battaglia
 - L'**Abisso**: la caverna principale interna, con muri tappezzati di bocche da fuoco
 - Gallerie sotterranee che si estendono per miglia nella roccia circostante
 
