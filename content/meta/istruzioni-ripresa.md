@@ -8,6 +8,10 @@ ultima_modifica: "2026-11-03"
 
 # Istruzioni di Ripresa
 
+## 2026-11-05 — Verifica delle Colture
+
+Confronto puntuale delle Colture: `Inktober 2018 #Bottle` (ricerca di superstiti e richiesta d’aiuto a Daisy), `Inktober 2019 #Overgrown` (piano di bonifica, quattro settori e ripopolamento previsto), `#Ring` (assenza di notizie e impianto minore presso l’Artiglio del Drago) e `Inktober 2024 #Exotic` (funzionamento delle Serre). Corrette Geografia, schede di Gertrude e Daisy, profili di Dionea e Mandragora e annotazione di #Overgrown. Resta da documentare l’esito della bonifica delle Serre originarie. Fonti originali invariate.
+
 ## 2026-11-05 — Attribuzione di #Exotic e originali in attesa
 
 Il passo sulle Serre in #Exotic è privo di attribuzione nel DOCX Quip ripristinato. La firma degli Annali delle Sabbie compare nella trascrizione wiki precedente al ripristino (c45a4312^1); resta da chiarirne la provenienza. Il riscontro sulle spore dell’Amaranthus resta attestato dal racconto.

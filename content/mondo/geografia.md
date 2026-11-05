@@ -89,7 +89,7 @@ Serre agricole situate a **Sud**, un sistema chiuso per coltivare le Fitofiere n
 - **Settore Est**: Chayote Strangolatore
 - **Settore Sud**: Amaranthus Cruentus
 
-Cadute in abbandono durante la crisi. Riconquistate e ripopolate da [[Gertrude Gorgon]] con l'aiuto di altri Draghieri (`Inktober 2019 #Overgrown`, `#Bottle`).
+Dopo la caduta delle Colture, [[Gertrude Gorgon]] e Sebastian Salamander discutono come rimettere in funzione le Serre (`Inktober 2018 #Bottle`). In `Inktober 2019 #Overgrown`, Gertrude coordina i preparativi della bonifica e il rifugio è pronto per accogliere gli Umani attesi per il ripopolamento. Nel momento narrato da `Inktober 2019 #Ring` le Colture sono ancora senza notizie, mentre vicino all’Artiglio del Drago sorge un nuovo impianto più piccolo e più accessibile. L’esito del ripopolamento delle Serre originarie resta da documentare.
 
 ---
 

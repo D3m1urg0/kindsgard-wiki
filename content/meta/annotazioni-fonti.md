@@ -473,7 +473,7 @@ Fonte: [[fonti/inktober-2019|Inktober 2019 — Racconti del Kindsgard 2]]. Stato
 
 > - #13 Ash — bonifica completata, Caitlin Chimera riferisce a Re Draco → [[Salamander]]
 
-> - #14 Overgrown — la riconquista delle Colture guidata da Gertrude Gorgon → [[Geografia del Kindsgard#Le Colture]]
+> - #14 Overgrown — Gertrude Gorgon coordina i preparativi della bonifica delle Colture → [[Geografia del Kindsgard#Le Colture]]
 
 > - #15 Legend — la storia segreta di come Dominic Draco divenne Re, i 13 Guardiani → [[Dominic Draco]], [[Cosmologia#Il Fondamento]]
 

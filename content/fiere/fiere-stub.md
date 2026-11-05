@@ -89,10 +89,10 @@ Fitofiera arborea attestata come specie distinta: `Inktober 2019 #Sling` descriv
 Fitofiera dei terreni umidi. Germoglia rapidamente nei terreni ex-paludosi. Pericolosa in grandi quantità. Richiede bonifica periodica con il fuoco (`Inktober 2018 #Flowing`).
 
 ### Dionea Mangiauomini
-Fitofiera carnivora del settore Ovest delle [[Colture]]. I liquidi digestivi esplodono e schizzano se incendiati — richiede l'innesco di fuoco al centro e una rapida fuga (`Inktober 2019 #Overgrown`).
+Fitofiera coltivata nel settore Ovest delle [[Colture]]. Nel piano di bonifica, Gertrude avverte che i liquidi digestivi tendono a esplodere e schizzare. Propone di farsi strada tra i fiori, predisporre un innesco al centro e uscire in fretta (`Inktober 2019 #Overgrown`).
 
 ### Mandragora
-Fitofiera radicata coltivata nel settore Nord delle [[Colture]]. `Inktober 2019 #Overgrown` avverte che chi la estrae dal terreno muore; la bonifica descritta prevede di cospargere d'acido il terreno circostante per renderla inerme e poi ucciderla.
+Fitofiera radicata coltivata nel settore Nord delle [[Colture]]. `Inktober 2019 #Overgrown` avverte che chi la estrae dal terreno muore; il piano di bonifica prevede di cospargere d'acido il terreno circostante per renderla inerme e poi ucciderla.
 
 ### Chayote Strangolatore
 Fitofiera con tentacoli. Il fuoco può bruciarla ma i tentacoli in fiamme diventano ancora più pericolosi. `Inktober 2019 #Overgrown` la classifica esplicitamente come Fitofiera **Sensibile**; è coltivata nel settore Est delle [[Colture]], indicato nel piano di bonifica come possibile punto d'accesso.
