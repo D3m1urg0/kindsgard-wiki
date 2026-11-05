@@ -3,7 +3,7 @@ titolo: "Fonti e Decisioni Canoniche"
 categoria: "meta"
 tag: [meta, fonti, canonizzazione, sessioni]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-03"
+ultima_modifica: "2026-11-05"
 ---
 
 # Fonti e Decisioni Canoniche
@@ -39,7 +39,7 @@ I commenti d’autore esportati nel DOCX Deflecte Cantum riguardano «Tema i suo
 
 ## Aggiornamento autorevole — originali Quip recuperati
 
-La successiva verifica di fedeltà e i nuovi riscontri sono in [[Ripristino e fedeltà delle fonti]]. **Prevale questo aggiornamento** sulle formule storiche qui sotto: 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente recuperata, il documento legacy Draghieri/Vere Fiere e il motto Omnia sono identificati. Le quattro redazioni precedenti restano distinte. L22 è risolta solo per quei dettagli; sette processi e dismissione degli Artigli restano aperti.
+La successiva verifica di fedeltà e i nuovi riscontri sono in [[Ripristino e fedeltà delle fonti]]. **Prevale questo aggiornamento** sulle formule storiche qui sotto: 100:1 e Ishvard/Karsh sono attestati nella Cronistoria Onnisciente recuperata, il documento legacy Draghieri/Vere Fiere e il motto Omnia sono identificati. Le quattro redazioni precedenti restano distinte. C10 fissa i sei procedimenti. Per L22 restano da documentare portata, modalità e cronologia della dismissione degli Artigli e gli effetti generali del regno.
 
 Le 29 pagine fonte sono state confrontate con l’archivio Quip: 74 segmenti ripristinati, quattro episodi in attesa degli originali. Il conteggio di 67 Markdown e l’inventario coverage-2026-11-02.json descrivono la **baseline PR #88**, non l’attuale fedeltà agli originali. Per questa verifica usare audit/ripristino-fonti-2026-11-02.json e audit/verify-source-fidelity.py. Le note sono ora in [[Annotazioni editoriali alle fonti]], fuori dai corpi degli autori.
 
@@ -103,7 +103,7 @@ I recuperi privati descritti sopra restano risultati registrati delle PR #84–8
 | `content/fonti/draghieri-vere-fiere.md` (percorso legacy, non creato) | Originale Draghieri / Vere Fiere del Kindsgard recuperato nel pacchetto non-wiki: risolve l’identificazione L11. È distinto da draghieri-spiegazione OOC. | Fonte recuperata, nessuna nuova pagina fonte |
 | `content/fonti/una-missiva-dall-anello.md` | Lettera di Wade Wyrm (103° anno all'ombra dell'anello) | |
 | `content/fonti/l-esodo.md` | Diario di Wade durante l'esodo con i sopravvissuti | |
-| `content/fonti/la-natura-di-natura.md` | Saggio della Vera Viverna (Wendy Wyrm) | Prospettiva Maestà/Natura; verità cosmologica più accurata |
+| `content/fonti/la-natura-di-natura.md` | Saggio della Vera Viverna (Wendy Wyrm) | Prospettiva in-world della Vera Viverna su Maestà e Natura |
 | `content/fonti/misfit.md` | Racconto: Wendy e Solomon (Vera Sfinge) sugli spalti | |
 | `content/fonti/solitudine.md` | Racconto: Draco e la Vera Viverna alla Maestà | |
 | `content/fonti/pezzo-del-rituale-chimera.md` | Rituale di Caitlin Chimera | |
@@ -149,7 +149,10 @@ I recuperi privati descritti sopra restano risultati registrati delle PR #84–8
 
 Spettri, simboli, processi, etc (Drive, Mondo Ancora), Foglio1!A1:I20: tabella preparatoria di corrispondenze Guardiano/Specie/Vettore/Processo. Il proprietario conferma di trattarla come bozza da verificare. C10 attesta sei procedimenti per testimonianza diretta e canto; questa tabella non ratifica automaticamente nomi, attribuzioni, equivalenze cosmologiche o tredici appartenenze. In particolare la cella Foglio1!C10 contiene Sirius Salamander; L19 resta aperta nell’identità.
 
-### Riferimenti legacy nei frontmatter da riconciliare
+### Mappatura dei riferimenti legacy nei frontmatter
+
+- `Risveglio_del_Drago` identifica [[fonti/risveglio-del-drago|Risveglio del Drago]], racconto ambientato a Vilegis.
+- `cronistoria-onnisciente-quip` identifica *L’Ambientazione Onnisciente dei Draghieri (Cronistoria di vilegis)*, redazione distinta conservata nel pacchetto non-wiki e descritta in [[Ripristino e fedeltà delle fonti]].
 
 **Risolto dopo ricognizione del 2026-11-01:** `Copia_di_I_Draghieri_del_kindsgard` corrisponde alla copia in-world di *Ciò che sanno i Draghieri*. I due documenti Drive confrontati hanno testo identico; la fonte è già conservata nel corpo di `content/fonti/cio-che-sanno-i-draghieri.md`, con apparati editoriali e conversione Markdown. Il campo `fonti` di Cosmologia è stato riconciliato con l’ID `cio-che-sanno-i-draghieri`. Il distinto `draghieri-spiegazione.md` è OOC e non è lo stesso testo.
 
@@ -302,8 +305,8 @@ I valori del campo `fonti` sono identificatori ereditati dalla conversione dei d
 
 | Identificatore legacy | File corrente |
 |---|---|
-| `Bacche_Emofaghe.docx` | `content/fonti/bacche-emofaghe-fonte.md` — scheda tecnica canonica |
-| `Soffioni_Uncinati.docx`, `Soffioni_Uncinati` | `content/fonti/soffioni-uncinati-fonte.md` |
+| `Bacche_Emofaghe.docx` | ID corrente `bacche-emofaghe-fonte`, pagina `content/fonti/bacche-emofaghe-fonte.md` |
+| `Soffioni_Uncinati.docx`, `Soffioni_Uncinati` | ID corrente `soffioni-uncinati-fonte`, pagina `content/fonti/soffioni-uncinati-fonte.md` |
 | `Canzoni_degli_Umani` | `content/fonti/canzoni-degli-umani.md` |
 | `Cronistoria_versione_breve` | `content/fonti/cronistoria-versione-breve.md` |
 | `Deflecte_Cantum` | `content/fonti/deflecte-cantum.md` |

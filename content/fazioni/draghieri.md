@@ -3,7 +3,7 @@ titolo: "Draghieri"
 categoria: "fazioni"
 tag: [draghieri, fazione, fierezza, battesimo, kindsgard]
 status: "revisionato"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-05"
 fonti: ["D3-cronistoria-ooc", "D4-guida-draghiere", "Annali_dell_Artiglio_di_Fuoco", "Draghieri_Vere_Fiere_del_Kindsgard", "Fierezza__il_Dio_che_è_in_noi", "draghieri-spiegazione", "Inktober_2019", "Elenco_Draghieri_Conosciuti"]
 ---
 
@@ -109,7 +109,7 @@ Principali:
 
 *"Dal Fuoco alla Vita"* — Formula attestata nella copia degli *Annali dell'Artiglio di Fuoco - Intro*, sottoscritta da Syrus Salamander V; uso universale presso tutti i Draghieri non attestato.
 
-*"Omnia praedae fieri Potest"* — Il documento originale **Draghieri / Vere Fiere del Kindsgard**, recuperato nell’archivio Quip, affianca «Ab Necessitate Excusi» e «Omnia praedae fìeri Potest» nell’ordine delle due fazioni. L’attestazione è ora positiva; non prova che entrambi i motti siano usati indifferentemente da tutti i gruppi. La grafia accentata è quella del documento.
+*"Omnia praedae fìeri Potest"* — Il documento originale **Draghieri / Vere Fiere del Kindsgard**, recuperato nell’archivio Quip, affianca «Ab Necessitate Excusi» e «Omnia praedae fìeri Potest» nell’ordine delle due fazioni. L’attestazione è ora positiva; non prova che entrambi i motti siano usati indifferentemente da tutti i gruppi. La grafia accentata è quella del documento.
 
 ---
 

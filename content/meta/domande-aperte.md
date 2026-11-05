@@ -3,7 +3,7 @@ titolo: "Domande Aperte e Lacune"
 categoria: "meta"
 tag: [meta, lacune, ambiguità, domande]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-03"
+ultima_modifica: "2026-11-05"
 ---
 
 # Domande Aperte e Lacune
@@ -45,18 +45,19 @@ Questa sezione separa le decisioni che richiedono una risposta umana dalle attiv
 
 1. **L12 — Annali dell'Artiglio delle Sabbie:** da quale redazione viene l’attribuzione presente nella vecchia trascrizione di #Exotic? Il DOCX Quip non la riporta.
 2. **L13 — Fiamme nel Kindsgard:** le Fiamme esistono come fazione organizzata anche nel Kindsgard, oppure la fazione appartiene a Vilegis/Lunaria e i Bruciati sono soltanto il suo seme narrativo? Il legame già registrato fra Bruciati e Fiamme non è in discussione.
-3. **L14 — “Infiammati”:** il termine in Inktober 2018 #Flowing indica i Bruciati, un gruppo distinto o altro? La somiglianza lessicale non basta a identificarli.
-4. **L15 — Seymour Sandwurm / “ex Shai’Hulud”:** un outline OOC ritrovato in Dropbox intitola una scheda **“Seymour Shai Ulud”**, attestando che il nome fu usato direttamente per Seymour; l’Elenco Draghieri usa poi “Seymour Sandwurm (ex Shai’Hulud)”. Resta da chiarire se il cambio riguarda solo il cognome del personaggio oppure anche la denominazione della Fiera/specie, e quale nome si debba usare per riferimenti storici.
-5. **L17 — Tredici Guardiani:** esiste una lista canonica completa? `Inktober 2019 #Legend` attesta tredici Guardiani e tredici scintille di potere; la loro identificazione precisa con i vettori collegati al Fondamento resta interpretativa. Samu'el Sphynx e Frederick Fenice appartenevano al gruppo? Le vecchie tag non costituivano prova e sono già state rimosse dalle biografie.
-6. **L21 — Sei vettori e tredici affondi:** il proprietario collega il numero del canto ai **sei procedimenti** di Espediente (C10), risolvendo il precedente conteggio di sette. Restano distinti i sette vettori originari e i tredici Guardiani/scintille; la testimonianza colloca tredici Locuste nel caricamento, senza autorizzare l’equivalenza di tutti questi insiemi.
-7. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
+3. **L15 — Seymour Sandwurm / “ex Shai’Hulud”:** un outline OOC ritrovato in Dropbox intitola una scheda **“Seymour Shai Ulud”**, attestando che il nome fu usato direttamente per Seymour; l’Elenco Draghieri usa poi “Seymour Sandwurm (ex Shai’Hulud)”. Resta da chiarire se il cambio riguarda solo il cognome del personaggio oppure anche la denominazione della Fiera/specie, e quale nome si debba usare per riferimenti storici.
+4. **L17 — Tredici Guardiani:** esiste una lista canonica completa? `Inktober 2019 #Legend` attesta tredici Guardiani e tredici scintille di potere; la loro identificazione precisa con i vettori collegati al Fondamento resta interpretativa. Samu'el Sphynx e Frederick Fenice appartenevano al gruppo? Le vecchie tag non costituivano prova e sono già state rimosse dalle biografie.
+5. **Titoli editoriali delle due fonti “Fierezza”:** confermare o meno i titoli proposti *Il Battesimo di Cornelius* e *Fierezza: il Dio che è in noi*. Sono decisioni editoriali, non di canone; i file non vanno rinominati prima della conferma.
 
-### Non richiedono una decisione umana in questa fase
+### Verifiche documentali e punti sospesi
 
-- **L19, identità Sirius/Syrus:** il proprietario non ricorda e chiede di rivedere. Cercare l’originale Flowing o un riscontro indipendente, senza riproporre la stessa scelta e senza equiparare i nomi. La questione della datazione/attribuzione di #Wild resta separata.
+- **Originali sospesi su indicazione del proprietario:** Inktober 2018 #Flowing, #Cruel e #Whale, Inktober 2019 #Tasty. L14 resta sospesa con #Flowing.
+- **L21:** C10 fissa sei procedimenti; l’identità fra gli altri insiemi resta un’ipotesi documentale.
+
+- **L19, identità Sirius/Syrus:** il proprietario non ricorda e chiede di rivedere. La ricerca dell’originale #Flowing è sospesa. Un riscontro indipendente può riaprire il confronto. La questione della datazione/attribuzione di #Wild resta separata.
 
 - **A1:** non assegnare date inventate alle singole storie. Inktober 2024 non è collocato in un anno assoluto della timeline master; `Inktober 2024 #Binoculars` fornisce però un ancoraggio relativo, dicendo che sono passati cinque anni dalla missione che ha ripopolato la Città-Alveare (riconquista narrata in `Inktober 2019 #Build`). Conservare questa relazione relativa senza convertirla in una data assoluta.
-- **L1, L3 e L4:** recuperare/confrontare i testi D3 e D4 e documentare ciò che è attestato. Non chiedere di ripetere i chiarimenti già registrati; i dettagli non presenti nei testi restano lacune.
+- **L1, L3 e L4:** confrontare le redazioni candidate già recuperate sulle proposizioni ancora aperte. Non chiedere di ripetere i chiarimenti già registrati; i dettagli non presenti nei testi restano lacune.
 - **L2 — tredicesimo Spettro:** Equilibrio resta un candidato menzionato esclusivamente come riferimento esterno non canonico. Dato che Vilegis/Lunaria è fuori scope salvo intersezioni documentate, non è necessaria una decisione del proprietario per il canone Kindsgard; non promuoverlo a fatto canonico senza una fonte primaria pertinente.
 - **L6:** proseguire la verifica delle 26 voci preliminari e delle fonti, senza creare nuovi stub né inventare proprietà.
 - **L7:** mantenere Icaria limitata all'unica menzione reperita; riaprire solo se emerge una nuova fonte.

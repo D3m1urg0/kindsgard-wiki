@@ -3,15 +3,15 @@ titolo: "Luther Leviathan"
 categoria: "personaggi"
 tag: [luther-leviathan, draghieri, leviatano, personaggio]
 status: "revisionato"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-05"
 fonti: ["Inktober_2018", "L_ultima_notte_all_ombra_dell_Anello", "Onda_bianca", "Elenco_Draghieri_Conosciuti"]
 ---
 
 # Luther Leviathan
 
-> *“Capitano, manutenzione completa e pulizia di tutta la nave. Ripartiamo tra un mese.”*
+> *“Manutenzione completa e pulizia di tutta la nave.”*
 >
-> — Luther Leviathan, in [[fonti/inktober-2018|Inktober 2018 — #Whale]].
+> — Luther Leviathan, in [[fonti/inktober-2018|Inktober 2018 — #Whale]] (trascrizione wiki in attesa dell’originale).
 
 ---
 

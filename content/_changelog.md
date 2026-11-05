@@ -3,10 +3,15 @@ titolo: "Changelog"
 categoria: "meta"
 tag: [meta, changelog, modifiche]
 status: "in aggiornamento"
-ultima_modifica: "2026-11-03"
+ultima_modifica: "2026-11-05"
 ---
 
 # Changelog
+
+## 2026-11-05 — Normalizzazione editoriale e quadro corrente
+
+- Ricontrollati inventario, catalogo, matrice e citazioni di apertura. Allineati motto Omnia alla grafia Quip, rinvii alle due schede tecniche, citazione di Luther e attribuzione del saggio di Wendy.
+- Consolidati checkpoint e residui correnti nel report, conservando i rapporti storici. I quattro originali in attesa e la ricerca collegata a L14 restano sospesi.
 
 ## 2026-11-05 — Verifica della Città-Alveare
 

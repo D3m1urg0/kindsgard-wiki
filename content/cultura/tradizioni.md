@@ -3,7 +3,7 @@ titolo: "Tradizioni, Canti e Motti"
 categoria: "cultura"
 tag: [cultura, tradizioni, canti, motti, rituali]
 status: "revisionato"
-ultima_modifica: "2026-11-02"
+ultima_modifica: "2026-11-05"
 fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_Wade", "Annali_dell_Artiglio_di_Fuoco", "Pezzo_del_rituale_-_Chimera", "Inktober_2018", "Inktober_2019", "Inktober_2024", "Una_Missiva_dall_Anello", "Draghieri_Vere_Fiere_del_Kindsgard"]
 ---
 
@@ -23,7 +23,7 @@ fonti: ["Canzoni_degli_Umani", "Deflecte_Cantum", "L_Animale_Uomo", "Lamento_di_
 
 **"Dal Fuoco alla Vita"** — Formula attestata direttamente negli *Annali dell'Artiglio di Fuoco - Intro*, firmati Syrus Salamander V, letti nell'archivio collegato. Il legame interpretativo con il [[Il Battesimo del Fuoco|Battesimo del Fuoco]] e l'uso come motto universale dei Draghieri **non** sono esplicitati dalla fonte.
 
-**"Omnia praedae fieri Potest"** — *Tutto può diventare preda.* Il documento originale **Draghieri / Vere Fiere del Kindsgard**, recuperato nell’archivio Quip, affianca «Ab Necessitate Excusi» e «Omnia praedae fìeri Potest» nell’ordine delle due fazioni. L’attestazione è ora positiva; non prova che entrambi i motti siano usati indifferentemente da tutti i gruppi. La grafia accentata è quella del documento.
+**"Omnia praedae fìeri Potest"** — *Tutto può diventare preda.* Il documento originale **Draghieri / Vere Fiere del Kindsgard**, recuperato nell’archivio Quip, affianca «Ab Necessitate Excusi» e «Omnia praedae fìeri Potest» nell’ordine delle due fazioni. L’attestazione è ora positiva; non prova che entrambi i motti siano usati indifferentemente da tutti i gruppi. La grafia accentata è quella del documento.
 
 **Nota di provenienza:** gli originali Annali dell’Artiglio di Fuoco - Intro e Draghieri / Vere Fiere del Kindsgard sono conservati nel pacchetto non-wiki: attestano rispettivamente «Dal Fuoco alla Vita» e «Omnia praedae fìeri Potest». Sono documenti distinti dalle due guide candidate D4; la precedenza normativa delle redazioni rimane da definire.
 

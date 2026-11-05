@@ -3,8 +3,8 @@ titolo: "Bacca Emofaga"
 categoria: "fiere"
 tag: [bacca-emofaga, fitofiera, parassita, fiera, scheda-completa]
 status: "canonico"
-ultima_modifica: "2026-11-02"
-fonti: ["Bacche_Emofaghe.docx", "L_esodo"]
+ultima_modifica: "2026-11-05"
+fonti: ["bacche-emofaghe-fonte", "L_esodo"]
 ---
 
 # Bacca Emofaga
