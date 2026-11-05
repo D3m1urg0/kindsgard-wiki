@@ -48,7 +48,7 @@ Porta una picca come arma primaria e comanda con voce che porta lontano.
 
 ### Presenza Narrativa
 
-- **`Inktober 2019 #Build`** — Guida i Draghieri e duecento Umani (tutti con i colori della Covata, rosso e argento) verso la Città-Alveare in rovina. Organizza la difesa e la ricostruzione.
+- **`Inktober 2019 #Build`** — Guida la missione verso la Città-Alveare in rovina. La colonna degli Umani porta il rosso e l’argento della Covata, mentre i Draghieri schierati portano insegne diverse. Organizza la difesa e la ricostruzione.
 - **`Inktober 2019 #Pattern`** — Coordina la battaglia nell'Abisso della Città-Alveare contro l'infestazione di Atrax, usando una tattica di fuoco e movimento che solo lei riesce a vedere nella sua interezza.
 - **`Inktober 2019 #Pattern`** — Riconosce e ringrazia Adalind Atrax quando quest'ultima apre i portoni della Città-Alveare.
 - **`Inktober 2018 #Flowing`** — Coautrice (con [[Razvan Roc]]) di una relazione dettagliata a Re Draco sui lavori idraulici effettuati. Il resoconto registra **46** morti per un crollo, **7** per un contagio, **10** causati dai Tripodi, **13** nella foresta e **23** in una fase successiva; questi ultimi 23 non sono presentati come totale della spedizione. L'intestazione del racconto indica Brienne come **XVII Covata**, ma la firma riporta **VI**; l'`Elenco Draghieri` conferma XVII. Brienne continua a operare dopo aver perso un braccio.

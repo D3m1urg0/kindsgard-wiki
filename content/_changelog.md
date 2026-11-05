@@ -8,6 +8,10 @@ ultima_modifica: "2026-11-03"
 
 # Changelog
 
+## 2026-11-05 — Verifica della Città-Alveare
+
+Verifica della Città-Alveare su `Prevedibilità (covata)`, `Inktober 2019 #Build/#Swing/#Pattern` e `Inktober 2024 #Binoculars`. Prevedibilità menziona sia 1.247 squadre sia 1.247 tubi, senza specificare un rapporto individuale. #Build distingue l’araldica della colonna da quella dei Draghieri. #Binoculars mostra l’Occhio operativo cinque anni dopo la missione, senza narrare le fasi della riparazione. Allineate Geografia e schede di Brood e Razvan. Fonti originali invariate.
+
 ## 2026-11-05 — Verifica delle Colture
 
 Confronto puntuale delle Colture: `Inktober 2018 #Bottle` (ricerca di superstiti e richiesta d’aiuto a Daisy), `Inktober 2019 #Overgrown` (piano di bonifica, quattro settori e ripopolamento previsto), `#Ring` (assenza di notizie e impianto minore presso l’Artiglio del Drago) e `Inktober 2024 #Exotic` (funzionamento delle Serre). Corrette Geografia, schede di Gertrude e Daisy, profili di Dionea e Mandragora e annotazione di #Overgrown. Resta da documentare l’esito della bonifica delle Serre originarie. Fonti originali invariate.
